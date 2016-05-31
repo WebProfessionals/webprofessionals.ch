@@ -1,0 +1,22 @@
+{
+  "name": "webprofessionals.ch",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Florian Gächter <florian.gaechter@gmail.com>"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/WebProfessionals/webprofessionals.ch",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/_assets/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.1.3"
+  }
+}
