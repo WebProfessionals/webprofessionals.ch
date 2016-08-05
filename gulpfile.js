@@ -5,6 +5,13 @@ var argv = require('yargs').argv;
 elixir.config.assetsPath = 'source/_assets/';
 elixir.config.publicPath = 'source';
 
+elixir.config.js.browserify.watchify = {
+  enabled: true,
+  options: {
+    poll: true
+  }
+}
+
 elixir(function(mix) {
   var env = argv.e || argv.env || 'local';
 
@@ -23,3 +30,4 @@ elixir(function(mix) {
       files: [ 'build_' + env + '/**/*' ]
     });
 });
+
