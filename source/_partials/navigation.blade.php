@@ -1,8 +1,10 @@
-<div class="mdl-layout__tab-bar mdl-js-ripple-effect">
-    <a href="/" class="mdl-layout__tab{{ $nav1status or '' }}">Home</a>
-    <a href="/lehrgaenge/" class="mdl-layout__tab{{ $nav2status or '' }}">Lehrgänge</a>
-    <a href="#scroll-tab-3" class="mdl-layout__tab">Kurse</a>
-    <a href="#scroll-tab-4" class="mdl-layout__tab">Camp</a>
-    <a href="#scroll-tab-5" class="mdl-layout__tab">Events</a>
-    <a href="#scroll-tab-6" class="mdl-layout__tab">Kontakt</a>
-</div>
+<nav class="webpro-nav-lvl1">
+    <ul class="tabs z-depth-1">
+        <li class="tab col s3"><a href="/index.html" target="_self" class="waves-effect waves-light {{ $nav1status or '' }}">Home</a></li>
+        <li class="tab col s3"><a href="/lehrgaenge" target="_self" class="waves-effect waves-light {{ $nav2status or '' }}">Lehrgänge</a></li>
+        <li class="tab col s3"><a href="/kurse" target="_self" class="waves-effect waves-light {{ $nav3status or '' }}">Kurse</a></li>
+        <li class="tab col s3"><a href="/veranstaltungen" target="_self" class="waves-effect waves-light {{ $nav4status or '' }}">Events</a></li>
+        <li class="tab col s3"><a href="/camp" target="_self" class="waves-effect waves-light {{ $nav5status or '' }}">Camp</a></li>
+        <li class="tab col s3"><a href="/kontakt" target="_self" class="waves-effect waves-light {{ $nav6status or '' }}">Kontakt</a></li>
+    </ul>
+</nav>

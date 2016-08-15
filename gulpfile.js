@@ -17,11 +17,11 @@ elixir(function(mix) {
 
   mix
     .sass([
-      '../vendor/material-design-lite/src/material-design-lite.scss',
       'main.scss'
     ], 'source/css/main.css')
     .scripts([
-      '../vendor/material-design-lite/material.min.js'
+      '../../_lib/materializecss/js/bin/materialize.min.js',
+      'webpro.js'
     ], 'source/js/main.js')
     .exec('jigsaw build ' + env, ['./source/*', './source/**/*', '!./source/_assets/**/*'])
     .browserSync({

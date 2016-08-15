@@ -1,114 +1,45 @@
-//TODO: Variablen aus mdl übernehmen
-$webpro-green: "151,190,13";
-$webpro-red: "137,36,37";
-$webpro-gray: "155,155,155";
+@charset "UTF-8";
 
+// Mixins
+// @import "components/prefixer";
+@import "../../_lib/materializecss/sass/components/mixins";
+@import "../../_lib/materializecss/sass/components/color";
 
-/* ==========  HERO Unit  ========== */
-.webpro-hero {
-  height:calc(100vh - 104px);
-  background-image:url('/images/bg001.jpg');
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center center;
-}
-.webpro-hero-claim {
-  padding-top:50px;
-  text-align:center;
-}
-.webpro-hero1, .webpro-hero2 {
-  display:inline-block;
-  background-color:white;
-  padding:10px;
+// Variables;
+@import "../../_lib/materializecss/sass/components/variables";
 
-}
-.webpro-hero1 {
-  color:unquote("rgba(#{$webpro-green}, 1)");
-  text-transform: uppercase;
-  font-size:2rem;
-  line-height:2rem;
-  font-weight:600;
-}
-.webpro-hero2 {
-  font-size:1.2rem;
-  line-height:1.2rem;
-  font-weight:300;
-}
-@media screen and (min-width: 480px) {
-  .webpro-hero1 {
-    font-size:3rem;
-    line-height:3rem;
-  }
-  .webpro-hero2 {
-    font-size:2rem;
-    line-height:2rem;
-  }
-}
+// Reset
+@import "../../_lib/materializecss/sass/components/normalize";
 
-/* ==========  HEADER  ========== */
+// components
+@import "../../_lib/materializecss/sass/components/global";
+@import "../../_lib/materializecss/sass/components/icons-material-design";
+@import "../../_lib/materializecss/sass/components/grid";
+//@import "../../_lib/materializecss/sass/components/navbar";
+@import "../../_lib/materializecss/sass/components/roboto";
+@import "../../_lib/materializecss/sass/components/typography";
+@import "../../_lib/materializecss/sass/components/cards";
+@import "../../_lib/materializecss/sass/components/toast";
+@import "../../_lib/materializecss/sass/components/tabs";
+@import "../../_lib/materializecss/sass/components/tooltip";
+@import "../../_lib/materializecss/sass/components/buttons";
+@import "../../_lib/materializecss/sass/components/dropdown";
+@import "../../_lib/materializecss/sass/components/waves";
+@import "../../_lib/materializecss/sass/components/modal";
+@import "../../_lib/materializecss/sass/components/collapsible";
+@import "../../_lib/materializecss/sass/components/chips";
+@import "../../_lib/materializecss/sass/components/materialbox";
+@import "../../_lib/materializecss/sass/components/forms/forms";
+@import "../../_lib/materializecss/sass/components/table_of_contents";
+@import "../../_lib/materializecss/sass/components/sideNav";
+@import "../../_lib/materializecss/sass/components/preloader";
+@import "../../_lib/materializecss/sass/components/slider";
+@import "../../_lib/materializecss/sass/components/carousel";
+@import "../../_lib/materializecss/sass/components/date_picker/default";
+@import "../../_lib/materializecss/sass/components/date_picker/default.date";
+@import "../../_lib/materializecss/sass/components/date_picker/default.time";
 
-.h1-before {
-  text-transform: uppercase;
-  line-height:0.1rem;
-  color:unquote("rgba(#{$webpro-gray}, 1)");
-}
-h1 {
-  color:unquote("rgba(#{$webpro-green}, 1)");
-  text-transform: uppercase;
-  font-size:2rem;
-  line-height:2rem;
-  padding:0;
-  margin:0 0 6px 0;
-  font-weight:600;
-}
-.h1-after {
-  display:inline-block;
-  width:50px;
-  border-top: 4px solid unquote("rgba(#{$webpro-gray}, 1)");
-}
-@media screen and (min-width: 480px) {
-  h1 {
-    font-size:2.5rem;
-    line-height:2rem;
-  }
-}
+// Web Pro SCSS
+@import "webpro.scss";
 
-
-
-.mdl-layout__tab-bar {
-  //padding:0!important;
-}
-.mdl-layout__header-row {
-  //padding-left:24px!important;
-}
-
-.mdl-layout__tab-bar-button {
-  //display:none;
-}
-aside {
-  overflow-x:auto;
-  overflow-y:hidden;
-  width:100%;
-  padding:10px;
-  flex-wrap: nowrap;
-  white-space: nowrap;
-  z-index:10;
-  background-color:white;
-  padding-left:36px;
-}
-aside a {
-  padding-right:10px;
-}
-
-
-a {
-  text-decoration: none!important;
-}
-@media screen and (min-width: 480px) {
-  .webpro-hero {
-    height:400px;
-    background-image:url('/images/bg001.jpg');
-  }
-
-}
 

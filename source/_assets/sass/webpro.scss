@@ -1,0 +1,255 @@
+//TODO: Variablen aus mdl übernehmen
+$webpro-gray: color("grey", "base");
+
+/* ==========  HERO Unit  ========== */
+.webpro-hero {
+  height:300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  &.big {
+    height:calc(100vh - 48px);
+  }
+}
+.webpro-hero-button {
+  margin-top:10px;
+}
+.webpro-hero-logo {
+  padding-top:10px!important;
+  @media #{$medium-and-up} {
+  }
+  @media #{$small-and-down} {
+    text-align:center!important;
+    img {
+      width:80%;
+    }
+  }
+}
+.webpro-hero-social {
+  //padding-top:20px;
+  //text-align:center;
+
+  @media #{$medium-and-up} {
+    //margin-right:340px;
+  }
+  @media #{$small-and-down} {
+    text-align:center!important;
+  }
+}
+.webpro-hero-claim {
+  padding-top:0;
+  text-align:center;
+}
+.webpro-hero1, .webpro-hero2 {
+  display:inline-block;
+  background-color:white;
+  padding:10px;
+
+}
+.webpro-hero1 {
+  color:color("webpro-green", "base");
+  text-transform: uppercase;
+  font-size:2rem;
+  line-height:2rem;
+  font-weight:600;
+}
+.webpro-hero2 {
+  font-size:1.2rem;
+  line-height:1.2rem;
+  font-weight:300;
+}
+@media #{$medium-only} {
+  .webpro-hero {
+    height:400px!important;
+    &.big {
+      height:400px!important;
+    }
+  }
+}
+@media #{$medium-and-up} {
+  .webpro-hero-claim {
+    padding-top:30px;
+  }
+  .webpro-hero {
+  }
+  .webpro-hero1 {
+    font-size:3rem;
+    line-height:3rem;
+  }
+  .webpro-hero2 {
+    font-size:2rem;
+    line-height:2rem;
+  }
+}
+@media #{$large-and-up} {
+  .webpro-hero {
+    height:400px!important;
+    &.big {
+      height:600px!important;
+    }
+  }
+}
+
+/* ==========  HEADER  1 ========== */
+
+h1.webpro {
+  font-weight:600;
+  font-size:2rem;
+  color:color("webpro-green", "base");
+  //display: inline-block;
+  padding-bottom: 18px;
+  position: relative;
+  text-transform: uppercase;
+  @media #{$medium-and-up} {
+      font-size:2.5rem;
+      line-height:2.5rem;
+  }
+}
+h1.webpro:after{
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 4px;
+  bottom: 0;
+  left: 0;
+  border-bottom: 4px solid $webpro-gray;
+}
+.webpro-h1-before {
+  text-transform: uppercase;
+  line-height:0.1rem;
+  color:$webpro-gray;
+}
+
+/* ==========  HEADER  2 ========== */
+
+h2.webpro {
+  //display: inline-block;
+  font-size:1.6rem;
+  color:$webpro-gray;
+  font-weight:400;
+  padding-bottom: 8px;
+  position: relative;
+  text-transform: uppercase;
+}
+h2.webpro:after{
+  content: "";
+  position: absolute;
+  width: 50px;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  border-bottom: 4px solid color("webpro-green", "base");
+}
+
+/* ==========  Bullet Lists  ========== */
+ul.webpro-list {
+  list-style: initial;
+  margin: initial;
+  padding: 0 0 0 40px;
+  li {
+    list-style-type: disc;
+  }
+}
+
+/* ==========  Nav Level 2  ========== */
+.webpro-nav-lvl2 {
+  //border-left:4px solid color("webpro-green", "base");
+  //padding-left:10px;
+  @media #{$medium-and-up} {
+    margin-top:40px;
+  }
+}
+
+
+/* ==========  various  ========== */
+.webpro-subnav-active {
+  color:color("webpro-red", "base");
+}
+h1, h2,h3 {
+  font-weight:bold;
+}
+.headline {
+  font-weight:500;
+}
+.webpro-partner {
+  margin-top:20px;
+}
+.webpro-clickable-card {
+  cursor: pointer;
+}
+
+/* ==========  Sticky Footer  ========== */
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+.collection {
+  &.webpro {
+    margin:0 !important;
+  }
+}
+
+/* ==========  Events Card  ========== */
+.card-events-day {
+  text-transform: uppercase;
+  font-size:12px;
+  font-weight:500;
+}
+.card-events-date {
+  font-size:20px;
+  font-weight:500;
+}
+
+/* ==========  Social Media Icons  ========== */
+#social-media {
+  padding: 10px 0 0 0;
+}
+#social-media a.social-android {
+  background-image: url(/images/socialmedia/icon-android.png);
+  background-color: #A4C639;
+}
+#social-media a.social-ios {
+  background-image: url(/images/socialmedia/icon-ios.png);
+  background-color: #5b5b5c;
+}
+#social-media a.social-fb {
+  background-image: url(/images/socialmedia/icon-fb.png);
+  background-color: #3b5998;
+}
+#social-media a.social-tw {
+  background-image: url(/images/socialmedia/icon-tw.png);
+  background-color: #5dd7fc;
+}
+#social-media a.social-gp {
+  background-image: url(/images/socialmedia/icon-gp.png);
+  background-color: #dd4b39;
+}
+#social-media a.social-in {
+  background-image: url(/images/socialmedia/icon-in.png);
+  background-color: #000000;
+}
+
+#social-media a, #search-icon {
+  width: 36px;
+  height: 36px;
+  display: inline-block;
+  margin-left: 2px;
+  margin-bottom: 8px;
+  text-indent: 9999px;
+  outline: none;
+  background-repeat: no-repeat;
+  background-position: center center;
+  vertical-align: top;
+  overflow: hidden;
+}
+
+/* ==========  Cards  ========== */
+.card-content {
+  font-size:14px;
+}
