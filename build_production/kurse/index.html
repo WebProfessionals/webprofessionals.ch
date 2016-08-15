@@ -11,13 +11,17 @@
         <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="/css/main.css">
         <script defer src="https://code.getmdl.io/1.1.3/material.min.js"></script>
-            <style>
-    .webpro-hero { background-image:url('/images/background/BZB_Techfabrik_2013-14.jpg'); }
-</style>    </head>
+            </head>
     <body>
     <main>
 
-            <header class="webpro-hero">
+            <header class="webpro-hero-image">
+        <picture>
+            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_005_phone.jpg">
+            <img src="/images/background/web_professionals_005.jpg">
+        </picture>
+    </header>
+    <header class="webpro-hero">
         <div class="row">
     <div class="col s12 m6 l6 right-align webpro-hero-logo"><img src="/images/logo_front.png"></div>
     <div class="col m6 l6 right-align webpro-hero-social hide-on-small-only">
@@ -33,7 +37,7 @@
 </div>        <div class="webpro-hero-claim">
             <span class="webpro-hero1">Jetzt erst recht!</span><br>
             <span class="webpro-hero2">Spezialisierungen</span><br><br>
-            <!-- <a class="waves-effect waves-light btn webpro-red">Jetzt informieren</a> -->
+            <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 
@@ -47,12 +51,10 @@
         <li class="tab col s3"><a href="/kontakt" target="_self" class="waves-effect waves-light ">Kontakt</a></li>
     </ul>
 </nav>
-
-
-        <br>
-
-        <div class="container">
-                <div class="row">
+        <div class="background">
+            <br>
+            <div class="container">
+                    <div class="row">
         <div class="col l5 m6 s12">
             <header>
     <span class="webpro-h1-before">Weiterbildung und</span>
@@ -61,7 +63,8 @@
                 <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
                 <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
                 <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
-                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a>
+                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
+                <a href="/kurse/anmeldung/">Anmeldung</a>
             </nav>
         </div>
         <div class="col l7 m6">
@@ -103,7 +106,7 @@
             </table>
         </div>
     </div>
-                <!--
+                    <!--
     <div class="collection webpro hide-on-med-and-up">
         <a href="/kurse/einfuehrung-in-angularjs/" class="collection-item">Einführung in AngularJS</a>
         <a href="/kurse/einfuehrung-in-laravel/" class="collection-item">Einführung in Laravel</a>
@@ -111,8 +114,8 @@
         <a href="/kurse/eigene-stock-fotos-erstellen/" class="collection-item">eigene Stock Fotos erstellen</a>
     </div>
     -->
+            </div>
         </div>
-
 
     </main>
 
@@ -128,8 +131,8 @@
                 <div class="col l4 offset-l2 s12">
                     <h5 class="white-text">Links</h5>
                     <ul>
-                        <li><a class="grey-text text-lighten-3" href="#!">Anmeldeformular</a></li>
-                        <li><a class="grey-text text-lighten-3" href="#!">AGB</a></li>
+                        <li><a class="grey-text text-lighten-3" href="/lehrgaenge/anmeldung/">Anmeldung Lehrgänge</a></li>
+                        <li><a class="grey-text text-lighten-3" href="/agb/">AGB</a></li>
                     </ul>
                 </div>
             </div>

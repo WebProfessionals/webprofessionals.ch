@@ -6,15 +6,14 @@
     <meta name="description" content="Die Ausbildung für angehende Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz.">
 @endsection
 
-{{-- Inline CSS --}}
-@section('css')
-    @include('_partials.inlinecss', [
-        'image'    =>  'BZB_Techfabrik_2013-5'
-    ])
-@endsection
-
 {{-- Hero Unit on Top --}}
 @section('hero')
+    <header class="webpro-hero-image big">
+        <picture>
+            <source media="(max-width: 600px)" srcset="/images/background/home_web_professionals_057_phone.jpg">
+            <img src="/images/background/home_web_professionals_057.jpg">
+        </picture>
+    </header>
     <header class="webpro-hero big">
         @include('_partials.herotophome')
         <div class="webpro-hero-claim">

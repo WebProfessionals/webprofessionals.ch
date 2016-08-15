@@ -19,15 +19,13 @@
 
         @yield('navigation')
 
-
-
-        <br>
-
-        <div class="container">
-            @yield('body')
-            @yield('subnavmobile')
+        <div class="background">
+            <br>
+            <div class="container">
+                @yield('body')
+                @yield('subnavmobile')
+            </div>
         </div>
-
 
     </main>
 

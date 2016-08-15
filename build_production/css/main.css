@@ -6186,8 +6186,40 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     margin-bottom: 5em; } }
 
 /* ==========  HERO Unit  ========== */
+.webpro-hero-image {
+  max-height: 280px;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 0;
+  text-align: center; }
+  @media only screen and (min-width: 601px) {
+    .webpro-hero-image {
+      max-height: 400px; } }
+  .webpro-hero-image img {
+    height: auto; }
+    @media only screen and (max-width: 600px) {
+      .webpro-hero-image img {
+        width: 100%; } }
+    @media only screen and (min-width: 601px) {
+      .webpro-hero-image img {
+        min-height: 400px;
+        margin: 0 -100%;
+        min-width: 100%; } }
+  .webpro-hero-image.big {
+    max-height: calc(100vh - 48px);
+    width: auto; }
+    @media only screen and (max-width: 600px) {
+      .webpro-hero-image.big img {
+        width: 100%;
+        height: auto; } }
+    @media only screen and (min-width: 601px) {
+      .webpro-hero-image.big {
+        width: 100%; } }
+
 .webpro-hero {
-  height: 300px;
+  position: relative;
+  height: 280px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -6231,15 +6263,13 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   line-height: 1.2rem;
   font-weight: 300; }
 
-@media only screen and (min-width: 601px) and (max-width: 992px) {
-  .webpro-hero {
-    height: 400px !important; }
-    .webpro-hero.big {
-      height: 400px !important; } }
-
 @media only screen and (min-width: 601px) {
   .webpro-hero-claim {
     padding-top: 30px; }
+  .webpro-hero {
+    height: 400px !important; }
+    .webpro-hero.big {
+      height: 600px !important; }
   .webpro-hero1 {
     font-size: 3rem;
     line-height: 3rem; }
@@ -6247,11 +6277,19 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     font-size: 2rem;
     line-height: 2rem; } }
 
-@media only screen and (min-width: 993px) {
-  .webpro-hero {
-    height: 400px !important; }
-    .webpro-hero.big {
-      height: 600px !important; } }
+.container {
+  padding-bottom: 20px; }
+
+.background {
+  position: relative;
+  z-index: 100;
+  background-color: white; }
+
+.page-footer {
+  z-index: 100; }
+
+footer {
+  margin-top: 0 !important; }
 
 /* ==========  HEADER  1 ========== */
 h1.webpro {

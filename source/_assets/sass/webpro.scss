@@ -2,8 +2,45 @@
 $webpro-gray: color("grey", "base");
 
 /* ==========  HERO Unit  ========== */
+.webpro-hero-image {
+  max-height:280px;
+  overflow:hidden;
+  position:fixed;
+  width:100%;
+  z-index:0;
+  text-align:center;
+  @media #{$medium-and-up} {
+    max-height:400px;
+  }
+  img {
+    height:auto;
+    //min-height:300px;
+    @media #{$small-and-down} {
+      width:100%;
+    }
+    @media #{$medium-and-up} {
+      min-height:400px;
+      margin:0 -100%; // zum zentrieren
+      min-width:100%;
+    }
+  }
+  &.big {
+    max-height:calc(100vh - 48px);
+    width:auto;
+    @media #{$small-and-down} {
+      img {
+        width:100%;
+        height:auto;
+      }
+    }
+    @media #{$medium-and-up} {
+      width:100%;
+    }
+  }
+}
 .webpro-hero {
-  height:300px;
+  position:relative;
+  height:280px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -27,8 +64,6 @@ $webpro-gray: color("grey", "base");
   }
 }
 .webpro-hero-social {
-  //padding-top:20px;
-  //text-align:center;
 
   @media #{$medium-and-up} {
     //margin-right:340px;
@@ -59,19 +94,15 @@ $webpro-gray: color("grey", "base");
   line-height:1.2rem;
   font-weight:300;
 }
-@media #{$medium-only} {
-  .webpro-hero {
-    height:400px!important;
-    &.big {
-      height:400px!important;
-    }
-  }
-}
 @media #{$medium-and-up} {
   .webpro-hero-claim {
     padding-top:30px;
   }
   .webpro-hero {
+    height:400px!important;
+    &.big {
+      height:600px!important;
+    }
   }
   .webpro-hero1 {
     font-size:3rem;
@@ -82,13 +113,21 @@ $webpro-gray: color("grey", "base");
     line-height:2rem;
   }
 }
-@media #{$large-and-up} {
-  .webpro-hero {
-    height:400px!important;
-    &.big {
-      height:600px!important;
-    }
-  }
+
+.container {
+  padding-bottom:20px;
+}
+.background {
+  position: relative;
+  z-index:100;
+  background-color:white;
+}
+.page-footer {
+  z-index:100;
+}
+
+footer {
+  margin-top:0!important;
 }
 
 /* ==========  HEADER  1 ========== */

@@ -11,13 +11,17 @@
         <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="/css/main.css">
         <script defer src="https://code.getmdl.io/1.1.3/material.min.js"></script>
-            <style>
-    .webpro-hero { background-image:url('/images/background/BZB_Techfabrik_2013-14.jpg'); }
-</style>    </head>
+            </head>
     <body>
     <main>
 
-            <header class="webpro-hero">
+            <header class="webpro-hero-image">
+        <picture>
+            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_034_phone.jpg">
+            <img src="/images/background/web_professionals_034.jpg">
+        </picture>
+    </header>
+    <header class="webpro-hero">
         <div class="row">
     <div class="col s12 m6 l6 right-align webpro-hero-logo"><img src="/images/logo_front.png"></div>
     <div class="col m6 l6 right-align webpro-hero-social hide-on-small-only">
@@ -47,12 +51,10 @@
         <li class="tab col s3"><a href="/kontakt" target="_self" class="waves-effect waves-light  active">Kontakt</a></li>
     </ul>
 </nav>
-
-
-        <br>
-
-        <div class="container">
-                <div class="row">
+        <div class="background">
+            <br>
+            <div class="container">
+                    <div class="row">
         <div class="col l5 m6 s12">
             <header>
     <span class="webpro-h1-before">Web Professionals</span>
@@ -98,6 +100,12 @@
                             <label for="strasse">Strasse</label>
                         </div>
                     </div>
+                    <div class="hide">
+                        <div class="input-field col s12">
+                            <input name="_gotcha" id="_gotcha" type="text" class="validate">
+                            <label for="strasse">Strasse 2</label>
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="input-field col s4">
                             <input name="plz" id="plz" type="text" class="validate">
@@ -124,6 +132,8 @@
 
                     <div class="row">
                         <div class="input-field col s12">
+                            <input type="hidden" name="_next" value="http://localhost:3000/kontakt/danke/" />
+                            <input type="hidden" name="_subject" value="Kontakt Anfrage" />
                             <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="Absenden">
                         </div>
                     </div>
@@ -136,13 +146,13 @@
     </div>
 
 
-                <div class="collection webpro hide-on-med-and-up">
+                    <div class="collection webpro hide-on-med-and-up">
         <a href="/lehrgaenge/web-integrator/" class="collection-item">Web Integrator</a>
         <a href="/lehrgaenge/web-developer/" class="collection-item">Web Developer</a>
         <a href="/lehrgaenge/web-designer/" class="collection-item">Web Designer</a>
     </div>
+            </div>
         </div>
-
 
     </main>
 
@@ -158,8 +168,8 @@
                 <div class="col l4 offset-l2 s12">
                     <h5 class="white-text">Links</h5>
                     <ul>
-                        <li><a class="grey-text text-lighten-3" href="#!">Anmeldeformular</a></li>
-                        <li><a class="grey-text text-lighten-3" href="#!">AGB</a></li>
+                        <li><a class="grey-text text-lighten-3" href="/lehrgaenge/anmeldung/">Anmeldung Lehrgänge</a></li>
+                        <li><a class="grey-text text-lighten-3" href="/agb/">AGB</a></li>
                     </ul>
                 </div>
             </div>

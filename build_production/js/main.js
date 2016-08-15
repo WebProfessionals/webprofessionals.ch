@@ -20,6 +20,10 @@ $(document).ready(function(){
         window.document.location = $(this).data("href");
     });
 
+    if ($('select').length ) {
+        $('select').material_select();
+    }
+
 });
 
 
