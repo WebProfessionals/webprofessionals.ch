@@ -42,7 +42,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m6 s12">
+        <div class="col l5 m6 s12 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Web Professionals',
                 'part2'    =>  'Barcamp'
@@ -51,7 +51,7 @@
                 <a href="/camp/sponsoring/">Sponsoring</a><br>
             </nav>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <p>Das Web Professionals Barcamp findet halbjährlich statt und wurde schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
                 Mittlerweile reisen die Teilnehmer nicht nur aus der ganzen Schweiz sogar extra aus London an um an einem der Camps teilnehmen zu können.</p>
             <br>

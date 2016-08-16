@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m5 s12">
+        <div class="col l5 m5 s12 webpro-left">
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
                     'part1'    =>  'Einführungskurs',
@@ -55,7 +55,7 @@
                 ])
             </div>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
                 <div class="headline">Das Open-Source Framework AngularJS von Google erlaubt mittels HTML und JavaScript die Erstellung von Single-page Web Applikationen. Das Konzept von Model View Controllern (MVC) kann somit auch auf die clientseitige Web-Entwicklung angewendet werden. AngularJS erspart zudem auch einiges an Code-Arbeit, denn durch Databinding und Direktiven werden DOM-Selektionen, Manipulationen sowie Events Handling fast vollständig automatisiert. Dependency Injections erlauben zudem optimales Code Testing und Refactoring.</div>
                 <p>In diesem Kurs lernst Du die Grundlagen von AngularJS kennen und setzt das erlernte Wissen in einer praktischen Anwendung um.</p>

@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m6">
+        <div class="col l5 m6 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Veranstaltungen',
                 'part2'    =>  'Termine'
@@ -43,7 +43,7 @@
                 &nbsp;
             </nav>
         </div>
-        <section class="col l7 m6">
+        <section class="col l7 m6 webpro-right">
             <p>Begleitend zu unseren Lehrgängen finden im Rahmen der Ausbildung regelmässig öffentliche Veranstaltungen für Web Profis und Interessierte statt. Diese sind für jedermann zugänglich.</p>
         </section>
     </div>

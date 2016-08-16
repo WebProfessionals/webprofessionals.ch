@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m5 s12">
+        <div class="col l5 m5 s12 webpro-left">
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
                     'part1'    =>  'Einführungskurs',
@@ -55,7 +55,7 @@
                 ])
             </div>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
                 <div class="headline">Du willst deine eigene WordPress Seite erstellen? Und dabei nicht nur vorgefertigte Themes verwenden? Dann bist du hier genau richtig. Denn in diesem Kurs erlernst du sämtliche Grundlagen von WordPress und bist danach in der Lage, dein eigenes WordPress Theme komplett selber zu programmieren.</div>
                 <p>Das Content Management System WordPress ist ein überaus beliebtes Open-Source Framework zur Erstellung und Pflege von Websites. Als reines Blog-System gestartet, bietet es in den aktuellen Versionen verschiedene Möglichkeiten zur einfachen Seitenerstellung, welche bisher nur mit komplexeren Systemen wie Typo3 und Drupal möglich waren.</p>

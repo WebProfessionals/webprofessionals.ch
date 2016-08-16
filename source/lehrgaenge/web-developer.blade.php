@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m5 s12">
+        <div class="col l5 m5 s12 webpro-left">
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
                     'part1'    =>  'Vertiefungslehrgang',
@@ -63,7 +63,7 @@
                 ])
             </div>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
                 <div class="headline">Du bist fasziniert von der modernen Technik. Das nächste Facebook würdest du am liebsten selber programmieren. Du kannst es kaum erwarten, die Smartphones dieser Welt mit deinen Apps im Sturm zu erobern.</div>
                 <p>Dann ist der Web Developer dein Ding. Auch in diesem Lehrgang lernst du alles von Spezialisten aus der Praxis – damit du noch besser wirst:</p>

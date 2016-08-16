@@ -33,13 +33,13 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m5 s12">
+        <div class="col l5 m5 s12 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Allgemeine Geschäftsbedingungen',
                 'part2'    =>  'AGB'
             ])
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
 
             <h2>Anmeldungen</h2>
             <p>

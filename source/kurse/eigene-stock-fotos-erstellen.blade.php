@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m5 s12">
+        <div class="col l5 m5 s12 webpro-left">
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
                     'part1'    =>  'Einführungskurs',
@@ -55,7 +55,7 @@
                 ])
             </div>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
                 <div class="headline">Du findest das richtige Stock Bild für deine Webseite oder Layout nicht? Die Nutzungsrechte stellen ein Problem dar oder sind zu teuer?</div>
                 <p>Jeder Grafiker und Webdesigner kommt bei der Arbeit früher oder später mit dem Thema Stock Fotografie in Berührung. Wann ist ein Stockfoto von Vorteil, wann nicht? Wie können sie kreativ eingesetzt werden? Und noch besser: Wie erstelle ich eigene Bilder? Genau das lernst Du in diesem Kurs. Noch besser: am Ende des Kurses hast Du bereits Dein eigenes Archiv an Fotografien.</p>

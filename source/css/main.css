@@ -6271,7 +6271,8 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .webpro-hero2 {
   font-size: 1.2rem;
   line-height: 1.2rem;
-  font-weight: 300; }
+  font-weight: 300;
+  margin-bottom: 10px; }
 
 @media only screen and (min-width: 601px) {
   .webpro-hero-claim {
@@ -6285,7 +6286,8 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     line-height: 3rem; }
   .webpro-hero2 {
     font-size: 2rem;
-    line-height: 2rem; } }
+    line-height: 2rem;
+    margin-bottom: 20px; } }
 
 .container {
   padding-bottom: 20px; }
@@ -6321,7 +6323,7 @@ h1.webpro:after {
   height: 4px;
   bottom: 0;
   left: 0;
-  border-bottom: 4px solid #9e9e9e; }
+  border-bottom: 2px solid #9e9e9e; }
 
 .webpro-h1-before {
   text-transform: uppercase;
@@ -6335,7 +6337,8 @@ h2.webpro {
   font-weight: 400;
   padding-bottom: 8px;
   position: relative;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  line-height: 2.8rem; }
 
 h2.webpro:after {
   content: "";
@@ -6344,7 +6347,7 @@ h2.webpro:after {
   height: 2px;
   bottom: 0;
   left: 0;
-  border-bottom: 4px solid #97be0d; }
+  border-bottom: 2px solid #97be0d; }
 
 /* ==========  Bullet Lists  ========== */
 ul.webpro-list {
@@ -6374,6 +6377,14 @@ h1, h2, h3 {
 
 .webpro-clickable-card {
   cursor: pointer; }
+
+@media only screen and (min-width: 993px) {
+  .webpro-right {
+    margin-top: 10px; } }
+
+@media only screen and (min-width: 993px) {
+  .webpro-left {
+    margin-top: 24px; } }
 
 /* ==========  Sticky Footer  ========== */
 body {

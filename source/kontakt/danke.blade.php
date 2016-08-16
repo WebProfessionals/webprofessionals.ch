@@ -32,17 +32,13 @@
 @endsection
 
 @section('subnavmobile')
-    <div class="collection webpro hide-on-med-and-up">
-        <a href="/lehrgaenge/web-integrator/" class="collection-item">Web Integrator</a>
-        <a href="/lehrgaenge/web-developer/" class="collection-item">Web Developer</a>
-        <a href="/lehrgaenge/web-designer/" class="collection-item">Web Designer</a>
-    </div>
+
 @endsection
 
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m6 s12">
+        <div class="col l5 m6 s12 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Web Professionals',
                 'part2'    =>  'Kontakt'
@@ -51,7 +47,7 @@
                 <a href="/lehrgaenge/web-integrator/">Sponsoring</a><br>
             </nav>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <p>Bei Fragen zu unseren Lehrgängen, Kursen und Veranstaltungen kannst Du uns unter folgender Adresse erreichen:</p>
             <p>
                 <strong>Web Professionals</strong><br>

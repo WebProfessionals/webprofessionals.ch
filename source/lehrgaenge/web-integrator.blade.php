@@ -35,7 +35,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m5 s12">
+        <div class="col l5 m5 s12 webpro-left">
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
                     'part1'    =>  'Basis Lehrgang',
@@ -65,7 +65,7 @@
                 ])
             </div>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <section id="beschreibung" class="section scrollspy">
                 <div class="headline">Deine Welt ist das Web – dich trifft man meist online. Doch nur User sein reicht dir nicht mehr. Du willst es jetzt selbst wissen, willst das Internet selber gestalten. Dich auch beruflich im virtuellen Raum bewegen. Eigene Websites gestalten – statt sie nur zu nutzen.</div>
                 <p>Dann leg los. Belege den Basiskurs zum Web Integrator. Fernab von grauer Theorie bringen dir Experten aus der Praxis alles bei, was du wissen musst:</p>

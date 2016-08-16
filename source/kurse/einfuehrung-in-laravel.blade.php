@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m5 s12">
+        <div class="col l5 m5 s12 webpro-left">
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
                     'part1'    =>  'Einführungskurs',
@@ -55,7 +55,7 @@
                 ])
             </div>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
                 <div class="headline">„Laravel – the PHP framework for web artisans.“ Laravel ist ein Open-Source PHP Framework der neuen Generation mit welchem das PHP Programmieren (wieder) Spass macht. Nebst Unterstützung zur Erhöhung der Produktivität bietet Laravel die Grundlage für sauberen, strukturierten Code.</div>
             </div>

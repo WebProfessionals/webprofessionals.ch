@@ -2,6 +2,9 @@
 $webpro-gray: color("grey", "base");
 
 /* ==========  HERO Unit  ========== */
+.webpro-hero-image, .webpro-hero {
+
+}
 .webpro-hero-image {
   max-height:280px;
   overflow:hidden;
@@ -103,6 +106,7 @@ $webpro-gray: color("grey", "base");
   font-size:1.2rem;
   line-height:1.2rem;
   font-weight:300;
+  margin-bottom:10px;
 }
 @media #{$medium-and-up} {
   .webpro-hero-claim {
@@ -121,6 +125,7 @@ $webpro-gray: color("grey", "base");
   .webpro-hero2 {
     font-size:2rem;
     line-height:2rem;
+    margin-bottom:20px;
   }
 }
 
@@ -162,7 +167,7 @@ h1.webpro:after{
   height: 4px;
   bottom: 0;
   left: 0;
-  border-bottom: 4px solid $webpro-gray;
+  border-bottom: 2px solid $webpro-gray;
 }
 .webpro-h1-before {
   text-transform: uppercase;
@@ -180,6 +185,7 @@ h2.webpro {
   padding-bottom: 8px;
   position: relative;
   text-transform: uppercase;
+  line-height:2.8rem;
 }
 h2.webpro:after{
   content: "";
@@ -188,7 +194,7 @@ h2.webpro:after{
   height: 2px;
   bottom: 0;
   left: 0;
-  border-bottom: 4px solid color("webpro-green", "base");
+  border-bottom: 2px solid color("webpro-green", "base");
 }
 
 /* ==========  Bullet Lists  ========== */
@@ -226,6 +232,16 @@ h1, h2,h3 {
 }
 .webpro-clickable-card {
   cursor: pointer;
+}
+.webpro-right {
+  @media #{$large-and-up} {
+    margin-top:10px;
+  }
+}
+.webpro-left {
+  @media #{$large-and-up} {
+    margin-top:24px;
+  }
 }
 
 /* ==========  Sticky Footer  ========== */

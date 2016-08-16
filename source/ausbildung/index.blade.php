@@ -35,7 +35,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m6 s12">
+        <div class="col l5 m6 s12 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Web Professionals',
                 'part2'    =>  'Mehr über uns'
@@ -45,7 +45,7 @@
                 <a href="/ausbildung/testimonials/">Testimonials</a><br>
             </nav>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <p>
                 Die Zeiten in denen verschachtelte Tabellen zur Kür eines jeden Webentwicklers gehörte sind längst vorbei. Für professionelle Web Developer und Web Designer sind heute unter anderem die mühelose Anwendung von Responsive Webdesign, Story Telling, JavaScript und Codeversionierung die tägliche Pflicht und die Kür besteht aus dem unermüdlichen Experimentieren mit neuen Tools, Technologien und Konzepten. Das Ziel der von Agenturen gegründeten Web Professionals ist es, Quereinsteiger fokussiert auf die Aufgaben in Agenturen vorzubereiten. Die Lehrgänge bieten dabei die Grundlage für den erfolgreichen Einstieg, die Kurse die konstante Weiterentwicklung des eigenen Wissens.
             </p>

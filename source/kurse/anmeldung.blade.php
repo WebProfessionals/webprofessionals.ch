@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m6 s12">
+        <div class="col l5 m6 s12 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Weiterbildung und',
                 'part2'    =>  'Kurse'
@@ -46,7 +46,7 @@
                 <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a>
             </nav>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <form class="col s12" action="https://formspree.io/info@web-professionals.ch" method="POST">
                 <div class="row">
                     <div class="input-field col s12">

@@ -35,7 +35,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m6 s12">
+        <div class="col l5 m6 s12 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Unsere',
                 'part2'    =>  'Lehrgänge'
@@ -47,7 +47,7 @@
                 <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
             </nav>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <p>Das Ausbildungsprogramm zum Web Professional ist modular aufgebaut und startet mit dem Basislehrgang zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a>. Dieser bildet die Grundlage für die beiden folgenden Diplomlehrgänge zum <a href="/lehrgaenge/web-designer/">Web Designer</a> und <a href="/lehrgaenge/web-developer/">Web Developer</a>. Danach hast du weitere Möglichkeiten, dich zu spezialisieren: Zum Beispiel zum Drupal oder Typo3-Entwickler, WordPress Spezialisten, mobile Developer oder Projektleiter. Gelernt wird Hand in Hand: Eine Crew von Spezialisten bringt dir alles bei, was du in der Praxis auch wirklich brauchst – und steht dir mit Rat und Tat bei deinen Web-Projekten zur Seite.</p>
 
 

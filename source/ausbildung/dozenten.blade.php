@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m6 s12">
+        <div class="col l5 m6 s12 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Web Professionals',
                 'part2'    =>  'Dozenten'
@@ -44,7 +44,7 @@
                 <a href="/ausbildung/testimonials/">Testimonials</a><br>
             </nav>
         </div>
-        <div class="col l7 m6 s12">
+        <div class="col l7 m6 s12 webpro-right">
             <p>Das zentrale Element einer praxisorientierten Ausbildung sind selbstverständlich die Dozenten. Aus diesem Grund unterrichten bei den Web Professionals nur Dozenten, welche selber mitten in der Praxis stehen.</p>
         </div>
 

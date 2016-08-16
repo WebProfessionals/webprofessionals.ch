@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m6 s12">
+        <div class="col l5 m6 s12 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Weiterbildung und',
                 'part2'    =>  'Kurse'
@@ -47,7 +47,7 @@
                 <a href="/kurse/anmeldung/">Anmeldung</a>
             </nav>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <p>Begleitend zu unseren Lehrgängen finden regelmässig Einzelkurse zu verschiedenen aktuellen Themen und Technologien statt. Diese Kurse sind für jedermann zugänglich und können unabhängig von den Lehrgängen besucht werden.</p>
             <p>Konstante Weiterbildung ist für uns ein sehr wichtiges Thema. Deshalb erhalten Teilnehmer der Lehrgänge (Integrator, Developer, Designer) 25% Ermässigung auf ausgewählte Einzelkurse.</p>
             <br>

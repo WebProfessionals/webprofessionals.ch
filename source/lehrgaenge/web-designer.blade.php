@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m5 s12">
+        <div class="col l5 m5 s12 webpro-left">
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
                     'part1'    =>  'Vertiefungslehrgang',
@@ -64,7 +64,7 @@
                 ])
             </div>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
                 <div class="headline">Pixel sind für Dich mehr als nur ein Punkt auf dem Screen? Du möchtest Nutzer von Webseiten und Apps mit Deiner Gestaltung begeistern und das Internet Stück für Stück ein bisschen schöner machen?</div>
                 <p>Dann belegst du am besten den Lehrgang zum Web Designer. Fachleute zeigen dir, worauf es ankommt:</p>

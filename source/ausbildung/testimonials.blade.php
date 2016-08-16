@@ -34,7 +34,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m6 s12">
+        <div class="col l5 m6 s12 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Stimmen unserer',
                 'part2'    =>  'Absolventen'
@@ -44,7 +44,7 @@
                 <a href="/ausbildung/testimonials/">Testimonials</a><br>
             </nav>
         </div>
-        <div class="col l7 m6 s12">
+        <div class="col l7 m6 s12 webpro-right">
             <p>Unser Ziel ist es, nicht nur zufriedene Teilnehmer zu haben sondern vielmehr diesen einen erfolgreichen Start in die Branche zu ermöglichen. Viele unserer ehemaligen Teilnehmern haben während und nach der Ausbildung zum Web Professional den Einstieg in die Branche erreicht und arbeiten heute in renommierten Internet-Agenturen.</p>
         </div>
 

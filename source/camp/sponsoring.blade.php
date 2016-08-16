@@ -42,7 +42,7 @@
 {{-- Main Content --}}
 @section('body')
     <div class="row">
-        <div class="col l5 m6 s12">
+        <div class="col l5 m6 s12 webpro-left">
             @include('_partials.header1', [
                 'part1'    =>  'Barcamp',
                 'part2'    =>  'Sponsoring'
@@ -91,7 +91,7 @@
                 </div>
             </div>
         </div>
-        <div class="col l7 m6">
+        <div class="col l7 m6 webpro-right">
             <p>Damit wir diesen Anlass durchführen können sind wir auf Unterstützung durch Sponsoring angewiesen. Wir würden uns sehr freuen, wenn Ihr Unternehmen das Camp unterstützen würde und danken Ihnen für Ihre Kontaktaufnahme sowie Ihr Engagement für ein zukunftsweisendes Ausbildungsangebot in der Region Ostschweiz.</p>
             <h2 class="webpro">Haupt-Sponsor</h2>
             <p><strong>Leistungen:</strong></p>
