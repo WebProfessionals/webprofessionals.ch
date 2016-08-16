@@ -2,8 +2,8 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Web Professionals | Kurse</title>
-    <meta name="description" content="Die Ausbildung für angehende Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz.">
+    <title>Kurse | Web Professionals</title>
+
 @endsection
 
 {{-- Hero Unit on Top --}}

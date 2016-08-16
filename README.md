@@ -2,6 +2,7 @@
 
 * Gründe für Wechsel Material Design Framework
 * Hintergrundbild
+* Headerbild fixed auf mobile
 
 # Bilder
 

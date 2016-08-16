@@ -2,16 +2,16 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Web Pro: Home</title>
-    <meta name="description" content="Die Ausbildung für angehende Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz.">
+    <title>Anmeldung Lehrgänge | Web Professionals</title>
+
 @endsection
 
 {{-- Hero Unit on Top --}}
 @section('hero')
     <header class="webpro-hero-image">
         <picture>
-            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_001_phone.jpg">
-            <img src="/images/background/web_professionals_001.jpg">
+            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_014_phone.jpg">
+            <img src="/images/background/web_professionals_014.jpg" alt="Web Professionals" title="Web Professionals">
         </picture>
     </header>
     <header class="webpro-hero">
@@ -131,7 +131,7 @@
                     <div class="input-field col s12">
                         <input type="hidden" name="_next" value="http://localhost:3000/kontakt/danke/" />
                         <input type="hidden" name="_subject" value="Kontakt Anfrage" />
-                        <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="absenden und verbindlich anmelden">
+                        <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="absenden">
                     </div>
                 </div>
 

@@ -6232,11 +6232,17 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 
 .webpro-hero-logo {
   padding-top: 10px !important; }
+  @media only screen and (min-width: 993px) {
+    .webpro-hero-logo img {
+      margin-right: 357px; } }
   @media only screen and (max-width: 600px) {
     .webpro-hero-logo {
       text-align: center !important; }
       .webpro-hero-logo img {
         width: 80%; } }
+    @media only screen and (max-width: 600px) and (orientation: landscape) {
+      .webpro-hero-logo img {
+        width: 60%; } }
 
 @media only screen and (max-width: 600px) {
   .webpro-hero-social {
@@ -6254,9 +6260,13 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .webpro-hero1 {
   color: #97be0d;
   text-transform: uppercase;
-  font-size: 2rem;
-  line-height: 2rem;
+  font-size: 1.6rem;
+  line-height: 1.6rem;
   font-weight: 600; }
+  @media only screen and (min-width: 601px) {
+    .webpro-hero1 {
+      font-size: 2rem;
+      line-height: 2rem; } }
 
 .webpro-hero2 {
   font-size: 1.2rem;
@@ -6393,6 +6403,11 @@ main {
 /* ==========  Social Media Icons  ========== */
 #social-media {
   padding: 10px 0 0 0; }
+  @media only screen and (min-width: 601px) {
+    #social-media {
+      position: absolute;
+      top: 0;
+      right: 10px; } }
 
 #social-media a.social-android {
   background-image: url(/images/socialmedia/icon-android.png);

@@ -2,8 +2,8 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Web Professionals</title>
-    <meta name="description" content="Die Ausbildung für angehende Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz.">
+    <title>Veranstaltungen | Web Professionals</title>
+
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -11,14 +11,14 @@
     <header class="webpro-hero-image">
         <picture>
             <source media="(max-width: 600px)" srcset="/images/background/web_professionals_034_phone.jpg">
-            <img src="/images/background/web_professionals_034.jpg">
+            <img src="/images/background/web_professionals_034.jpg" alt="Web Professionals" title="Web Professionals">
         </picture>
     </header>
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">Bleib informiert</span><br>
-            <span class="webpro-hero2">Unsere Termine</span><br><br>
+            <span class="webpro-hero1">Bleib dabei</span><br>
+            <span class="webpro-hero2">Infoanlässe, Friends und Co.</span><br><br>
             <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/">Jetzt informieren</a>
         </div>
     </header>

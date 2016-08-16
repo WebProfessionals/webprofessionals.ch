@@ -2,8 +2,8 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Web Pro: Home</title>
-    <meta name="description" content="Die Ausbildung für angehende Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz.">
+    <title>Kontakt | Web Professionals</title>
+
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -11,7 +11,7 @@
     <header class="webpro-hero-image">
         <picture>
             <source media="(max-width: 600px)" srcset="/images/background/web_professionals_034_phone.jpg">
-            <img src="/images/background/web_professionals_034.jpg">
+            <img src="/images/background/web_professionals_034.jpg" alt="Web Professionals" title="Web Professionals">
         </picture>
     </header>
     <header class="webpro-hero">
@@ -27,7 +27,7 @@
 {{-- Main Navigation --}}
 @section('navigation')
     @include('_partials.navigation', [
-        'nav6status'    =>  ' active'
+        'nav7status'    =>  ' active'
     ])
 @endsection
 
@@ -48,7 +48,7 @@
                 'part2'    =>  'Kontakt'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
-                <a href="/lehrgaenge/web-integrator/">Sponsoring</a><br>
+
             </nav>
         </div>
         <div class="col l7 m6">

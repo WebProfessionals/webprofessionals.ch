@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col s12 m6 l6 right-align webpro-hero-logo"><img src="/images/logo_front.png"></div>
+    <div class="col s12 m12 l12 center-align webpro-hero-logo"><a href="/index.html"><img src="/images/logo_front.png" alt="Web Professionals Logo" title="Web Professionals Logo"></a></div>
     <div class="col m6 l6 right-align webpro-hero-social hide-on-small-only">
         <div id="social-media">
             <a href="https://play.google.com/store/apps/details?id=com.techfabrik.webpro" class="social-android" title="Android App der Web Professionals herunterladen" target="_blank">Android</a>
@@ -9,5 +9,7 @@
             <a href="https://plus.google.com/101281770968706437459/posts" class="social-gp" title="Google+ gibt es auch noch" target="_blank">Google+</a>
             <a href="https://www.instagram.com/web_professionals/" class="social-in" title="Instagram für schöne Bilder" target="_blank">Instagram</a>
         </div>
+
     </div>
 </div>
+
