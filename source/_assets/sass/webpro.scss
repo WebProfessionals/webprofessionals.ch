@@ -1,6 +1,26 @@
 //TODO: Variablen aus mdl übernehmen
 $webpro-gray: color("grey", "base");
 
+/* ==========  Landscape Message  ========== */
+#webpro-landscape {
+  position:fixed;
+  z-index:10000;
+  background-color: color("webpro-green", "base");
+  width:100vw;
+  height:100vh;
+  color:white;
+  text-align:center;
+  padding:50px 50px 0 50px;
+  display:none;
+  @media #{$small-and-down} and (orientation: landscape){
+    display:block;
+  }
+  p {
+    font-size:1.6rem;
+    font-weight: 700;
+  }
+}
+
 /* ==========  HERO Unit  ========== */
 .webpro-hero-image, .webpro-hero {
 
