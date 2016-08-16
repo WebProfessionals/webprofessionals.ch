@@ -19,7 +19,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Gestalte das Web</span><br>
             <span class="webpro-hero2">Die Ausbildung für angehende Webprofis</span><br><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/">Jetzt informieren</a>
+            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/">Jetzt informieren</a>
         </div>
     </header>
 @endsection

@@ -6303,6 +6303,11 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 footer {
   margin-top: 0 !important; }
 
+/* ==========  Home Hero on Smartphone Landscape ========== */
+@media only screen and (max-width: 600px) and (orientation: landscape) {
+  .webpro-hero-button, #social-media {
+    display: none; } }
+
 /* ==========  HEADER  1 ========== */
 h1.webpro {
   font-weight: 600;

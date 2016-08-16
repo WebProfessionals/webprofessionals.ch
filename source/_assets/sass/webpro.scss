@@ -145,6 +145,13 @@ footer {
   margin-top:0!important;
 }
 
+/* ==========  Home Hero on Smartphone Landscape ========== */
+@media #{$small-and-down} and (orientation: landscape) {
+  .webpro-hero-button, #social-media {
+    display:none;
+  }
+}
+
 /* ==========  HEADER  1 ========== */
 
 h1.webpro {
