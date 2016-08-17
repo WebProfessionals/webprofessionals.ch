@@ -15,7 +15,7 @@
         <meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
         <meta name="theme-color" content="#ffffff">
 
-        <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         <!--Import Google Icon Font-->
         <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="/css/main.css">
@@ -24,7 +24,6 @@
     <body>
 
         <main>
-
 
             <div class="background">
                 <br>
