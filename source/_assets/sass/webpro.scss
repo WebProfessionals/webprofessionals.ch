@@ -16,8 +16,8 @@ $webpro-gray: color("grey", "base");
     display:block;
   }
   p {
-    font-size:1.6rem;
-    font-weight: 700;
+    font-size:1.4rem;
+    font-weight: 500;
   }
 }
 
@@ -306,32 +306,42 @@ main {
     top:0;
     right:10px;
   }
+  a {
+    background-size: cover;
+  }
+  a:hover {
+    background-color: color("webpro-red", "base")!important;
+
+  }
 }
 #social-media a.social-android {
-  background-image: url(/images/socialmedia/icon-android.png);
+  background-image: url(/images/socialmedia/android.svg);
   background-color: #A4C639;
 }
 #social-media a.social-ios {
-  background-image: url(/images/socialmedia/icon-ios.png);
+  background-image: url(/images/socialmedia/apple.svg);
   background-color: #5b5b5c;
 }
 #social-media a.social-fb {
-  background-image: url(/images/socialmedia/icon-fb.png);
+  background-image: url(/images/socialmedia/facebook.svg);
   background-color: #3b5998;
 }
 #social-media a.social-tw {
-  background-image: url(/images/socialmedia/icon-tw.png);
-  background-color: #5dd7fc;
+  background-image: url(/images/socialmedia/twitter.svg);
+  background-color: #1da1f2;
 }
 #social-media a.social-gp {
-  background-image: url(/images/socialmedia/icon-gp.png);
+  background-image: url(/images/socialmedia/google.svg);
   background-color: #dd4b39;
 }
 #social-media a.social-in {
-  background-image: url(/images/socialmedia/icon-in.png);
+  background-image: url(/images/socialmedia/instagram.svg);
   background-color: #000000;
 }
-
+#social-media a.social-yt {
+  background-image: url(/images/socialmedia/youtube.svg);
+  background-color: #e62117;
+}
 #social-media a, #search-icon {
   width: 36px;
   height: 36px;
