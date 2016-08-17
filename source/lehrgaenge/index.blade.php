@@ -53,7 +53,7 @@
 
             <div class="row hide-on-small-and-down">
                 <div class="col s12 m12">
-                    <div class="card grey darken-3 hoverable webpro-clickable-card" data-href='/lehrgaenge/web-integrator/'>
+                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/web-integrator/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Integrator</span>
                             <p>Das digitale Einmaleins: der Basislehrgang vermittelt das notwendige Grundlagenwissen</p>

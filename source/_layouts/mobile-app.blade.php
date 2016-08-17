@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        
+        @yield('header')
+
         <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/png" href="/images/favicon/favicon-32x32.png" sizes="32x32">
         <link rel="icon" type="image/png" href="/images/favicon/favicon-16x16.png" sizes="16x16">
@@ -18,19 +19,19 @@
         <!--Import Google Icon Font-->
         <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="/css/main.css">
-            </head>
+        @yield('css')
+    </head>
     <body>
 
         <main>
 
-            
-            
+
             <div class="background">
                 <br>
                 <div class="container">
-                    <h1>My awesome heading!</h1>
-<p>My awesome content!</p>
-                                    </div>
+                    @yield('body')
+                    @yield('subnavmobile')
+                </div>
             </div>
 
         </main>
@@ -61,11 +62,6 @@
             </div>
         </footer>
 
-        <div id="webpro-landscape">
-            <i class="material-icons medium">autorenew</i>
-            <p>Wir haben vermutet, dass du und zwei andere das Smartphone drehen werden um zu kontrollieren, ob das Layout damit auch funktioniert.</p>
-            <p>Bringt in der Ansicht aber nicht wirklich viel - also Smartphone ganz schnell wieder zurück drehen :-)</p>
-        </div>
 
         <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
         <script defer src="//code.getmdl.io/1.1.3/material.min.js"></script>

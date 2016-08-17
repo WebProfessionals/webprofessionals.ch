@@ -52,6 +52,7 @@
                         <h5 class="white-text">Links</h5>
                         <ul>
                             <li><a class="grey-text text-lighten-3" href="/lehrgaenge/anmeldung/">Anmeldung Lehrgänge</a></li>
+                            <li><a class="grey-text text-lighten-3" href="/kurse/anmeldung/">Anmeldung Kurse</a></li>
                             <li><a class="grey-text text-lighten-3" href="/agb/">Allgemeine Geschäftsbedingungen</a></li>
                         </ul>
                     </div>
@@ -60,7 +61,6 @@
             <div class="footer-copyright">
                 <div class="container">
                     © 2016 Web Professionals GmbH
-                    <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
                 </div>
             </div>
         </footer>

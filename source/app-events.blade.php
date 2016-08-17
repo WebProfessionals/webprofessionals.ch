@@ -1,52 +1,13 @@
-@extends('_layouts.master')
+@extends('_layouts.mobile-app')
 
 {{-- Header --}}
 @section('header')
     <title>Veranstaltungen | Web Professionals</title>
-
 @endsection
 
-{{-- Hero Unit on Top --}}
-@section('hero')
-    <header class="webpro-hero-image">
-        <picture>
-            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_034_phone.jpg">
-            <img src="/images/background/web_professionals_034.jpg" alt="Web Professionals" title="Web Professionals">
-        </picture>
-    </header>
-    <header class="webpro-hero">
-        @include('_partials.herotop')
-        <div class="webpro-hero-claim">
-            <span class="webpro-hero1">Bleib dabei</span><br>
-            <span class="webpro-hero2">Infoanlässe, Friends und Co.</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/">Jetzt informieren</a>
-        </div>
-    </header>
-@endsection
-
-{{-- Main Navigation --}}
-@section('navigation')
-    @include('_partials.navigation', [
-        'nav4status'    =>  ' active'
-    ])
-@endsection
 
 {{-- Main Content --}}
 @section('body')
-    <div class="row">
-        <div class="col l5 m6 webpro-left">
-            @include('_partials.header1', [
-                'part1'    =>  'Veranstaltungen',
-                'part2'    =>  'Termine'
-            ])
-            <nav class="webpro-nav-lvl2">
-                &nbsp;
-            </nav>
-        </div>
-        <section class="col l7 m6 webpro-right">
-            <p>Begleitend zu unseren Lehrgängen finden im Rahmen der Ausbildung regelmässig öffentliche Veranstaltungen für Web Profis und Interessierte statt. Diese sind für jedermann zugänglich.</p>
-        </section>
-    </div>
 
     <div class="row">
         <div class="col l4 m6 s12">
@@ -108,6 +69,5 @@
             </div>
         </div>
     </div>
-
 
 @endsection

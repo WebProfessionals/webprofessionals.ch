@@ -19,7 +19,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Auf Eroberungskurs</span><br>
             <span class="webpro-hero2">Web Developer</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection

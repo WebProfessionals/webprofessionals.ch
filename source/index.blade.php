@@ -67,16 +67,16 @@
     <div class="row">
         <!-- Card Start -->
         <div class="col l7">
-            <div class="card medium webpro-green z-depth-2">
+            <div class="card medium webpro-green">
                 <div class="card-image">
                     <img src="/images/aktuelles/camp_2016_autumn.jpg" alt="Web Professionals Barcamp 2016" title="Web Professionals Barcamp 2016">
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">Web Professionals Winter Camp 16</span>
-                    <p>Die Antigotchis sind frei! Das fünfte Web Professionals Barcamp ist angekündigt - sichere dir jetzt einen Platz!</p>
+                    <p>Die Devgotchis sind frei! Das fünfte Web Professionals Barcamp ist angekündigt - sichere dir jetzt einen Platz!</p>
                 </div>
                 <div class="card-action">
-                    <a class="white-text" href="/camp/">mehr</a>
+                    <a class="white-text" href="/camp/">mehr dazu auf der Camp-Seite</a>
                 </div>
             </div>
         </div>

@@ -20,7 +20,7 @@
             <span class="webpro-hero1">Das digitale Einmaleins</span>
             <br>
             <span class="webpro-hero2">Web Integrator</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection

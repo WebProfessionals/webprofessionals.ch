@@ -55,11 +55,12 @@
             <p>Das Web Professionals Barcamp findet halbjährlich statt und wurde schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
                 Mittlerweile reisen die Teilnehmer nicht nur aus der ganzen Schweiz sogar extra aus London an um an einem der Camps teilnehmen zu können.</p>
             <br>
-            <h2 class="webpro">Autumn Camp 2016</h2>
-            <p>Das nächste Web Professionals Barcamp findet am <strong>29. und 30. Oktober</strong> in der Techfabrik Grabs statt. Thema des Camps: <strong>Antitamagotchi.</strong></p>
-            <p>Ein Antitamagotchi ist ein Tamagotchi, welches man weder streicheln noch füttern will. Man kann es sich in etwa wie ein Mogwai vorstellen, welches entweder dem Sonnenlicht ausgesetzt oder nass wurde oder nach Mitternacht gefressen hat. Jedenfalls haben wir es nicht sonderlich gerne.</p>
-            <p>Nachdem die Pokémons aktuell ihr grosses Comeback haben ist es jedenfalls Zeit, die Tamagotchis ebenfalls wieder aufleben zu lassen. Aber eben: allzu wohl sollen sie sich nun doch nicht fühlen.</p>
-            <p>Wir programmieren gemeinsam unser eigenes Antitamagotchi welches als mobile Applikation in unserem Smartphone lebt und auf diverse Sensordaten unseres Geräts reagiert.</p>
+            <h2 class="webpro">#5 Web Professionals Barcamp 2016</h2>
+            <p>Das nächste Web Professionals Barcamp findet am <strong>29. und 30. Oktober</strong> in der Techfabrik Grabs statt. Thema des Camps: <strong>Devgotchi.</strong></p>
+            <h3>Devgotchi?</h3>
+            <p>Des Developers ärgster Feind sind weder Spinnen noch Schlangen sondern ganz einfach: Bugs. Ein Devgotchi sieht aus wie ein Käfer und ist ein Tamagotchi, welches man weder streicheln noch füttern will. Man kann es sich auch in etwa wie ein Mogwai vorstellen, welches entweder dem Sonnenlicht ausgesetzt oder nass wurde oder nach Mitternacht gefressen hat. Jedenfalls haben wir es nicht sonderlich gerne.</p>
+            <p>Nachdem die Pokémons aktuell ihr grosses Comeback haben ist es jedenfalls Zeit, die Tamagotchis ebenfalls wieder aufleben zu lassen. Aber eben: allzu wohl sollen sie sich nun doch nicht fühlen. Schon gar nicht die Devgotchis.</p>
+            <p>Wir programmieren gemeinsam unser eigenes Devgotchi welches als mobile Applikation in unserem Smartphone lebt und auf diverse Sensordaten unseres Geräts reagiert.</p>
         </div>
     </div>
     <div class="row">
