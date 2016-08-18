@@ -3,7 +3,7 @@
 {{-- Header --}}
 @section('header')
     <title>Web Developer | Lehrgang | Web Professionals</title>
-
+    <meta name="description" content="">
 @endsection
 
 {{-- Hero Unit on Top --}}

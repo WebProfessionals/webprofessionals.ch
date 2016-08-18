@@ -3,7 +3,7 @@
 {{-- Header --}}
 @section('header')
     <title>Web Professionals</title>
-    <meta name="description" content="Die Ausbildung für angehende Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen.">
+    <meta name="description" content="Die Ausbildung für Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen.">
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -56,8 +56,8 @@
     </div>
     <div class="row">
         <div class="col l5 m6 hide-on-small-only">&nbsp;</div>
-        <div class="col l2 m3 s6"><img class="responsive-img" src="/images/ibw.gif" alt="ibW Höhere Fachschule Südostschweiz" title="ibW Höhere Fachschule Südostschweiz"></div>
-        <div class="col l2 offset-l1 m3 s6"><img class="responsive-img" src="/images/hsr.gif" alt="Hochschule für Technik Rapperswil" title="Hochschule für Technik Rapperswil"></div>
+        <div class="col l2 m3 s4"><img class="responsive-img" src="/images/ibw.png" alt="ibW Höhere Fachschule Südostschweiz" title="ibW Höhere Fachschule Südostschweiz"></div>
+        <div class="col l2 offset-l1 m3 s4 offset-s2"><img class="responsive-img" src="/images/hsr.png" alt="Hochschule für Technik Rapperswil" title="Hochschule für Technik Rapperswil"></div>
     </div>
     <div class="row">
         <div class="col l12">

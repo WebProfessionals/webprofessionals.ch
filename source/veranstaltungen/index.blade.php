@@ -3,7 +3,7 @@
 {{-- Header --}}
 @section('header')
     <title>Veranstaltungen | Web Professionals</title>
-
+    <meta name="description" content="Bleib mit unseren regelmässigen öffentlichen Veranstaltungen auf dem Laufenden. Infoanlässe, Referate, Barcamps, Kurse und vielem mehr.">
 @endsection
 
 {{-- Hero Unit on Top --}}

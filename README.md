@@ -21,25 +21,27 @@ gulp --production && jigsaw build production
 
 ## Page Speed Insights
 
+18.5., Digitalocean, 
+
+Performance mobil: 75, Nutzererfahrung mobil: 95, Performance Desktop: 91
+
+17.8., Digitalocean, nicht verwendete sass entfernt, roboto verlinkt
+
+Performance mobil: 66, Nutzererfahrung mobil: 95, Performance Desktop: 79
+
 17.8., neue Seite bei Digitalocean
 
-Performance mobil: 65, Nutzererfahrung mobil: 95
-
-Performance Desktop: 77
+Performance mobil: 65, Nutzererfahrung mobil: 95, Performance Desktop: 77
 
 
 17.8., neue Seite bei Cyon
 
-Performance mobil: 77, Nutzererfahrung mobil: 95
-
-Performance Desktop: 90
+Performance mobil: 77, Nutzererfahrung mobil: 95, Performance Desktop: 90
 
 
 17.8., alte Seite
 
-Performance mobil: 45, Nutzererfahrung mobil: 99
-
-Performance Desktop: 49
+Performance mobil: 45, Nutzererfahrung mobil: 99, Performance Desktop: 49
 
 
 # webprofessionals.ch

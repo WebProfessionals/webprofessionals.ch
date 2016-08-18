@@ -3,7 +3,7 @@
 {{-- Header --}}
 @section('header')
     <title>Web Integrator | Lehrgang | Web Professionals</title>
-
+    <meta name="description" content="Im Basislehrgang zum Web Integrator erlernst du sämtliche Grundlagen für einen erfolgreichen Start in die Online-Welt.">
 @endsection
 
 {{-- Hero Unit on Top --}}
