@@ -2,8 +2,7 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Winter Camp 2016 | Web Professionals</title>
-
+    <title>Tasks aus PHPStorm automatisch starten | Web Professionals</title>
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -17,9 +16,9 @@
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">Gestalte das Web</span><br>
-            <span class="webpro-hero2">Die Ausbildung für angehende Webprofis</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/">Jetzt informieren</a>
+            <span class="webpro-hero1">Leg' los!</span><br>
+            <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
+            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -27,7 +26,7 @@
 {{-- Main Navigation --}}
 @section('navigation')
     @include('_partials.navigation', [
-        'nav1status'    =>  ' active'
+        'nav2status'    =>  ' active'
     ])
 @endsection
 
@@ -62,8 +61,10 @@
             <p>Der Begriff «Zukunft» in Bezug auf die digitale Welt, brachte dieses Wochenende vielerlei Ansätze hervor. Man machte sich daran Programmiersprachen zu analysieren und fragte sich, wie diese sich wohl weiter entwickeln würden. Eine Projektgruppe widmete sich der «Künstlichen Intelligenz», welche zur Entwicklung eines Programms mit menschenähnlichen Reaktionen inspirierte. Manche Teams programmierten sogar ganze Games, welche sogleich von den übrigen Teilnehmern getestet wurden.</p>
             <p>Der Anlass war ausgebucht und insgesamt ein voller Erfolg. Zum ersten Mal mit dabei waren auch drei Teilnehmer aus London. Geleitet wurde der zweitägige Anlass von Rolf Eggenberger, dem Lehrgangsleiter des Ausbildungsprogramms «Web Professionals».</p>
         </section>
+
     </div>
+@endsection
 
-
+@section('subnavmobile')
 
 @endsection

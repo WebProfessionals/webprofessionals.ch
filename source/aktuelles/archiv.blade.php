@@ -42,7 +42,7 @@
     <div class="row">
 
         <!-- Card Start -->
-        <div class="col l4">
+        <div class="col l4 m6">
             <div class="card medium webpro-green">
                 <div class="card-image">
                     <img src="/images/aktuelles/winter-camp-zukunft1.jpg">
@@ -52,14 +52,14 @@
                     <p>Rückblick auf das vierte Web Professionals Camp</p>
                 </div>
                 <div class="card-action">
-                    <a class="white-text" href="/aktuelles/web-professionals-winter-camp-2016/">mehr</a>
+                    <a class="white-text" href="/aktuelles/2016-03-02-web-professionals-winter-camp-2016/">mehr</a>
                 </div>
             </div>
         </div>
         <!-- Card End -->
 
         <!-- Card Start -->
-        <div class="col l4">
+        <div class="col l4 m6">
             <div class="card medium webpro-green">
                 <div class="card-image">
                     <img src="/images/aktuelles/hochschule.jpg">
@@ -69,12 +69,28 @@
                     <p>Die Web Professionals sind ab Herbst 2015 neu auch am Campus der Fachhochschule für Technik in Rapperswil anzutreffen. </p>
                 </div>
                 <div class="card-action">
-                    <a class="white-text" href="/aktuelles/web-professionals-lehrgang-an-der-hochschule-fuer-technik-rapperswil/">mehr</a>
+                    <a class="white-text" href="/aktuelles/2015-09-15-web-professionals-lehrgang-an-der-hochschule-fuer-technik-rapperswil/">mehr</a>
                 </div>
             </div>
         </div>
         <!-- Card End -->
 
+        <!-- Card Start -->
+        <div class="col l4 m6">
+            <div class="card medium webpro-green">
+                <div class="card-image">
+                    <img src="/images/aktuelles/winter-camp-zukunft1.jpg">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Web Professionals Spring Camp 2015</span>
+                    <p>Rückblick auf das dritte Web Professionals Camp</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2015-04-28-web-professionals-spring-camp-2015/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
 
     </div>
 

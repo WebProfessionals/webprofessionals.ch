@@ -57,10 +57,10 @@
             </p>
             <p>
                 <i class="material-icons tiny">email</i>&nbsp&nbsp info[at]web-professionals.ch<br>
-                <i class="material-icons tiny">phone</i>&nbsp&nbsp 077
+                <i class="material-icons tiny">phone</i>&nbsp&nbsp 077 460 38 85
             </p>
             <blockquote>
-                Wieso eine Mobil-Nummer? Erstens sind wir nicht immer in der Techfabrik sondern oft auch unterwegs. Und zweitens kannst du uns damit auch jederzeit via WhatsApp erreichen :-)
+                Wieso eine Mobil-Nummer? Erstens sind wir nicht immer in der Techfabrik sondern oft auch unterwegs. Und zweitens kannst du uns damit auch via WhatsApp erreichen :-)
             </blockquote>
 
             <p>…oder Du füllst untenstehendes Kontaktformular aus und wir melden uns bei Dir.</p>

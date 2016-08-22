@@ -133,7 +133,7 @@
             </section>
 
             <section id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
             </section>
 
 
