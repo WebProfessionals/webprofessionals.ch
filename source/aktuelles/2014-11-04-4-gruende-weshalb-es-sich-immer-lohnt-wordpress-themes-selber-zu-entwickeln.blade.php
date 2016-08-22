@@ -57,6 +57,7 @@
             <p>Wer die volle Kontrolle über sein WordPress Theme haben möchte kommt an einer Eigenentwicklung nicht vorbei. Denn individuelle und einzigartige Themes können nur dann entstehen, wenn sie massgeschneidert entwickelt werden. Wird das Theme zusätzlich noch über Git versioniert und sauber dokumentiert, dann steht einer stressfreien Webseite nichts mehr im Wege. Dies erfordert jedoch fundierte Kenntnisse in HTML, CSS, JavaScript und PHP. Doch so schlimm ist es dann auch wieder nicht: diverse Online Workshops helfen über den ersten Einstieg und der WordPress Codex steht als Nachschlagewerk für die vertiefte Theme-Entwicklung zu Verfügung.</p>
             <h2>Hinweis:</h2>
             <p>Mit dem Kurs <a href="/kurse/wordpress-themes-selber-programmieren/">„Webseiten mit WordPress erstellen“</a> bieten die Web Professionals einen Einstieg in die Theme-Entwicklung. Schritt für Schritt wird das notwendige Grundlagenwissen erarbeitet um sich an die Entwicklung eigener Themes wagen zu können.</p>
+            @include('_partials.archiv-button')
         </section>
 
     </div>

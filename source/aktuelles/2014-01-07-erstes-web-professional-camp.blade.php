@@ -47,6 +47,7 @@
             <p>Das Smartphone ist überall mit dabei, das Tablet steht zuhause jederzeit griffbereit. Alle Geräte sind dank der Wolke immer auf dem neusten Stand, Chromecast, Apple TV und Co. sorgen für die Verbindung zu unserer Heimelektronik. Kein “Computer-einschalten-und-warten-bis-gestartet” mehr. Kommunikation überall, jederzeit, vernetzt, synchron und real time. Dies verändert unsere Gewohnheiten in der Informationsbeschaffung grundlegend. Wie gehen wir als Web Entwickler und Web Designer mit diesem Wandel um?</p>
             <p>Am ersten Web Professional Camp widmen wir uns diesen Themen. In Referaten, Workshops und Sessions lernen, entdecken und entwickeln wir. Und für frische Luft und Abwechslung am Samstag Abend ist ebenfalls gesorgt.</p>
             <p>Weitere Informationen und Anmeldung zum Camp gibt es auf dieser Seite.</p>
+            @include('_partials.archiv-button')
         </section>
 
     </div>

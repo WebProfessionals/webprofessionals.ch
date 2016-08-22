@@ -67,7 +67,7 @@
     <div class="row">
         <!-- Card Start -->
         <div class="col l7">
-            <div class="card medium webpro-green">
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/camp/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/camp_2016_autumn.jpg" alt="Web Professionals Barcamp 2016" title="Web Professionals Barcamp 2016">
                 </div>
@@ -84,7 +84,7 @@
 
         <!-- Card Start -->
         <div class="col l5">
-            <div class="card medium webpro-green">
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-04-06-tasks-aus-phpstorm-automatisch-starten/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/phpstorm.jpg" alt="PHP Storm" title="PHP Storm">
                 </div>

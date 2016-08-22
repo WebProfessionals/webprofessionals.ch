@@ -53,6 +53,7 @@
                 Video: Johanna Gächter, Fotos: Nele Ilic.
 
             </p>
+            @include('_partials.archiv-button')
         </section>
 
     </div>

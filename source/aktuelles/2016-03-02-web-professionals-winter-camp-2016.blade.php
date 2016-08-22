@@ -40,7 +40,7 @@
             ])
             Marianne Venzin, somedia Production, 2. März 2016
         </div>
-        <div class="col l4 m5">
+        <div class="col l4 m5 s12">
             <br>
             <div class="video-container">
                 <iframe src="https://player.vimeo.com/video/157412211" width="750" height="430" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
@@ -49,8 +49,9 @@
             <p><img class="responsive-img materialboxed" width="650" src="/images/aktuelles/winter-camp-zukunft1-big.jpg"></p>
             <p><img class="responsive-img materialboxed" width="650" src="/images/aktuelles/winter-camp-zukunft3-big.jpg"></p>
             <p><a href="https://goo.gl/photos/Nz9GqmuFLWbv8NDs6" class="waves-effect waves-light btn webpro-green" target="_blank">weitere Fotos (Google)</a></p>
+
         </div>
-        <section class="col l7 offset-l1 m6 offset-m1">
+        <section class="col l7 offset-l1 m6 offset-m1 s12">
             <p>Vergangenes Wochenende fand das vierte Web Professionals Camp statt — dieses Mal im Medienhaus der Somedia in Chur. Programmierer, Entwickler, Gestalter und Internetbegeisterte aus der ganzen Schweiz und aus dem Ausland widmeten sich während zwei Tagen ausgiebig dem Thema «Zukunft». Die Camps sind Bestandteil des Web Professionals Ausbildungsprogramms, welches sich vor allem an motivierte Quereinsteiger richtet.</p>
             <p>Die physische Welt wird immer mehr durch das Internet angereichert, so ist es längst zum Alltagswerkzeug geworden. Neue Technologien lösen einander immer schneller ab und verändern dabei unser Leben grundsätzlich. Um die digitale Welt mitgestalten zu können, werden Fachkräfte benötigt, die in der Schweiz immer noch schwer zu finden sind. Mit der wachsenden Komplexität des Webs entsteht auf der Stufe von Universitäten und Fachhochschulen ein immer grösser werdendes Bildungsangebot für zukünftige Spezialisten.</p>
             <h2>Quereinsteiger gefragt</h2>
@@ -60,6 +61,7 @@
             <h2>Virtual Reality und Games für die Zukunft</h2>
             <p>Der Begriff «Zukunft» in Bezug auf die digitale Welt, brachte dieses Wochenende vielerlei Ansätze hervor. Man machte sich daran Programmiersprachen zu analysieren und fragte sich, wie diese sich wohl weiter entwickeln würden. Eine Projektgruppe widmete sich der «Künstlichen Intelligenz», welche zur Entwicklung eines Programms mit menschenähnlichen Reaktionen inspirierte. Manche Teams programmierten sogar ganze Games, welche sogleich von den übrigen Teilnehmern getestet wurden.</p>
             <p>Der Anlass war ausgebucht und insgesamt ein voller Erfolg. Zum ersten Mal mit dabei waren auch drei Teilnehmer aus London. Geleitet wurde der zweitägige Anlass von Rolf Eggenberger, dem Lehrgangsleiter des Ausbildungsprogramms «Web Professionals».</p>
+            @include('_partials.archiv-button')
         </section>
 
     </div>

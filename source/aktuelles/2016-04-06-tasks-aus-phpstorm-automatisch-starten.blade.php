@@ -48,11 +48,11 @@
             <p>File > Settings > Tools > Startup Tasks (Windows und Linux) resp. <br>PhpStorm > Preferences > Tools > Startup Tasks (OS X)</p>
             <p>Dort lassen sich pro Projekt beliebig viele Taskrunner / Skripte konfigurieren, welche automatisch ausgeführt werden sollen. Wer zum Beispiel Zurb Foundation 6 für das Prototyping verwendet kann einen npm start Task aufsetzen und muss lediglich noch den Pfad zum package.json angeben. Und jedes Mal wenn das Projekt in PHPStorm geöffnet wird startet der npm Task automatisch. Oder wer Gulp basierte Tasks verwendet setzt den Pfad zum entsprechenden gulpfile und kann sich damit in Zukunft immerhin ein paar weitere manuelle Tasks ersparen.</p>
             <p>Mehr Zeit für wichtigere Dinge :-)</p>
+            @include('_partials.archiv-button')
         </section>
-
     </div>
-@endsection
+    @endsection
 
-@section('subnavmobile')
+    @section('subnavmobile')
 
-@endsection
+    @endsection

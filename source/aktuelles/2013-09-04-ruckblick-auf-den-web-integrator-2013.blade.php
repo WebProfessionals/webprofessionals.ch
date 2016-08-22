@@ -60,7 +60,7 @@
             <p>Langsam geht es in Richtung Abschlussprüfung. In den nächsten zwei Wochen werden wir uns noch noch den Gestaltungsgrundlagen sowie der Fotobearbeitungssoftware Photoshop widmen, bevor wir dann Ende September unser Erlerntes unter Beweis stellen können.</p>
 
             <p>Mario Calcagnini, Teilnehmer Web Integrator 2013</p>
-
+            @include('_partials.archiv-button')
         </section>
     </div>
 @endsection
