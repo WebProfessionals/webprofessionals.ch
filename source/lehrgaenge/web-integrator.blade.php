@@ -10,8 +10,8 @@
 @section('hero')
     <header class="webpro-hero-image">
         <picture>
-            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_014_phone.jpg">
-            <img src="/images/background/web_professionals_014.jpg" alt="Web Professionals" title="Web Professionals">
+            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_027_phone.jpg">
+            <img src="/images/background/web_professionals_027.jpg" alt="Web Professionals" title="Web Professionals">
         </picture>
     </header>
     <header class="webpro-hero">

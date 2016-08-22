@@ -10,8 +10,8 @@
 @section('hero')
     <header class="webpro-hero-image">
         <picture>
-            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_016_phone.jpg">
-            <img src="/images/background/web_professionals_016.jpg" alt="Web Professionals" title="Web Professionals">
+            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_101_phone.jpg">
+            <img src="/images/background/web_professionals_101.jpg" alt="Web Professionals" title="Web Professionals">
         </picture>
     </header>
     <header class="webpro-hero">
@@ -59,7 +59,7 @@
             <p>Das nächste Web Professionals Barcamp findet am <strong>29. und 30. Oktober</strong> in der Techfabrik Grabs statt. Thema des Camps: <strong>Devgotchi.</strong></p>
             <h3>Devgotchi?</h3>
             <p>Des Developers ärgster Feind sind weder Spinnen noch Schlangen sondern ganz einfach: Bugs. Ein Devgotchi sieht aus wie ein Käfer und ist ein Tamagotchi, welches man weder streicheln noch füttern will. Man kann es sich auch in etwa wie ein Mogwai vorstellen, welches entweder dem Sonnenlicht ausgesetzt oder nass wurde oder nach Mitternacht gefressen hat. Jedenfalls haben wir es nicht sonderlich gerne.</p>
-            <p>Nachdem die Pokémons aktuell ihr grosses Comeback haben ist es jedenfalls Zeit, die Tamagotchis ebenfalls wieder aufleben zu lassen. Aber eben: allzu wohl sollen sie sich nun doch nicht fühlen. Schon gar nicht die Devgotchis.</p>
+            <p>Nachdem die Pokémons aktuell ihr grosses Comeback haben ist es nun an der Zeit, die Tamagotchis ebenfalls wieder aufleben zu lassen. Aber eben: allzu wohl sollen sie sich nun doch nicht fühlen. Schon gar nicht die Devgotchis.</p>
             <p>Wir programmieren gemeinsam unser eigenes Devgotchi welches als mobile Applikation in unserem Smartphone lebt und auf diverse Sensordaten unseres Geräts reagiert.</p>
         </div>
     </div>
