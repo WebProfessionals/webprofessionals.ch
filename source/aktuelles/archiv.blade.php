@@ -79,10 +79,10 @@
         <div class="col l4 m6">
             <div class="card medium webpro-green">
                 <div class="card-image">
-                    <img src="/images/aktuelles/winter-camp-zukunft1.jpg">
+                    <img src="/images/aktuelles/camp_2015_spring.jpg">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Web Professionals Spring Camp 2015</span>
+                    <span class="card-title">Spring Camp 2015</span>
                     <p>Rückblick auf das dritte Web Professionals Camp</p>
                 </div>
                 <div class="card-action">
@@ -91,6 +91,64 @@
             </div>
         </div>
         <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l4 m6">
+            <div class="card medium webpro-green">
+                <div class="card-image">
+                    <img src="/images/aktuelles/2015-iot.jpg">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Das Internet der Dinge mitgestalten?</span>
+                    <p>Die Web Professionals machen es vor.</p>
+                    <p>9. Februar 2015</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2015-02-09-das-internet-der-dinge-mitgestalten-die-web-professionals-machen-es-vor/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+        
+        <!-- Card Start -->
+        <div class="col l4 m6">
+            <div class="card medium webpro-green">
+                <div class="card-image">
+                    <img src="/images/aktuelles/2014-espruino-1.jpg">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">JavaScript auf USB-Stick</span>
+                    <p>Die Web Professionals unterstützen Espruino Pico</p>
+                    <p>13. Dezember 2014</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2014-12-13-javascript-auf-usb-stick-die-web-professionals-unterstuetzen-espruino-pico/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+
+        <!-- Card Start -->
+        <div class="col l4 m6">
+            <div class="card medium webpro-green">
+                <div class="card-image">
+                    <img src="/images/aktuelles/2014-lg-g-watch-r.jpg">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">LG G Watch R im Einsatz</span>
+                    <p>Ein kleiner Testbericht</p>
+                    <p>10. November 2014</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2015-10-10-lg-g-watch-r-im-einsatz/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+
+
 
     </div>
 

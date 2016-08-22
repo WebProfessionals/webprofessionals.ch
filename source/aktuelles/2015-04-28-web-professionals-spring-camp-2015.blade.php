@@ -2,7 +2,7 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Tasks aus PHPStorm automatisch starten | Web Professionals</title>
+    <title>Spring Camp 2015 | Web Professionals</title>
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -26,7 +26,7 @@
 {{-- Main Navigation --}}
 @section('navigation')
     @include('_partials.navigation', [
-        'nav2status'    =>  ' active'
+        'nav1status'    =>  ' active'
     ])
 @endsection
 
@@ -36,20 +36,20 @@
         <div class="col s12">
             @include('_partials.header1', [
                 'part1'    =>  'Rückblick',
-                'part2'    =>  'Web Professionals Spring Camp 2016'
+                'part2'    =>  'Web Professionals Spring Camp 2015'
             ])
             Rolf Eggenberger, 28. April 2015
         </div>
         <div class="col l4 m5">
-            <p><img class="responsive-img materialboxed" width="650" src="/images/aktuelles/winter-camp-zukunft1-big.jpg"></p>
-            <p><img class="responsive-img materialboxed" width="650" src="/images/aktuelles/winter-camp-zukunft3-big.jpg"></p>
-            <p><a href="https://goo.gl/photos/Nz9GqmuFLWbv8NDs6" class="waves-effect waves-light btn webpro-green">weitere Fotos (Google)</a></p>
+            <p><img class="responsive-img materialboxed" width="650" src="/images/aktuelles/camp_2015_spring_big_1.jpg"></p>
+            <p><img class="responsive-img materialboxed" width="650" src="/images/aktuelles/camp_2015_spring_big_2.jpg"></p>
+            <p><a href="https://goo.gl/photos/tHPyFPVsxNk9n8HV8" class="waves-effect waves-light btn webpro-green" target="_blank">weitere Fotos (Google)</a></p>
         </div>
         <section class="col l7 offset-l1 m6 offset-m1">
             <div class="video-container">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/P1qSjie6j7Q" frameborder="0" allowfullscreen></iframe>
             </div>
-            <p>Das Thema des dritten Camps: Internet der Dinge.
+            <p>Thema des dritten Camps: Internet der Dinge.<br>
                 Video: Johanna Gächter, Fotos: Nele Ilic.
 
             </p>

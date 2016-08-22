@@ -48,9 +48,9 @@
                         <li><a href="#beschreibung">Beschreibung</a></li>
                         <li><a href="#inhalte">Inhalte / Fächer</a></li>
                         <li><a href="#dauer">Dauer</a></li>
+                        <li><a href="#klassen">Klassen / Durchführungsorte</a></li>
                         <li><a href="#kosten">Kosten</a></li>
                         <li><a href="#termine">Termine</a></li>
-                        <li><a href="#klassen">Klassen / Durchführungsorte</a></li>
                         <li><a href="#anmeldung">Anmeldung</a></li>
                     </ul>
                     <br>
@@ -107,6 +107,14 @@
                 <p>2 Semester, 200 Lektionen, berufsbegleitend</p>
             </div>
 
+            <div id="klassen" class="section scrollspy">
+                <h2>Klassen / Durchführungsorte:</h2>
+                <p>
+                    <strong>Klasse Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
+                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
+                </p>
+            </div>
+
             <div id="kosten" class="section scrollspy">
                 <h2>Kosten:</h2>
                 <p>CHF 5’500 Gebühr, zahlbar in 3 Raten<br>CHF 500 Prüfungsgebühr</p>
@@ -114,16 +122,17 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Beginn:</h2>
-                <p>jeweils November</p>
+                <p>28. Oktober 2016</p>
+
+                <h2>Anmeldeschluss:</h2>
+                <p>30. September 2016</p>
+
+                <h2>Termin Eröffnungsveranstaltung:</h2>
+                <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Designer und Developer Grabs, Developer Rapperswil) am Freitag, 28. Oktober 2016 von 18.00 - 21.15 Uhr in der Techfabrik Grabs statt</p>
+
             </div>
 
-            <div id="klassen" class="section scrollspy">
-                <h2>Klasse Ostschweiz / Grabs SG:</h2>
-                <p>
-                    <strong>Kursort:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
-                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
-                </p>
-            </div>
+
 
             <div id="anmeldung" class="section scrollspy">
                 <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
@@ -136,22 +145,12 @@
             <h2>Jetzt erst recht: Spezialisierungen</h2>
 
             <p>
-                Für dich war die Ausbildung zum Web Integrator erst der Anfang. Du willst mehr. In folgenden Diplomlehrgängen kannst Du Dich zum Profi ausbilden lassen:
-            </p>
-            <ul>
-                <li>Diplomlehrgang Web Designer</li>
-                <li>Diplomlehrgang Web Application Developer</li>
-                <li>Diplomlehrgang Web Frontend Developer</li>
-            </ul>
-
-
-            <p>
                 Nebst dem regulären Unterricht finden zudem begleitend eine Vielzahl an weiteren Aktivitäten statt, damit Du immer auf dem aktuellesten Stand der Tools und Technologien bleibst:
             </p>
             <ul>
-                <li>Workshops: Vertiefung in diversen Spezialgebieten</li>
-                <li>Web Professionals and Friends: Networking und Wissensaustausch</li>
-                <li>Web Professionals Camp: halbjährlich stattfindendes Barcamp</li>
+                <li><a href="/kurse/">Workshops und Kurse: Vertiefung in diversen Spezialgebieten</a></li>
+                <li><a href="/veranstaltungen/">Web Professionals and Friends: Networking und Wissensaustausch</a></li>
+                <li><a href="/camp/">Web Professionals Camp: halbjährlich stattfindendes Barcamp</a></li>
                 <li>Web Professionals Lab: Praxisprojekte auf hohem Niveau</li>
                 <li>Web Professionals Trainee: Du suchst den Einstieg in die Branche?</li>
             </ul>

@@ -26,7 +26,7 @@
 {{-- Main Navigation --}}
 @section('navigation')
     @include('_partials.navigation', [
-        'nav2status'    =>  ' active'
+        'nav1status'    =>  ' active'
     ])
 @endsection
 
@@ -48,7 +48,7 @@
             <br>
             <p><img class="responsive-img materialboxed" width="650" src="/images/aktuelles/winter-camp-zukunft1-big.jpg"></p>
             <p><img class="responsive-img materialboxed" width="650" src="/images/aktuelles/winter-camp-zukunft3-big.jpg"></p>
-            <p><a href="https://goo.gl/photos/Nz9GqmuFLWbv8NDs6" class="waves-effect waves-light btn webpro-green">weitere Fotos (Google)</a></p>
+            <p><a href="https://goo.gl/photos/Nz9GqmuFLWbv8NDs6" class="waves-effect waves-light btn webpro-green" target="_blank">weitere Fotos (Google)</a></p>
         </div>
         <section class="col l7 offset-l1 m6 offset-m1">
             <p>Vergangenes Wochenende fand das vierte Web Professionals Camp statt — dieses Mal im Medienhaus der Somedia in Chur. Programmierer, Entwickler, Gestalter und Internetbegeisterte aus der ganzen Schweiz und aus dem Ausland widmeten sich während zwei Tagen ausgiebig dem Thema «Zukunft». Die Camps sind Bestandteil des Web Professionals Ausbildungsprogramms, welches sich vor allem an motivierte Quereinsteiger richtet.</p>

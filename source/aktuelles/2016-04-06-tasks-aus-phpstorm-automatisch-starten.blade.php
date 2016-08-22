@@ -26,7 +26,7 @@
 {{-- Main Navigation --}}
 @section('navigation')
     @include('_partials.navigation', [
-        'nav2status'    =>  ' active'
+        'nav1status'    =>  ' active'
     ])
 @endsection
 

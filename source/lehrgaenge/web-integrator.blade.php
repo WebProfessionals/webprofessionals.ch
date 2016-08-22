@@ -47,9 +47,10 @@
                         <li><a href="#beschreibung">Beschreibung</a></li>
                         <li><a href="#inhalte">Inhalte / Fächer</a></li>
                         <li><a href="#dauer">Dauer</a></li>
+                        <li><a href="#klassen">Klassen / Durchführungsorte</a></li>
                         <li><a href="#kosten">Kosten</a></li>
                         <li><a href="#termine">Termine</a></li>
-                        <li><a href="#klassen">Klassen / Durchführungsorte</a></li>
+
                         <li><a href="#anmeldung">Anmeldung</a></li>
                     </ul>
                     <a href="/lehrgaenge/web-developer/">Web Developer</a><br>
@@ -101,12 +102,32 @@
                 <p>1 Semester, 110 Lektionen, berufsbegleitend</p>
             </section>
 
+            <section id="klassen" class="section scrollspy">
+                <h2>Klassen / Durchführungsorte:</h2>
+                <p>
+                    <strong>Klasse Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
+                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
+                </p>
+
+                <p>
+                    <strong>Klasse Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
+                    <strong>Unterrichtszeiten:</strong> Dienstag 18.00 bis 21.15 Uhr, Donnerstag 18.00 bis 21.15 Uhr
+                </p>
+                <p>
+                    <strong>Klasse Graubünden / Chur:</strong> ibW Chur, Gürtelstrasse 48 Gleis d, 7001 Chur<br>
+                    <strong>Unterrichtszeiten:</strong> Montag 18.00 bis 21.15 Uhr, Mittwoch 18.00 bis 21.15 Uhr
+                </p>
+            </section>
+
             <section id="kosten" class="section scrollspy">
                 <h2>Kosten:</h2>
                 <p>CHF 3'100 Lehrgangsgebühr, zahlbar in 2 Raten<br>CHF 300 Prüfungsgebühr</p>
             </section>
 
             <section id="termine" class="section scrollspy">
+                <h2>Anmeldeschluss:</h2>
+                <p>30. September 2016</p>
+
                 <h2>Termin Eröffnungsveranstaltung:</h2>
                 <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Grabs, Chur, Rapperswil) am Samstag, 5. November 2016 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt</p>
 
@@ -114,23 +135,6 @@
                 <p>Samstag 18. März 2017, 09.00 Uhr in Sargans (ibW Bahnhofpark)</p>
             </section>
 
-            <section id="klassen" class="section scrollspy">
-                <h2>Klasse Ostschweiz / Grabs SG:</h2>
-                <p>
-                    <strong>Kursort:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
-                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
-                </p>
-                <h2>Klasse Zürich / Rapperswil SG:</h2>
-                <p>
-                    <strong>Kursort:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
-                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
-                </p>
-                <h2>Klasse Graubünden / Chur:</h2>
-                <p>
-                    <strong>Kursort:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
-                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
-                </p>
-            </section>
 
             <section id="anmeldung" class="section scrollspy">
                 <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
@@ -146,9 +150,8 @@
                 Für dich war die Ausbildung zum Web Integrator erst der Anfang. Du willst mehr. In folgenden Diplomlehrgängen kannst Du Dich zum Profi ausbilden lassen:
             </p>
             <ul>
-                <li>Diplomlehrgang Web Designer</li>
-                <li>Diplomlehrgang Web Application Developer</li>
-                <li>Diplomlehrgang Web Frontend Developer</li>
+                <li><a href="/lehrgaenge/web-designer/">Diplomlehrgang Web Designer</a></li>
+                <li><a href="/lehrgaenge/web-developer/">Diplomlehrgang Web Developer</a></li>
             </ul>
 
 
@@ -156,9 +159,9 @@
                 Nebst dem regulären Unterricht finden zudem begleitend eine Vielzahl an weiteren Aktivitäten statt, damit Du immer auf dem aktuellesten Stand der Tools und Technologien bleibst:
             </p>
             <ul>
-                <li>Workshops: Vertiefung in diversen Spezialgebieten</li>
-                <li>Web Professionals and Friends: Networking und Wissensaustausch</li>
-                <li>Web Professionals Camp: halbjährlich stattfindendes Barcamp</li>
+                <li><a href="/kurse/">Workshops und Kurse: Vertiefung in diversen Spezialgebieten</a></li>
+                <li><a href="/veranstaltungen/">Web Professionals and Friends: Networking und Wissensaustausch</a></li>
+                <li><a href="/camp/">Web Professionals Camp: halbjährlich stattfindendes Barcamp</a></li>
                 <li>Web Professionals Lab: Praxisprojekte auf hohem Niveau</li>
                 <li>Web Professionals Trainee: Du suchst den Einstieg in die Branche?</li>
             </ul>

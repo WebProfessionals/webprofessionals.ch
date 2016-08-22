@@ -33,9 +33,7 @@
 
 @section('subnavmobile')
     <div class="collection webpro hide-on-med-and-up">
-        <a href="/lehrgaenge/web-integrator/" class="collection-item">Web Integrator</a>
-        <a href="/lehrgaenge/web-developer/" class="collection-item">Web Developer</a>
-        <a href="/lehrgaenge/web-designer/" class="collection-item">Web Designer</a>
+        <a href="/camp/sponsoring/" class="collection-item">Sponsoring</a>
     </div>
 @endsection
 
@@ -58,7 +56,7 @@
             <h2 class="webpro">#5 Web Professionals Barcamp 2016</h2>
             <p>Das nächste Web Professionals Barcamp findet am <strong>29. und 30. Oktober</strong> in der Techfabrik Grabs statt. Thema des Camps: <strong>Devgotchi.</strong></p>
             <h3>Devgotchi?</h3>
-            <p>Des Developers ärgster Feind sind weder Spinnen noch Schlangen sondern ganz einfach: Bugs. Ein Devgotchi sieht aus wie ein Käfer und ist ein Tamagotchi, welches man weder streicheln noch füttern will. Man kann es sich auch in etwa wie ein Mogwai vorstellen, welches entweder dem Sonnenlicht ausgesetzt oder nass wurde oder nach Mitternacht gefressen hat. Jedenfalls haben wir es nicht sonderlich gerne.</p>
+            <p>Des Developers ärgster Feind sind weder Spinnen noch Schlangen sondern <strong>Bugs</strong>. Ein Devgotchi sieht aus wie ein Käfer und ist ein Tamagotchi, welches man weder streicheln noch füttern will. Man kann es sich auch in etwa wie ein Mogwai vorstellen, welches entweder dem Sonnenlicht ausgesetzt oder nass wurde oder nach Mitternacht gefressen hat. Jedenfalls haben wir es nicht sonderlich gerne.</p>
             <p>Nachdem die Pokémons aktuell ihr grosses Comeback haben ist es nun an der Zeit, die Tamagotchis ebenfalls wieder aufleben zu lassen. Aber eben: allzu wohl sollen sie sich nun doch nicht fühlen. Schon gar nicht die Devgotchis.</p>
             <p>Wir programmieren gemeinsam unser eigenes Devgotchi welches als mobile Applikation in unserem Smartphone lebt und auf diverse Sensordaten unseres Geräts reagiert.</p>
         </div>
@@ -91,7 +89,7 @@
                     <p>Thema: Internet der Dinge<br>Location: Techfabrik Grabs<br>Datum: 25./26. April 2016</p>
                 </div>
                 <div class="card-action">
-                    <a href="#">Fotos</a>
+                    <a href="https://goo.gl/photos/tHPyFPVsxNk9n8HV8" target="_blank">Fotos (Google)</a>
                 </div>
             </div>
         </div>
@@ -105,7 +103,7 @@
                     <p>Thema: Tools und Workflows<br>Location: Seepromenade Walenstadt<br>Datum: ?</p>
                 </div>
                 <div class="card-action">
-                    <a href="#">Fotos</a>
+                    <a href="https://goo.gl/photos/m8bmEH6jxrsBA6L79" target="_blank">Fotos (Google)</a>
                 </div>
             </div>
         </div>
@@ -119,7 +117,7 @@
                     <p>Thema: alles mobil<br>Location: GBMS Atelier Buchs SG<br>Datum: ?</p>
                 </div>
                 <div class="card-action">
-                    <a href="#">Fotos</a>
+                    <a href="https://goo.gl/photos/YAeDwzZT8Zy5m6jg6" target="_blank">Fotos (Google)</a>
                 </div>
             </div>
         </div>
