@@ -3,7 +3,6 @@
 {{-- Header --}}
 @section('header')
     <title>Tasks aus PHPStorm automatisch starten | Web Professionals</title>
-
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -17,9 +16,9 @@
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">Gestalte das Web</span><br>
-            <span class="webpro-hero2">Die Ausbildung für angehende Webprofis</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/">Jetzt informieren</a>
+            <span class="webpro-hero1">Leg' los!</span><br>
+            <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
+            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -27,7 +26,7 @@
 {{-- Main Navigation --}}
 @section('navigation')
     @include('_partials.navigation', [
-        'nav1status'    =>  ' active'
+        'nav2status'    =>  ' active'
     ])
 @endsection
 
@@ -50,8 +49,10 @@
             <p>Dort lassen sich pro Projekt beliebig viele Taskrunner / Skripte konfigurieren, welche automatisch ausgeführt werden sollen. Wer zum Beispiel Zurb Foundation 6 für das Prototyping verwendet kann einen npm start Task aufsetzen und muss lediglich noch den Pfad zum package.json angeben. Und jedes Mal wenn das Projekt in PHPStorm geöffnet wird startet der npm Task automatisch. Oder wer Gulp basierte Tasks verwendet setzt den Pfad zum entsprechenden gulpfile und kann sich damit in Zukunft immerhin ein paar weitere manuelle Tasks ersparen.</p>
             <p>Mehr Zeit für wichtigere Dinge :-)</p>
         </section>
+
     </div>
+@endsection
 
-
+@section('subnavmobile')
 
 @endsection

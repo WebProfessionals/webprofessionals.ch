@@ -2,8 +2,7 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Lehrgang an der Hochschule für Technik Rapperswil | Web Professionals</title>
-
+    <title>Tasks aus PHPStorm automatisch starten | Web Professionals</title>
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -17,9 +16,9 @@
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">Gestalte das Web</span><br>
-            <span class="webpro-hero2">Die Ausbildung für angehende Webprofis</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/">Jetzt informieren</a>
+            <span class="webpro-hero1">Leg' los!</span><br>
+            <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
+            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -27,7 +26,7 @@
 {{-- Main Navigation --}}
 @section('navigation')
     @include('_partials.navigation', [
-        'nav1status'    =>  ' active'
+        'nav2status'    =>  ' active'
     ])
 @endsection
 
@@ -37,7 +36,7 @@
         <div class="col s12">
             @include('_partials.header1', [
                 'part1'    =>  'Update',
-                'part2'    =>  'Web Professionals Lehrgang an der Hochschule für Technik Rapperswil'
+                'part2'    =>  'Web Professionals Lehrgang an der Hochschule f&uuml;r Technik Rapperswil'
             ])
             Rolf Eggenberger, 15. September 2015
         </div>
@@ -51,7 +50,10 @@
             <p>Der erste Lehrgang „Web Integrator“ startet bei genügender Teilnehmerzahl am Samstag, den 24. Oktober mit einer Eröffungsveranstaltung in Sargans und findet danach jeweils Dienstag und Donnerstag Abends in Rapperswil statt. Willst du auch mit dabei sein? Dann besuche uns doch an unserem Infoanlass am 29. September um 19 Uhr im Zimmer 1.273.</p>
             <p>Foto: Copyright Hochschule für Technik Rapperswil</p>
         </section>
-    </div>
 
+    </div>
+@endsection
+
+@section('subnavmobile')
 
 @endsection

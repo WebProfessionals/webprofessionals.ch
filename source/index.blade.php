@@ -45,7 +45,7 @@
         </div>
         <div class="col l7 m6 s12 webpro-right">
             <p>Die <strong>Ausbildung für angehende Web Profis</strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong> (Bildungspartner), der <strong>Techfabrik Grabs</strong> sowie der <strong>Hochschule für Technik Rapperswil</strong> (Durchführungspartner).</p>
-            <p>Nächster Lehrgangsstart: <strong>November 2016</strong>. Besuche uns an einem unserer <a href="/veranstaltungen/">Informationsanlässe</a> und informiere Dich über die Web Professionals.</p>
+            <p>Nächster Lehrgangsstart: <strong>November 2016</strong>. Besuche uns an einem unserer <a href="/veranstaltungen/"><strong>Informationsanlässe</strong></a> und informiere Dich über die Web Professionals.</p>
             <p>Wir freuen uns auf Dich!</p>
         </div>
     </div>
@@ -93,7 +93,7 @@
                     <p>Manchmal kann etwas kleines eine grosse Wirkung haben.</p>
                 </div>
                 <div class="card-action">
-                    <a class="white-text" href="/aktuelles/tasks-aus-phpstorm-automatisch-starten/">mehr</a>
+                    <a class="white-text" href="/aktuelles/2016-04-06-tasks-aus-phpstorm-automatisch-starten/">mehr</a>
                 </div>
             </div>
         </div>
@@ -101,8 +101,9 @@
     </div>
     <div class="row">
         <div class="col l12">
-            <!-- <a class="waves-effect waves-light btn webpro-green" href="/aktuelles/archiv/">Archiv (im Aufbau)</a> -->
+           <a class="waves-effect waves-light btn webpro-green" href="/aktuelles/archiv/">Archiv (im Aufbau)</a>
         </div>
     </div>
+
 
 @endsection

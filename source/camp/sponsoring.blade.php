@@ -10,15 +10,15 @@
 @section('hero')
     <header class="webpro-hero-image">
         <picture>
-            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_016_phone.jpg">
-            <img src="/images/background/web_professionals_016.jpg" alt="Web Professionals" title="Web Professionals">>
+            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_102_phone.jpg">
+            <img src="/images/background/web_professionals_102.jpg" alt="Web Professionals" title="Web Professionals">>
         </picture>
     </header>
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">Gestalte das Web</span><br>
-            <span class="webpro-hero2">Die Ausbildung für angehende Webprofis</span><br><br>
+            <span class="webpro-hero1">Helft mit</span><br>
+            <span class="webpro-hero2">Camps brauchen Eure Unterstützung!</span><br><br>
             <!-- <a class="waves-effect waves-light btn webpro-red">Jetzt informieren</a> -->
         </div>
     </header>

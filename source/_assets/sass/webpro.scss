@@ -12,7 +12,7 @@ $webpro-gray: color("grey", "base");
   text-align:center;
   padding:50px 50px 0 50px;
   display:none;
-  @media #{$small-and-down} and (orientation: landscape){
+  @media only screen and (max-width : 769px) and (orientation: landscape){
     display:block;
   }
   p {
@@ -20,6 +20,7 @@ $webpro-gray: color("grey", "base");
     font-weight: 500;
   }
 }
+
 
 /* ==========  HERO Unit  ========== */
 .webpro-hero-image, .webpro-hero {
