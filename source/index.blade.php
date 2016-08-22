@@ -72,8 +72,8 @@
                     <img src="/images/aktuelles/camp_2016_autumn.jpg" alt="Web Professionals Barcamp 2016" title="Web Professionals Barcamp 2016">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Web Professionals Winter Camp 16</span>
-                    <p>Die Devgotchis sind frei! Das fünfte Web Professionals Barcamp ist angekündigt - sichere dir jetzt einen Platz!</p>
+                    <span class="card-title">#5 Web Professionals Barcamp 2016</span>
+                    <p>Die Devgotchis sind frei! Das fünfte Web Professionals Barcamp findet am 29./30.10.2016 statt - sichere dir jetzt einen Platz!</p>
                 </div>
                 <div class="card-action">
                     <a class="white-text" href="/camp/">mehr dazu auf der Camp-Seite</a>
@@ -91,6 +91,7 @@
                 <div class="card-content white-text">
                     <span class="card-title">Taskrunner aus PHPStorm starten</span>
                     <p>Manchmal kann etwas kleines eine grosse Wirkung haben.</p>
+                    <p>6. April 2016</p>
                 </div>
                 <div class="card-action">
                     <a class="white-text" href="/aktuelles/2016-04-06-tasks-aus-phpstorm-automatisch-starten/">mehr</a>
@@ -101,7 +102,7 @@
     </div>
     <div class="row">
         <div class="col l12">
-           <a class="waves-effect waves-light btn webpro-green" href="/aktuelles/archiv/">Archiv (im Aufbau)</a>
+           <a class="waves-effect waves-light btn webpro-green" href="/aktuelles/archiv/">Archiv mit älteren Meldungen</a>
         </div>
     </div>
 

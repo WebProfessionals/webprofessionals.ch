@@ -41,7 +41,7 @@
             Rolf Eggenberger, 9. Februar 2015
         </div>
         <div class="col l4 m5">
-            <p><img class="responsive-img" src="/images/aktuelles/2015-iot-big.jpg"></p>
+            <p><img class="responsive-img materialboxed" src="/images/aktuelles/2015-iot-big.jpg"></p>
         </div>
         <section class="col l7 offset-l1 m6 offset-m1">
             <p>Unlängst sprach man noch vom „ins Internet gehen“. Heute, in einer always-on-Welt, ist die Nutzung des Internets so selbstverständlich geworden, dass nur das Gegenteil – das kurze Offline-Sein etwa auf einer Bahnfahrt – als Abweichung von der Norm auffällt. Zunehmend verschwimmen die Grenzen zwischen On- und Offline: die Technologie tritt in den Hintergrund und verbirgt dem Nutzer ihre Komplexität, um ihn im Alltag mit einer nutzerfreundlichen Oberfläche zu unterstützen. So wird die physische Welt immer mehr durch das Internet angereichert: Google Glass, Smart Wachtes, Beacons sowie Microsofts aktuelles HoloLens-Projekt sind Stellvertreter dieser neuen Alltagswerkzeuge. Proaktive Software-Konzepte wie Google Now, welche das Nutzerverhalten vorausahnen, sowie die Verbreitung von direkt am Körper tragbaren Endgeräten – sogenannten Wearables – initiieren 2015 nun endlich das bereits lange angekündigte Internet der Dinge.</p>
