@@ -103,7 +103,7 @@
             </div>
 
             <div id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
             </div>
 
             <div id="klassen" class="section scrollspy">
