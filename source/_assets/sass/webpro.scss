@@ -270,6 +270,13 @@ h1, h2,h3 {
     margin-top:24px;
   }
 }
+.card {
+  &.webpro-green {
+    a {
+      color:white;
+    }
+  }
+}
 
 /* ==========  Sticky Footer  ========== */
 body {
