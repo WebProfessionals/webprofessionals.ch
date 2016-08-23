@@ -41,7 +41,7 @@
             Rolf Eggenberger, 4. November 2014
         </div>
         <div class="col l4 m5">
-
+            <img class="responsive-img" src="/images/aktuelles/2014-wordpress.jpg" alt="WordPress Theme Entwicklung" title="WordPress Theme Entwicklung">
         </div>
         <section class="col l7 offset-l1 m6 offset-m1">
             <p>Die Auswahl an fixfertigen WordPress Themes ist riesig – allen voran bietet das Portal „Themeforest“ derzeit über 4’000 Themes welche bereits für wenige Dollars erhältlich sind. Doch eben diese vorgefertigten Layouts haben ihre Nachteile und können im schlimmsten Fall sogar zu enormen Problemen führen. Vier von vielen Gründen welche für eine Eigenentwicklung von WordPress Themes sprechen:</p>

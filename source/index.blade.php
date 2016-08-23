@@ -99,12 +99,12 @@
             </div>
         </div>
         <!-- Card End -->
+
     </div>
     <div class="row">
         <div class="col l12">
            <a class="waves-effect waves-light btn webpro-green" href="/aktuelles/archiv/">Archiv mit älteren Meldungen</a>
         </div>
     </div>
-
 
 @endsection

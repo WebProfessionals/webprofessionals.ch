@@ -41,7 +41,7 @@
             Rolf Eggenberger, 6. April 2016
         </div>
         <div class="col l4 m5">
-            <p><img class="responsive-img materialboxed" width="650" src="/images/aktuelles/phpstorm.png"></p>
+            <p><img class="responsive-img materialboxed" width="650" src="/images/aktuelles/phpstorm.png" alt="PHPStrom" title="PHPStorm"></p>
         </div>
         <section class="col l7 offset-l1 m6 offset-m1">
             <p>Manchmal kann etwas kleines eine grosse Wirkung haben. Bei mir war es neulich die Tatsache, dass ich (eher zufällig) entdeckt habe, dass PHPStorm nicht nur in der Lage ist grunt / gulp / npm etc. auszuführen, sondern diese auch automatisch beim Öffnen eines Projektes startet. Wie lässt sich dies konfigurieren? Ganz einfach:</p>

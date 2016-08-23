@@ -208,7 +208,7 @@
         <div class="col l4 m6">
             <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-02-23-ostschweizer-webprofis-machen-mobil/'>
                 <div class="card-image">
-                    <!-- <img src="/images/aktuelles/vaterland_20140204_7.jpg"> -->
+                    <img src="/images/aktuelles/2014-camp-mobile.jpg">
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">Ostschweizer Webprofis machen mobil</span>
@@ -259,7 +259,7 @@
         <div class="col l4 m6">
             <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2013-09-04-ruckblick-auf-den-web-integrator-2013/'>
                 <div class="card-image">
-                    <!-- <img src="/images/aktuelles/vaterland_20140204_7.jpg"> -->
+                    <img src="/images/aktuelles/2013-rueckblick-integrator.jpg">
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">Rückblick auf den Web Integrator 2013</span>
@@ -276,7 +276,7 @@
         <div class="col l4 m6">
             <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2013-07-02-vom-traum-zum-ziel/'>
                 <div class="card-image">
-                    <!-- <img src="/images/aktuelles/vaterland_20140204_7.jpg"> -->
+                    <img src="/images/aktuelles/2013-traum-vom-ziel.jpg">
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">Vom Traum zum Ziel</span>
@@ -291,9 +291,26 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/2013-03-21-die-techfabrik-bereitet-sich-auf-die-web-professionals-vor/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/2013-techfabrik-bereitet-sich-vor.jpg">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Die Techfabrik bereitet sich auf die Web Professionals vor</span>
+                    <p>21. März 2013</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/2013-03-21-die-techfabrik-bereitet-sich-auf-die-web-professionals-vor/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l4 m6">
             <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2012-10-10-formel-web-oder-wie-unser-logo-entsteht/'>
                 <div class="card-image">
-                    <!-- <img src="/images/aktuelles/vaterland_20140204_7.jpg"> -->
+                    <img src="/images/aktuelles/2012-formel-web.jpg">
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">Formel Web – oder die Entstehung unseres Logos</span>
@@ -310,7 +327,7 @@
         <div class="col l4 m6">
             <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2012-10-10-techfabrik-die-modellagentur-der-web-professionals/'>
                 <div class="card-image">
-                    <!-- <img src="/images/aktuelles/vaterland_20140204_7.jpg"> -->
+                    <img src="/images/aktuelles/2012-techfabrik.jpg">
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">Techfabrik: die Modellagentur der Web Professionals</span>
