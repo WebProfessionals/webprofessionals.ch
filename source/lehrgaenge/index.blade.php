@@ -19,8 +19,8 @@
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Leg' los!</span><br>
-            <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
-            <!-- <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a> -->
+            <span class="webpro-hero2">Step by step zum Web-Profi</span><br><br>
+            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/web-integrator/">Jetzt durchstarten</a>
         </div>
     </header>
 @endsection
@@ -44,7 +44,7 @@
                 <a href="/lehrgaenge/web-integrator/">Web Integrator</a><br>
                 <a href="/lehrgaenge/web-developer/">Web Developer</a><br>
                 <a href="/lehrgaenge/web-designer/">Web Designer</a><br><br>
-                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
+                <a href="/lehrgaenge/anmeldung/">Anmeldung</a>
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
