@@ -10,9 +10,9 @@ $webpro-gray: color("grey", "base");
   height:100vh;
   color:white;
   text-align:center;
-  padding:50px 50px 0 50px;
+  padding:20px 20px 0 20px;
   display:none;
-  @media only screen and (max-width : 769px) and (orientation: landscape){
+  @media only screen and (max-device-width : 769px) and (orientation: landscape){
     display:block;
   }
   p {

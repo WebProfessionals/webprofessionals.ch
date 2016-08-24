@@ -75,7 +75,7 @@
         </footer>
 
         <div id="webpro-landscape">
-            <p>Wir haben vermutet, dass du und zwei andere das Smartphone drehen werden um zu kontrollieren, ob das Layout damit auch funktioniert.</p>
+            <p>Wir haben vermutet, dass du und zwei andere das Smartphone drehen um zu kontrollieren, ob das Layout damit auch funktioniert.</p>
             <i class="material-icons medium">autorenew</i>
             <p>Bringt in der Ansicht aber nicht wirklich viel - also Smartphone ganz schnell wieder zurück drehen :-)</p>
         </div>
