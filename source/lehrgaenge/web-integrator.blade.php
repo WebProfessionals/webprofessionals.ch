@@ -56,7 +56,6 @@
                     <a href="/lehrgaenge/web-developer/">Web Developer</a><br>
                     <a href="/lehrgaenge/web-designer/">Web Designer</a><br><br>
                     <a href="/lehrgaenge/anmeldung/">Anmeldung</a>
-
                 </nav>
             </div>
             <div class="hide-on-med-and-up">
@@ -117,6 +116,7 @@
                     <strong>Klasse Graubünden / Chur:</strong> ibW Chur, Gürtelstrasse 48 Gleis d, 7001 Chur<br>
                     <strong>Unterrichtszeiten:</strong> Montag 18.00 bis 21.15 Uhr, Mittwoch 18.00 bis 21.15 Uhr
                 </p>
+                <p>Hinweis: die definitiven Unterrichtszeiten können auf Wunsch und in Absprache mit der jeweiligen Klasse leicht angepasst werden.</p>
             </section>
 
             <section id="kosten" class="section scrollspy">
@@ -165,6 +165,9 @@
                 <li>Web Professionals Lab: Praxisprojekte auf hohem Niveau</li>
                 <li>Web Professionals Trainee: Du suchst den Einstieg in die Branche?</li>
             </ul>
+            <br>
+            <br>
+            <a class="waves-effect waves-light btn webpro-green hide-on-small-only" href="https://goo.gl/photos/WXWq2hvbagk31EgH9" target="_blank">Impressionen aus dem Unterricht (Google Fotos)</a>
 
 
 

@@ -44,6 +44,8 @@
                 <a href="/ausbildung/dozenten/">Dozenten</a><br>
                 <a href="/ausbildung/testimonials/">Testimonials</a><br>
             </nav>
+            <br><br><br>
+            <a class="waves-effect waves-light btn webpro-green hide-on-small-only" href="https://goo.gl/photos/WXWq2hvbagk31EgH9" target="_blank">Impressionen (Google Fotos)</a>
         </div>
         <div class="col l7 m6 webpro-right">
             <p>

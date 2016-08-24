@@ -79,6 +79,7 @@
             <div id="inhalte" class="section scrollspy">
                 <h2>Inhalte / Fächer:</h2>
                 <ul class="webpro-list">
+                    <li>Tools, Arbeitsumgebungen, Versionierung</li>
                     <li>CSS Vertiefung, LESS / SASS</li>
                     <li>Javascript Vertiefung, jQuery</li>
                     <li>Relationale Datenbanken und SQL</li>
@@ -86,7 +87,6 @@
                     <li>Objektorientierte Webentwicklung mit PHP</li>
                     <li>PHP Frameworks (Laravel)</li>
                     <li>mobile Lösungen Grundlagen</li>
-                    <li>Mail-Administration</li>
                     <li>Scriptsicherheit</li>
                     <li>Vertiefung Content Management Systeme (WordPress und Drupal)</li>
                     <li>Website Konzeption und Usability</li>

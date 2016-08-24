@@ -45,7 +45,7 @@
             </nav>
         </div>
         <div class="col l7 m6 s12 webpro-right">
-            <p>Das zentrale Element einer praxisorientierten Ausbildung sind selbstverständlich die Dozenten. Aus diesem Grund unterrichten bei den Web Professionals nur Dozenten, welche selber mitten in der Praxis stehen.</p>
+            <p>Das zentrale Element einer praxisorientierten Ausbildung sind selbstverständlich die Dozenten. Aus diesem Grund unterrichten bei den Web Professionals nur Dozenten, welche selber mitten in der Praxis stehen und dir mit Rat und Tat bei deinen Web-Projekten zur Seite stehen können.</p>
         </div>
 
     </div>
@@ -63,7 +63,7 @@
                 </div>
                 <div class="card-content">
                     <span class="card-title activator grey-text text-darken-4">Rolf Eggenberger<i class="material-icons right">more_vert</i></span>
-                    <p>Gründer Agentur kunstwort GmbH<br><br><img src="/images/webpro-icon-14.gif"> Lehrgangsleiter, HTML/CSS, PHP, WordPress</p>
+                    <p>Gründer und Co-Gründer diverser Online Startups<br><br><img src="/images/webpro-icon-14.gif"> Lehrgangsleiter, HTML/CSS, PHP, WordPress</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Rolf Eggenberger<i class="material-icons right">close</i></span>
@@ -81,7 +81,7 @@
                 </div>
                 <div class="card-content">
                     <span class="card-title activator grey-text text-darken-4">Martina Heeb<i class="material-icons right">more_vert</i></span>
-                    <p>Screendesignerin Agentur kunstwort<br><br><img src="/images/webpro-icon-14.gif"> Lehrgangsleiterin Web Designer</p>
+                    <p>Screendesignerin Agentur kunstwort GmbH<br><br><img src="/images/webpro-icon-14.gif"> Lehrgangsleiterin Web Designer</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Martina Heeb<i class="material-icons right">close</i></span>
