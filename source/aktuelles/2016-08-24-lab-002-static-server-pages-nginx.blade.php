@@ -44,12 +44,12 @@
 
         </div>
         <section class="col l7 offset-l1 m6 offset-m1">
-            <p>Das Test-Lab #001 widmete sich noch dem Entwurf sowie der HTML/CSS Umsetzung eines realen Kundenprojektes vom Briefing bis zum Going Online. Nachdem das erste Lab erfolgreich abgeschlossen wurde ging es mit dem lab#002 bereits in die zweite - und fortgeschrittenere Runde. Ganz unter dem Thema „Relaunch einer Webseite unter höchster Berücksichtigung der Performance, der Usability und der Search Engine Optimierung“. </p>
-            <p>Die Aufgabe des lab#002 war es, die Webseite der Web Professionals zu optimieren und einen Relaunch vorzubereiten. Das Resultat des Labs ging am 24. August dann auch live.</p>
+            <p>Das Test-Lab #001 widmete sich dem Entwurf sowie der HTML/CSS Umsetzung eines realen Kundenprojektes vom Briefing bis zum Going Online. Nachdem das erste Lab erfolgreich abgeschlossen wurde ging es mit dem lab#002 bereits in die zweite - und fortgeschrittenere Runde. Unter dem Thema <strong>„Relaunch einer Webseite unter höchster Berücksichtigung der Performance, der Usability und der Search Engine Optimierung“</strong>.</p>
+            <p>Der Auftrag an des lab#002: die Webseite der Web Professionals optimieren und einen Relaunch vorbereiten. Das Resultat des Labs ging am 24. August 2016 live.</p>
             <p>
                 Unter anderem wurden folgende Themen behandelt:
                 <ul class="webpro-list">
-                    <li>Erstellung eines Entwurfs unter Einhaltung der Material Design Richtlinien</li>
+                    <li>Erstellung eines Entwurfs unter Einhaltung der Google Material Design Richtlinien</li>
                     <li>Umsetzung mittels Static Server Pages (jigsaw)</li>
                     <li>Einsatz von http/2 mittels eines nginx Servers</li>
                 </ul>

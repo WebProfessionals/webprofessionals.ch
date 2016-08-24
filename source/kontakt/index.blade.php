@@ -60,7 +60,7 @@
                 <i class="material-icons tiny">phone</i>&nbsp&nbsp 077 460 38 85
             </p>
             <blockquote>
-                Wieso eine Mobil-Nummer? Erstens sind wir nicht immer in der Techfabrik sondern oft auch unterwegs. Und zweitens kannst du uns damit auch via WhatsApp erreichen :-)
+                Wieso eine Mobil-Nummer?<br>Erstens sind wir nicht immer in der Techfabrik sondern oft auch unterwegs. Und zweitens kannst du uns damit bei Fragen auch via <a href="/kontakt/whatsapp/">WhatsApp erreichen</a> :-)
             </blockquote>
 
             <p>…oder Du füllst untenstehendes Kontaktformular aus und wir melden uns bei Dir.</p>
