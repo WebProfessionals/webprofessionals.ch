@@ -17,8 +17,8 @@
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">Gestalte das Web</span><br>
-            <span class="webpro-hero2">Die Ausbildung für angehende Webprofis</span><br><br>
+            <span class="webpro-hero1">Mehr als nur Schule</span><br>
+            <span class="webpro-hero2">Barcamps für Praxiswissen</span><br><br>
             <!-- <a class="waves-effect waves-light btn webpro-red">Jetzt informieren</a> -->
         </div>
     </header>

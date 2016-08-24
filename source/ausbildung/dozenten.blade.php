@@ -269,7 +269,7 @@
                 <div class="card-content">
                     <span class="card-title">Marc Illien</span>
                     <p>
-                        Software Engineer, Namics AG<br><br>
+                        Full Stack Engineer, siroop AG<br><br>
                         <img src="/images/webpro-icon-14.gif"> 	JavaScript
                     </p>
                 </div>
@@ -299,8 +299,8 @@
                 <div class="card-content">
                     <span class="card-title">Johanna Gächter</span>
                     <p>
-                        Screendesignerin Jäger + Gejagte<br><br>
-                        <img src="/images/webpro-icon-14.gif"> 	Tools, Ressources
+                        Screendesignerin Kernbrand AG<br><br>
+                        <img src="/images/webpro-icon-14.gif"> 	Tools, Ressourcen
                     </p>
                 </div>
             </div>

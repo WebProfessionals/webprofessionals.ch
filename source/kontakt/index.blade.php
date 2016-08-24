@@ -44,7 +44,7 @@
                 'part2'    =>  'Kontakt'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
-
+                <a href="/kontakt/whatsapp/">WhatsApp Newsletter</a><br>
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
