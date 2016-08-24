@@ -84,17 +84,17 @@
 
         <!-- Card Start -->
         <div class="col l5">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-04-06-tasks-aus-phpstorm-automatisch-starten/'>
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-08-24-lab-002-static-server-pages-nginx/'>
                 <div class="card-image">
-                    <img src="/images/aktuelles/phpstorm.jpg" alt="PHP Storm" title="PHP Storm">
+                    <img src="/images/aktuelles/2016-08-lab002.jpg" alt="Relaunch Web Professionals" title="Relaunch Web Professionals">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Taskrunner aus PHPStorm starten</span>
-                    <p>Manchmal kann etwas kleines eine grosse Wirkung haben.</p>
-                    <p>6. April 2016</p>
+                    <span class="card-title">lab#002</span>
+                    <p>Relaunch der Web Professionals Website</p>
+                    <p>24. August 2016</p>
                 </div>
                 <div class="card-action">
-                    <a class="white-text" href="/aktuelles/2016-04-06-tasks-aus-phpstorm-automatisch-starten/">mehr</a>
+                    <a class="white-text" href="/aktuelles/2016-08-24-lab-002-static-server-pages-nginx/">mehr</a>
                 </div>
             </div>
         </div>

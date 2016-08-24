@@ -262,6 +262,28 @@
             </div>
         </div>
 
+        <div class="col l4 m6 s12">
+            <div class="card small" itemscope itemtype="http://schema.org/Event">
+                <div class="card-stacked">
+                    <div class="card-content">
+                        <i class="material-icons right">videogame_asset</i>
+                        <span class="card-events-day">Samstag / Sonntag</span><br>
+                        <span class="card-events-date" itemprop="startDate" content="2017-03-11T09:00">11./</span>
+                        <span class="card-events-date" itemprop="endDate" content="2017-03-12T16:00">12. März 2017</span><br>
+                        Start Samstag: 09:00, Ende Sonntag: 16:00 Uhr<br>
+                        <br>
+                        <span class="card-events-title" itemprop="name"><strong>#6 Web Professionals Barcamp 2017</strong></span><br>
+                        <span class="card-events-title" itemprop="description">Thema: "Arcade"</span><br>
+                        <br>
+                        @include('_partials.veranstaltungen.techfabrik')
+                    </div>
+                    <div class="card-action">
+                        <a href="https://www.facebook.com/events/1771274006420996/" target="_blank">Facebook Event</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
 
 @endsection
