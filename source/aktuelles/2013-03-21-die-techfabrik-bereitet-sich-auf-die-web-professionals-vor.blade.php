@@ -51,7 +51,6 @@
     </div>
 @endsection
 
-
 @section('subnavmobile')
 
 @endsection

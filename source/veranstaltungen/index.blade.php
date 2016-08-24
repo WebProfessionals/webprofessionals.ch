@@ -54,6 +54,7 @@
             <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
                 <div class="card-stacked">
                     <div class="card-content white-text">
+                            <i class="material-icons right">info_outline</i>
                             <span class="card-events-day">Mittwoch</span><br>
                             <span class="card-events-date" itemprop="startDate" content="2016-08-24T19:00">24. August 2016</span><br>
                             19:00 - 20:00 Uhr<br>
@@ -74,8 +75,9 @@
             <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
                 <div class="card-stacked">
                     <div class="card-content white-text">
+                        <i class="material-icons right">info_outline</i>
                         <span class="card-events-day">Montag</span><br>
-                        <span class="card-events-date" itemprop="startDate" content="2016-08-29T19:00">29. August 2016</span><br>
+                        <span class="card-events-date" itemprop="startDate" content="2016-09-05T19:00">5. September 2016</span><br>
                         19:00 - 20:00 Uhr<br>
                         <br>
                         <span class="card-events-title" itemprop="name"><strong>Informationsanlass in Grabs SG</strong></span><br>
@@ -94,26 +96,7 @@
             <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
                 <div class="card-stacked">
                     <div class="card-content white-text">
-                        <span class="card-events-day">Montag</span><br>
-                        <span class="card-events-date" itemprop="startDate" content="2016-09-05T19:00">5. September 2016</span><br>
-                        19:00 - 20:00 Uhr<br>
-                        <br>
-                        <span class="card-events-title" itemprop="name"><strong>Informationsanlass in Chur GR</strong></span><br>
-                        <span class="card-events-title" itemprop="description">Vorstellung der Kurse und Lehrgänge.</span><br>
-                        <br>
-                        @include('_partials.veranstaltungen.ibwchur')
-                    </div>
-                    <div class="card-action">
-                        <a class="white-text" itemprop="url" href="https://www.facebook.com/events/1771274006420996/" target="_blank">Facebook Event</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="col l4 m6 s12">
-            <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
-                <div class="card-stacked">
-                    <div class="card-content white-text">
+                        <i class="material-icons right">info_outline</i>
                         <span class="card-events-day">Dienstag</span><br>
                         <span class="card-events-date" itemprop="startDate" content="2016-09-06T19:00">6. September 2016</span><br>
                         19:00 - 20:00 Uhr<br>
@@ -134,6 +117,7 @@
             <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
                 <div class="card-stacked">
                     <div class="card-content white-text">
+                        <i class="material-icons right">info_outline</i>
                         <span class="card-events-day">Mittwoch</span><br>
                         <span class="card-events-date" itemprop="startDate" content="2016-09-07T19:00">7. September 2016</span><br>
                         19:00 - 20:00 Uhr<br>
@@ -154,6 +138,49 @@
             <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
                 <div class="card-stacked">
                     <div class="card-content white-text">
+                        <i class="material-icons right">info_outline</i>
+                        <span class="card-events-day">Donnerstag</span><br>
+                        <span class="card-events-date" itemprop="startDate" content="2016-09-08T19:00">08. September 2016</span><br>
+                        19:00 - 20:00 Uhr<br>
+                        <br>
+                        <span class="card-events-title" itemprop="name"><strong>Informationsanlass in Chur GR</strong></span><br>
+                        <span class="card-events-title" itemprop="description">Zimmer 307</span><br>
+                        <br>
+                        @include('_partials.veranstaltungen.ibwchur')
+                    </div>
+                    <div class="card-action">
+                        <a class="white-text" itemprop="url" href="https://www.facebook.com/events/1771274006420996/" target="_blank">Facebook Event</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l4 m6 s12">
+            <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
+                <div class="card-stacked">
+                    <div class="card-content white-text">
+                        <i class="material-icons right">info_outline</i>
+                        <span class="card-events-day">Dienstag</span><br>
+                        <span class="card-events-date" itemprop="startDate" content="2016-09-13T19:00">13. September 2016</span><br>
+                        19:00 - 20:00 Uhr<br>
+                        <br>
+                        <span class="card-events-title" itemprop="name"><strong>Informationsanlass in Chur GR</strong></span><br>
+                        <span class="card-events-title" itemprop="description">Zimmer 306</span><br>
+                        <br>
+                        @include('_partials.veranstaltungen.ibwchur')
+                    </div>
+                    <div class="card-action">
+                        <a class="white-text" itemprop="url" href="https://www.facebook.com/events/1771274006420996/" target="_blank">Facebook Event</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l4 m6 s12">
+            <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
+                <div class="card-stacked">
+                    <div class="card-content white-text">
+                        <i class="material-icons right">info_outline</i>
                         <span class="card-events-day">Freitag</span><br>
                         <span class="card-events-date" itemprop="startDate" content="2016-09-23T19:00">23. September 2016</span><br>
                         19:00 - 20:00 Uhr<br>
@@ -174,6 +201,7 @@
             <div class="card small" itemscope itemtype="http://schema.org/Event">
                 <div class="card-stacked">
                     <div class="card-content">
+                        <i class="material-icons right">school</i>
                         <span class="card-events-day">Freitag</span><br>
                         <span class="card-events-date" itemprop="startDate" content="2016-10-28T18:00">28. Oktober 2016</span><br>
                         18:00 - 21:15 Uhr<br>
@@ -194,6 +222,7 @@
             <div class="card small" itemscope itemtype="http://schema.org/Event">
                 <div class="card-stacked">
                     <div class="card-content">
+                        <i class="material-icons right">bug_report</i>
                         <span class="card-events-day">Samstag / Sonntag</span><br>
                         <span class="card-events-date" itemprop="startDate" content="2016-10-29T09:00">29./</span>
                         <span class="card-events-date" itemprop="endDate" content="2016-10-30T16:00">30. Oktober 2016</span><br>
@@ -216,6 +245,7 @@
             <div class="card small" itemscope itemtype="http://schema.org/Event">
                 <div class="card-stacked">
                     <div class="card-content">
+                        <i class="material-icons right">school</i>
                         <span class="card-events-day">Freitag</span><br>
                         <span class="card-events-date" itemprop="startDate" content="2016-11-05T08:15">5. November 2016</span><br>
                         08:00 - 13:30 Uhr<br>

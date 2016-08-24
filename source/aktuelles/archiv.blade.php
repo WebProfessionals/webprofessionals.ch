@@ -291,7 +291,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/2013-03-21-die-techfabrik-bereitet-sich-auf-die-web-professionals-vor/'>
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2013-03-21-die-techfabrik-bereitet-sich-auf-die-web-professionals-vor/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2013-techfabrik-bereitet-sich-vor.jpg">
                 </div>
@@ -300,7 +300,7 @@
                     <p>21. März 2013</p>
                 </div>
                 <div class="card-action">
-                    <a class="white-text" href="/2013-03-21-die-techfabrik-bereitet-sich-auf-die-web-professionals-vor/">mehr</a>
+                    <a class="white-text" href="/aktuelles/2013-03-21-die-techfabrik-bereitet-sich-auf-die-web-professionals-vor/">mehr</a>
                 </div>
             </div>
         </div>
