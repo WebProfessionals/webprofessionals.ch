@@ -17,8 +17,8 @@
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">AngularJS</span><br>
-            <span class="webpro-hero2">Superheroic JavaScript MVW Framework</span><br><br>
+            <span class="webpro-hero1">Stock Fotos</span><br>
+            <span class="webpro-hero2">Bau dir deine eigene Bilddatenbank</span><br><br>
             <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
@@ -38,7 +38,7 @@
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
                     'part1'    =>  'Einführungskurs',
-                    'part2'    =>  'AngularJS'
+                    'part2'    =>  'Stock Fotos'
                 ])
                 <nav class="webpro-nav-lvl2">
                     <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
@@ -50,8 +50,8 @@
             </div>
             <div class="hide-on-med-and-up">
                 @include('_partials.header1', [
-                    'part1'    =>  'Basis Lehrgang',
-                    'part2'    =>  'Web Integrator'
+                    'part1'    =>  'Einführungskurs',
+                    'part2'    =>  'Stock Fotos'
                 ])
             </div>
         </div>

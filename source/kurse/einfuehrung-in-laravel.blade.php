@@ -50,8 +50,8 @@
             </div>
             <div class="hide-on-med-and-up">
                 @include('_partials.header1', [
-                    'part1'    =>  'Basis Lehrgang',
-                    'part2'    =>  'Web Integrator'
+                    'part1'    =>  'Einführungskurs',
+                    'part2'    =>  'Laravel'
                 ])
             </div>
         </div>
