@@ -116,7 +116,7 @@
 
                     <div class="row">
                         <div class="input-field col s12">
-                            <input type="hidden" name="_next" value="http://localhost:3000/kontakt/danke/" />
+                            <input type="hidden" name="_next" value="https://web-professionals.ch/kontakt/danke/" />
                             <input type="hidden" name="_subject" value="Kontakt Anfrage" />
                             <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="Absenden">
                         </div>
