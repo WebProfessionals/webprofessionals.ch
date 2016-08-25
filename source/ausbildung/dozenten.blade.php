@@ -45,7 +45,7 @@
             </nav>
         </div>
         <div class="col l7 m6 s12 webpro-right">
-            <p>Das zentrale Element einer praxisorientierten Ausbildung sind selbstverständlich die Dozenten. Aus diesem Grund unterrichten bei den Web Professionals nur Dozenten, welche selber mitten in der Praxis stehen.</p>
+            <p>Das zentrale Element einer praxisorientierten Ausbildung sind selbstverständlich die Dozenten. Aus diesem Grund unterrichten bei den Web Professionals nur Dozenten, welche selber mitten in der Praxis stehen und dir mit Rat und Tat bei deinen Web-Projekten zur Seite stehen können.</p>
         </div>
 
     </div>
@@ -63,7 +63,7 @@
                 </div>
                 <div class="card-content">
                     <span class="card-title activator grey-text text-darken-4">Rolf Eggenberger<i class="material-icons right">more_vert</i></span>
-                    <p>Gründer Agentur kunstwort GmbH<br><br><img src="/images/webpro-icon-14.gif"> Lehrgangsleiter, HTML/CSS, PHP, WordPress</p>
+                    <p>Gründer und Co-Gründer diverser Online Startups<br><br><img src="/images/webpro-icon-14.gif"> Lehrgangsleiter, HTML/CSS, PHP, WordPress</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Rolf Eggenberger<i class="material-icons right">close</i></span>
@@ -81,7 +81,7 @@
                 </div>
                 <div class="card-content">
                     <span class="card-title activator grey-text text-darken-4">Martina Heeb<i class="material-icons right">more_vert</i></span>
-                    <p>Screendesignerin Agentur kunstwort<br><br><img src="/images/webpro-icon-14.gif"> Lehrgangsleiterin Web Designer</p>
+                    <p>Screendesignerin Agentur kunstwort GmbH<br><br><img src="/images/webpro-icon-14.gif"> Lehrgangsleiterin Web Designer</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Martina Heeb<i class="material-icons right">close</i></span>
@@ -149,7 +149,7 @@
                 <div class="card-content">
                     <span class="card-title">Michelle Oesch</span>
                     <p>
-                        Fotografin<br><br>
+                        Wissenschaftliche Fotografin Universität Zürich<br><br>
                         <img src="/images/webpro-icon-14.gif"> Fotografie
                     </p>
                 </div>
@@ -267,39 +267,9 @@
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Name</span>
-                    <p>
-                        Fotografin<br><br>
-                        <img src="/images/webpro-icon-14.gif"> Fotografie
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col l4 m6 s12">
-            <div class="card medium">
-                <div class="card-image">
-                    <img src="/images/dozenten/dummy.jpg">
-                </div>
-                <div class="card-content">
                     <span class="card-title">Marc Illien</span>
                     <p>
-                        Fotografin<br><br>
-                        <img src="/images/webpro-icon-14.gif"> Fotografie
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col l4 m6 s12">
-            <div class="card medium">
-                <div class="card-image">
-                    <img src="/images/dozenten/dummy.jpg">
-                </div>
-                <div class="card-content">
-                    <span class="card-title">Name</span>
-                    <p>
-                        Software Engineer, Namics AG<br><br>
+                        Full Stack Engineer, siroop AG<br><br>
                         <img src="/images/webpro-icon-14.gif"> 	JavaScript
                     </p>
                 </div>
@@ -329,8 +299,8 @@
                 <div class="card-content">
                     <span class="card-title">Johanna Gächter</span>
                     <p>
-                        Screendesignerin Jäger + Gejagte<br><br>
-                        <img src="/images/webpro-icon-14.gif"> 	Tools, Ressources
+                        Screendesignerin Kernbrand AG<br><br>
+                        <img src="/images/webpro-icon-14.gif"> 	Tools, Ressourcen
                     </p>
                 </div>
             </div>

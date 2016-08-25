@@ -19,7 +19,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Laravel</span><br>
             <span class="webpro-hero2">Leg los</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -50,8 +50,8 @@
             </div>
             <div class="hide-on-med-and-up">
                 @include('_partials.header1', [
-                    'part1'    =>  'Basis Lehrgang',
-                    'part2'    =>  'Web Integrator'
+                    'part1'    =>  'Einführungskurs',
+                    'part2'    =>  'Laravel'
                 ])
             </div>
         </div>
@@ -85,7 +85,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten:</h2>
-                <p>8 Kursabende à 4 Lektionen (Total 32 Lektionen). Jeweils Dienstags von 18.30 Uhr bis 21.30 Uhr. Beginn: Herbst 2016</p>
+                <p>8 Kursabende à 4 Lektionen (Total 32 Lektionen). Jeweils Dienstags von 18.30 Uhr bis 21.30 Uhr. Beginn: 8. November 2016</p>
             </div>
 
             <div id="kosten" class="section scrollspy">
@@ -101,7 +101,7 @@
             </div>
 
             <div id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
             </div>
 
             <div id="klassen" class="section scrollspy">

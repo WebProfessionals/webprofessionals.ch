@@ -17,9 +17,9 @@
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">AngularJS</span><br>
-            <span class="webpro-hero2">Superheroic JavaScript MVW Framework</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red">Jetzt anmelden</a>
+            <span class="webpro-hero1">Stock Fotos</span><br>
+            <span class="webpro-hero2">Bau dir deine eigene Bilddatenbank</span><br><br>
+            <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -38,7 +38,7 @@
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
                     'part1'    =>  'Einführungskurs',
-                    'part2'    =>  'AngularJS'
+                    'part2'    =>  'Stock Fotos'
                 ])
                 <nav class="webpro-nav-lvl2">
                     <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
@@ -50,8 +50,8 @@
             </div>
             <div class="hide-on-med-and-up">
                 @include('_partials.header1', [
-                    'part1'    =>  'Basis Lehrgang',
-                    'part2'    =>  'Web Integrator'
+                    'part1'    =>  'Einführungskurs',
+                    'part2'    =>  'Stock Fotos'
                 ])
             </div>
         </div>
@@ -91,7 +91,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten:</h2>
-                <p>4 Kursabende à 4 Lektionen (Total 16 Lektionen). Jeweils Donnerstags von 18.30 Uhr bis 21.30 Uhr. Beginn: Herbst 2016.</p>
+                <p>4 Kursabende à 4 Lektionen (Total 16 Lektionen). Jeweils Donnerstags von 18.30 Uhr bis 21.30 Uhr. Beginn: 10. November 2016.</p>
             </div>
 
             <div id="kosten" class="section scrollspy">
@@ -107,7 +107,7 @@
             </div>
 
             <div id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
             </div>
 
             <div id="klassen" class="section scrollspy">
@@ -118,12 +118,9 @@
             </div>
 
             <div id="klassen" class="section scrollspy">
-                <h2>Kursleiter:</h2>
+                <h2>Kursleiterin:</h2>
                 <p>
-                    Veith Zäch ist Software Architekt bei adcubum. Seit Gründung der Web Professionals gehört er zu den Hauptdozenten bei den fortgeschrittenen Developer Lehrgängen.
-                </p>
-                <p>
-                    Nebenbei braut er Bananenbier, lässt ab und an sein Haus explodieren und will Putzroboter mit Schwarmintelligenz bauen.
+                    Michelle Oesch, Wissenschaftliche Fotografin Universität Zürich
                 </p>
             </div>
 

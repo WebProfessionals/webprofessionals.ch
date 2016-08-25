@@ -11,8 +11,8 @@
 @section('hero')
     <header class="webpro-hero-image">
         <picture>
-            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_014_phone.jpg">
-            <img src="/images/background/web_professionals_014.jpg" alt="Web Professionals" title="Web Professionals">
+            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_009_phone.jpg">
+            <img src="/images/background/web_professionals_009.jpg" alt="Web Professionals" title="Web Professionals">
         </picture>
     </header>
     <header class="webpro-hero">
@@ -44,6 +44,8 @@
                 <a href="/ausbildung/dozenten/">Dozenten</a><br>
                 <a href="/ausbildung/testimonials/">Testimonials</a><br>
             </nav>
+            <br><br><br>
+            <a class="waves-effect waves-light btn webpro-green hide-on-small-only" href="https://goo.gl/photos/WXWq2hvbagk31EgH9" target="_blank">Impressionen (Google Fotos)</a>
         </div>
         <div class="col l7 m6 webpro-right">
             <p>

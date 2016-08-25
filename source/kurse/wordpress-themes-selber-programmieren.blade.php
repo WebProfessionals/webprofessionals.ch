@@ -2,7 +2,7 @@
 
 {{-- Header --}}
 @section('header')
-    <title>WordPress | Kurs | Web Professionals</title>
+    <title>WordPress Themes | Kurs | Web Professionals</title>
 
 @endsection
 
@@ -17,9 +17,9 @@
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">AngularJS</span><br>
-            <span class="webpro-hero2">Superheroic JavaScript MVW Framework</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red">Jetzt anmelden</a>
+            <span class="webpro-hero1">WordPress</span><br>
+            <span class="webpro-hero2">Volle Kontrolle über deine Themes!</span><br><br>
+            <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -38,7 +38,7 @@
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
                     'part1'    =>  'Einführungskurs',
-                    'part2'    =>  'AngularJS'
+                    'part2'    =>  'WordPress Themes'
                 ])
                 <nav class="webpro-nav-lvl2">
                     <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
@@ -50,8 +50,8 @@
             </div>
             <div class="hide-on-med-and-up">
                 @include('_partials.header1', [
-                    'part1'    =>  'Basis Lehrgang',
-                    'part2'    =>  'Web Integrator'
+                    'part1'    =>  'Einführungskurs',
+                    'part2'    =>  'WordPress Themes'
                 ])
             </div>
         </div>
@@ -95,7 +95,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten:</h2>
-                <p>8 Kursabende à 4 Lektionen (Total 32 Lektionen). Jeweils Mittwochs von 18.30 Uhr bis 21.30 Uhr. Beginn: Herbst 2016.</p>
+                <p>8 Kursabende à 4 Lektionen (Total 32 Lektionen). Jeweils Mittwochs von 18.30 Uhr bis 21.30 Uhr. Beginn: 9. November 2016.</p>
             </div>
 
             <div id="kosten" class="section scrollspy">
@@ -111,7 +111,7 @@
             </div>
 
             <div id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
             </div>
 
             <div id="klassen" class="section scrollspy">

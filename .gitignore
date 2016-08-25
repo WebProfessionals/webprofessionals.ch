@@ -1,5 +1,25 @@
-/build_local/
-/node_modules/
-/vendor/
-/source/_assets/vendor/
-.idea/
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+_.*
+.project
+.idea
+.cache
+.settings
+.config
+.buildpath
+.metadata
+.tmp*
+*.prefs
+.deployables
+atlassian-ide-plugin.xml
+
+# Project
+/build_production
+/build_local
+/node_modules
+/vendor
+/source/_assets/vendor
+composer.lock

@@ -3,7 +3,7 @@
 {{-- Header --}}
 @section('header')
     <title>Web Professionals</title>
-    <meta name="description" content="Die Ausbildung für angehende Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen.">
+    <meta name="description" content="Die Ausbildung für Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen.">
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -45,7 +45,7 @@
         </div>
         <div class="col l7 m6 s12 webpro-right">
             <p>Die <strong>Ausbildung für angehende Web Profis</strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong> (Bildungspartner), der <strong>Techfabrik Grabs</strong> sowie der <strong>Hochschule für Technik Rapperswil</strong> (Durchführungspartner).</p>
-            <p>Nächster Lehrgangsstart: <strong>November 2016</strong>. Besuche uns an einem unserer <a href="/veranstaltungen/">Informationsanlässe</a> und informiere Dich über die Web Professionals.</p>
+            <p>Nächster Lehrgangsstart: <strong>November 2016</strong>. Besuche uns an einem unserer <a href="/veranstaltungen/"><strong>Informationsanlässe</strong></a> und informiere Dich über die Web Professionals.</p>
             <p>Wir freuen uns auf Dich!</p>
         </div>
     </div>
@@ -56,8 +56,8 @@
     </div>
     <div class="row">
         <div class="col l5 m6 hide-on-small-only">&nbsp;</div>
-        <div class="col l2 m3 s6"><img class="responsive-img" src="/images/ibw.gif" alt="ibW Höhere Fachschule Südostschweiz" title="ibW Höhere Fachschule Südostschweiz"></div>
-        <div class="col l2 offset-l1 m3 s6"><img class="responsive-img" src="/images/hsr.gif" alt="Hochschule für Technik Rapperswil" title="Hochschule für Technik Rapperswil"></div>
+        <div class="col l2 m3 s4"><img class="responsive-img" src="/images/ibw.png" alt="ibW Höhere Fachschule Südostschweiz" title="ibW Höhere Fachschule Südostschweiz"></div>
+        <div class="col l2 offset-l1 m3 s4 offset-s2"><img class="responsive-img" src="/images/hsr.png" alt="Hochschule für Technik Rapperswil" title="Hochschule für Technik Rapperswil"></div>
     </div>
     <div class="row">
         <div class="col l12">
@@ -67,16 +67,16 @@
     <div class="row">
         <!-- Card Start -->
         <div class="col l7">
-            <div class="card medium webpro-green z-depth-2">
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/camp/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/camp_2016_autumn.jpg" alt="Web Professionals Barcamp 2016" title="Web Professionals Barcamp 2016">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Web Professionals Winter Camp 16</span>
-                    <p>Die Antigotchis sind frei! Das fünfte Web Professionals Barcamp ist angekündigt - sichere dir jetzt einen Platz!</p>
+                    <span class="card-title">#5 Web Professionals Barcamp 2016</span>
+                    <p>Die Devgotchis sind frei! Das fünfte Web Professionals Barcamp findet am 29./30.10.2016 statt - sichere dir jetzt einen Platz!</p>
                 </div>
                 <div class="card-action">
-                    <a class="white-text" href="/camp/">mehr</a>
+                    <a class="white-text" href="/camp/">mehr dazu auf der Camp-Seite</a>
                 </div>
             </div>
         </div>
@@ -84,24 +84,26 @@
 
         <!-- Card Start -->
         <div class="col l5">
-            <div class="card medium webpro-green">
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-08-24-lab-002-static-server-pages-nginx/'>
                 <div class="card-image">
-                    <img src="/images/aktuelles/phpstorm.jpg" alt="PHP Storm" title="PHP Storm">
+                    <img src="/images/aktuelles/2016-08-lab002.jpg" alt="Relaunch Web Professionals" title="Relaunch Web Professionals">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Taskrunner aus PHPStorm starten</span>
-                    <p>Manchmal kann etwas kleines eine grosse Wirkung haben.</p>
+                    <span class="card-title">lab#002</span>
+                    <p>Relaunch der Web Professionals Website</p>
+                    <p>24. August 2016</p>
                 </div>
                 <div class="card-action">
-                    <a class="white-text" href="/aktuelles/tasks-aus-phpstorm-automatisch-starten/">mehr</a>
+                    <a class="white-text" href="/aktuelles/2016-08-24-lab-002-static-server-pages-nginx/">mehr</a>
                 </div>
             </div>
         </div>
         <!-- Card End -->
+
     </div>
     <div class="row">
         <div class="col l12">
-            <!-- <a class="waves-effect waves-light btn webpro-green" href="/aktuelles/archiv/">Archiv (im Aufbau)</a> -->
+           <a class="waves-effect waves-light btn webpro-green" href="/aktuelles/archiv/">Archiv mit älteren Meldungen</a>
         </div>
     </div>
 

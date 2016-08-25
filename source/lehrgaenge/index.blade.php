@@ -3,7 +3,7 @@
 {{-- Header --}}
 @section('header')
     <title>Lehrgänge | Web Professionals</title>
-
+    <meta name="description" content="Die modular aufgebauten Lehrgänge starten mit dem Basislehrgang zum Web Integrator und geht weiter mit den Diplomlehrgängen Web Designer und Web Developer.">
 @endsection
 
 
@@ -19,8 +19,8 @@
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Leg' los!</span><br>
-            <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
-            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
+            <span class="webpro-hero2">Step by step zum Web-Profi</span><br><br>
+            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/web-integrator/">Jetzt durchstarten</a>
         </div>
     </header>
 @endsection
@@ -44,7 +44,7 @@
                 <a href="/lehrgaenge/web-integrator/">Web Integrator</a><br>
                 <a href="/lehrgaenge/web-developer/">Web Developer</a><br>
                 <a href="/lehrgaenge/web-designer/">Web Designer</a><br><br>
-                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
+                <a href="/lehrgaenge/anmeldung/">Anmeldung</a>
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
@@ -53,11 +53,10 @@
 
             <div class="row hide-on-small-and-down">
                 <div class="col s12 m12">
-                    <div class="card grey darken-3 hoverable webpro-clickable-card" data-href='/lehrgaenge/web-integrator/'>
+                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/web-integrator/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Integrator</span>
-                            <p>Das digitale Einmaleins: der Basislehrgang vermittelt das notwendige Grundlagenwissen</p>
-                            <p>Beginn jeweils Frühling und Herbst</p>
+                            <p>Das digitale Einmaleins: der Basislehrgang vermittelt das notwendige Grundlagenwissen. Beginn jeweils Frühling und Herbst</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/web-integrator/">Erfahre mehr ></a>
@@ -68,8 +67,7 @@
                     <div class="card grey darken-2 small hoverable webpro-clickable-card" data-href='/lehrgaenge/web-developer/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Developer</span>
-                            <p>Auf Eroberungskurs: erobere die digitale Welt!</p>
-                            <p>Beginn jeweils im Herbst</p>
+                            <p>Auf Eroberungskurs: deine Welt ist das Web! Beginn jeweils im Herbst</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/web-developer/">Erfahre mehr ></a>
@@ -80,8 +78,7 @@
                     <div class="card grey darken-2 small hoverable webpro-clickable-card" data-href='/lehrgaenge/web-designer/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Designer</span>
-                            <p>Gestaltungsfreiheit: der Vertiefungslehrgang rund um die digitale Gestaltung</p>
-                            <p>Beginn jeweils im Herbst</p>
+                            <p>Gestaltungsfreiheit: der Vertiefungslehrgang rund um die digitale Gestaltung. Beginn jeweils im Herbst</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/web-designer/">Erfahre mehr ></a>
