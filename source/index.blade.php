@@ -2,7 +2,7 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Web Professionals</title>
+    <title>Web Professionals - Die Aus- und Weiterbildung für Web Profis</title>
     <meta name="description" content="Die Ausbildung für Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen.">
 @endsection
 
