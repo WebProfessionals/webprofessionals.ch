@@ -13,8 +13,7 @@
                 @include('_partials.veranstaltungen.ibwsargans')
             </div>
             <div class="card-action">
-                <a class="white-text hide-on-small-only" itemprop="url" href="https://www.facebook.com/events/1147172735354977/" target="_blank">Facebook Event</a>
-                <a class="white-text hide-on-med-and-up" itemprop="url" href="fb://events/1147172735354977/" target="_blank">Facebook Event</a>
+                <a class="white-text" itemprop="url" href="https://www.facebook.com/events/1147172735354977/" target="_blank">Facebook Event</a>
             </div>
         </div>
     </div>
