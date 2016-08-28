@@ -129,7 +129,7 @@
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
-                        <input type="hidden" name="_next" value="https://web-professionals.ch/kontakt/danke/" />
+                        <input type="hidden" name="_next" value="https://web-professionals.ch/lehrgaenge/anmeldung-danke/" />
                         <input type="hidden" name="_subject" value="Kontakt Anfrage" />
                         <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="absenden">
                     </div>

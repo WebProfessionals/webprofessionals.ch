@@ -57,7 +57,7 @@
                             <option value="WordPress Themes programmieren, Start Herbst 2016, Grabs SG">WordPress Themes programmieren, Start Herbst 2016, Grabs SG</option>
                             <option value="eigene Stock Fotos erstellen, Start Herbst 2016, Grabs SG">eigene Stock Fotos erstellen, Start Herbst 2016, Grabs SG</option>
                         </select>
-                        <label>Ich möchte mich zu folgendem Lehrgang anmelden:</label>
+                        <label>Ich möchte mich zu folgendem Kurs anmelden:</label>
                         <input type="checkbox" id="agb" name="agb" />
                         <label for="agb">Ich bestätige, dass ich die <a href="#">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
                     </div>
@@ -115,7 +115,7 @@
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
-                        <input type="hidden" name="_next" value="https://web-professionals.ch/kontakt/danke/" />
+                        <input type="hidden" name="_next" value="https://web-professionals.ch/kurse/anmeldung-danke/" />
                         <input type="hidden" name="_subject" value="Kontakt Anfrage" />
                         <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="verbindlich anmelden">
                     </div>

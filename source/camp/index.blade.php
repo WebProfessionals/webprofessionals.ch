@@ -2,8 +2,7 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Camp | Web Professionals</title>
-
+    <title>Barcamp | Web Professionals</title>
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -33,6 +32,7 @@
 
 @section('subnavmobile')
     <div class="collection webpro hide-on-med-and-up">
+        <a href="/camp/anmeldung/" class="collection-item">Anmeldung</a>
         <a href="/camp/sponsoring/" class="collection-item">Sponsoring</a>
     </div>
 @endsection
@@ -46,6 +46,7 @@
                 'part2'    =>  'Barcamp'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
+                <a href="/camp/anmeldung/">Anmeldung</a><br>
                 <a href="/camp/sponsoring/">Sponsoring</a><br>
             </nav>
         </div>
