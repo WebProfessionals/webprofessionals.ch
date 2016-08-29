@@ -84,7 +84,7 @@
 
             <div id="kosten" class="section scrollspy">
                 <h2>Kosten:</h2>
-                <p>CHF 1’280</p>
+                <p>CHF 320</p>
             </div>
 
             <div id="klassen" class="section scrollspy">

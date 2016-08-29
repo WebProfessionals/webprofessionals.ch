@@ -60,6 +60,17 @@
             <p>Des Developers ärgster Feind sind weder Spinnen noch Schlangen sondern <strong>Bugs</strong>. Ein Devgotchi sieht aus wie ein Käfer und ist ein Tamagotchi, welches man weder streicheln noch füttern will. Man kann es sich auch in etwa wie ein Mogwai vorstellen, welches entweder dem Sonnenlicht ausgesetzt oder nass wurde oder nach Mitternacht gefressen hat. Jedenfalls haben wir es nicht sonderlich gerne.</p>
             <p>Nachdem die Pokémons aktuell ihr grosses Comeback haben ist es nun an der Zeit, die Tamagotchis ebenfalls wieder aufleben zu lassen. Aber eben: allzu wohl sollen sie sich nun doch nicht fühlen. Schon gar nicht die Devgotchis.</p>
             <p>Wir programmieren gemeinsam unser eigenes Devgotchi welches als mobile Applikation in unserem Smartphone lebt und auf diverse Sensordaten unseres Geräts reagiert.</p>
+            <h3>Informationen zum Camp</h3>
+            <p>
+                <strong>Datum:</strong> 29. / 30. Oktober 2016<br>
+                <strong>Beginn:</strong> Samstag, 09:00 Uhr<br>
+                <strong>Ende:</strong> Sonntag, 16:00 Uhr<br>
+                <strong>Durchführungsort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs<br>
+                <strong>Kosten:</strong> CHF 50 inkl. Essen und Getränke, ohne Übernachtung<br>
+                <strong>Anmeldung:</strong> bis 31. September 2016 <a href="/camp/anmeldung/">mittels Anmeldeformular</a><br>
+                <strong>Übernachtung:</strong> es gibt ein Kontingent an vergünstigten Übernachtungsmöglichkeiten im Hotel Taucher Buchs<br>
+
+            </p>
         </div>
     </div>
     <div class="row">

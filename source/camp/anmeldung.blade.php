@@ -53,8 +53,16 @@
         <div class="col l7 m6 webpro-right">
 
             <form class="col s12" action="https://formspree.io/info@web-professionals.ch" method="POST">
-                    Ich möchte mich für das #5 Web Professionals Barcamp am 29. und 30. Oktober 2016 anmelden.
+                    <div class="row">
+                        <div class="col s12">Ich möchte mich für das #5 Web Professionals Barcamp am 29. und 30. Oktober 2016 anmelden.</div>
+                    </div>
 
+                    <div class="row">
+                        <div class="col s12">
+                            <input type="checkbox" id="hotel" name="hotel" />
+                            <label for="hotel">Bitte nehmt mit mir Kontakt auf betreffend einer Hotezimmer-Reservation.</label>
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="input-field col s6">
                             <input name="vorname" id="vorname" type="text" class="validate">
