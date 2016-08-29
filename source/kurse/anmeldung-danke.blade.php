@@ -2,7 +2,7 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Danke! | Web Professionals</title>
+    <title>Anmeldung Kurse | Web Professionals</title>
 
 @endsection
 
@@ -19,7 +19,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Jetzt erst recht!</span><br>
             <span class="webpro-hero2">Spezialisierungen</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
+            <!-- <a class="waves-effect waves-light btn webpro-red">Jetzt informieren</a> -->
         </div>
     </header>
 @endsection
@@ -43,8 +43,7 @@
                 <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
                 <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
                 <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
-                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
-                <a href="/kurse/anmeldung/">Anmeldung</a>
+                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a>
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
