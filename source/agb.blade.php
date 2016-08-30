@@ -46,19 +46,20 @@
                 Sämtliche Anmeldungen sind verbindlich.
             </p>
 
-            <h2>Kursgeld</h2>
+            <h2>Kursgebühren / Zahlungsfristen</h2>
             <p>
-                Die Kursgebühr ist innert 30 Tagen nach Erhalt der Rechnung zu bezahlen. Bei den Lehrgängen besteht die Möglichkeit zur Teilzahlung. Dabei gelten folgende Teilzahlungsoptionen:
-           </p>
-            <ul>
-                <li>Web Integrator: 50% innert 30 Tagen nach Erhalt der Rechnung, 50% innert 3 Monaten nach Lehrgangsbeginn</li>
-                <li>Web Developer / Web Designer: 25%  innert 30 Tagen nach Erhalt der Rechnung, 25 % innert 2 Monaten nach Lehrgangsbeginn, 25 % innert 4 Monaten nach Lehrgangsbeginn, 25% innert 6 Monaten nach Lehrgangsbeginn</li>
-            </ul>
-
-            <h2>Kursbestätigungen</h2>
-            <p>
-                Beim Besuch von mindestens 80% der Lektionen wird eine Kursbestätigung ausgestellt.
+                Die <strong>Kurs- resp. Lehrgangsgebühr</strong> ist bis 30 Tage vor Beginn des Kurses / Lehrgangs zu bezahlen. Bei den Lehrgängen besteht die Möglichkeit zur Teilzahlung. Dabei gelten folgende Teilzahlungsoptionen:
             </p>
+            <ul class="webpro-list">
+                <li>Web Integrator: 50% bis 30 Tage vor Beginn des Lehrgangs, 50% innert 3 Monaten nach Lehrgangsbeginn</li>
+                <li>Web Developer / Web Designer: 25% bis 30 Tage vor Beginn des Lehrgangs, 25 % innert 2 Monaten nach Lehrgangsbeginn, 25 % innert 4 Monaten nach Lehrgangsbeginn, 25% innert 6 Monaten nach Lehrgangsbeginn</li>
+            </ul>
+            <p>Bearbeitungsgebühr bei Teilzahlung: CHF 10 pro Zahlung.</p>
+            <h2>Durchführung</h2>
+            <p>
+                Für die Kurse und Lehrgänge ist eine minimale Teilnehmerzahl erforderlich. Die definitive Durchführung der Kurse und Lehrgänge wird spätesten 14 Tage vor Kurs-/Lehrgangsbeginn entschieden. Falls der Kurs/Lehrgang nicht stattfinden sollte so werden allfällig bereits bezahlte Gebühren vollumfänglich zurück erstattet.
+            </p>
+
 
             <h2>Abmeldungen</h2>
             <p>
@@ -68,6 +69,11 @@
                 Abmeldung nach Beginn: Die ganzen Kosten des entsprechenden Lehrgangs.<br>
                 <br>
                 Bei vorzeitigem Austritt erfolgt keine Rückzahlung oder Stornierung der Semesterkosten. Mit der Anmeldung erklärt sich die teilnehmende Person mit den Gebühren einverstanden.
+            </p>
+
+            <h2>Kursbestätigungen</h2>
+            <p>
+                Beim Besuch von mindestens 80% der Lektionen wird eine Kursbestätigung ausgestellt.
             </p>
 
             <h2>Gerichtsstand</h2>

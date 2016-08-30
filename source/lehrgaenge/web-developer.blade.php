@@ -48,7 +48,7 @@
                         <li><a href="#inhalte">Inhalte / Fächer</a></li>
                         <li><a href="#dauer">Dauer</a></li>
                         <li><a href="#klassen">Klassen / Durchführungsorte</a></li>
-                        <li><a href="#kosten">Kosten</a></li>
+                        <li><a href="#kosten">Kosten / Zahlungsfristen</a></li>
                         <li><a href="#termine">Termine</a></li>
                         <li><a href="#anmeldung">Anmeldung</a></li>
                     </ul>
@@ -115,10 +115,23 @@
             </div>
 
 
-            <div id="kosten" class="section scrollspy">
+            <section id="kosten" class="section scrollspy">
                 <h2>Kosten:</h2>
-                <p>CHF 5’500 Gebühr, zahlbar in 3 Raten<br>CHF 500 Prüfungsgebühr</p>
-            </div>
+                <p>
+                    Lehrgangsgebühr: CHF 5'500 <br>
+                    Prüfungsgebühr Abschlussdiplom: CHF 500
+                </p>
+            </section>
+
+            <section id="zahlungsfristen" class="section scrollspy">
+                <h2>Zahlungsfristen:</h2>
+                <p>
+                    Lehrgangsgebühr: bis 30 Tage vor Beginn der Ausbildung <br>
+                    Prüfungsgebühr Abschlussdiplom: vor Antritt der Abschlussprüfung
+                    <br><br>
+                    Hinweis: die Lehrgangsgebühr kann unter 4 Raten beglichen werden. Modalität: 25% bis 30 Tage vor Beginn des Lehrgangs, 25 % innert 2 Monaten nach Lehrgangsbeginn, 25 % innert 4 Monaten nach Lehrgangsbeginn, 25% innert 6 Monaten nach Lehrgangsbeginn. Bearbeitungsgebühr bei Teilzahlung: CHF 10 pro Zahlung.
+                </p>
+            </section>
 
             <div id="termine" class="section scrollspy">
                 <h2>Beginn:</h2>

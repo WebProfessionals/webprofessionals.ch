@@ -48,7 +48,7 @@
                         <li><a href="#inhalte">Inhalte / Fächer</a></li>
                         <li><a href="#dauer">Dauer</a></li>
                         <li><a href="#klassen">Klassen / Durchführungsorte</a></li>
-                        <li><a href="#kosten">Kosten</a></li>
+                        <li><a href="#kosten">Kosten und Zahlungsfristen</a></li>
                         <li><a href="#termine">Termine</a></li>
 
                         <li><a href="#anmeldung">Anmeldung</a></li>
@@ -121,7 +121,20 @@
 
             <section id="kosten" class="section scrollspy">
                 <h2>Kosten:</h2>
-                <p>CHF 3'100 Lehrgangsgebühr, zahlbar in 2 Raten<br>CHF 300 Prüfungsgebühr</p>
+                <p>
+                    Lehrgangsgebühr: CHF 3'100 <br>
+                    Prüfungsgebühr Abschlussdiplom: CHF 300
+                </p>
+            </section>
+
+            <section id="zahlungsfristen" class="section scrollspy">
+                <h2>Zahlungsfristen:</h2>
+                <p>
+                    Lehrgangsgebühr: bis 30 Tage vor Beginn der Ausbildung <br>
+                    Prüfungsgebühr Abschlussdiplom: vor Antritt der Abschlussprüfung
+                    <br><br>
+                    Hinweis: die Lehrgangsgebühr kann unter 2 Raten beglichen werden. Modalität: 50% bis 30 Taqe vor Beginn der Ausbildung, 50% 3 Monate nach Beginn der Ausbildung. Bearbeitungsgebühr bei Teilzahlung: CHF 10 pro Zahlung.
+                </p>
             </section>
 
             <section id="termine" class="section scrollspy">
