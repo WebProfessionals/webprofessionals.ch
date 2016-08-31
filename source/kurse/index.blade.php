@@ -40,7 +40,7 @@
                 'part2'    =>  'Kurse'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
-                <a href="/kurse/einfuehrung-in-polymer-project/">Einführung in Polymer Project</a><br>
+                <a href="/kurse/hands-on-workshop-polymer-project/">Hands on workshop Polymer</a><br>
                 <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
                 <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
                 <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
@@ -61,8 +61,12 @@
                     <th data-field="price">Ort</th>
                 </tr>
                 </thead>
-
                 <tbody>
+                <tr>
+                    <td><a href="/kurse/hands-on-workshop-polymer-project/">Hands on workshop Polymer</a></td>
+                    <td>9. Nov 16</td>
+                    <td>Grabs</td>
+                </tr>
                 <tr>
                     <td><a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a></td>
                     <td>Nov 16</td>
