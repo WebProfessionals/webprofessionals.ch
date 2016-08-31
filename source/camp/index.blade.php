@@ -49,6 +49,10 @@
                 <a href="/camp/anmeldung/">Anmeldung</a><br>
                 <a href="/camp/sponsoring/">Sponsoring</a><br>
             </nav>
+            <span class="show-on-medium-and-up">
+            <br><br><img class="responsive-img" src="/images/camp/logo-camp-2016-herbst.png">
+            </span>
+
         </div>
         <div class="col l7 m6 webpro-right">
             <p>Das Web Professionals Barcamp findet halbjährlich statt und wurde schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
