@@ -60,7 +60,7 @@
                             <option value="eigene Stock Fotos erstellen, Start Herbst 2016, Grabs SG">eigene Stock Fotos erstellen, Start Herbst 2016, Grabs SG</option>
                         </select>
                         <label>Ich möchte mich zu folgendem Kurs anmelden:</label>
-                        <input type="checkbox" id="agb" name="agb" required="required" />
+                        <input type="checkbox" id="agb" name="agb" required />
                         <label for="agb">Ich bestätige, dass ich die <a href="#">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
                     </div>
                 </div>

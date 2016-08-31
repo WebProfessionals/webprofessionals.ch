@@ -82,7 +82,7 @@
                 <h2>Voraussetzungen Knowhow:</h2>
                 <ul class="webpro-list">
                     <li>gute HTML Kenntnisse</li>
-                    <li>minimale HTML Kenntnisse</li>
+                    <li>minimale CSS Kenntnisse</li>
                     <li>minimale JavaScript Kenntnisse</li>
                 </ul>
                 <h2>Voraussetzungen Arbeitsumgebung:</h2>
