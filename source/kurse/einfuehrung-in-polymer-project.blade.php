@@ -41,12 +41,16 @@
                     'part2'    =>  'Polymer'
                 ])
                 <nav class="webpro-nav-lvl2">
-                    <a class="webpro-subnav-active" href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
+                    <a class="webpro-subnav-active"  href="/kurse/einfuehrung-in-polymer-project/">Einführung in Polymer Project</a><br>
+                    <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
                     <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
                     <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
                     <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
                     <a href="/kurse/anmeldung/">Anmeldung</a>
                 </nav>
+                <span class="show-on-medium-and-up">
+                    <br><br><img class="responsive-img" src="/images/kurse/polymer-project-logo.png">
+                </span>
             </div>
             <div class="hide-on-med-and-up">
                 @include('_partials.header1', [
@@ -65,21 +69,36 @@
                 <h2>Inhalte:</h2>
                 <ul class="webpro-list">
                     <li>Get set up - die Basisinstallation</li>
-                    <li>Custom Elements</li>
+                    <li>Einführung in Polymer</li>
+                    <li>Einführung in Polymer Toolset</li>
+                    <li>Verwenden von Polymer</li>
+                    <li>Erstellen eigener Komponenten</li>
+                    <li>Erstellen einer App/Page mit Polymer</li>
+                    <li>Publizieren der App/Page</li>
                 </ul>
             </div>
 
             <div id="dauer" class="section scrollspy">
-                <h2>Voraussetzungen:</h2>
+                <h2>Voraussetzungen Knowhow:</h2>
                 <ul class="webpro-list">
-                    <li>gute HTML und CSS Kenntnisse</li>
-                    <li>gute JavaScript Kenntnisse</li>
+                    <li>gute HTML Kenntnisse</li>
+                    <li>minimale HTML Kenntnisse</li>
+                    <li>minimale JavaScript Kenntnisse</li>
+                </ul>
+                <h2>Voraussetzungen Arbeitsumgebung:</h2>
+                <ul class="webpro-list">
+                    <li>eigenes Notebook</li>
+                    <li>funktionierendes npm und bower</li>
                 </ul>
             </div>
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten:</h2>
                 <p>2 Kursabende à 4 Lektionen (Total 8 Lektionen).</p>
+                <p>
+                    Mittwoch, 9.11.2016, 18:15 Uhr - 21:30 Uhr<br>
+                    Mittwoch, 16.11.2016, 18:15 Uhr - 21:30 Uhr
+                </p>
             </div>
 
             <div id="kosten" class="section scrollspy">

@@ -50,7 +50,7 @@
                 <a href="/camp/sponsoring/">Sponsoring</a><br>
             </nav>
             <span class="show-on-medium-and-up">
-            <br><br><img class="responsive-img" src="/images/camp/logo-camp-2016-herbst.png">
+                <br><br><img class="responsive-img" src="/images/camp/logo-camp-2016-herbst.png">
             </span>
 
         </div>

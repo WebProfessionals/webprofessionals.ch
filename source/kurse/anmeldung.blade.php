@@ -40,6 +40,7 @@
                 'part2'    =>  'Kurse'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
+                <a href="/kurse/einfuehrung-in-polymer-project/">Einführung in Polymer Project</a><br>
                 <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
                 <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
                 <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
@@ -52,13 +53,14 @@
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Kurs auswählen</option>
+                            <option value="Einführung in Polymer Project, Start Herbst 2016, Grabs SG">Einführung in Polymer Project, Start Herbst 2016, Grabs SG</option>
                             <option value="Einführung in AngularJS, Start Herbst 2016, Grabs SG">Einführung in AngularJS, Start Herbst 2016, Grabs SG</option>
                             <option value="Einführung in Laravel, Start Herbst 2016, Grabs SG">Einführung in Laravel, Start Herbst 2016, Grabs SG</option>
                             <option value="WordPress Themes programmieren, Start Herbst 2016, Grabs SG">WordPress Themes programmieren, Start Herbst 2016, Grabs SG</option>
                             <option value="eigene Stock Fotos erstellen, Start Herbst 2016, Grabs SG">eigene Stock Fotos erstellen, Start Herbst 2016, Grabs SG</option>
                         </select>
                         <label>Ich möchte mich zu folgendem Kurs anmelden:</label>
-                        <input type="checkbox" id="agb" name="agb" />
+                        <input type="checkbox" id="agb" name="agb" required="required" />
                         <label for="agb">Ich bestätige, dass ich die <a href="#">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
                     </div>
                 </div>

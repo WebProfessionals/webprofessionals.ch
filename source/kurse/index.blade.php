@@ -40,7 +40,7 @@
                 'part2'    =>  'Kurse'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
-                <!-- <a href="/kurse/einfuehrung-in-polymer-project/">Einführung in Polymer Project</a><br> -->
+                <a href="/kurse/einfuehrung-in-polymer-project/">Einführung in Polymer Project</a><br>
                 <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
                 <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
                 <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
