@@ -4,6 +4,7 @@
 @section('header')
     <title>Veranstaltungen | Web Professionals</title>
     <meta name="description" content="Bleib mit unseren regelmässigen öffentlichen Veranstaltungen auf dem Laufenden. Infoanlässe, Referate, Barcamps, Kurse und vielem mehr.">
+    <meta property="og:image" content="https://web-professionals.ch/images/sharing/web-professionals.jpg" />
 @endsection
 
 {{-- Hero Unit on Top --}}

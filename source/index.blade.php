@@ -4,6 +4,7 @@
 @section('header')
     <title>Web Professionals - Die Aus- und Weiterbildung für Web Profis</title>
     <meta name="description" content="Die Ausbildung für Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen.">
+    <meta property="og:image" content="https://web-professionals.ch/images/sharing/web-professionals.jpg" />
 @endsection
 
 {{-- Hero Unit on Top --}}
