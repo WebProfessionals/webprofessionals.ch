@@ -18,7 +18,7 @@
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Polymer Project</span><br>
-            <span class="webpro-hero2">build a better web</span><br><br>
+            <span class="webpro-hero2">#UseThePlatform to build a better web</span><br><br>
             <a class="waves-effect waves-light btn webpro-red" href="/kurse/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
