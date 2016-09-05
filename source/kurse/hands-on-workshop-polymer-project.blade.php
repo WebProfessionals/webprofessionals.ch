@@ -37,7 +37,7 @@
         <div class="col l5 m5 s12 webpro-left">
             <div class="webpro-pushpin-left hide-on-small-only">
                 @include('_partials.header1', [
-                    'part1'    =>  'Hnads-on',
+                    'part1'    =>  'Hands-on',
                     'part2'    =>  'Polymer'
                 ])
                 <nav class="webpro-nav-lvl2">
