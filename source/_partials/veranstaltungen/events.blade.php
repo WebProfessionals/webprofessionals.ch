@@ -3,27 +3,6 @@
         <div class="card-stacked">
             <div class="card-content white-text">
                 <i class="material-icons right">info_outline</i>
-                <span class="card-events-day">Dienstag</span><br>
-                <span class="card-events-date" itemprop="startDate" content="2016-09-06T19:00">6. September 2016</span><br>
-                19:00 - 20:00 Uhr<br>
-                <br>
-                <span class="card-events-title" itemprop="name"><strong>Informationsanlass in Sargans SG</strong></span><br>
-                <span class="card-events-title" itemprop="description">Zimmer 406.</span><br>
-                <br>
-                @include('_partials.veranstaltungen.ibwsargans')
-            </div>
-            <div class="card-action">
-                <a class="white-text" itemprop="url" href="https://www.facebook.com/events/1147172735354977/" target="_blank">Facebook Event</a>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="col l4 m6 s12">
-    <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
-        <div class="card-stacked">
-            <div class="card-content white-text">
-                <i class="material-icons right">info_outline</i>
                 <span class="card-events-day">Mittwoch</span><br>
                 <span class="card-events-date" itemprop="startDate" content="2016-09-07T19:00">7. September 2016</span><br>
                 19:00 - 20:00 Uhr<br>
@@ -98,6 +77,27 @@
             </div>
             <div class="card-action">
                 <a class="white-text" itemprop="url" href="https://www.facebook.com/events/321445331537727/" target="_blank">Facebook Event</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col l4 m6 s12">
+    <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
+        <div class="card-stacked">
+            <div class="card-content white-text">
+                <i class="material-icons right">info_outline</i>
+                <span class="card-events-day">Dienstag</span><br>
+                <span class="card-events-date" itemprop="startDate" content="2016-09-20T19:00">20. September 2016</span><br>
+                19:00 - 20:00 Uhr<br>
+                <br>
+                <span class="card-events-title" itemprop="name"><strong>Informationsanlass in Sargans SG</strong></span><br>
+                <span class="card-events-title" itemprop="description">Zimmer 403</span><br>
+                <br>
+                @include('_partials.veranstaltungen.ibwsargans')
+            </div>
+            <div class="card-action">
+                <a class="white-text" itemprop="url" href="https://www.facebook.com/events/1147172735354977/" target="_blank">Facebook Event</a>
             </div>
         </div>
     </div>
