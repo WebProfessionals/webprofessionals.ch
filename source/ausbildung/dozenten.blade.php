@@ -204,27 +204,12 @@
         <div class="col l4 m6 s12">
             <div class="card medium">
                 <div class="card-image">
-                    <img src="/images/dozenten/dummy.jpg">
-                </div>
-                <div class="card-content">
-                    <span class="card-title">Name</span>
-                    <p>
-                        Fotografin<br><br>
-                        <img src="/images/webpro-icon-14.gif"> Fotografie
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col l4 m6 s12">
-            <div class="card medium">
-                <div class="card-image">
-                    <img src="/images/dozenten/dummy.jpg">
+                    <img src="/images/dozenten/michi-jaeger.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title">Michael Jäger</span>
                     <p>
-                        Gründer und Geschäftsleiter Jäger + Gejagte<br><br>
+                        Projektleiter Webstobe GmbH<br><br>
                         <img src="/images/webpro-icon-14.gif"> Konzeption
                     </p>
                 </div>
@@ -249,7 +234,7 @@
         <div class="col l4 m6 s12">
             <div class="card medium">
                 <div class="card-image">
-                    <img src="/images/dozenten/dummy.jpg">
+                    <img src="/images/dozenten/stefan-baur.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title">Stefan Baur</span>
@@ -264,7 +249,7 @@
         <div class="col l4 m6 s12">
             <div class="card medium">
                 <div class="card-image">
-                    <img src="/images/dozenten/dummy.jpg">
+                    <img src="/images/dozenten/marc-illien.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title">Marc Illien</span>
