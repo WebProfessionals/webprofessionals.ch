@@ -58,7 +58,7 @@
 
             <h2>Web Professional Barcamps.</h2>
             <p>
-                Die halbjährlich stattfindenden Barcamps widmen sich jeweils einem aktuellen Thema welches in einer Un-Konferenz behandelt wird. Das nächste Web Professional Barcamp findet am 6. und 7. März 2015 statt. Das Thema ist noch offen.
+                Die <a href="/camp/">halbjährlich stattfindenden Barcamps</a> widmen sich jeweils einem aktuellen Thema welches in einer Un-Konferenz behandelt wird. Das nächste Web Professional Barcamp findet am 6. und 7. März 2015 statt. Das Thema ist noch offen.
             </p>
 
             <h2>Web Professional Lab.</h2>

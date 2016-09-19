@@ -171,6 +171,27 @@
     <div class="card small" itemscope itemtype="http://schema.org/Event">
         <div class="card-stacked">
             <div class="card-content">
+                <i class="material-icons right">bug_report</i>
+                <span class="card-events-day">Dienstag</span><br>
+                <span class="card-events-date" itemprop="startDate" content="2016-10-25T18:30">25. Oktober 2016</span><br>
+                18:30 - 21:15 Uhr<br>
+                <br>
+                <span class="card-events-title" itemprop="name"><strong>Lab#2.1</strong></span><br>
+                <span class="card-events-title" itemprop="description">Prototyping für Barcamp#5</span><br>
+                <br>
+                @include('_partials.veranstaltungen.techfabrik')
+            </div>
+            <div class="card-action">
+                <a href="/camp/">zum Camp</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col l4 m6 s12">
+    <div class="card small" itemscope itemtype="http://schema.org/Event">
+        <div class="card-stacked">
+            <div class="card-content">
                 <i class="material-icons right">school</i>
                 <span class="card-events-day">Freitag</span><br>
                 <span class="card-events-date" itemprop="startDate" content="2016-10-28T18:00">28. Oktober 2016</span><br>
@@ -220,7 +241,7 @@
                 <span class="card-events-date" itemprop="startDate" content="2016-11-05T08:15">5. November 2016</span><br>
                 08:00 - 13:30 Uhr<br>
                 <br>
-                <span class="card-events-title" itemprop="name"><strong>Eröffnungsveranstaltung Integrator</strong></span><br>
+                <span class="card-events-title" itemprop="name"><strong>Eröffnungsveranstaltung Web Integrator</strong></span><br>
                 <span class="card-events-title" itemprop="description">alle Klassen gemeinsam</span><br>
                 <br>
                 @include('_partials.veranstaltungen.ibwsargans')
