@@ -82,15 +82,13 @@
                 <ul class="webpro-list">
                     <li>Grundlagen Internet, Funktionsweise</li>
                     <li>Entwicklungsumgebungen</li>
-                    <li>HTML / HTML5</li>
+                    <li>HTML / HTML5 Grundlagen</li>
                     <li>CSS / CSS3 Einführung</li>
-                    <li>Javascript Einführung</li>
-                    <li>Ajax / jQuery</li>
-                    <li>PHP Grundlagen</li>
+                    <li>Grundlagen Programmierung für das Internet (PHP/JS)</li>
                     <li>CMS Grundlagen, Grundlagen Theme-Entwicklung für WordPress</li>
                     <li>Drupal Einführung</li>
                     <li>Grundlagen Gestaltungslehre</li>
-                    <li>Adobe Photoshop Grundlagen</li>
+                    <li>Bildbearbeitung Grundlagen (Affinity Photo/Designer)</li>
                     <li>Workshop 1 (HTML)</li>
                     <li>Workshop 2 (Projekt)</li>
                 </ul>
