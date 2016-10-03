@@ -136,9 +136,9 @@
             </section>
 
             <section id="termine" class="section scrollspy">
-                <h2>Anmeldeschluss:</h2>
+                <!-- <h2>Anmeldeschluss:</h2>
                 <p>30. September 2016</p>
-
+                -->
                 <h2>Termin Eröffnungsveranstaltung:</h2>
                 <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Grabs, Chur, Rapperswil) am Samstag, 5. November 2016 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt</p>
 
