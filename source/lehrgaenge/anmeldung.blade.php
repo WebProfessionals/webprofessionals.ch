@@ -52,7 +52,7 @@
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Lehrgang auswählen</option>
-                            <option value="Web Integrator, Start Herbst 2016, Grabs SG">Web Integrator, Start Herbst 2016, Sargans SG</option>
+                            <option value="Web Integrator, Start Herbst 2016, Sargans SG">Web Integrator, Start Herbst 2016, Sargans SG</option>
                             <!-- <option value="Web Integrator, Start Herbst 2016, Grabs SG">Web Integrator, Start Herbst 2016, Grabs SG</option>
                             <option value="Web Integrator, Start Herbst 2016, Rapperswil SG">Web Integrator, Start Herbst 2016, Rapperswil SG</option>
                             <option value="Web Integrator, Start Herbst 2016, Chur GR">Web Integrator, Start Herbst 2016, Chur GR</option> -->
