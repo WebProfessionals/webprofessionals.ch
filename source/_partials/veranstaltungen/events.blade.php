@@ -145,7 +145,7 @@
         </div>
     </div>
 </div>
--->
+
 <div class="col l4 m6 s12">
     <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
         <div class="card-stacked">
@@ -166,7 +166,7 @@
         </div>
     </div>
 </div>
-
+-->
 <div class="col l4 m6 s12">
     <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
         <div class="card-stacked">

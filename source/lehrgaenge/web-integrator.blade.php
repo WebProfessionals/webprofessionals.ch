@@ -114,7 +114,8 @@
                     <strong>Klasse Graubünden / Chur:</strong> ibW Chur, Gürtelstrasse 48 Gleis d, 7001 Chur<br>
                     <strong>Unterrichtszeiten:</strong> Montag 18.00 bis 21.15 Uhr, Mittwoch 18.00 bis 21.15 Uhr
                 </p>
-                <p>Hinweis: die definitiven Unterrichtszeiten können auf Wunsch und in Absprache mit der jeweiligen Klasse leicht angepasst werden.</p>
+                <!-- <p>Hinweis: die definitiven Unterrichtszeiten können auf Wunsch und in Absprache mit der jeweiligen Klasse leicht angepasst werden.</p> -->
+                    <p>Hinweis: Aufgrund der bisherigen Teilnehmerzahl werden dieses Semester die drei Klassen zusammen gelegt und am Freitag Abend / Samstag Vormittag in Sargans (ibW Höhere Fachschule Südostschweiz, Bahnhofpark) durchgeführt. </p>
             </section>
 
             <section id="kosten" class="section scrollspy">
