@@ -76,12 +76,12 @@
                 </div>
                 <div class="row">
                     <div class="col s6">
-                        <img class="responsive-img" src="/images/camp/sponsoren/exigo_claim.png">
+                        <img class="responsive-img" src="/images/camp/sponsoren/rii-seez-net.png">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col s6">
-                        <img class="responsive-img" src="/images/camp/sponsoren/rii-seez-net.png">
+                        <img class="responsive-img" src="/images/camp/sponsoren/exigo_claim.png">
                     </div>
                 </div>
                 <div class="row">
