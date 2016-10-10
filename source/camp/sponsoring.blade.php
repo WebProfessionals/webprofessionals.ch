@@ -101,7 +101,7 @@
                 <li>Möglichkeit zur Platzierung von bis zu zwei Rollout Display sowie weiterem Werbematerial am Anlass</li>
                 <li>kostenlose Teilnahme von 2 Personen am Camp</li>
             </ul>
-            <p><strong>Beitrag:</strong> CHF 2'000</p>
+            <p><strong>Beitrag:</strong> CHF 1'000</p>
             <br>
             <h2 class="webpro">Essens-Sponsor</h2>
             <p><strong>Leistungen:</strong></p>
@@ -110,19 +110,18 @@
                 <li>Möglichkeit zur Platzierung von einem Rollout Display am Anlass</li>
                 <li>kostenlose Teilnahme von 1 Person am Camp</li>
             </ul>
-            <p><strong>Beitrag:</strong> CHF 600</p>
+            <p><strong>Beitrag:</strong> CHF 400</p>
             <br>
             <h2 class="webpro">Getränke-Sponsor</h2>
             <p><strong>Leistungen:</strong></p>
             <ul class="webpro-list">
                 <li>Platzierung des Logos auf der Webseite, den Drucksachen sowie am Anlass selbst</li>
             </ul>
-            <p><strong>Beitrag:</strong> CHF 400</p>
-            <br>
+            <p><strong>Beitrag:</strong> CHF 300</p>            <br>
             <h2 class="webpro">Kaffee-Sponsor</h2>
             <p><strong>Leistungen:</strong></p>
             <ul class="webpro-list">
-                <li>Erwähnung auf der Webseite, den Drucksachen sowie am Anlass selbst</li>
+                <li>Erwähnung auf der Webseite sowie am Anlass selbst</li>
             </ul>
             <p><strong>Beitrag:</strong> CHF 200</p>
             <br>
