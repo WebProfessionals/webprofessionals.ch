@@ -64,7 +64,7 @@
             <p>Des Developers ärgster Feind sind weder Spinnen noch Schlangen sondern <strong>Bugs</strong>. Ein Devgotchi sieht aus wie ein Käfer und ist ein Tamagotchi, welches man weder streicheln noch füttern will. Man kann es sich auch in etwa wie ein Mogwai vorstellen, welches entweder dem Sonnenlicht ausgesetzt oder nass wurde oder nach Mitternacht gefressen hat. Jedenfalls haben wir es nicht sonderlich gerne.</p>
             <p>Nachdem die Pokémons aktuell ihr grosses Comeback haben ist es nun an der Zeit, die Tamagotchis ebenfalls wieder aufleben zu lassen. Aber eben: allzu wohl sollen sie sich nun doch nicht fühlen. Schon gar nicht die Devgotchis.</p>
             <p>Wir programmieren gemeinsam unser eigenes Devgotchi welches als mobile Applikation in unserem Smartphone lebt und auf diverse Sensordaten unseres Geräts reagiert.</p>
-            <p><strong>Hinweis: </strong>Obwohl es sich eher wie ein Hackathon anhört ist der Anlass doch ganz klar als Barcamp zu verstehen. Es gibt keinen vordefinierten Development-Plan und die einzelnen Sessions richten sich nach der Frage "was gehört zur Entwicklung einer App dieser Art dazu?". Vor- und nachbereitend zum Barcamp wird das Thema in einem Web Professionals Lab behandelt. Dieses Lab wird in den nächsten Tagen angekündigt.</p>
+            <p><strong>Hinweis: </strong>Camp#5 ist eine Mischung aus Barcamp und Hackaton. Es gibt keinen vordefinierten Development-Plan und die einzelnen Sessions richten sich nach der Frage "was gehört zur Entwicklung einer App dieser Art dazu?".</p>
 
             <h3>Informationen zum Camp</h3>
             <p>
