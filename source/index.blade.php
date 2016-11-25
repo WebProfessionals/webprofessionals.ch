@@ -68,16 +68,16 @@
     <div class="row">
         <!-- Card Start -->
         <div class="col l7">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/camp/'>
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-10-30-hackaton-1-devgotchi/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/camp_2016_autumn.jpg" alt="Web Professionals Barcamp 2016" title="Web Professionals Barcamp 2016">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">#5 Web Professionals Barcamp 2016</span>
-                    <p>Die Devgotchis sind frei! Das fünfte Web Professionals Barcamp findet am 29./30.10.2016 statt - sichere dir jetzt einen Platz!</p>
+                    <span class="card-title">#1 Web Professionals Hackaton 2016</span>
+                    <p>Die Devgotchis sind frei! Der erste Web Professionals Hackaton fand am 29./30.10.2016 statt!</p>
                 </div>
                 <div class="card-action">
-                    <a class="white-text" href="/camp/">mehr dazu auf der Camp-Seite</a>
+                    <a class="white-text" href="/aktuelles/2016-10-30-hackaton-1-devgotchi/">mehr</a>
                 </div>
             </div>
         </div>
