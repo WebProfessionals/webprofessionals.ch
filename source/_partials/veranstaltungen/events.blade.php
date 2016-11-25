@@ -187,7 +187,7 @@
         </div>
     </div>
 </div>
--->
+
 <div class="col l4 m6 s12">
     <div class="card small" itemscope itemtype="http://schema.org/Event">
         <div class="card-stacked">
@@ -247,7 +247,7 @@
             </div>
             <div class="card-action">
                 <a itemprop="url" href="/camp/">weitere Infos</a>
-                <!-- <a href="https://www.facebook.com/events/1771274006420996/" target="_blank">Facebook Event</a> -->
+
             </div>
         </div>
     </div>
@@ -273,7 +273,7 @@
         </div>
     </div>
 </div>
-
+-->
 <div class="col l4 m6 s12">
     <div class="card small" itemscope itemtype="http://schema.org/Event">
         <div class="card-stacked">
