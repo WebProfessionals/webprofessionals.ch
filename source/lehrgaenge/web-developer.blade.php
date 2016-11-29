@@ -135,7 +135,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Beginn:</h2>
-                <p>28. Oktober 2016</p>
+                <p>Oktober/November 2017</p>
 <!--
                 <h2>Anmeldeschluss:</h2>
                 <p>30. September 2016</p>

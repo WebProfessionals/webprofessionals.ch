@@ -115,7 +115,7 @@
                     <strong>Unterrichtszeiten:</strong> Montag 18.00 bis 21.15 Uhr, Mittwoch 18.00 bis 21.15 Uhr
                 </p>
                 <!-- <p>Hinweis: die definitiven Unterrichtszeiten können auf Wunsch und in Absprache mit der jeweiligen Klasse leicht angepasst werden.</p> -->
-                    <p>Hinweis: Aufgrund der bisherigen Teilnehmerzahl werden dieses Semester die drei Klassen zusammen gelegt und am Freitag Abend / Samstag Vormittag in Sargans (ibW Höhere Fachschule Südostschweiz, Bahnhofpark) durchgeführt. </p>
+                <!--    <p>Hinweis: Aufgrund der bisherigen Teilnehmerzahl werden dieses Semester die drei Klassen zusammen gelegt und am Freitag Abend / Samstag Vormittag in Sargans (ibW Höhere Fachschule Südostschweiz, Bahnhofpark) durchgeführt. </p> -->
             </section>
 
             <section id="kosten" class="section scrollspy">
@@ -141,10 +141,10 @@
                 <p>30. September 2016</p>
                 -->
                 <h2>Termin Eröffnungsveranstaltung:</h2>
-                <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Grabs, Chur, Rapperswil) am Samstag, 5. November 2016 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt</p>
+                <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Grabs, Chur, Rapperswil) am Samstag, 29. April 2017 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt</p>
 
                 <h2>Termin Diplomprüfung:</h2>
-                <p>Samstag 18. März 2017, 09.00 Uhr in Sargans (ibW Bahnhofpark)</p>
+                <p>Samstag 23. September 2017, 09.00 Uhr in Sargans (ibW Bahnhofpark)</p>
             </section>
 
 

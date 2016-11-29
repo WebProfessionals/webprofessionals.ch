@@ -52,16 +52,16 @@
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Lehrgang auswählen</option>
-                            <option value="Web Integrator, Start Herbst 2016, Sargans SG">Web Integrator, Start Herbst 2016, Sargans SG</option>
-                            <!-- <option value="Web Integrator, Start Herbst 2016, Grabs SG">Web Integrator, Start Herbst 2016, Grabs SG</option>
-                            <option value="Web Integrator, Start Herbst 2016, Rapperswil SG">Web Integrator, Start Herbst 2016, Rapperswil SG</option>
-                            <option value="Web Integrator, Start Herbst 2016, Chur GR">Web Integrator, Start Herbst 2016, Chur GR</option> -->
-                            <option value="Web Developer, Start Herbst 2016, Grabs SG">Web Developer, Start Herbst 2016, Grabs SG</option>
-                            <option value="Web Developer, Start Herbst 2016, Rapperswil SG">Web Developer, Start Herbst 2016, Rapperswil SG</option>
-                            <option value="Web Designer, Start Herbst 2016, Grabs SG">Web Designer, Start Herbst 2016, Grabs SG</option>
+                            <!-- <option value="Web Integrator, Start Herbst 2016, Sargans SG">Web Integrator, Start Frühling 2017, Sargans SG</option> -->
+                            <option value="Web Integrator, Start Frühling 2017, Grabs SG">Web Integrator, Start Frühling 2017, Grabs SG</option>
+                            <option value="Web Integrator, Start Frühling 2017, Rapperswil SG">Web Integrator, Start Frühling 2017, Rapperswil SG</option>
+                            <option value="Web Integrator, Start Frühling 2017, Chur GR">Web Integrator, Start Frühling 2017, Chur GR</option>
+                            <option value="Web Developer, Start Herbst 2017, Grabs SG">Web Developer, Start Herbst 2017, Grabs SG</option>
+                            <option value="Web Developer, Start Herbst 2017, Rapperswil SG">Web Developer, Start Herbst 2017, Rapperswil SG</option>
+                            <option value="Web Designer, Start Herbst 2017, Grabs SG">Web Designer, Start Herbst 2017, Grabs SG</option>
                         </select>
                         <label>Ich möchte mich zu folgendem Lehrgang anmelden:</label>
-                        <p>Hinweis: Aufgrund der minimalen Teilnehmerzahl werden dieses Semester die Integrator-Lehrgänge zusammengefasst. Der Lehrgang findet jeweils Fr (18:15-21:30) und Sa (09:00-12:15) an der ibW Höheren Fachschule Südostschweiz am Bahnhofpark in Sargans statt.</p>
+                        <!-- <p>Hinweis: Aufgrund der minimalen Teilnehmerzahl werden dieses Semester die Integrator-Lehrgänge zusammengefasst. Der Lehrgang findet jeweils Fr (18:15-21:30) und Sa (09:00-12:15) an der ibW Höheren Fachschule Südostschweiz am Bahnhofpark in Sargans statt.</p> -->
                         <input type="checkbox" id="agb" name="agb" required />
                         <label for="agb">Ich bestätige, dass ich die <a href="#">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
                     </div>
