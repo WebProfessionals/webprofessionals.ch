@@ -201,17 +201,21 @@
             </div>
         </div>
 
+
         <div class="col l4 m6 s12">
+
             <div class="card medium">
-                <div class="card-image">
-                    <img src="/images/dozenten/michi-jaeger.jpg">
+                <div class="card-image waves-effect waves-block waves-light">
+                    <img class="activator" src="/images/dozenten/michi-jaeger.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Michael Jäger</span>
-                    <p>
-                        Projektleiter Webstobe GmbH<br><br>
-                        <img src="/images/webpro-icon-14.gif"> Konzeption
-                    </p>
+                    <span class="card-title activator grey-text text-darken-4">Michael Jäger<i class="material-icons right">more_vert</i></span>
+                    <p>Projektleiter Webstobe GmbH<<br><br><img src="/images/webpro-icon-14.gif"> Konzeption</p>
+                </div>
+                <div class="card-reveal">
+                    <span class="card-title grey-text text-darken-4">Michael Jäger<i class="material-icons right">close</i></span>
+                    <p>Michael Jäger ist Berater und Projektleiter für Online Marketing mit messianischer Veranlagung: Er glaubt an Daten und an nichts als an Daten. SEO, SEA, Facebook und Konsorten haben für ihn alle Berechtigung, solange sie direkt erfolgswirksam sind. Sein BWL-Hintergrund führt damit den Hype auf die Basis der Lebenswirklichkeit von Unternehmen zurück: Geld verdienen.</p>
+                    <p>Nach einer langen Sozialisierungsphase in Deutschland ist er zum Studium in die Schweiz zurück gekehrt und war lange Jahre selbständig, bis er sich in eine Teilzeitanstellung zurück zog. Seine Besessenheit von allem Kulinarischen nimmt gelegentlich pathologische Züge an.</p>
                 </div>
             </div>
         </div>
