@@ -63,12 +63,12 @@
                     <p>Absolventin Web Integrator 2016</p>
                 </div>
                 <div class="card-reveal">
-                    <span class="card-title grey-text text-darken-4">Michael Flück<i class="material-icons right">close</i></span>
+                    <span class="card-title grey-text text-darken-4">Melanie Bernhard<i class="material-icons right">close</i></span>
                     <p>
                         <strong>bisheriger Beruf:</strong> Sales Support (Finanzbranche)
                     </p>
                     <p>
-                        <strong>derzeitige Aufgabe:</strong> Online Managerin
+                        <strong>derzeitige Aufgabe:</strong> Online Managerin Läderach chocolatier suisse
                     </p>
                     <p>
                         <strong>Was gefällt dir bei den Web Professionals besonders?</strong> Die Web Professionals sind Netzwerker. Sie bilden nicht nur aus, sie verbinden Menschen. Auf verschiedenen Wegen (Camp, Web Pro & Friends, Lab, Unterricht) bietet sich stets die Möglichkeit mit Dozenten, Firmenpersönlichkeiten, Fachpersonen und anderen Schülern in Kontakt zu treten.
