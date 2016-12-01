@@ -50,7 +50,45 @@
 
     </div>
     <div class="row">
+
         <div class="col l6 m6 s12">
+
+
+            <div class="card">
+                <div class="card-image waves-effect waves-block waves-light">
+                    <img class="activator" src="/images/testimonials/melanie_bernhard.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title activator grey-text text-darken-4">Melanie Bernhard<i class="material-icons right">more_vert</i></span>
+                    <p>Absolventin Web Integrator 2016</p>
+                </div>
+                <div class="card-reveal">
+                    <span class="card-title grey-text text-darken-4">Michael Flück<i class="material-icons right">close</i></span>
+                    <p>
+                        <strong>bisheriger Beruf:</strong> Sales Support (Finanzbranche)
+                    </p>
+                    <p>
+                        <strong>derzeitige Aufgabe:</strong> Online Managerin
+                    </p>
+                    <p>
+                        <strong>Was gefällt dir bei den Web Professionals besonders?</strong> Die Web Professionals sind Netzwerker. Sie bilden nicht nur aus, sie verbinden Menschen. Auf verschiedenen Wegen (Camp, Web Pro & Friends, Lab, Unterricht) bietet sich stets die Möglichkeit mit Dozenten, Firmenpersönlichkeiten, Fachpersonen und anderen Schülern in Kontakt zu treten.
+                    </p>
+                    <p>
+                        <strong>Wie haben dich die Web Professionals beruflich weitergebracht?</strong> Durch die Web Professionals konnte ich mir einen Praktikumplatz bei Läderach chocolatier suisse ergattern. Während der Praktikumszeit konnte ich weiter vom Wissen der Web Professionals profitieren und wurde von Dozenten durch das Praktikum begleitet. Dank des Praktikums habe ich heute meinen Traumjob, im Traumbereich :)
+                    </p>
+                    <p>
+                        <strong>Wieso würdest du die Web Professionals weiterempfehlen?</strong> Top Unterricht. Top Dozenten. Top Netzwerk. Die Web Professionals geben dir das Gefühl ein Teil einer Community zu sein und das auf selber Wellenlänge.
+                    </p>
+                    <p>
+                        <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong> Online Marketing. Ich hatte zuvor eine Ausbildung als Marketing Managerin absolviert und wollte mir zusätzlich ein Web-Wissen aufbauen.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col l6 m6 s12">
+
 
             <div class="card">
                 <div class="card-image waves-effect waves-block waves-light">
@@ -63,19 +101,24 @@
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Michael Flück<i class="material-icons right">close</i></span>
                     <p>
-                        <strong>bisheriger Beruf:</strong> Elektroplaner<br>
-                        <strong>derzeitige Aufgabe:</strong> Web Developer bei Somedia<br>
-                        <br>
-                        <strong>Was gefällt dir bei den Web Professionals besonders?</strong><br>
-                        Das praxisorientierte Lernen mit Freude.<br>
-                        <br>
-                        <strong>Wie haben dich die Web Professionals beruflich weitergebracht?</strong><br>
-                        Dank diesen Lehrgängen bin ich um ein längeres Studium herum gekommen und habe schnell den Einstieg in die Branche gemeistert.<br><br>
-                        <strong>Wieso würdest du die Web Professionals weiterempfehlen?</strong>
-                        Weil es mit Freude leichter ist etwas zulernen und weil einfach alles geili Sieche sind =)<br><br>
-                        <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong><br>
-                        Aus dem grauen Alltag zu entfliehen und teil der Zukunft zu werden.
+                        <strong>bisheriger Beruf:</strong> Elektroplaner
                     </p>
+                    <p>
+                        <strong>derzeitige Aufgabe:</strong> Web Developer bei Somedia
+                    </p>
+                    <p>
+                        <strong>Was gefällt dir bei den Web Professionals besonders?</strong> Das praxisorientierte Lernen mit Freude.
+                    </p>
+                    <p>
+                        <strong>Wie haben dich die Web Professionals beruflich weitergebracht?</strong> Dank diesen Lehrgängen bin ich um ein längeres Studium herum gekommen und habe schnell den Einstieg in die Branche gemeistert.
+                    </p>
+                    <p>
+                        <strong>Wieso würdest du die Web Professionals weiterempfehlen?</strong> Weil es mit Freude leichter ist etwas zulernen und weil einfach alles geili Sieche sind =)
+                    </p>
+                    <p>
+                        <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong> Aus dem grauen Alltag zu entfliehen und teil der Zukunft zu werden.
+                    </p>
+
                 </div>
             </div>
 
@@ -91,21 +134,26 @@
                     <p>Absolvent Web Developer 2015</p>
                 </div>
                 <div class="card-reveal">
-                    <span class="card-title grey-text text-darken-4">Michael Flück<i class="material-icons right">close</i></span>
+                    <span class="card-title grey-text text-darken-4">Manuel Hertach<i class="material-icons right">close</i></span>
                     <p>
-                        <strong>bisheriger Beruf:</strong> Informatiker HF / Datenbank-Administrator<br>
-                        <strong>derzeitige Aufgabe:</strong> Web-Developer / Projektleiter<br>
-                        <br>
-                        <strong>Was gefällt dir bei den Web Professionals besonders?</strong><br>
-                        Dass man von Profis, welche sich jeden Tag mit der Materie auseinandersetzen, lernen kann.<br>
-                        <br>
-                        <strong>Wie haben dich die Web Professionals beruflich weitergebracht?</strong><br>
-                        Dank der Ausbildung zum Web-Developer konnte ich endlich den Einstieg in die Web-Branche schaffenund kann jetzt jeden Tag das gelernte umsetzen.<br><br>
-                        <strong>Wieso würdest du die Web Professionals weiterempfehlen?</strong>
-                        Ich würde die Web Professionals weiterempfehlen, weil man: 1. von Profis lernen kann und 2. Alles coole Typen sind<br><br>
-                        <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong><br>
-                        Ich war auf der Suche nach einer Ausbildung im Web-Bereich, bei der das wichtigste die Materie und nicht die Bekanntheit des Diploms ist. Aus diesem Grund habe ich mich für die Web Professionals entschieden.
+                        <strong>bisheriger Beruf:</strong> Informatiker HF / Datenbank-Administrator
                     </p>
+                    <p>
+                        <strong>derzeitige Aufgabe:</strong> Web-Developer / Projektleiter
+                    </p>
+                    <p>
+                        <strong>Was gefällt dir bei den Web Professionals besonders?</strong> Dass man von Profis, welche sich jeden Tag mit der Materie auseinandersetzen, lernen kann.
+                    </p>
+                    <p>
+                        <strong>Wie haben dich die Web Professionals beruflich weitergebracht?</strong> Dank der Ausbildung zum Web-Developer konnte ich endlich den Einstieg in die Web-Branche schaffenund kann jetzt jeden Tag das gelernte umsetzen.
+                    </p>
+                    <p>
+                        <strong>Wieso würdest du die Web Professionals weiterempfehlen?</strong> Ich würde die Web Professionals weiterempfehlen, weil man: 1. von Profis lernen kann und 2. Alles coole Typen sind
+                    </p>
+                    <p>
+                        <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong> Ich war auf der Suche nach einer Ausbildung im Web-Bereich, bei der das wichtigste die Materie und nicht die Bekanntheit des Diploms ist. Aus diesem Grund habe ich mich für die Web Professionals entschieden.
+                    </p>
+
                 </div>
             </div>
 

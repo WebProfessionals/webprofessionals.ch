@@ -67,7 +67,7 @@
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Rolf Eggenberger<i class="material-icons right">close</i></span>
-                    <p>Rolf Eggenberger ist Initiator und Lehrgangsleiter der Web Professionals sowie Geschäftsleiter der Agentur ://kunstwort. Im Alter von 14 Jahren programmierte er seine erste kommerzielle Software (Planung von Busrouten), unterrichtete während der Kantonsschule seine eigenen Klassenkameraden in Informatik und begann 1992 an der Universität St.Gallen Informationsmanagement zu studieren. In einer der Eröffnungsveranstaltungen stellte der damalige Tutor Peter Hogenkamp das „Internet“ vor – seit diesem Zeitpunkt ist Rolf konstant online.</p>
+                    <p>Rolf Eggenberger ist Initiator und Lehrgangsleiter der Web Professionals sowie Geschäftsleiter der Agentur ://kunstwort. Im Alter von 14 Jahren programmierte er seine erste kommerzielle Software zur Planung von Busrouten, unterrichtete während der Kantonsschule seine eigenen Klassenkameraden in Informatik und begann 1992 an der Universität St.Gallen Informationsmanagement zu studieren. In einer der Eröffnungsveranstaltungen stellte der damalige Tutor Peter Hogenkamp das „Internet“ vor – seit diesem Zeitpunkt ist Rolf konstant online.</p>
                     <p>Gemeinsam mit Alexander Braun ist er Co-Founder diverser Online-Startups. Diese Erfahrungen helfen dabei, die Web Professionals immer wieder auf Tempo zu bringen und sich laufend an Neuem zu orientieren.</p>
                 </div>
             </div>
@@ -102,7 +102,7 @@
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Veith Zäch<i class="material-icons right">close</i></span>
-                    <p>Veith Zäch ist Software Architekt bei adcubum. Als er 11 Jahre alt war kam er mit seiner Familie aus Indonesien in die Schweiz zurück und musste erst Deutsch lernen, bevorzugte jedoch anstelle des Deutschbuchs das englische Modula-2 Handbuch. Dank seinem umfangreichen Wissen in diversen Programmierung gehört er seit Gründung der Web Professionals zu den Hauptdozenten bei den fortgeschrittenen Developer Lehrgängen. Nebenbei braut er Bananenbier, lässt ab und an sein Haus explodieren und will Putzroboter mit Schwarmintelligenz bauen.</p>
+                    <p>Veith Zäch ist Software Architekt bei adcubum. Als er 11 Jahre alt war kam er mit seiner Familie aus Indonesien in die Schweiz zurück und musste erst Deutsch lernen, bevorzugte jedoch anstelle des Deutschbuchs das englische Modula-2 Handbuch. Dank seinem umfangreichen Wissen in diversen Programmierkonzepten und -sprachen gehört er seit Gründung der Web Professionals zu den Hauptdozenten bei den fortgeschrittenen Developer Lehrgängen. Nebenbei braut er Bananenbier, lässt ab und an sein Haus explodieren und will Putzroboter mit Schwarmintelligenz bauen.</p>
                 </div>
             </div>
 
