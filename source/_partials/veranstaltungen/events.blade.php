@@ -275,6 +275,26 @@
 </div>
 -->
 <div class="col l4 m6 s12">
+    <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
+        <div class="card-stacked">
+            <div class="card-content white-text">
+                <i class="material-icons right">info_outline</i>
+                <span class="card-events-day">Montag</span><br>
+                <span class="card-events-date" itemprop="startDate" content="2017-02-06T19:00">6. Februar 2017</span><br>
+                19:00 - 20:00 Uhr<br>
+                <br>
+                <span class="card-events-title" itemprop="name"><strong>Informationsanlass in Grabs SG</strong></span><br>
+                <span class="card-events-title" itemprop="description">Vorstellung der Kurse und Lehrgänge.</span><br>
+                <br>
+                @include('_partials.veranstaltungen.techfabrik')
+            </div>
+            <div class="card-action">
+                <a class="white-text" href="/lehrgaenge/web-integrator/">zum Lehrgang</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col l4 m6 s12">
     <div class="card small" itemscope itemtype="http://schema.org/Event">
         <div class="card-stacked">
             <div class="card-content">
@@ -291,6 +311,67 @@
             </div>
             <div class="card-action">
                 weitere Infos folgen
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col l4 m6 s12">
+    <div class="card small" itemscope itemtype="http://schema.org/Event">
+        <div class="card-stacked">
+            <div class="card-content">
+                <i class="material-icons right">school</i>
+                <span class="card-events-day">Samstag</span><br>
+                <span class="card-events-date" itemprop="startDate" content="2017-03-18T10:00">18. März 2017</span><br>
+                10:00 - 11:30 Uhr<br>
+                <br>
+                <span class="card-events-title" itemprop="name"><strong>Diplomprüfung Web Integrator 16/17</strong></span><br>
+                <span class="card-events-title" itemprop="description">Zimmer 405</span><br>
+                <br>
+                @include('_partials.veranstaltungen.ibwsargans')
+            </div>
+            <div class="card-action">
+                <a href="/lehrgaenge/web-integrator/">zum Lehrgang</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col l4 m6 s12">
+    <div class="card small" itemscope itemtype="http://schema.org/Event">
+        <div class="card-stacked">
+            <div class="card-content">
+                <i class="material-icons right">school</i>
+                <span class="card-events-day">Samstag</span><br>
+                <span class="card-events-date" itemprop="startDate" content="2017-04-29T08:15">29. April 2017</span><br>
+                08:15 - 13:30 Uhr<br>
+                <br>
+                <span class="card-events-title" itemprop="name"><strong>Eröffnungsveranstaltung Web Integrator</strong></span><br>
+                <span class="card-events-title" itemprop="description">alle Klassen gemeinsam</span><br>
+                <br>
+                @include('_partials.veranstaltungen.ibwsargans')
+            </div>
+            <div class="card-action">
+                <a href="/lehrgaenge/web-integrator/">zum Lehrgang</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col l4 m6 s12">
+    <div class="card small" itemscope itemtype="http://schema.org/Event">
+        <div class="card-stacked">
+            <div class="card-content">
+                <i class="material-icons right">school</i>
+                <span class="card-events-day">Samstag</span><br>
+                <span class="card-events-date" itemprop="startDate" content="2017-09-23T10:00">23. September 2017</span><br>
+                10:00 - 11:30 Uhr<br>
+                <br>
+                <span class="card-events-title" itemprop="name"><strong>Diplomprüfung Web Integrator 16/17</strong></span><br>
+                <span class="card-events-title" itemprop="description">alle Klassen gemeinsam</span><br>
+                <br>
+                @include('_partials.veranstaltungen.ibwsargans')
+            </div>
+            <div class="card-action">
+                <a href="/lehrgaenge/web-integrator/">zum Lehrgang</a>
             </div>
         </div>
     </div>

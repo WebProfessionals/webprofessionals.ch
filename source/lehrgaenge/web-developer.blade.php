@@ -80,17 +80,21 @@
                 <h2>Inhalte / Fächer:</h2>
                 <ul class="webpro-list">
                     <li>Tools, Arbeitsumgebungen, Versionierung</li>
-                    <li>CSS Vertiefung, LESS / SASS</li>
-                    <li>Javascript Vertiefung, jQuery</li>
+                    <li>CSS Vertiefung, CSS3, SASS</li>
+                    <li>Grids & Viewports</li>
+                    <li>UX/UI</li>
                     <li>Relationale Datenbanken und SQL</li>
                     <li>PHP und Datenbanken</li>
                     <li>Objektorientierte Webentwicklung mit PHP</li>
                     <li>PHP Frameworks (Laravel)</li>
-                    <li>mobile Lösungen Grundlagen</li>
-                    <li>Scriptsicherheit</li>
-                    <li>Vertiefung Content Management Systeme (WordPress und Drupal)</li>
+                    <li>Javascript Vertiefung, jQuery</li>
+                    <li>Projektmanagement</li>
                     <li>Website Konzeption und Usability</li>
                     <li>Suchmaschinenoptimierung</li>
+                    <li>Storytelling im Web</li>
+                    <li>mobile Trends</li>
+                    <li>eCommerce</li>
+                    <li>Scriptsicherheit</li>
                     <li>Workshop 1 und 2</li>
                     <li>Diplomarbeit</li>
                 </ul>
