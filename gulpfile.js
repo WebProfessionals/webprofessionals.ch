@@ -23,6 +23,9 @@ elixir(function(mix) {
       '../../_lib/materializecss/js/bin/materialize.min.js',
       'webpro.js'
     ], 'source/js/main.js')
+    .scripts([
+        'events.js'
+      ], 'source/js/events.js')
     .exec('jigsaw build ' + env, ['./source/*', './source/**/*', '!./source/_assets/**/*'])
     .browserSync({
       server: { baseDir: 'build_' + env },
