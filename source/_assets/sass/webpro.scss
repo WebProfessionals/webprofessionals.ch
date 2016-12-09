@@ -44,7 +44,7 @@ $webpro-gray: color("grey", "base");
     }
     @media #{$medium-and-up} {
       min-height:400px;
-      margin:0 -100%; // zum zentrieren
+      //margin:0 -100%; // zum zentrieren (entfernt am 9.12.16 durch Rolf. Fehler bei FF)
       min-width:100%;
     }
   }
@@ -81,6 +81,8 @@ $webpro-gray: color("grey", "base");
   @media #{$large-and-up} {
     img {
       margin-right:357px;
+      width:400px;
+      height:107px;
     }
   }
   @media #{$small-and-down} {
