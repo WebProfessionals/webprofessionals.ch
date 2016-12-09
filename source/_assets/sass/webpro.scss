@@ -306,6 +306,13 @@ main {
   font-weight:500;
 }
 
+.card-invisible {
+  display:none;
+}
+.card-visible {
+  display:block;
+}
+
 /* ==========  Social Media Icons  ========== */
 #social-media {
   padding: 10px 0 0 0;

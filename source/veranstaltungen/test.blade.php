@@ -54,12 +54,36 @@
         </section>
     </div>
 
-    <div class="row">
+    <div class="row card-events">
         <div class="col s12">
             <div id='content'>
                 <h1 id='calendar' style="color:grey">Veranstaltungen werden geladen . . .</h1>
                 <ul id='events'></ul>
             </div>
         </div>
+
+        <div class="col l4 m6 s12 card-event card-invisible">
+            <div class="card small" itemscope itemtype="http://schema.org/Event">
+                <div class="card-stacked">
+                    <div class="card-content">
+                        <i class="material-icons right">school</i>
+                        <span class="card-events-day">Tag</span><br>
+                        <span class="card-events-date" itemprop="startDate" content="2017-09-23T10:00">Datum</span><br>
+                        10:00 - 11:30 Uhr<br>
+                        <br>
+                        <span class="card-events-title" itemprop="name"><strong>Titel</strong></span><br>
+                        <br>
+                        <span class="card-events-location">Location</span>
+                    </div>
+                    <div class="card-action">
+                        <a href="/lehrgaenge/web-integrator/" target="_blank">weitere Infos</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+
+
+
+
 @endsection
