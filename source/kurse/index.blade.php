@@ -64,27 +64,27 @@
                 <tbody>
                 <tr>
                     <td><a href="/kurse/hands-on-workshop-polymer-project/">Hands on workshop Polymer</a></td>
-                    <td>9. Nov 16</td>
+                    <td>Frühling 17</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
                     <td><a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a></td>
-                    <td>Nov 16</td>
+                    <td>Frühling 17</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
                     <td><a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a></td>
-                    <td>Nov 16</td>
+                    <td>Frühling 17</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
                     <td><a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a></td>
-                    <td>Nov 16</td>
+                    <td>Frühling 17</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
                     <td><a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a></td>
-                    <td>Nov 16</td>
+                    <td>Frühling 17</td>
                     <td>Grabs</td>
                 </tr>
                 </tbody>

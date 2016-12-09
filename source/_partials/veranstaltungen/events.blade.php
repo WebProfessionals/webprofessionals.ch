@@ -275,6 +275,26 @@
 </div>
 -->
 <div class="col l4 m6 s12">
+    <div class="card small" itemscope itemtype="http://schema.org/Event">
+        <div class="card-stacked">
+            <div class="card-content">
+                <i class="material-icons right">group</i>
+                <span class="card-events-day">Mittwoch</span><br>
+                <span class="card-events-date" itemprop="startDate" content="2016-12-21T18:00">21. Dezember 2016</span><br>
+                ab 18:00 Uhr<br>
+                <br>
+                <span class="card-events-title" itemprop="name"><strong>Web Professionals & Friends /w Glühwein</strong></span><br>
+                <span class="card-events-title" itemprop="description">kostenlose, offene Veranstaltung</span><br>
+                <br>
+                @include('_partials.veranstaltungen.techfabrik')
+            </div>
+            <div class="card-action">
+                <a itemprop="url" href="https://www.facebook.com/events/2009465619280240/" target="_blank">Facebook Event</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col l4 m6 s12">
     <div class="card z-depth-2 webpro-green small" itemscope itemtype="http://schema.org/Event">
         <div class="card-stacked">
             <div class="card-content white-text">

@@ -163,7 +163,8 @@
 
             <div class="card">
                 <div class="card-image waves-effect waves-block waves-light">
-                    <img class="activator" src="/images/testimonials/dummy-grau.gif">
+                    <!-- <img class="activator" src="/images/testimonials/dummy-grau.gif"> -->
+                    <img class="activator" src="/images/testimonials/sascha_ammann.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title activator grey-text text-darken-4">Sascha Ammann<i class="material-icons right">more_vert</i></span>
