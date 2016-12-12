@@ -133,6 +133,8 @@ function makeApiCall() {
         return dateA-dateB //sort by date ascending
     });
 
+    console.log(events);
+
 
     //drawCards(events);
 }
