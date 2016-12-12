@@ -69,7 +69,7 @@
                         <i class="material-icons right">school</i>
                         <span class="card-events-day">Tag</span><br>
                         <span class="card-events-date" itemprop="startDate" content="2017-09-23T10:00">Datum</span><br>
-                        10:00 - 11:30 Uhr<br>
+                        <span class="card-event-time">10:00 - 11:30 Uhr</span><br>
                         <br>
                         <span class="card-events-title" itemprop="name"><strong>Titel</strong></span><br>
                         <br>
