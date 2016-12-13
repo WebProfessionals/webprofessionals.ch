@@ -1,3 +1,17 @@
+# Installation
+
+composer global require tightenco/jigsaw
+
+npm update
+
+gulp watch
+
+
+
+
+
+
+
 # zur Diskussion
 
 * Gründe für Wechsel Material Design Framework

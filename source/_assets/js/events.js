@@ -10,6 +10,8 @@ calendar[1]="web-professionals.ch_hvur00fojbon20ivoleejrlvk8@group.calendar.goog
 var scopes = 'https://www.googleapis.com/auth/calendar';
 
 var events=[];
+var calendarsParsed = 0;
+var eventsParsed = 0;
 
 // Add a 0 to numbers
 function padNum(num) {
@@ -63,7 +65,19 @@ function handleAuthResult(authResult) {
         makeApiCall();
     }
 }
+function calendarDone() {
+    calendarsParsed++;
 
+    if (calendarsParsed == calendar.length) {
+        events.sort(function(a, b){
+            var dateA=new Date(a.startDate), dateB=new Date(b.startDate)
+            return dateA-dateB //sort by date ascending
+        });
+
+        console.log(events);
+        drawCards(events);
+    }
+}
 
 function makeApiCall() {
 
@@ -123,20 +137,12 @@ function makeApiCall() {
 
                     });
                 }
+                calendarDone();
             });
+
         }
     });
 
-
-    events.sort(function(a, b){
-        var dateA=new Date(a.startDate), dateB=new Date(b.startDate)
-        return dateA-dateB //sort by date ascending
-    });
-
-    console.log(events);
-
-
-    //drawCards(events);
 }
 
 function drawCards(events) {
@@ -153,21 +159,10 @@ function drawCards(events) {
         cardClone.find('.card-action a').attr("href", events[i].link);
         cardClone.removeClass('card-invisible').addClass('card-visible');
         cardClone.appendTo('.card-events');
+        console.log('debug'+events[i].summary);
     }
+    document.getElementById('calendar').innerHTML = 'Veranstaltungen:';
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
