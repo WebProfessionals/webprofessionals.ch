@@ -33,7 +33,7 @@
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Bleib dabei</span><br>
-            <span class="webpro-hero2">Infoanlässe, Friends und Co.</span><br><br>
+            <span class="webpro-hero2">Infoanlässe, Friends, Barcamps, Hackatons und Co.</span><br><br>
             <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/">Jetzt informieren</a>
         </div>
     </header>
@@ -56,12 +56,12 @@
             ])
             <nav class="webpro-nav-lvl2">
                 <a href="/veranstaltungen/" class="webpro-subnav-active">alle Termine</a><br>
-                <a href="/veranstaltungen/web-professionals/">nur Web Professionals</a><br>
+                <a href="/veranstaltungen/web-professionals/">Filter: Web Professionals Termine</a><br>
             </nav>
         </div>
         <section class="col l7 m6 webpro-right">
-            <p>Begleitend zu unseren Lehrgängen finden im Rahmen der Ausbildung regelmässig öffentliche Veranstaltungen für Web Profis und Interessierte statt. Diese sind für jedermann zugänglich.</p>
-            <p>Dein/Euer Event fehlt in der Liste? info@web-professionals.ch</p>
+            <p>Nebst unseren eigenen Anlässen (welche übrigens für jedermann zugänglich sind) findest du in der Liste weitere Events in der Schweiz wie z.B. Barcamps, Konferenzen etc. zum Thema "Web Design" und "Web Development".</p>
+            <p>Dein/Euer Event fehlt noch? Sende uns ein Mail an <strong>info [at] web-professionals.ch</strong> und wir tragen ihn gerne in der Liste ein.</p>
         </section>
     </div>
 
@@ -76,13 +76,13 @@
             <div class="card small" itemscope itemtype="http://schema.org/Event">
                 <div class="card-stacked">
                     <div class="card-content">
-                        <i class="material-icons right">school</i>
+                        <i class="material-icons right card-icon">school</i>
                         <span class="card-events-day">Tag</span><br>
                         <span class="card-events-startdate" itemprop="startDate" content="2017-09-23T10:00">Datum Start</span><br>
                         <span class="card-events-enddate" itemprop="endDate" content="2017-09-23T10:00">Datum Ende</span>
-                        <span class="card-events-time">10:00 - 11:30 Uhr</span><br>
+                        <span class="card-events-time">Zeit</span><br>
                         <br>
-                        <span class="card-events-title" itemprop="name"><strong>Titel</strong></span><br>
+                        <span class="card-events-title" itemprop="name">Titel</span><br>
                         <br>
                         <span class="card-events-location">Location</span>
                     </div>
@@ -93,7 +93,6 @@
             </div>
         </div>
     </div>
-
 
 
 

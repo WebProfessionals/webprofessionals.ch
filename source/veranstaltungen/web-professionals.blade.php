@@ -32,7 +32,7 @@
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Bleib dabei</span><br>
-            <span class="webpro-hero2">Infoanlässe, Friends und Co.</span><br><br>
+            <span class="webpro-hero2">Infoanlässe, Friends, Barcamps, Hackatons und Co.</span><br><br>
             <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/">Jetzt informieren</a>
         </div>
     </header>
@@ -54,13 +54,13 @@
                 'part2'    =>  'Termine'
             ])
             <nav class="webpro-nav-lvl2">
-                <a href="/veranstaltungen/" class="webpro-subnav-active">alle Termine</a><br>
-                <a href="/veranstaltungen/web-professionals/">nur Web Professionals</a><br>
+                <a href="/veranstaltungen/">alle Termine</a><br>
+                <a href="/veranstaltungen/web-professionals/" class="webpro-subnav-active">Filter: Web Professionals Termine</a><br>
             </nav>
         </div>
         <section class="col l7 m6 webpro-right">
             <p>Begleitend zu unseren Lehrgängen finden im Rahmen der Ausbildung regelmässig öffentliche Veranstaltungen für Web Profis und Interessierte statt. Diese sind für jedermann zugänglich.</p>
-            <p>Dein/Euer Event fehlt in der Liste? info@web-professionals.ch</p>
+            <p>Bist du während den Daten unserer Infoanlässe abwesend? Dann nimm doch <a href="/kontakt/">mit uns Kontakt auf</a>. Gerne vereinbaren wir ein persönliches Beratungsgespräch.</p>
         </section>
     </div>
 

@@ -114,7 +114,7 @@
                 </div>
                 <div class="card-content">
                     <span class="card-title grey-text text-darken-4">Summer Camp 2014</span>
-                    <p>Thema: Tools und Workflows<br>Location: Seepromenade Walenstadt<br>Datum: ?</p>
+                    <p>Thema: Tools und Workflows<br>Location: Seepromenade Walenstadt<br>Datum: 30./31. August 2014</p>
                 </div>
                 <div class="card-action">
                     <a href="https://goo.gl/photos/m8bmEH6jxrsBA6L79" target="_blank">Fotos (Google)</a>

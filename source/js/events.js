@@ -60,17 +60,6 @@ function handleAuthResult(authResult) {
         makeApiCall();
     }
 }
-function calendarDone() {
-    calendarsParsed++;
-
-    if (calendarsParsed == calendar.length) {
-        events.sort(function(a, b){
-            var dateA=new Date(a.startDate), dateB=new Date(b.startDate);
-            return dateA-dateB;
-        });
-        drawCards(events);
-    }
-}
 
 function makeApiCall() {
 
@@ -149,6 +138,7 @@ function makeApiCall() {
                         startHour:startHour,
                         startMin:startMin,
                         startDateTimeStructured:startDateTimeStructured,
+                        startDate:startDate,
 
                         endDayWeek:endDayWeek,
                         endDay:endDay,
@@ -171,6 +161,18 @@ function makeApiCall() {
 
 }
 
+function calendarDone() {
+    calendarsParsed++;
+
+    if (calendarsParsed == calendar.length) {
+        events.sort(function(a, b){
+            var dateA=new Date(a.startDate), dateB=new Date(b.startDate);
+            return dateA-dateB;
+        });
+        drawCards(events);
+    }
+}
+
 function drawCards(events) {
 
     $('#calendar-loading').hide();
@@ -181,6 +183,15 @@ function drawCards(events) {
     for (var i = 0; i < events.length; i++) {
 
         var cardClone = card.clone();
+        var summary = events[i].summary;
+        var location = events[i].location;
+
+        // create location link
+        if (location) {
+            location = '<a href="http://maps.google.com/?q='+location+'" target="_blank">'+location+' <i class="material-icons tiny">place</i></a>';
+        } else {
+            location = '';
+        }
 
         // get Type of Events
         if (events[i].calType=='webpro') {
@@ -218,91 +229,26 @@ function drawCards(events) {
         cardClone.find('.card-events-startdate').html(datumStart);
 
         cardClone.find('.card-events-day').html(events[i].startDayWeek);
-        cardClone.find('.card-events-title').html(events[i].summary);
-        cardClone.find('.card-events-location').html(events[i].location);
-        cardClone.find('.material-icons').html(materialicon);
-        cardClone.find('.card-action a').attr("href", events[i].description);
+        cardClone.find('.card-events-title').html(summary);
+        cardClone.find('.card-events-location').html(location);
+        cardClone.find('.card-icon').html(materialicon);
+
+        // create link button if available
+        var desc = events[i].description;
+        if ( desc=='' || desc == null ) {
+            cardClone.find('.card-action').hide();
+        } else if (desc.substring(0, 4)=="http") {
+            cardClone.find('.card-action a').attr("href", events[i].description);
+            if (desc.indexOf('web-professionals.ch') !== -1) {
+                cardClone.find('.card-action a').attr("target", '_self');
+            }
+        } else {
+            cardClone.find('.card-action').hide();
+            cardClone.find('.card-events-title').html(summary+'<br>'+events[i].description);
+        }
+
         cardClone.removeClass('card-invisible').addClass('card-visible');
         cardClone.appendTo('.card-events');
     }
-}
-
-
-
-
-
-
-// API CALL itself
-function makeApiCallOLD() {
-    var today = new Date(); //today date
-    gapi.client.load('calendar', 'v3', function () {
-        var request = gapi.client.calendar.events.list({
-            'calendarId' : userEmail,
-            'timeZone' : userTimeZone,
-            'singleEvents': true,
-            'timeMin': today.toISOString(), //gathers only events not happened yet
-            'maxResults': maxRows,
-            'orderBy': 'startTime'});
-        request.execute(function (resp) {
-            var card = $('.card-event');
-            for (var i = 0; i < resp.items.length; i++) {
-                //var li = document.createElement('li');
-                var item = resp.items[i];
-                var classes = [];
-
-                var location = item.location;
-                var link = item.description;
-                var allDay = item.start.date? true : false;
-                var startDT = allDay ? item.start.date : item.start.dateTime;
-                var dateTime = startDT.split("T"); //split date from time
-                var date = dateTime[0].split("-"); //split yyyy mm dd
-                var startYear = date[0];
-                var startMonth = monthString(date[1]);
-                var startDay = date[2];
-                var startDateISO = new Date(date[1] + " " + startDay + ", " + startYear + " 00:00:00");
-                var startDayWeek = dayString(startDateISO.getDay());
-                /*
-                 if( allDay == true){
-                 // all day Events
-                 var str = [
-                 startDayWeek, ', ',
-                 startDay, '.',
-                 startMonth, ' ',
-                 startYear, ': ', item.summary ,
-                 location
-                 ];
-                 }
-                 else{
-                 var time = dateTime[1].split(":"); //split hh ss etc...
-                 var startHour = time[0];
-                 var startMin = time[1];
-                 var str = [
-                 startDayWeek, ', ',
-                 startDay, '.',
-                 startMonth, ' ',
-                 startYear, ' - ',
-                 startHour, ':', startMin, ': ', item.summary ,
-                 location
-                 ];
-                 }
-                 li.innerHTML = str.join('');
-                 li.setAttribute('class', classes.join(' '));
-                 document.getElementById('events').appendChild(li);
-                 */
-                var cardClone = card.clone();
-
-                cardClone.find('.card-events-day').html(startDayWeek);
-                cardClone.find('.card-events-date').html(startDay+'. '+startMonth+' '+startYear);
-                cardClone.find('.card-events-title').html(item.summary);
-                cardClone.find('.card-events-location').html(location);
-                cardClone.find('.card-action a').attr("href", link);
-                cardClone.removeClass('card-invisible').addClass('card-visible');
-                cardClone.appendTo('.card-events');
-            }
-
-            //document.getElementById('calendar').innerHTML = calName;
-            $('#calendar').css('display','none');
-        });
-    });
 }
 //# sourceMappingURL=events.js.map
