@@ -11,7 +11,6 @@ var scopes = 'https://www.googleapis.com/auth/calendar';
 
 var events=[];
 var calendarsParsed = 0;
-var eventsParsed = 0;
 
 // Add a 0 to numbers
 function padNum(num) {

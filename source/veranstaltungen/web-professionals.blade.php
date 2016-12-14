@@ -8,13 +8,12 @@
 
     <script>
         var calendar = [
-                'web-professionals.ch_7j3opk4ea81j075e22eokd74ro@group.calendar.google.com',    // Public Veranstaltungen
-                'web-professionals.ch_hvur00fojbon20ivoleejrlvk8@group.calendar.google.com'     // WebPro Veranstaltungen
+            'web-professionals.ch_hvur00fojbon20ivoleejrlvk8@group.calendar.google.com'     // WebPro Veranstaltungen
         ];
         var calendarType = [
-                'public',
-                'webpro'
+            'webpro'
         ]
+
     </script>
     <script src="/js/events.js"></script>
     <script src='https://apis.google.com/js/client.js?onload=handleClientLoad'></script>
@@ -78,9 +77,8 @@
                     <div class="card-content">
                         <i class="material-icons right">school</i>
                         <span class="card-events-day">Tag</span><br>
-                        <span class="card-events-startdate" itemprop="startDate" content="2017-09-23T10:00">Datum Start</span><br>
-                        <span class="card-events-enddate" itemprop="endDate" content="2017-09-23T10:00">Datum Ende</span>
-                        <span class="card-events-time">10:00 - 11:30 Uhr</span><br>
+                        <span class="card-events-date" itemprop="startDate" content="2017-09-23T10:00">Datum</span><br>
+                        <span class="card-event-time">10:00 - 11:30 Uhr</span><br>
                         <br>
                         <span class="card-events-title" itemprop="name"><strong>Titel</strong></span><br>
                         <br>
