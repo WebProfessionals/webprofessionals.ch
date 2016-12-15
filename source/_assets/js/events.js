@@ -290,6 +290,13 @@ function drawCards(events) {
 function jsonLD(events) {
     for (var i = 0; i < events.length; i++) {
         if (events[i].calType=='webpro') {
+
+
+            var url = events[i].description;
+            if ( url=='' || url == null || url.substring(0, 4)!="http") {
+                url = 'https://web-professionals.ch/veranstaltungen/';
+            }
+
             var el = document.createElement('script');
             el.type = 'application/ld+json';
             el.text = JSON.stringify({
@@ -298,7 +305,7 @@ function jsonLD(events) {
                 "name": events[i].summary,
                 "startDate" : events[i].startDateTimeStructured,
                 "endDate" : events[i].endDateTimeStructured,
-                "url": 'https://web-professionals.ch/veranstaltungen/',
+                "url": url,
                 "location" : {
                     "@type" : "Place",
                     "name" : events[i].locationName,
