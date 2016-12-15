@@ -43,6 +43,37 @@ function dayString(num){
     else if (num == "0") { return "Sonntag" }
 }
 
+// Web Pro Locations: Translation of plain text Calendar locations into object
+function locationLookup(locationString) {
+    var location = {};
+    if (locationString.substring(0, 4)=="Tech") {
+        location = {
+            name: 'Techfabrik Grabs',
+            street: 'Mühlbachstrasse 11a',
+            zip: '9472',
+            city: 'Grabs',
+            country: 'CH'
+        }
+    } else if (locationString.substring(0, 3)=="ibW") {
+        location = {
+            name: 'ibW Höhere Fachschule Südostschweiz',
+            street: 'Bahnhofpark 2a',
+            zip: '7320',
+            city: 'Sargans',
+            country: 'CH'
+        }
+    } else {
+        location = {
+            name: '',
+            street: '',
+            zip: '',
+            city: '',
+            country: ''
+        }
+    }
+    return location;
+}
+
 // client CALL
 function handleClientLoad() {
     gapi.client.setApiKey(apiKey);
@@ -120,12 +151,18 @@ function makeApiCall() {
 
                     var calType = calendarType[calendar.indexOf(item.organizer.email)]; // get CalendarType (webpro/public) based on CalID (workaround because of async call)
 
-
+                    var location = {};
+                    location = locationLookup(item.location);
 
                     //push into events array
                     events.push({
                         title:item.summary,
                         location:item.location,
+                        locationName:location.name,
+                        locationStreet:location.street,
+                        locationZip:location.zip,
+                        locationCity:location.city,
+                        locationCountry:location.country,
                         hangoutLink:item.hangoutLink,
                         htmlLink:item.htmlLink,
                         description:item.description,
@@ -160,6 +197,7 @@ function makeApiCall() {
     });
 
 }
+
 
 function calendarDone() {
     calendarsParsed++;
@@ -217,13 +255,9 @@ function drawCards(events) {
             datumStart = events[i].startDay+'. '+events[i].startMonth+' '+events[i].startYear+' - ';
             datumEnde = events[i].endDay+'. '+events[i].endMonth+' '+events[i].endYear+'<br>';
             cardClone.find('.card-events-enddate').html(datumEnde);
-            cardClone.find('.card-events-startdate').attr("content", events[i].startDateTimeStructured);
-            cardClone.find('.card-events-enddate').attr("content", events[i].endDateTimeStructured);
         } else {
             // same day
             datumStart = events[i].startDay+'. '+events[i].startMonth+' '+events[i].startYear;
-            cardClone.find('.card-events-startdate').attr("content", events[i].startDateTimeStructured);
-            cardClone.find('.card-events-enddate').attr("content", events[i].endDateTimeStructured);
             cardClone.find('.card-events-enddate').hide();
         }
         cardClone.find('.card-events-startdate').html(datumStart);
@@ -250,5 +284,36 @@ function drawCards(events) {
         cardClone.removeClass('card-invisible').addClass('card-visible');
         cardClone.appendTo('.card-events');
     }
+    jsonLD(events);
 }
+
+function jsonLD(events) {
+    for (var i = 0; i < events.length; i++) {
+        if (events[i].calType=='webpro') {
+            var el = document.createElement('script');
+            el.type = 'application/ld+json';
+            el.text = JSON.stringify({
+                "@context": "http://schema.org",
+                "@type": "Event",
+                "name": events[i].summary,
+                "startDate" : events[i].startDateTimeStructured,
+                "endDate" : events[i].endDateTimeStructured,
+                "url": 'https://web-professionals.ch/veranstaltungen/',
+                "location" : {
+                    "@type" : "Place",
+                    "name" : events[i].locationName,
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": events[i].locationCity,
+                        "streetAddress": events[i].locationStreet,
+                        "postalCode": events[i].locationZip,
+                        "addressCountry" : events[i].locationCountry
+                    }
+                }
+            });
+            document.querySelector('head').appendChild(el);
+        }
+    }
+}
+
 //# sourceMappingURL=events.js.map
