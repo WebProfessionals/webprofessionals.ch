@@ -61,7 +61,7 @@
         </div>
         <section class="col l7 m6 webpro-right">
             <p>Nebst unseren eigenen Anlässen (welche übrigens für jedermann zugänglich sind) findest du in der Liste weitere Events in der Schweiz wie z.B. Barcamps, Konferenzen etc. zum Thema "Web Design" und "Web Development".</p>
-            <p>Dein/Euer Event fehlt noch? Sende uns ein Mail an <strong>info [at] web-professionals.ch</strong> und wir tragen ihn gerne in der Liste ein.</p>
+            <p>Dein/Euer Event fehlt noch? Sende uns ein Mail an <strong>info [at] web-professionals.ch</strong> und wir tragen ihn gerne in der Liste ein, falls der Anlass für Web Developer / Web Designer relevant ist.</p>
         </section>
     </div>
 

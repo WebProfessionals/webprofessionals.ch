@@ -43,7 +43,7 @@ function dayString(num){
     else if (num == "0") { return "Sonntag" }
 }
 
-// Web Pro Locations: Translation of plain text Calendar locations into object
+// Web Pro Locations: manual Translation of plain text Calendar locations into object
 function locationLookup(locationString) {
     var location = {};
     if (locationString.substring(0, 4)=="Tech") {
@@ -231,7 +231,7 @@ function drawCards(events) {
             location = '';
         }
 
-        // get Type of Events
+        // get Type of Events (webpro or public)
         if (events[i].calType=='webpro') {
             materialicon = 'school';
             cardClone.find('.card').addClass('webpro-green z-depth-2');

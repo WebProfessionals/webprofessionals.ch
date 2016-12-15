@@ -43,7 +43,7 @@ function dayString(num){
     else if (num == "0") { return "Sonntag" }
 }
 
-// Web Pro Locations: Translation of plain text Calendar locations into object
+// Web Pro Locations: manual Translation of plain text Calendar locations into object
 function locationLookup(locationString) {
     var location = {};
     if (locationString.substring(0, 4)=="Tech") {
@@ -231,7 +231,7 @@ function drawCards(events) {
             location = '';
         }
 
-        // get Type of Events
+        // get Type of Events (webpro or public)
         if (events[i].calType=='webpro') {
             materialicon = 'school';
             cardClone.find('.card').addClass('webpro-green z-depth-2');
@@ -249,7 +249,7 @@ function drawCards(events) {
             cardClone.find('.card-events-time').html(events[i].startHour+':'+events[i].startMin+' - '+events[i].endHour+':'+events[i].endMin+' Uhr');
         }
 
-        // date thing
+        // date string based on start/end date
         if((events[i].startDay!=events[i].endDay)) {
             // start/end not the same day
             datumStart = events[i].startDay+'. '+events[i].startMonth+' '+events[i].startYear+' - ';
@@ -260,8 +260,8 @@ function drawCards(events) {
             datumStart = events[i].startDay+'. '+events[i].startMonth+' '+events[i].startYear;
             cardClone.find('.card-events-enddate').hide();
         }
-        cardClone.find('.card-events-startdate').html(datumStart);
 
+        cardClone.find('.card-events-startdate').html(datumStart);
         cardClone.find('.card-events-day').html(events[i].startDayWeek);
         cardClone.find('.card-events-title').html(summary);
         cardClone.find('.card-events-location').html(location);
