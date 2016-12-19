@@ -10,8 +10,10 @@
 
     <div class="row">
         <div class="s12">
-
-            <p>Für weitere Infos anklicken...</p>
+            <h2>Herzlich Willkommen bei den Web Professionals!</h2>
+            <p>Die Ausbildung für angehende Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong> (Bildungspartner), der <strong>Techfabrik Grabs</strong> sowie der <strong>Hochschule für Technik Rapperswil</strong> (Durchführungspartner). </p>
+            <p>Die nächsten Integrator Lehrgänge starten nach den Frühlingsferien 2017 - wenn du mit dabei sein willst kannst du dich <a href="https://web-professionals.ch/lehrgaenge/anmeldung/" target="_blank">hier anmelden.</a></p>
+            <!--
             <ul class="collapsible" data-collapsible="accordion">
                 <li>
                     <div class="collapsible-header"><i class="material-icons right">alarm</i><strong>11</strong>/2016<br> Ankündigung Hackaton #2</div>
@@ -26,6 +28,7 @@
                     <div class="collapsible-body"><p>Besuch unsere <a href="https://www.web-professionals.ch/">neue Webseite</a></p></div>
                 </li>
             </ul>
+            -->
         </div>
     </div>
 
