@@ -56,6 +56,42 @@
 
             <div class="card">
                 <div class="card-image waves-effect waves-block waves-light">
+                    <img class="activator" src="/images/testimonials/stefanie_jegen.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title activator grey-text text-darken-4">Stefanie Jegen<i class="material-icons right">more_vert</i></span>
+                    <p>Teilnehmerin Web Developer 2016/2017</p>
+                </div>
+                <div class="card-reveal">
+                    <span class="card-title grey-text text-darken-4">Stefanie Jegen<i class="material-icons right">close</i></span>
+                    <p>
+                        <strong>bisheriger Beruf:</strong> Kauffrau EFZ E-Profil
+                    </p>
+                    <p>
+                        <strong>derzeitige Aufgabe:</strong> Leiterin Kundenservice Web bei der Somedia Production AG
+                    </p>
+                    <p>
+                        <strong>Was gefällt dir bei den Web Professionals besonders?</strong> Dass die Web Professionals mit Geduld, breitgefächertem und praxisbezogenem Wissen allen (auch mit 0 Vorkenntnissen) eine Chance auf einen Einstieg in die Web-Branche geben.
+                    </p>
+                    <p>
+                        <strong>Wie haben dich die Web Professionals beruflich weitergebracht?</strong> Durch die Web Professionals konnte ich mich in ein bestehendes Netzwerk einklicken, durch welches ich einen Praktikumsplatz in der Web Abteilung bei der Somedia Production AG erhalten habe. Mittlerweile darf ich mich als Leiterin Kundenservice Web bezeichnen. Im Moment nehme ich an dem weiterführenden Lehrgang „Web Developer“ teil, um mir noch mehr Wissen anzueignen.
+                    </p>
+                    <p>
+                        <strong>Wieso würdest du die Web Professionals weiterempfehlen?</strong> Weil die Web Professionals mir die Chance auf einen komplett neuen und aufregenden Job ermöglicht haben und ich immer Spass daran hatte, den Unterricht zu besuchen und an jedem einzelnen Kursabend kleine Erfolgserlebnisse hatte, die mir bestätigten, dass ich auf den richtigen Weg bin.
+                    </p>
+                    <p>
+                        <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong> Es war resp. ist an der Zeit über den Tellerrand hinauszusehen. Ich behaupte in den nächsten 100 Jahren werden 80% der kaufmännischen Jobs automatisiert. Aufgrund dieser schlechten Jobaussichten wollte ich rechtzeitig vom sinkenden Schiff abspringen und einen Schritt in Richtung Zukunft wagen. Warum also nicht gleich diejenige sein, die ihren bisherigen Job „wegprogrammiert“? ;-)
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col l6 m6 s12">
+
+
+            <div class="card">
+                <div class="card-image waves-effect waves-block waves-light">
                     <img class="activator" src="/images/testimonials/melanie_bernhard.jpg">
                 </div>
                 <div class="card-content">
@@ -168,7 +204,7 @@
                 </div>
                 <div class="card-content">
                     <span class="card-title activator grey-text text-darken-4">Sascha Ammann<i class="material-icons right">more_vert</i></span>
-                    <p>Absolvent Web Integrator 2016</p>
+                    <p>Absolvent Web Integrator 2015/16</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Sascha Ammann<i class="material-icons right">close</i></span>
