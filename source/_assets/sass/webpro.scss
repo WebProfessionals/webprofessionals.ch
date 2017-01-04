@@ -316,6 +316,19 @@ main {
   display:block;
 }
 
+/* ==========  Aktuelles Cards  ========== */
+.aktuelles {
+  .card-title {
+    @media #{$medium-and-down} {
+      font-size:20px!important;
+    }
+    @media #{$medium-only} {
+      line-height:28px!important;
+    }
+  }
+}
+
+
 /* ==========  Social Media Icons  ========== */
 #social-media {
   padding: 10px 0 0 0;

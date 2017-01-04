@@ -65,15 +65,33 @@
             <h2 class="webpro">Aktuell</h2>
         </div>
     </div>
-    <div class="row">
+    <div class="row aktuelles">
         <!-- Card Start -->
-        <div class="col l7">
+        <div class="col l7 m6">
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-01-04-stefanie-jegen/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/stefanie_jegen_l7.jpg" alt="Stefanie Jegen" title="Stefanie Jegen">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Portrait: Stefanie Jegen</span>
+                    <p>"Warum also nicht gleich diejenige sein, die ihren bisherigen Job wegprogrammiert?"</p>
+                    <p>04. Januar 2017</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2017-01-04-stefanie-jegen/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l5 m6">
             <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-10-30-hackaton-1-devgotchi/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/camp_2016_autumn.jpg" alt="Web Professionals Barcamp 2016" title="Web Professionals Barcamp 2016">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">#1 Web Professionals Hackaton 2016</span>
+                    <span class="card-title">#1 Web Professionals Hackaton</span>
                     <p>Die Devgotchis sind frei! Der erste Web Professionals Hackaton fand am 29./30.10.2016 statt!</p>
                 </div>
                 <div class="card-action">
@@ -84,7 +102,25 @@
         <!-- Card End -->
 
         <!-- Card Start -->
-        <div class="col l5">
+        <div class="col l6 m6">
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-12-01-melanie-bernhard/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/melanie_bernhard_l6.jpg" alt="Melanie Bernhard" title="Melanie Bernhard">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Portrait: Melanie Bernhard, Web Integrator</span>
+                    <p>"Dank des Praktikums habe ich heute meinen Traumjob, im Traumbereich :-)"</p>
+                    <p>1. Dezember 2016</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2016-12-01-melanie-bernhard/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l6 m6">
             <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-08-24-lab-002-static-server-pages-nginx/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2016-08-lab002.jpg" alt="Relaunch Web Professionals" title="Relaunch Web Professionals">

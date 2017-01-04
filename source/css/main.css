@@ -5176,6 +5176,15 @@ main {
 .card-visible {
   display: block; }
 
+/* ==========  Aktuelles Cards  ========== */
+@media only screen and (max-width: 992px) {
+  .aktuelles .card-title {
+    font-size: 20px !important; } }
+
+@media only screen and (min-width: 601px) and (max-width: 992px) {
+  .aktuelles .card-title {
+    line-height: 28px !important; } }
+
 /* ==========  Social Media Icons  ========== */
 #social-media {
   padding: 10px 0 0 0; }
