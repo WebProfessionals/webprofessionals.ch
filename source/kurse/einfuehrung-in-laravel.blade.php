@@ -87,7 +87,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten:</h2>
-                <p>8 Kursabende à 4 Lektionen (Total 32 Lektionen). Jeweils Dienstags von 18.30 Uhr bis 21.30 Uhr. Beginn: 8. November 2016</p>
+                <p>8 Kursabende à 4 Lektionen (Total 32 Lektionen). Jeweils Dienstag von 18.30 Uhr bis 21.30 Uhr. Kursdaten: 14.3., 21.3., 28.3., 5.4., 25.4., 2.5., 9.5., 16.5.</p>
             </div>
 
             <div id="kosten" class="section scrollspy">

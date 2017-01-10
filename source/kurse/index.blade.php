@@ -80,7 +80,7 @@
                 </tr>
                 <tr>
                     <td><a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a></td>
-                    <td>Frühling 17</td>
+                    <td>14. März 2017</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
