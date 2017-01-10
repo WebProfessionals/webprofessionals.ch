@@ -97,8 +97,8 @@
                 <h2>Lektionen, Daten:</h2>
                 <p>2 Kursabende à 4 Lektionen (Total 8 Lektionen).</p>
                 <p>
-                    Mittwoch, 9.11.2016, 18:15 Uhr - 21:30 Uhr<br>
-                    Mittwoch, 16.11.2016, 18:15 Uhr - 21:30 Uhr
+                    Mittwoch, 08.03.2017, 18:15 Uhr - 21:30 Uhr<br>
+                    Mittwoch, 15.03.2017, 18:15 Uhr - 21:30 Uhr
                 </p>
             </div>
 

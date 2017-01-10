@@ -65,7 +65,7 @@
                 <tbody>
                 <tr>
                     <td><a href="/kurse/hands-on-workshop-polymer-project/">Hands on workshop Polymer</a></td>
-                    <td>Frühling 17</td>
+                    <td>8. und 15. März 17</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>

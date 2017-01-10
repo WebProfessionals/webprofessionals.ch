@@ -53,12 +53,12 @@
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Kurs auswählen</option>
-                            <option value="HTML/CSS Auffrischung, Start 9.11.2016, Grabs SG">HTML/CSS Auffrischung, Start 9.11.2016, Grabs SG</option>
-                            <option value="Hands on workshop Polymer, Start 9.11.2016, Grabs SG">Hands on workshop Polymer, Start 9.11.2016, Grabs SG</option>
-                            <option value="Einführung in AngularJS, Start Herbst 2016, Grabs SG">Einführung in AngularJS, Start Herbst 2016, Grabs SG</option>
-                            <option value="Einführung in Laravel, Start Herbst 2016, Grabs SG">Einführung in Laravel, Start Herbst 2016, Grabs SG</option>
-                            <option value="WordPress Themes programmieren, Start Herbst 2016, Grabs SG">WordPress Themes programmieren, Start Herbst 2016, Grabs SG</option>
-                            <option value="eigene Stock Fotos erstellen, Start Herbst 2016, Grabs SG">eigene Stock Fotos erstellen, Start Herbst 2016, Grabs SG</option>
+                            <option value="HTML/CSS Auffrischung, Frühling 17, Grabs SG">HTML/CSS Auffrischung, Frühling 17, Grabs SG</option>
+                            <option value="Hands on workshop Polymer, 8./15. März 2017, Grabs SG">Hands on workshop Polymer, 8./15. März 2017, Grabs SG</option>
+                            <option value="Einführung in AngularJS, Frühling 17, Grabs SG">Einführung in AngularJS, Frühling 17, Grabs SG</option>
+                            <option value="Einführung in Laravel, Frühling 17, Grabs SG">Einführung in Laravel, Frühling 17, Grabs SG</option>
+                            <option value="WordPress Themes programmieren, Frühling 17, Grabs SG">WordPress Themes programmieren, Frühling 17, Grabs SG</option>
+                            <option value="eigene Stock Fotos erstellen, Frühling 17, Grabs SG">eigene Stock Fotos erstellen, Frühling 17, Grabs SG</option>
                         </select>
                         <label>Ich möchte mich zu folgendem Kurs anmelden:</label>
                         <input type="checkbox" id="agb" name="agb" required />
