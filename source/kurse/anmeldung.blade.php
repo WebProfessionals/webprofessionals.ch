@@ -53,6 +53,7 @@
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Kurs auswählen</option>
+                            <option value="HTML/CSS Auffrischung, Start 9.11.2016, Grabs SG">HTML/CSS Auffrischung, Start 9.11.2016, Grabs SG</option>
                             <option value="Hands on workshop Polymer, Start 9.11.2016, Grabs SG">Hands on workshop Polymer, Start 9.11.2016, Grabs SG</option>
                             <option value="Einführung in AngularJS, Start Herbst 2016, Grabs SG">Einführung in AngularJS, Start Herbst 2016, Grabs SG</option>
                             <option value="Einführung in Laravel, Start Herbst 2016, Grabs SG">Einführung in Laravel, Start Herbst 2016, Grabs SG</option>

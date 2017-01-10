@@ -226,13 +226,16 @@ h2.webpro:after{
   border-bottom: 2px solid color("webpro-green", "base");
 }
 
-/* ==========  Bullet Lists  ========== */
+/* ==========  Kurse / Lehrgänge Bullet Lists  ========== */
 ul.webpro-list {
   list-style: initial;
   margin: initial;
   padding: 0 0 0 40px;
   li {
     list-style-type: disc;
+  }
+  ul {
+    margin-left:1rem;
   }
 }
 
@@ -391,3 +394,4 @@ main {
 .card-content {
   font-size:14px;
 }
+

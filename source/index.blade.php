@@ -108,7 +108,7 @@
                     <img src="/images/aktuelles/melanie_bernhard_l6.jpg" alt="Melanie Bernhard" title="Melanie Bernhard">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Portrait: Melanie Bernhard, Web Integrator</span>
+                    <span class="card-title">Portrait: Melanie Bernhard</span>
                     <p>"Dank des Praktikums habe ich heute meinen Traumjob, im Traumbereich :-)"</p>
                     <p>1. Dezember 2016</p>
                 </div>

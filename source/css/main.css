@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .webpro-red {
   background-color: #892425 !important; }
 
@@ -5102,13 +5103,15 @@ h2.webpro:after {
   left: 0;
   border-bottom: 2px solid #97be0d; }
 
-/* ==========  Bullet Lists  ========== */
+/* ==========  Kurse / Lehrgänge Bullet Lists  ========== */
 ul.webpro-list {
   list-style: initial;
   margin: initial;
   padding: 0 0 0 40px; }
   ul.webpro-list li {
     list-style-type: disc; }
+  ul.webpro-list ul {
+    margin-left: 1rem; }
 
 /* ==========  Nav Level 2  ========== */
 @media only screen and (min-width: 601px) {
