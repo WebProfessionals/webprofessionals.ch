@@ -42,7 +42,7 @@
                 ])
                 <nav class="webpro-nav-lvl2">
                     <a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>
-                    <a href="/kurse/hands-on-workshop-polymer-project/">Hands on workshop Polymer</a><br>
+                    <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
                     <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
                     <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
                     <a class="webpro-subnav-active" href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
