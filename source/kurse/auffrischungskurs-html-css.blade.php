@@ -68,7 +68,7 @@
             <div id="inhalte" class="section scrollspy">
                 <h2>Inhalte:</h2>
                 <ul class="webpro-list">
-                    <li><strong>1. Abend: Repetition</strong>
+                    <li><strong>1. Abend/Nachmittag: Repetition</strong>
                         <ul>
                             <li>HTML Grundlagen: Tags, Divs, Spans, Bilder, Links etc.</li>
                             <li>CSS Grundlagen: Selektoren, Spezifität, Box-Modell</li>
@@ -76,7 +76,7 @@
 
                         </ul>
                     </li>
-                    <li><strong>2. Abend: Layout</strong>
+                    <li><strong>2. Abend/Nachmittag: Layout</strong>
                         <ul>
                             <li>Vergleich der verschiedenen Ansätze</li>
                             <li>Floating</li>
@@ -85,19 +85,19 @@
                             <li>Media Queries</li>
                         </ul>
                     </li>
-                    <li><strong>3. Abend: HTML5/CSS3</strong>
+                    <li><strong>3. Abend/Nachmittag: HTML5/CSS3</strong>
                         <ul>
                             <li>HTML5 in der Praxis</li>
                             <li>neue CSS3 Selektoren</li>
                         </ul>
                     </li>
-                    <li><strong>4. Abend: CSS Präprozessoren</strong>
+                    <li><strong>4. Abend/Nachmittag: CSS Präprozessoren</strong>
                         <ul>
                             <li>Einführung LESS/SASS</li>
                             <li>erste Versuche mit SASS</li>
                         </ul>
                     </li>
-                    <li><strong>5. Abend: CSS Frameworks</strong>
+                    <li><strong>5. Abend/Nachmittag: CSS Frameworks</strong>
                         <ul>
                             <li>Twitter Bootstrap</li>
                             <li>Zurb Foundation</li>
@@ -122,8 +122,9 @@
             </div>
 
             <div id="termine" class="section scrollspy">
-                <h2>Lektionen, Daten:</h2>
-                <p>6 Kursabende à 4 Lektionen (Total 24 Lektionen). Wochentag noch offen, ab Mitte Januar 2017 oder Anfang März 2017 (Termin wird bis zum 12.1.17 hier publiziert)</p>
+                <h2>Lektionen, Daten, Kursort:</h2>
+                <p><strong>Kurs 1</strong>: 6 Samstag Nachmittage à 4 Lektionen (Total 24 Lektionen), 13:00 - 16:15 Uhr, 14.01.17 - 18.02.17, ibw Höhere Fachschule Sargans</p>
+                <p><strong>Kurs 2</strong>: 6 Mittwoch Abende à 4 Lektionen (Total 24 Lektionen), 18:15 - 21:30 Uhr, 01.03.17 - 05.04.17, Techfabrik Grabs</p>
             </div>
 
             <div id="kosten" class="section scrollspy">
@@ -134,7 +135,7 @@
             <div id="klassen" class="section scrollspy">
                 <h2>Kursort:</h2>
                 <p>
-                    Techfabrik, Mühlbachstrasse 11a, 9472 Grabs
+                     oder alternativ Techfabrik Grabs (je nach Teilnehmer)
                 </p>
             </div>
 
