@@ -87,11 +87,6 @@
                     <td>16.03.17</td>
                     <td>Grabs</td>
                 </tr>
-                <tr>
-                    <td><a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a></td>
-                    <td>auf Anfrage</td>
-                    <td>Grabs</td>
-                </tr>
                 </tbody>
             </table>
         </div>
