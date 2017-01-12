@@ -44,9 +44,9 @@
                     <a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>
                     <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
                     <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
-                    <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
                     <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
-                    <a class="webpro-subnav-active" href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
+                    <a class="webpro-subnav-active" href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br>
+                    <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br><br>
                     <a href="/kurse/anmeldung/">Anmeldung</a>
                 </nav>
             </div>
@@ -93,7 +93,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten:</h2>
-                <p>4 Kursabende à 4 Lektionen (Total 16 Lektionen). Jeweils Donnerstags von 18.30 Uhr bis 21.30 Uhr. Beginn: Frühling 2017.</p>
+                <p>4 Kursabende à 4 Lektionen (Total 16 Lektionen). Jeweils Donnerstags von 18.30 Uhr bis 21.30 Uhr. Beginn: 16. März 2017.</p>
             </div>
 
             <div id="kosten" class="section scrollspy">

@@ -43,9 +43,9 @@
                 <a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>
                 <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
                 <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
-                <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
                 <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
-                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
+                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br>
+                <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br><br>
                 <a href="/kurse/anmeldung/">Anmeldung</a>
             </nav>
         </div>
@@ -65,27 +65,27 @@
                 <tbody>
                 <tr>
                     <td><a href="/kurse/auffrischungskurs-html-css/">Auffrischungskurs HTML5/CSS3</a></td>
-                    <td>Kurs 1: 14.Januar 17<br>Kurs 2: 01.März 17</td>
+                    <td>Kurs 1: 14.01.17<br>Kurs 2: 01.03.17</td>
                     <td>Sargans<br>Grabs</td>
                 </tr>
                 <tr>
                     <td><a href="/kurse/hands-on-workshop-polymer-project/">Hands on workshop Polymer</a></td>
-                    <td>08. und 15. März 17</td>
+                    <td>08.03.17</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
                     <td><a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a></td>
-                    <td>16. März 17</td>
+                    <td>16.03.17</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
                     <td><a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a></td>
-                    <td>14. März 2017</td>
+                    <td>14.03.17</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
                     <td><a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a></td>
-                    <td>Frühling 17</td>
+                    <td>16.03.17</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
