@@ -59,10 +59,8 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
-                <div class="headline">
-                    <p>Du kennst dich bereits etwas mit HTML und CSS aus, aber dein Code ähnelt manchmal einem Glücksspiel? Dann besuch doch den Kurs "HTML / CSS Aufrischung" und erhalte mehr Sicherheit im Frontend Development. Nebst dem routinierteren Umgang mit CSS lernst du in diesem Kurs auch weiterführende Konzepte wie z.B. Flexbox, neue Pseudoklassen etc. kennen</p>
-                    <p>Dieser Kurs richtet sich an Teilnehmer und Absolventen der Integratoren-Lehrgänge oder an Personen mit ähnlichem Vorwissen. Er bildet zudem eine optimale Grundlage um sich im Vertiefungslehrgang "Web Developer" auf die wesentlichen Dinge konzentrieren zu können.</p>
-                </div>
+                <p class="headline">Du kennst dich bereits etwas mit HTML und CSS aus, aber dein Code ähnelt manchmal einem Glücksspiel? Dann besuch doch den Kurs "HTML / CSS Aufrischung" und erhalte mehr Sicherheit im Frontend Development. Nebst dem routinierteren Umgang mit CSS lernst du in diesem Kurs auch weiterführende Konzepte wie z.B. Flexbox, neue Pseudoklassen etc. kennen</p>
+                <p>Dieser Kurs richtet sich an Teilnehmer und Absolventen der Integratoren-Lehrgänge oder an Personen mit ähnlichem Vorwissen. Er bildet zudem eine optimale Grundlage um sich im Vertiefungslehrgang "Web Developer" auf die wesentlichen Dinge konzentrieren zu können.</p>
             </div>
 
             <div id="inhalte" class="section scrollspy">

@@ -62,7 +62,7 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
-                <div class="headline">Polymer ist eine Open-Source JavaScript Library um mittels Web Components modernste Web Applikation zu entwickeln. Der Begriff "Web Components" bezeichnet eine Sammlung an zur Entwicklung gekapselter, modularer und wiederverwendbarer Elementen. Die Library wird von Google Entwicklern sowie freiwilligen Unterstützern als GitHub Projekt programmiert und zur Verfügung gestellt.</div>
+                <p class="headline">Polymer ist eine Open-Source JavaScript Library um mittels Web Components modernste Web Applikation zu entwickeln. Der Begriff "Web Components" bezeichnet eine Sammlung an zur Entwicklung gekapselter, modularer und wiederverwendbarer Elementen. Die Library wird von Google Entwicklern sowie freiwilligen Unterstützern als GitHub Projekt programmiert und zur Verfügung gestellt.</p>
                 <p>In diesem Hands-on lernst Du die Grundlagen des Polymer Projects kennen und setzt das erlernte Wissen in einer praktischen Anwendung um.</p>
             </div>
 

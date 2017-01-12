@@ -59,7 +59,7 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
-                <div class="headline">Du findest das richtige Stock Bild für deine Webseite oder Layout nicht? Die Nutzungsrechte stellen ein Problem dar oder sind zu teuer?</div>
+                <p class="headline">Du findest das richtige Stock Bild für deine Webseite oder Layout nicht? Die Nutzungsrechte stellen ein Problem dar oder sind zu teuer?</p>
                 <p>Jeder Grafiker und Webdesigner kommt bei der Arbeit früher oder später mit dem Thema Stock Fotografie in Berührung. Wann ist ein Stockfoto von Vorteil, wann nicht? Wie können sie kreativ eingesetzt werden? Und noch besser: Wie erstelle ich eigene Bilder? Genau das lernst Du in diesem Kurs. Noch besser: am Ende des Kurses hast Du bereits Dein eigenes Archiv an Fotografien.</p>
             </div>
 

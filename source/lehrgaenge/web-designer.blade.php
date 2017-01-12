@@ -66,7 +66,7 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
-                <div class="headline">Pixel sind für Dich mehr als nur ein Punkt auf dem Screen? Du möchtest Nutzer von Webseiten und Apps mit Deiner Gestaltung begeistern und das Internet Stück für Stück ein bisschen schöner machen?</div>
+                <p class="headline">Pixel sind für Dich mehr als nur ein Punkt auf dem Screen? Du möchtest Nutzer von Webseiten und Apps mit Deiner Gestaltung begeistern und das Internet Stück für Stück ein bisschen schöner machen?</p>
                 <p>Dann belegst du am besten den Lehrgang zum Web Designer. Fachleute zeigen dir, worauf es ankommt:</p>
                 <ul class="webpro-list">
                     <li>Gestaltung und Umsetzung von Mockups / Wireframes.</li>
