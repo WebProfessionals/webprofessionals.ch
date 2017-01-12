@@ -44,8 +44,7 @@
                 <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
                 <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
                 <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
-                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br>
-                <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br><br>
+                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
                 <a href="/kurse/anmeldung/">Anmeldung</a>
             </nav>
         </div>

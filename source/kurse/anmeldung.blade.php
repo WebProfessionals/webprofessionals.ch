@@ -44,8 +44,7 @@
                 <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
                 <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
                 <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
-                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a>
-                <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
+                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br>
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
@@ -57,11 +56,9 @@
                             <option value="HTML/CSS Auffrischung, Kurs 1, Sargans SG">HTML/CSS Auffrischung Kurs 1, Samstags, 14.01.17-18.02.17, Sargans SG</option>
                             <option value="HTML/CSS Auffrischung, Kurs 2, Grabs SG">HTML/CSS Auffrischung Kurs 2, Mittwochs, 01.03.17-05.04.17, Grabs SG</option>
                             <option value="Hands on workshop Polymer, 8./15. März 2017, Grabs SG">Hands on workshop Polymer, 8./15. März 2017, Grabs SG</option>
-                            <!-- <option value="Einführung in AngularJS, Frühling 17, Grabs SG">Einführung in AngularJS, Frühling 17, Grabs SG</option>
-                            <option value="Einführung in Laravel, Frühling 17, Grabs SG">Einführung in Laravel, Frühling 17, Grabs SG</option>
-                            <option value="WordPress Themes programmieren, Frühling 17, Grabs SG">WordPress Themes programmieren, Frühling 17, Grabs SG</option>
-                            <option value="eigene Stock Fotos erstellen, Frühling 17, Grabs SG">eigene Stock Fotos erstellen, Frühling 17, Grabs SG</option>
-                            -->
+                            <option value="Einführung in Laravel, 14.3.17, Grabs SG">Einführung in Laravel, 14.3.17, Grabs SG</option>
+                            <option value="WordPress Themes programmieren, 16.3.17, Grabs SG">WordPress Themes programmieren, 16.3.17, Grabs SG</option>
+                            <option value="eigene Stock Fotos erstellen, 16.3.17, Grabs SG">eigene Stock Fotos erstellen, 16.3.17, Grabs SG</option>
                         </select>
                         <label>Ich möchte mich zu folgendem Kurs anmelden:</label>
                         <input type="checkbox" id="agb" name="agb" required />
