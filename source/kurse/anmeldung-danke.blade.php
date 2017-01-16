@@ -1,5 +1,12 @@
 @extends('_layouts.master')
 
+{{-- Pixel --}}
+@section('pixel')
+    <script>
+        fbq('track', 'Purchase');
+    </script>
+@endsection
+
 {{-- Header --}}
 @section('header')
     <title>Anmeldung Kurse | Web Professionals</title>
