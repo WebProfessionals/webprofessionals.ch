@@ -97,6 +97,7 @@
             <section id="dauer" class="section scrollspy">
                 <h2>Dauer:</h2>
                 <p>1 Semester, 110 Lektionen, berufsbegleitend</p>
+                <p>29. April 2017 - 23. September 2017</p>
             </section>
 
             <section id="klassen" class="section scrollspy">
