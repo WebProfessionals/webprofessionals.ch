@@ -117,6 +117,20 @@
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
+                        <select name="referal" multiple>
+                            <option value="" disabled selected>Freunde, Google, Facebook oder Inserat?</option>
+                            <option value="Empfehlung">persönliche Empfehlung</option>
+                            <option value="Google">Google Suche</option>
+                            <option value="Facebook">Facebook</option>
+                            <option value="Inserat">Inserat</option>
+                            <option value="APG">APG Plakat</option>
+                            <option value="anderes">anderes</option>
+                        </select>
+                        <label>Wie bist du auf uns aufmerksam geworden?</label>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="input-field col s12">
                         <input type="hidden" name="_next" value="https://web-professionals.ch/kurse/anmeldung-danke/" />
                         <input type="hidden" name="_subject" value="Anmeldung Kurs" />
                         <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="verbindlich anmelden">
@@ -126,6 +140,7 @@
             </form>
         </div>
     </div>
+    <br><br><br><br><br><br><br><br><br>&nbsp;
 @endsection
 
 @section('subnavmobile')
