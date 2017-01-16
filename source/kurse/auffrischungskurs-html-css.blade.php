@@ -51,8 +51,8 @@
             </div>
             <div class="hide-on-med-and-up">
                 @include('_partials.header1', [
-                    'part1'    =>  'Einführungskurs',
-                    'part2'    =>  'Laravel'
+                    'part1'    =>  'Auffrischungskurs',
+                    'part2'    =>  'HTML / CSS'
                 ])
             </div>
         </div>
@@ -120,8 +120,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten, Kursort:</h2>
-                <p><strong>Kurs 1</strong>: 6 Samstag Nachmittage à 4 Lektionen (Total 24 Lektionen), 13:00 - 16:15 Uhr, 14.01.17 - 18.02.17, ibw Höhere Fachschule Sargans</p>
-                <p><strong>Kurs 2</strong>: 6 Mittwoch Abende à 4 Lektionen (Total 24 Lektionen), 18:15 - 21:30 Uhr, 01.03.17 - 05.04.17, Techfabrik Grabs</p>
+                <p>6 Mittwoch Abende à 4 Lektionen (Total 24 Lektionen), 18:15 - 21:30 Uhr, 01.03.17 - 05.04.17, Techfabrik Grabs</p>
             </div>
 
             <div id="kosten" class="section scrollspy">

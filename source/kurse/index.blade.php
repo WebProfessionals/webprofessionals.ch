@@ -64,8 +64,8 @@
                 <tbody>
                 <tr>
                     <td><a href="/kurse/auffrischungskurs-html-css/">Auffrischungskurs HTML5/CSS3</a></td>
-                    <td>Kurs 1: 14.01.17<br>Kurs 2: 01.03.17</td>
-                    <td>Sargans<br>Grabs</td>
+                    <td>01.03.17</td>
+                    <td>Grabs</td>
                 </tr>
                 <tr>
                     <td><a href="/kurse/hands-on-workshop-polymer-project/">Hands on workshop Polymer</a></td>

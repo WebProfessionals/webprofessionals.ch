@@ -53,8 +53,7 @@
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Kurs auswählen</option>
-                            <option value="HTML/CSS Auffrischung, Kurs 1, Sargans SG">HTML/CSS Auffrischung Kurs 1, Samstags, 14.01.17-18.02.17, Sargans SG</option>
-                            <option value="HTML/CSS Auffrischung, Kurs 2, Grabs SG">HTML/CSS Auffrischung Kurs 2, Mittwochs, 01.03.17-05.04.17, Grabs SG</option>
+                            <option value="HTML/CSS Auffrischung, Grabs SG">HTML/CSS Auffrischung, Mittwochs, 01.03.17-05.04.17, Grabs SG</option>
                             <option value="Hands on workshop Polymer, 8./15. März 2017, Grabs SG">Hands on workshop Polymer, 8./15. März 2017, Grabs SG</option>
                             <option value="Einführung in Laravel, 14.3.17, Grabs SG">Einführung in Laravel, 14.3.17, Grabs SG</option>
                             <option value="WordPress Themes programmieren, 16.3.17, Grabs SG">WordPress Themes programmieren, 16.3.17, Grabs SG</option>
