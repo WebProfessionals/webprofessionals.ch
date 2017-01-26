@@ -39,6 +39,39 @@
     </head>
     @yield('pixel')
     <body>
+        <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "EducationalOrganization",
+            "name": "Web Professionals",
+            "url": "https://web-professionals.ch",
+            "sameAs": [
+                "https://www.facebook.com/WebProfessionalsOstschweiz/",
+                "https://twitter.com/webproCH"
+            ],
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Grabs",
+                "postalCode": "9472",
+                "streetAddress": "Mühlbachstrasse 11a"
+            },
+            "contactPoint": [
+                {
+                    "@type": "ContactPoint",
+                    "telephone": "+41 77 460 38 85",
+                    "email": "info@web-professionals.ch"
+                }
+            ],
+            "founder": [
+                {
+                    "@type": "Person",
+                    "name": "Rolf Eggenberger",
+                    "jobTitle": "CEO"
+                }
+            ]
+        }
+
+        </script>
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -71,7 +104,7 @@
                 <div class="row">
                     <div class="col l6 s12" itemscope itemtype="http://schema.org/EducationalOrganization">
                         <h5 class="white-text" itemprop="name">Web Professionals</h5>
-                        <p class="grey-text text-lighten-4" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Techfabrik</span><br><span itemprop="streetAddress">Mühlbachstrasse 11a</span><br><span itemprop="addressCountry">CH</span>-<span itemprop="postalCode">9472</span> <span itemprop="addressLocality">Grabs</span><br><br>
+                        <p class="grey-text text-lighten-4" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Techfabrik<br><span itemprop="streetAddress">Mühlbachstrasse 11a</span><br><span itemprop="addressCountry">CH</span>-<span itemprop="postalCode">9472</span> <span itemprop="addressLocality">Grabs</span><br><br>
                             <i class="material-icons tiny">email</i>&nbsp;info[at]web-professionals.ch<br>
                             <i class="material-icons tiny">phone</i>&nbsp;077 460 38 85</p>
                     </div>
