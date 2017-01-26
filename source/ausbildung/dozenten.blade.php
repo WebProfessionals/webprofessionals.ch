@@ -51,22 +51,19 @@
     </div>
 
 
-
-
-
     <div class="row">
         <div class="col l4 m6 s12">
 
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image waves-effect waves-block waves-light">
                     <img class="activator" src="/images/dozenten/rolf-eggenberger.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title activator grey-text text-darken-4">Rolf Eggenberger<i class="material-icons right">more_vert</i></span>
-                    <p>Gründer und Co-Gründer diverser Online Startups<br><br><img src="/images/webpro-icon-14.gif"> Lehrgangsleiter, HTML/CSS, PHP, WordPress</p>
+                    <span class="card-title activator grey-text text-darken-4"><span itemprop="givenName">Rolf</span> <span itemprop="familyName">Eggenberger</span><i class="material-icons right">more_vert</i></span>
+                    <p>Gründer und Co-Gründer diverser Online Startups<br><br><img src="/images/webpro-icon-14.gif"> <span itemprop="jobTitle">Lehrgangsleiter, HTML/CSS, PHP, WordPress</span></p>
                 </div>
                 <div class="card-reveal">
-                    <span class="card-title grey-text text-darken-4">Rolf Eggenberger<i class="material-icons right">close</i></span>
+                    <span class="card-title grey-text text-darken-4">Rolf Eggenberger <i class="material-icons right">close</i></span>
                     <p>Rolf Eggenberger ist Initiator und Lehrgangsleiter der Web Professionals sowie Geschäftsleiter der Agentur ://kunstwort. Im Alter von 14 Jahren programmierte er seine erste kommerzielle Software zur Planung von Busrouten, unterrichtete während der Kantonsschule seine eigenen Klassenkameraden in Informatik und begann 1992 an der Universität St.Gallen Informationsmanagement zu studieren. In einer der Eröffnungsveranstaltungen stellte der damalige Tutor Peter Hogenkamp das „Internet“ vor – seit diesem Zeitpunkt ist Rolf konstant online.</p>
                     <p>Gemeinsam mit Alexander Braun ist er Co-Founder diverser Online-Startups. Diese Erfahrungen helfen dabei, die Web Professionals immer wieder auf Tempo zu bringen und sich laufend an Neuem zu orientieren.</p>
                 </div>
@@ -75,13 +72,13 @@
         </div>
         <div class="col l4 m6 s12">
 
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image waves-effect waves-block waves-light">
                     <img class="activator" src="/images/dozenten/martina-heeb.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title activator grey-text text-darken-4">Martina Heeb<i class="material-icons right">more_vert</i></span>
-                    <p>Screendesignerin Agentur kunstwort GmbH<br><br><img src="/images/webpro-icon-14.gif"> Lehrgangsleiterin Web Designer</p>
+                    <span class="card-title activator grey-text text-darken-4"><span itemprop="givenName">Martina</span> <span itemprop="familyName">Heeb</span><i class="material-icons right">more_vert</i></span>
+                    <p>Screendesignerin Agentur kunstwort GmbH<br><br><img src="/images/webpro-icon-14.gif"> <span itemprop="jobTitle">Lehrgangsleiterin Web Designer</span></p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Martina Heeb<i class="material-icons right">close</i></span>
@@ -92,13 +89,13 @@
         </div>
         <div class="col l4 m6 s12">
 
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image waves-effect waves-block waves-light">
                     <img class="activator" src="/images/dozenten/veith-zaech.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title activator grey-text text-darken-4">Veith Zäch<i class="material-icons right">more_vert</i></span>
-                    <p>Software Architekt, adcubum<br><br><img src="/images/webpro-icon-14.gif"> JavaScript, Ajax/jQuery, PHP, AngularJS</p>
+                    <span class="card-title activator grey-text text-darken-4"><span itemprop="givenName">Veith</span> <span itemprop="familyName">Zäch</span><i class="material-icons right">more_vert</i></span>
+                    <p><span itemprop="jobTitle">Software Architekt, adcubum</span><br><br><img src="/images/webpro-icon-14.gif"> JavaScript, Ajax/jQuery, PHP, AngularJS</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Veith Zäch<i class="material-icons right">close</i></span>
@@ -109,13 +106,13 @@
         </div>
         <div class="col l4 m6 s12">
 
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image waves-effect waves-block waves-light">
                     <img class="activator" src="/images/dozenten/florian-gaechter.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title activator grey-text text-darken-4">Florian Gächter<i class="material-icons right">more_vert</i></span>
-                    <p>Senior Frontend Developer, Namics AG<br><br><img src="/images/webpro-icon-14.gif"> JavaScript, Ajax/jQuery, Laravel</p>
+                    <span class="card-title activator grey-text text-darken-4"><span itemprop="givenName">Florian</span> <span itemprop="familyName">Gächter</span><i class="material-icons right">more_vert</i></span>
+                    <p><span itemprop="jobTitle">Senior Frontend Developer, Namics AG</span><br><br><img src="/images/webpro-icon-14.gif"> JavaScript, Ajax/jQuery, Laravel</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Florian Gächter<i class="material-icons right">close</i></span>
@@ -126,13 +123,13 @@
         </div>
         <div class="col l4 m6 s12">
 
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image waves-effect waves-block waves-light">
                     <img class="activator" src="/images/dozenten/alexander-braun.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title activator grey-text text-darken-4">Alexander Braun<i class="material-icons right">more_vert</i></span>
-                    <p>Gründer und Geschäftsleiter Creative Construction Berlin<br><br><img src="/images/webpro-icon-14.gif"> Konzeption, neue Technologien</p>
+                    <span class="card-title activator grey-text text-darken-4"><span itemprop="givenName">Alexander</span> <span itemprop="familyName">Braun</span><i class="material-icons right">more_vert</i></span>
+                    <p><span itemprop="jobTitle">Gründer und Geschäftsleiter Creative Construction Berlin</span><br><br><img src="/images/webpro-icon-14.gif"> Konzeption, neue Technologien</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Alexander Braun<i class="material-icons right">close</i></span>
@@ -142,14 +139,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Michelle Oesch</span>
+                    <span class="card-title"><span itemprop="givenName">Michelle</span> <span itemprop="familyName">Oesch</span></span>
                     <p>
-                        Wissenschaftliche Fotografin Universität Zürich<br><br>
+                        <span itemprop="jobTitle">Wissenschaftliche Fotografin Universität Zürich</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> Fotografie
                     </p>
                 </div>
@@ -157,14 +154,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Reto Zahner</span>
+                    <span class="card-title"><span itemprop="givenName">Reto</span> <span itemprop="familyName">Zahner</span></span>
                     <p>
-                        technologischer Leiter, somedia production<br><br>
+                        <span itemprop="jobTitle">technologischer Leiter, somedia production</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> Datenbanken
                     </p>
                 </div>
@@ -172,14 +169,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Julian Schattner</span>
+                    <span class="card-title"><span itemprop="givenName">Julian</span> <span itemprop="familyName">Schattner</span></span>
                     <p>
-                        Web und mobile Developer, JuicySoft<br><br>
+                        <span itemprop="jobTitle">Product Owner, DACHCOM.CH AG</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> 	PHP, OOP, mobile Lösungen
                     </p>
                 </div>
@@ -189,13 +186,13 @@
 
         <div class="col l4 m6 s12">
 
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image waves-effect waves-block waves-light">
                     <img class="activator" src="/images/dozenten/michi-jaeger.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title activator grey-text text-darken-4">Michael Jäger<i class="material-icons right">more_vert</i></span>
-                    <p>Projektleiter Webstobe GmbH<<br><br><img src="/images/webpro-icon-14.gif"> Konzeption</p>
+                    <span class="card-title activator grey-text text-darken-4"><span itemprop="givenName">Michael</span> <span itemprop="familyName">Jäger</span><i class="material-icons right">more_vert</i></span>
+                    <p><span itemprop="jobTitle">Projektleiter Webstobe GmbH</span><br><br><img src="/images/webpro-icon-14.gif"> Konzeption</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Michael Jäger<i class="material-icons right">close</i></span>
@@ -207,13 +204,13 @@
 
         <div class="col l4 m6 s12">
             <div class="card medium">
-                <div class="card-image">
+                <div class="card-image" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Mark Lowe</span>
+                    <span class="card-title"><span itemprop="givenName">Mark</span> <span itemprop="familyName">Lowe</span></span>
                     <p>
-                        Software Engineer, Namics AG<br><br>
+                        <span itemprop="jobTitle">Software Engineer, Namics AG</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> WordPress
                     </p>
                 </div>
@@ -221,14 +218,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/stefan-baur.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Stefan Baur</span>
+                    <span class="card-title"><span itemprop="givenName">Stefan</span> <span itemprop="familyName">Baur</span></span>
                     <p>
-                        Senior Software Engineer, Namics AG<br><br>
+                        <span itemprop="jobTitle">Founder und CEO Lowe IT Consulting Ltd., London</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> PHP
                     </p>
                 </div>
@@ -236,14 +233,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/marc-illien.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Marc Illien</span>
+                    <span class="card-title"><span itemprop="givenName">Marc</span> <span itemprop="familyName">Illien</span></span>
                     <p>
-                        Full Stack Engineer, siroop AG<br><br>
+                        <span itemprop="jobTitle">Full Stack Engineer, siroop AG</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> 	JavaScript
                     </p>
                 </div>
@@ -251,14 +248,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Tom Schneider</span>
+                    <span class="card-title"><span itemprop="givenName">Tom</span> <span itemprop="familyName">Schneider</span></span>
                     <p>
-                        Projektleiter, SOMEDIA PRODUCTION<br><br>
+                        <span itemprop="jobTitle">Projektleiter, SOMEDIA PRODUCTION</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> Drupal
                     </p>
                 </div>
@@ -266,14 +263,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/johanna-gaechter.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Johanna Gächter</span>
+                    <span class="card-title"><span itemprop="givenName">Johanna</span> <span itemprop="familyName">Gächter</span></span>
                     <p>
-                        Screendesignerin Kernbrand AG<br><br>
+                        <span itemprop="jobTitle">Screendesignerin Kernbrand AG</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> 	Tools, Ressourcen
                     </p>
                 </div>
@@ -281,14 +278,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/alexander-zyuzkevich.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Alexander Zyuzkevich</span>
+                    <span class="card-title"><span itemprop="givenName">Alexander</span> <span itemprop="familyName">Zyuzkevich</span></span>
                     <p>
-                        Art Director, Namics AG<br><br>
+                        <span itemprop="jobTitle">Senior Interaction Designer, Swisscom</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> 	UX/UI, Konzepte
                     </p>
                 </div>
@@ -296,14 +293,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Christian Woelk</span>
+                    <span class="card-title"><span itemprop="givenName">Christian</span> <span itemprop="familyName">Woelk</span></span>
                     <p>
-                        Partner, Graphic Designer Adicto<br><br>
+                        <span itemprop="jobTitle">Partner, Graphic Designer Adicto</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> Screen Design
                     </p>
                 </div>
@@ -311,14 +308,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Alain de Veer</span>
+                    <span class="card-title"><span itemprop="givenName">Alain</span> <span itemprop="familyName">de Veer</span></span>
                     <p>
-                        Mac und Alain<br><br>
+                        <span itemprop="jobTitle">UX Designer & Art, Advertima Berlin</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> Entwurfstechniken
                     </p>
                 </div>
@@ -326,14 +323,14 @@
         </div>
 
         <div class="col l4 m6 s12">
-            <div class="card medium">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
                     <img src="/images/dozenten/angelo-zehr.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Angelo Zehr</span>
+                    <span class="card-title"><span itemprop="givenName">Angelo</span> <span itemprop="familyName">Zehr</span></span>
                     <p>
-                        Stagiaire Schweizer Radio und Fernsehen<br><br>
+                        <span itemprop="jobTitle">Stagiaire Schweizer Radio und Fernsehen</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> Storytelling im Web
                     </p>
                 </div>
