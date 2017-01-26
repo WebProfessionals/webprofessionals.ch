@@ -69,9 +69,9 @@
         <footer class="page-footer">
             <div class="container">
                 <div class="row">
-                    <div class="col l6 s12">
-                        <h5 class="white-text">Web Professionals</h5>
-                        <p class="grey-text text-lighten-4">Techfabrik<br>Mühlbachstrasse 11a<br>CH-9472 Grabs<br><br>
+                    <div class="col l6 s12" itemscope itemtype="http://schema.org/EducationalOrganization">
+                        <h5 class="white-text" itemprop="name">Web Professionals</h5>
+                        <p class="grey-text text-lighten-4" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Techfabrik</span><br><span itemprop="streetAddress">Mühlbachstrasse 11a</span><br><span itemprop="addressCountry">CH</span>-<span itemprop="postalCode">9472</span> <span itemprop="addressLocality">Grabs</span><br><br>
                             <i class="material-icons tiny">email</i>&nbsp;info[at]web-professionals.ch<br>
                             <i class="material-icons tiny">phone</i>&nbsp;077 460 38 85</p>
                     </div>
