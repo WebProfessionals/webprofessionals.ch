@@ -60,7 +60,7 @@
                     "@type": "ContactPoint",
                     "telephone": "+41 77 460 38 85",
                     "email": "info@web-professionals.ch",
-                    "contactType": "Schulleitung"
+                    "contactType": "customer support"
                 }
             ],
             "founder": [
