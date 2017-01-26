@@ -33,7 +33,7 @@
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Bleib dabei</span><br>
-            <span class="webpro-hero2">Infoanlässe, Friends, Barcamps, Hackatons und Co.</span><br><br>
+            <span class="webpro-hero2">Infoanlässe, Friends, Barcamps, Hackathons und Co.</span><br><br>
             <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/">Jetzt informieren</a>
         </div>
     </header>

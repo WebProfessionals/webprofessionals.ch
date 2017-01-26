@@ -2,7 +2,7 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Devgotchi | Hackaton#1 | Web Professionals</title>
+    <title>Devgotchi | Hackathon#1 | Web Professionals</title>
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -35,7 +35,7 @@
     <div class="row">
         <div class="col s12">
             @include('_partials.header1', [
-                'part1'    =>  'hackaton#1',
+                'part1'    =>  'Hackathon#1',
                 'part2'    =>  'Devgotchi'
             ])
             Rolf Eggenberger, 30. Oktober 2016
@@ -54,8 +54,8 @@
             <p>Das Web Professionals Barcamp findet halbjährlich statt und wurde schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
                 Mittlerweile reisen die Teilnehmer nicht nur aus allen Ecken der Schweiz, sondern sogar extra aus London an um an einem unserer Camps teilnehmen zu können.</p>
             <br>
-            <h2 class="webpro">#1 Web Professionals Hackaton 2016</h2>
-            <p>Dieses Mal fand am <strong>29. und 30. Oktober</strong> in der Techfabrik Grabs statt einem Barcamp der erste Web Professionals Hackaton statt.  Thema: <strong>Devgotchi.</strong></p>
+            <h2 class="webpro">#1 Web Professionals Hackathon 2016</h2>
+            <p>Dieses Mal fand am <strong>29. und 30. Oktober</strong> in der Techfabrik Grabs statt einem Barcamp der erste Web Professionals Hackathon statt.  Thema: <strong>Devgotchi.</strong></p>
             <h3>Devgotchi?</h3>
             <p>Des Developers ärgster Feind sind weder Spinnen noch Schlangen sondern <strong>Bugs</strong>. Ein Devgotchi sieht aus wie ein Käfer und ist ein Tamagotchi, welches man weder streicheln noch füttern will. Man kann es sich auch in etwa wie ein Mogwai vorstellen, welches entweder dem Sonnenlicht ausgesetzt oder nass wurde oder nach Mitternacht gefressen hat. Jedenfalls haben wir es nicht sonderlich gerne.</p>
             <p>Nachdem die Pokémons aktuell ihr grosses Comeback haben ist es nun an der Zeit, die Tamagotchis ebenfalls wieder aufleben zu lassen. Aber eben: allzu wohl sollen sie sich nun doch nicht fühlen. Schon gar nicht die Devgotchis.</p>

@@ -56,12 +56,12 @@
                 Damit die Web Professionals auch ganz sicher immer auf dem aktuellsten Stand bleiben wird die Ausbildung zudem mit folgenden Angeboten unterstützt:
             </p>
 
-            <h2>Web Professional Barcamps und Hackatons.</h2>
+            <h2>Web Professional Barcamps und Hackathons.</h2>
             <p>
-                Im halbjährlichen Abstand führen wir ein Barcamp oder einen Hackaton durch. Die <a href="/camp/">Barcamps</a> widmen sich jeweils einem aktuellen Thema welches in einer Un-Konferenz behandelt wird. Bisherige Themen waren: "alles mobil", "Tools und Workflows", "Internet der Dinge" sowie "Zukunft".
+                Im halbjährlichen Abstand führen wir ein Barcamp oder einen Hackathon durch. Die <a href="/camp/">Barcamps</a> widmen sich jeweils einem aktuellen Thema welches in einer Un-Konferenz behandelt wird. Bisherige Themen waren: "alles mobil", "Tools und Workflows", "Internet der Dinge" sowie "Zukunft".
             </p>
             <p>
-                Im Gegensatz zu den Barcamps wird bei einem Hackaton gemeinsam an einem vordefinierten Projekt gearbeitet. Beim ersten Hackaton haben wir ein Tamagotchi Spiel für Smartphones programmiert, beim zweiten Hackaton im Frühling 2017 werden wir eine Arcade Konsole bauen.
+                Im Gegensatz zu den Barcamps wird bei einem Hackathon gemeinsam an einem vordefinierten Projekt gearbeitet. Beim ersten Hackathon haben wir ein Tamagotchi Spiel für Smartphones programmiert, beim zweiten Hackathon im Frühling 2017 werden wir eine Arcade Konsole bauen.
             </p>
 
             <h2>Web Professional Lab.</h2>

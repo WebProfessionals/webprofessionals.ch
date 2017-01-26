@@ -16,8 +16,8 @@
             <!--
             <ul class="collapsible" data-collapsible="accordion">
                 <li>
-                    <div class="collapsible-header"><i class="material-icons right">alarm</i><strong>11</strong>/2016<br> Ankündigung Hackaton #2</div>
-                    <div class="collapsible-body"><p>Am 11. und 12. März findet der 2. Web Professionals Hackaton statt. Weitere Informationern folgen noch - bis dahin schon einmal den Termin reservieren :-)</p></div>
+                    <div class="collapsible-header"><i class="material-icons right">alarm</i><strong>11</strong>/2016<br> Ankündigung Hackathon #2</div>
+                    <div class="collapsible-body"><p>Am 11. und 12. März findet der 2. Web Professionals Hackathon statt. Weitere Informationern folgen noch - bis dahin schon einmal den Termin reservieren :-)</p></div>
                 </li>
                 <li>
                     <div class="collapsible-header"><i class="material-icons right">done</i><strong>08</strong>/2016<br> letzte Plätze Herbst-Lehrgänge 2016</div>
