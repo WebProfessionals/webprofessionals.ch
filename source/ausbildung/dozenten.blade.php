@@ -162,21 +162,6 @@
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Phillip Köppel</span>
-                    <p>
-                        selbständiger Grafiker<br><br>
-                        <img src="/images/webpro-icon-14.gif"> Gestaltungslehre, Adobe Programme
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col l4 m6 s12">
-            <div class="card medium">
-                <div class="card-image">
-                    <img src="/images/dozenten/dummy.jpg">
-                </div>
-                <div class="card-content">
                     <span class="card-title">Reto Zahner</span>
                     <p>
                         technologischer Leiter, somedia production<br><br>
