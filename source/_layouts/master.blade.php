@@ -46,7 +46,7 @@
             ga('send', 'pageview');
 
         </script>
-        
+
     </head>
     @yield('pixel')
     <body>
