@@ -63,6 +63,10 @@
             <p>
                 <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong> Mein Chef ;-). Und natürlich endlich mehr als einfach nur ein «selbstzusammengewurstelteltes-Fundament» zu haben in Webentwicklung.
             </p>
+            <br><br>
+            <p>
+                <strong>Video zur Diplomarbeit:</strong> Simon Walser hat als Diplomarbeit ein konkretes Projekt für seinen Arbeitgeber, die LGT Capital Partners initiiert und umgesetzt. Mehr dazu erfahrt ihr im Video...
+            </p>
             <div class="responsive-video">
                 <iframe width="1280" height="720" src="https://www.youtube.com/embed/1pJ99cPI-6c" frameborder="0" allowfullscreen></iframe>
             </div>
