@@ -138,7 +138,7 @@ function makeApiCall() {
                         startDateTimeStructured = startYear+'-'+startDate[1]+'-'+startDay;
                         endDateTimeStructured = endYear+'-'+endDate[1]+'-'+endDay;
                     }
-                    else{
+                    else {
                         var startTime = startDateTime[1].split(":"); //split hh ss etc...
                         var endTime = endDateTime[1].split(":"); //split hh ss etc...
                         startHour = startTime[0];
@@ -249,7 +249,7 @@ function drawCards(events) {
             cardClone.find('.card-events-time').html(events[i].startHour+':'+events[i].startMin+' - '+events[i].endHour+':'+events[i].endMin+' Uhr');
         }
 
-        // date thing
+        // date string based on start/end date
         if((events[i].startDay!=events[i].endDay)) {
             // start/end not the same day
             datumStart = events[i].startDay+'. '+events[i].startMonth+' '+events[i].startYear+' - ';
@@ -260,8 +260,8 @@ function drawCards(events) {
             datumStart = events[i].startDay+'. '+events[i].startMonth+' '+events[i].startYear;
             cardClone.find('.card-events-enddate').hide();
         }
-        cardClone.find('.card-events-startdate').html(datumStart);
 
+        cardClone.find('.card-events-startdate').html(datumStart);
         cardClone.find('.card-events-day').html(events[i].startDayWeek);
         cardClone.find('.card-events-title').html(summary);
         cardClone.find('.card-events-location').html(location);

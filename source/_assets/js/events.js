@@ -138,7 +138,7 @@ function makeApiCall() {
                         startDateTimeStructured = startYear+'-'+startDate[1]+'-'+startDay;
                         endDateTimeStructured = endYear+'-'+endDate[1]+'-'+endDay;
                     }
-                    else{
+                    else {
                         var startTime = startDateTime[1].split(":"); //split hh ss etc...
                         var endTime = endDateTime[1].split(":"); //split hh ss etc...
                         startHour = startTime[0];

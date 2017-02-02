@@ -46,7 +46,7 @@
         </div>
         <div class="col l7 m6 s12 webpro-right">
             <p>Die <strong>Ausbildung für angehende Web Profis</strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong> (Bildungspartner), der <strong>Techfabrik Grabs</strong> sowie der <strong>Hochschule für Technik Rapperswil</strong> (Durchführungspartner).</p>
-            <p>Nächster Lehrgangsstart: <strong>29. April 2017</strong>. Besuche uns an einem unserer <a href="/veranstaltungen/"><strong>Informationsanlässe</strong></a> und informiere Dich über die Web Professionals.</p>
+            <p>Nächster Lehrgangsstart: <strong>29. April 2017</strong>. Besuche uns an einem unserer <a href="/veranstaltungen/web-professionals/"><strong>Informationsanlässe</strong></a> und informiere Dich über die Web Professionals.</p>
             <p>Wir freuen uns auf Dich!</p>
         </div>
     </div>
@@ -66,11 +66,31 @@
         </div>
     </div>
     <div class="row aktuelles">
+
         <!-- Card Start -->
         <div class="col l7 m6">
+            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-02-01-simon-walser/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/simon_walser_l7.jpg" alt="Simon Walser" title="Simon Walser">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Portrait: Simon Walser</span>
+                    <p>"Es wird sehr individuell auf die Teilnehmer eingegangen."</p>
+                    <p>1. Februar 2017</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2017-02-01-simon-walser/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l5 m6">
             <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-01-04-stefanie-jegen/'>
                 <div class="card-image">
-                    <img src="/images/aktuelles/stefanie_jegen_l7.jpg" alt="Stefanie Jegen" title="Stefanie Jegen">
+                    <img src="/images/testimonials/stefanie_jegen.jpg" alt="Stefanie Jegen" title="Stefanie Jegen">
+
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">Portrait: Stefanie Jegen</span>
@@ -85,7 +105,7 @@
         <!-- Card End -->
 
         <!-- Card Start -->
-        <div class="col l5 m6">
+        <div class="col l6 m6">
             <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-10-30-hackathon-1-devgotchi/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/camp_2016_autumn.jpg" alt="Web Professionals Barcamp 2016" title="Web Professionals Barcamp 2016">
@@ -119,23 +139,6 @@
         </div>
         <!-- Card End -->
 
-        <!-- Card Start -->
-        <div class="col l6 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-08-24-lab-002-static-server-pages-nginx/'>
-                <div class="card-image">
-                    <img src="/images/aktuelles/2016-08-lab002.jpg" alt="Relaunch Web Professionals" title="Relaunch Web Professionals">
-                </div>
-                <div class="card-content white-text">
-                    <span class="card-title">lab#002</span>
-                    <p>Relaunch der Web Professionals Website</p>
-                    <p>24. August 2016</p>
-                </div>
-                <div class="card-action">
-                    <a class="white-text" href="/aktuelles/2016-08-24-lab-002-static-server-pages-nginx/">mehr</a>
-                </div>
-            </div>
-        </div>
-        <!-- Card End -->
 
     </div>
     <div class="row">

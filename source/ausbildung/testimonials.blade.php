@@ -56,6 +56,42 @@
 
             <div class="card">
                 <div class="card-image waves-effect waves-block waves-light">
+                    <img class="activator" src="/images/testimonials/simon_walser.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title activator grey-text text-darken-4">Simon Walser<i class="material-icons right">more_vert</i></span>
+                    <p>Absolvent Web Developer 2015</p>
+                </div>
+                <div class="card-reveal">
+                    <span class="card-title grey-text text-darken-4">Simon Walser<i class="material-icons right">close</i></span>
+                    <p>
+                        <strong>bisheriger Beruf:</strong> Projekteitung bei einer Agentur
+                    </p>
+                    <p>
+                        <strong>derzeitige Aufgabe:</strong> Graphic & Multimedia Design bei LGT Capital Partners
+                    </p>
+                    <p>
+                        <strong>Was gefällt dir bei den Web Professionals besonders?</strong> Coole Leute, kollegialer Umgang, flexibles System und vorallem Dozenten, die dank ihrem beruflichen Background sehr gezielt auf Aktualitäten eingehen können.
+                    </p>
+                    <p>
+                        <strong>Wie haben dich die Web Professionals beruflich weitergebracht?</strong> Bei meinem jetzigen Arbeitgeber haben wir vermehrt Online-Projekte. Ein grosser Teil wurde früher via Agenturen umgesetzt – jedoch fehlte intern das Fachwissen. Mittlerweile setzen wir teilweise eigene Projekte inhouse um, haben so mehr Spielraum für unsere Ideen und mehr Flexibilität in der Umsetzung.
+                    </p>
+                    <p>
+                        <strong>Wieso würdest du die Web Professionals weiterempfehlen?</strong> Weil es meiner Meinung nach die perfekte Weiterbildung in Sachen Webentwicklung ist für jene, die schon ein Vorwissen haben aber auch für jene, die bei null starten. Es wird sehr individuell auf die Teilnehmer eingegangen.
+                    </p>
+                    <p>
+                        <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong> Mein Chef ;-). Und natürlich endlich mehr als einfach nur ein «selbstzusammengewurstelteltes-Fundament» zu haben in Webentwicklung.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col l6 m6 s12">
+
+
+            <div class="card">
+                <div class="card-image waves-effect waves-block waves-light">
                     <img class="activator" src="/images/testimonials/stefanie_jegen.jpg">
                 </div>
                 <div class="card-content">
