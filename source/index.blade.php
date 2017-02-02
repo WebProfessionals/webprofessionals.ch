@@ -69,13 +69,14 @@
 
         <!-- Card Start -->
         <div class="col l7 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-02-01-simon-walser/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-02-01-simon-walser/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/simon_walser_l7.jpg" alt="Simon Walser" title="Simon Walser">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Portrait: Simon Walser</span>
-                    <p>"Es wird sehr individuell auf die Teilnehmer eingegangen."</p>
+                    <span class="card-title">Alumni-Portrait: Simon Walser</span>
+                    <p>Graphic & Multimedia Design bei LGT Capital Partners</p>
+                    <p><em>"Es wird sehr individuell auf die Teilnehmer eingegangen."</em></p>
                     <p>1. Februar 2017</p>
                 </div>
                 <div class="card-action">
@@ -87,14 +88,15 @@
 
         <!-- Card Start -->
         <div class="col l5 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-01-04-stefanie-jegen/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-01-04-stefanie-jegen/'>
                 <div class="card-image">
                     <img src="/images/testimonials/stefanie_jegen.jpg" alt="Stefanie Jegen" title="Stefanie Jegen">
 
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Portrait: Stefanie Jegen</span>
-                    <p>"Warum also nicht gleich diejenige sein, die ihren bisherigen Job wegprogrammiert?"</p>
+                    <span class="card-title">Alumni-Portrait: Stefanie Jegen</span>
+                    <p>Leiterin Kundenservice Web bei der Somedia Production AG</p>
+                    <p><em>"Warum also nicht gleich diejenige sein, die ihren bisherigen Job wegprogrammiert?"</em></p>
                     <p>04. Januar 2017</p>
                 </div>
                 <div class="card-action">
@@ -106,7 +108,7 @@
 
         <!-- Card Start -->
         <div class="col l6 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-10-30-hackathon-1-devgotchi/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-10-30-hackathon-1-devgotchi/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/camp_2016_autumn.jpg" alt="Web Professionals Barcamp 2016" title="Web Professionals Barcamp 2016">
                 </div>
@@ -123,13 +125,14 @@
 
         <!-- Card Start -->
         <div class="col l6 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-12-01-melanie-bernhard/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-12-01-melanie-bernhard/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/melanie_bernhard_l6.jpg" alt="Melanie Bernhard" title="Melanie Bernhard">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Portrait: Melanie Bernhard</span>
-                    <p>"Dank des Praktikums habe ich heute meinen Traumjob, im Traumbereich :-)"</p>
+                    <span class="card-title">Alumni-Portrait: Melanie Bernhard</span>
+                    <p>Online Managerin Läderach chocolatier suisse</p>
+                    <p><em>"Dank des Praktikums habe ich heute meinen Traumjob, im Traumbereich :-)"</em></p>
                     <p>1. Dezember 2016</p>
                 </div>
                 <div class="card-action">
