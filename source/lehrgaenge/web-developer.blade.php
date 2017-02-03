@@ -143,10 +143,10 @@
 <!--
                 <h2>Anmeldeschluss:</h2>
                 <p>30. September 2016</p>
--->
+
                 <h2>Termin Eröffnungsveranstaltung:</h2>
                 <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Designer und Developer Grabs, Developer Rapperswil) am Freitag, 28. Oktober 2016 von 18.00 - 21.15 Uhr in der Techfabrik Grabs statt</p>
-
+-->
             </div>
 
             <div id="anmeldung" class="section scrollspy">
