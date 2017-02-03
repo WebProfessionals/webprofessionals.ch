@@ -59,7 +59,7 @@
                 Mittlerweile reisen die Teilnehmer nicht nur aus allen Ecken der Schweiz, sondern sogar extra aus London an um an einem unserer Camps teilnehmen zu können.</p>
             <br>
             <h2 class="webpro">#5 Web Professionals Barcamp 2017</h2>
-            <p>Das nächste Web Professionals Barcamp findet voraussichtlich am <strong>11. und 12. März 2017</strong> in der Techfabrik Grabs statt. Weitere Infos folgen in Kürze.</p>
+            <p>Das nächste Web Professionals Barcamp findet am <strong>11. und 12. März 2017</strong> in der Techfabrik Grabs statt. Thema des Camps: "CSS is awesome". Weitere Infos folgen in Kürze.</p>
 <!--
             <h3>Informationen zum Camp</h3>
             <p>
