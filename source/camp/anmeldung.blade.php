@@ -54,7 +54,7 @@
 
             <form class="col s12" action="https://formspree.io/info@web-professionals.ch" method="POST">
                     <div class="row">
-                        <div class="col s12">Ich möchte mich für das #5 Web Professionals Barcamp am 29. und 30. Oktober 2016 anmelden.</div>
+                        <div class="col s12">Ich möchte mich für das #5 Web Professionals Barcamp am 11. und 12. März anmelden.</div>
                     </div>
 
                     <div class="row">

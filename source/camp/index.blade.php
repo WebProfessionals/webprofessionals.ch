@@ -59,7 +59,17 @@
                 Mittlerweile reisen die Teilnehmer nicht nur aus allen Ecken der Schweiz, sondern sogar extra aus London an um an einem unserer Camps teilnehmen zu können.</p>
             <br>
             <h2 class="webpro">#5 Web Professionals Barcamp 2017</h2>
-            <p>Das nächste Web Professionals Barcamp findet am <strong>11. und 12. März 2017</strong> in der Techfabrik Grabs statt. Thema des Camps: "CSS is awesome". Weitere Infos folgen in Kürze.</p>
+            <p>Nachdem wir das letzte Camp kurzfristig in den ersten Web Professionals Hackathon umgewandelt haben gibt es nun wieder ein 100-prozentiges, echtes Barcamp. Keine vordefinierten Speakers, keine vorgängige Session-Planung sondern eine reine Unkonferenz, Wissen aus eigenen Reihen, Zeit für Spass und Networking.</p>
+            <p>Das fünfte Web Professionals Barcamp findet am <strong>11. und 12. März 2017</strong> in der Techfabrik Grabs statt. Thema des Camps: <strong>"CSS is awesome"</strong>.</p>
+
+            <ul>
+                <li><strong>Start:</strong> 11. März 2017, 09:00 Uhr</li>
+                <li><strong>Ende:</strong> 12. März 2017, 12:00 Uhr</li>
+                <li><strong>Ort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs</li>
+                <li><strong>Teilnahmegebühr:</strong> CHF 50 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
+                <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir euch gerne ein Zimmer im Hotel Taucher Buchs. Die Kosten müssen durch die Teilnehmer übernommen worden, das Hotel Taucher bietet uns wieder einen Spezialpreis über CHF 50 an.</li>
+            </ul>
+            
 <!--
             <h3>Informationen zum Camp</h3>
             <p>
