@@ -3,11 +3,13 @@
 {{-- Header --}}
 @section('header')
     <title>Barcamp | Web Professionals</title>
-    <meta property="og:url"                content="https://web-professionals.ch/camp/" />
-    <meta property="og:type"               content="website" />
-    <meta property="og:title"              content="#5 Web Professionals Barcamp" />
-    <meta property="og:description"        content="5. Barcamp mit dem Thema 'CSS is awesome'" />
-    <meta property="og:image"              content="https://web-professionals.ch/images/og/camp5-preview.jpg" />
+    <meta property="og:url" content="https://web-professionals.ch/camp/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="#5 Web Professionals Barcamp" />
+    <meta property="og:description" content="5. Barcamp der Web Professionals. Thema: 'CSS is awesome'. Datum: 11./12.März 2017" />
+    <meta property="og:image" content="https://web-professionals.ch/images/og/camp5-preview.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
 @endsection
 
 {{-- Hero Unit on Top --}}
