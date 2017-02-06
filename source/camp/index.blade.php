@@ -55,7 +55,7 @@
 
         </div>
         <div class="col l7 m6 webpro-right">
-            <p>Das Web Professionals Barcamp findet halbjährlich statt und wurde schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
+            <p>Das <strong>Web Professionals Barcamp</strong> findet halbjährlich statt und wurde schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
                 Mittlerweile reisen die Teilnehmer nicht nur aus allen Ecken der Schweiz, sondern sogar extra aus London an um an einem unserer Camps teilnehmen zu können.</p>
             <br>
             <h2 class="webpro">#5 Web Professionals Barcamp 2017</h2>
@@ -67,7 +67,7 @@
                 <li><strong>Ende:</strong> 12. März 2017, 12:00 Uhr</li>
                 <li><strong>Ort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs</li>
                 <li><strong>Teilnahmegebühr:</strong> CHF 50 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
-                <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir euch gerne ein Zimmer im Hotel Taucher Buchs. Die Kosten müssen durch die Teilnehmer übernommen worden, das Hotel Taucher bietet uns wieder einen Spezialpreis über CHF 50 an.</li>
+                <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer im Hotel Taucher Buchs, welches uns wieder mit einem Spezialpreis von CHF 50/Person untersützt.</li>
             </ul>
 
 <!--
