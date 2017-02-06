@@ -50,7 +50,7 @@
                 <a href="/camp/sponsoring/">Sponsoring</a><br>
             </nav>
             <span class="show-on-medium-and-up">
-                <br><br><!--<img class="responsive-img" src="/images/camp/logo-camp-2016-herbst.png">-->
+                <br><br><img class="responsive-img" src="/images/camp/logo-camp-5.png">
             </span>
 
         </div>
@@ -69,7 +69,7 @@
                 <li><strong>Teilnahmegebühr:</strong> CHF 50 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
                 <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir euch gerne ein Zimmer im Hotel Taucher Buchs. Die Kosten müssen durch die Teilnehmer übernommen worden, das Hotel Taucher bietet uns wieder einen Spezialpreis über CHF 50 an.</li>
             </ul>
-            
+
 <!--
             <h3>Informationen zum Camp</h3>
             <p>
