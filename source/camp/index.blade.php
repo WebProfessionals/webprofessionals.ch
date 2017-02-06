@@ -10,6 +10,7 @@
     <meta property="og:image" content="https://web-professionals.ch/images/og/camp5-preview.jpg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
+    
 @endsection
 
 {{-- Hero Unit on Top --}}
