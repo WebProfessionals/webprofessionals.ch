@@ -79,19 +79,6 @@
                 <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer im Hotel Taucher Buchs, welches uns wieder mit einem Spezialpreis von CHF 50/Person unterstützt.</li>
             </ul>
 
-<!--
-            <h3>Informationen zum Camp</h3>
-            <p>
-                <strong>Datum:</strong> 29. / 30. Oktober 2016<br>
-                <strong>Beginn:</strong> Samstag, 09:00 Uhr<br>
-                <strong>Ende:</strong> Sonntag, 16:00 Uhr<br>
-                <strong>Durchführungsort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs<br>
-                <strong>Kosten:</strong> CHF 50 inkl. Essen und Getränke, ohne Übernachtung<br>
-                <strong>Anmeldung:</strong> bis 31. September 2016 <a href="/camp/anmeldung/">mittels Anmeldeformular</a><br>
-                <strong>Übernachtung:</strong> es gibt ein Kontingent an vergünstigten Übernachtungsmöglichkeiten im Hotel Taucher Buchs<br>
-
-            </p>
-            -->
         </div>
     </div>
     <div class="row">
