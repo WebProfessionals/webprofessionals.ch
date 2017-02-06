@@ -3,6 +3,11 @@
 {{-- Header --}}
 @section('header')
     <title>Barcamp | Web Professionals</title>
+    <meta property="og:url"                content="https://web-professionals.ch/camp/" />
+    <meta property="og:type"               content="website" />
+    <meta property="og:title"              content="#5 Web Professionals Barcamp" />
+    <meta property="og:description"        content="5. Barcamp mit dem Thema 'CSS is awesome'" />
+    <meta property="og:image"              content="https://web-professionals.ch/images/og/camp5-preview.jpg" />
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -16,8 +21,8 @@
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">Mehr als nur Schule</span><br>
-            <span class="webpro-hero2">Barcamps für Praxiswissen</span><br><br>
+            <span class="webpro-hero1">Mehr als Schule</span><br>
+            <span class="webpro-hero2">Praxiswissen mit Barcamps</span><br><br>
             <!-- <a class="waves-effect waves-light btn webpro-red">Jetzt informieren</a> -->
         </div>
     </header>
@@ -66,7 +71,8 @@
                 <li><strong>Start:</strong> 11. März 2017, 09:00 Uhr</li>
                 <li><strong>Ende:</strong> 12. März 2017, 12:00 Uhr</li>
                 <li><strong>Ort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs</li>
-                <li><strong>Teilnahmegebühr:</strong> CHF 50 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
+                <li><strong>Hashtag:</strong> <a href="https://twitter.com/search?q=%23webprocamp&src=typd" target="_blank">#webprocamp</a></li>
+                <li><br><strong>Teilnahmegebühr:</strong> CHF 50 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
                 <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer im Hotel Taucher Buchs, welches uns wieder mit einem Spezialpreis von CHF 50/Person untersützt.</li>
             </ul>
 
@@ -94,7 +100,7 @@
 
                 </div>
                 <div class="card-content">
-                    <span class="card-title">Winter Camp 2016</span>
+                    <span class="card-title">#4 Winter Camp 2016</span>
                     <p>Thema: Zukunft<br>Location: Medienhaus somedia Chur<br>Datum: 27./28. Februar 2016</p>
                 </div>
                 <div class="card-action">
@@ -109,7 +115,7 @@
 
                 </div>
                 <div class="card-content">
-                    <span class="card-title grey-text text-darken-4">Spring Camp 2015</span>
+                    <span class="card-title grey-text text-darken-4">#3 Spring Camp 2015</span>
                     <p>Thema: Internet der Dinge<br>Location: Techfabrik Grabs<br>Datum: 25./26. April 2016</p>
                 </div>
                 <div class="card-action">
@@ -123,7 +129,7 @@
                     <img src="/images/camp/summer_camp_2014.png">
                 </div>
                 <div class="card-content">
-                    <span class="card-title grey-text text-darken-4">Summer Camp 2014</span>
+                    <span class="card-title grey-text text-darken-4">#2 Summer Camp 2014</span>
                     <p>Thema: Tools und Workflows<br>Location: Seepromenade Walenstadt<br>Datum: 30./31. August 2014</p>
                 </div>
                 <div class="card-action">
@@ -137,7 +143,7 @@
                     <img src="/images/camp/winter_camp_2014.png">
                 </div>
                 <div class="card-content">
-                    <span class="card-title grey-text text-darken-4">Winter Camp 2014</span>
+                    <span class="card-title grey-text text-darken-4">#1 Winter Camp 2014</span>
                     <p>Thema: alles mobil<br>Location: GBMS Atelier Buchs SG<br>Datum: ?</p>
                 </div>
                 <div class="card-action">
