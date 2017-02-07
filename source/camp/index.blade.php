@@ -79,6 +79,10 @@
                 <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer im Hotel Taucher Buchs, welches uns wieder mit einem Spezialpreis von CHF 50/Person unterstützt.</li>
             </ul>
 
+            <section id="anmeldung" class="section scrollspy">
+                <a class="waves-effect waves-light btn webpro-red" href="/camp/anmeldung/">Jetzt anmelden</a>
+            </section>
+
         </div>
     </div>
     <div class="row">

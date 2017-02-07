@@ -49,8 +49,8 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <p>
-                <strong>Herzlichen Dank für deine Anmeldung zum #5 Web Professionals Barcamp 2016!</strong><br>
-                Du erhälst von unserer Seite keine weitere Anmeldebestätigung mehr zugesendet - wir freuen uns, dich am 29./30.10.2016 an unserem Barcamp begrüssen zu dürfen!
+                <strong>Herzlichen Dank für deine Anmeldung zum Web Professionals Barcamp!</strong><br>
+                Du erhälst von unserer Seite keine weitere Anmeldebestätigung mehr zugesendet, vor dem Camp senden wir dir jedoch noch Infos zum genauen Programm. Wir freuen uns, dich an unserem Barcamp begrüssen zu dürfen!
             </p>
         </div>
     </div>
