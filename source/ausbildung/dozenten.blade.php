@@ -210,7 +210,7 @@
                 <div class="card-content">
                     <span class="card-title"><span itemprop="givenName">Mark</span> <span itemprop="familyName">Lowe</span></span>
                     <p>
-                        <span itemprop="jobTitle">Software Engineer, Namics AG</span><br><br>
+                        <span itemprop="jobTitle">Founder und CEO Lowe IT Consulting Ltd., London</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> WordPress
                     </p>
                 </div>
@@ -225,7 +225,7 @@
                 <div class="card-content">
                     <span class="card-title"><span itemprop="givenName">Stefan</span> <span itemprop="familyName">Baur</span></span>
                     <p>
-                        <span itemprop="jobTitle">Founder und CEO Lowe IT Consulting Ltd., London</span><br><br>
+                        <span itemprop="jobTitle">Senior Software Engineer, Namics AG</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> PHP
                     </p>
                 </div>
