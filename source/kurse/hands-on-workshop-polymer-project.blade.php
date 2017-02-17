@@ -99,6 +99,8 @@
                     Mittwoch, 08.03.2017, 18:15 Uhr - 21:30 Uhr<br>
                     Mittwoch, 15.03.2017, 18:15 Uhr - 21:30 Uhr
                 </p>
+                <p><strong>Hinweis:</strong> Auf Wunsch des Dozenten wird ein dritter, kostenloser Kursabend angehängt. Thema des Abends: "Apps bauen ohne zu programmieren mit flowbased Polymer". Dabei wird der Fokus auf den "flow" gelegt, die Teilnehmer erhalten jedoch bereits einen ersten Einblick in die von Veith Zäch entwickelte Umgebung "furo" welche demnächst öffentlich vorgestellt wird.</p>
+                <p>Optionaler und kostenloser 3. Kursabend: <strong>Mittwoch, 22.03.2017, 18:15 Uhr - 21:30 Uhr</strong></p>
             </div>
 
             <div id="kosten" class="section scrollspy">

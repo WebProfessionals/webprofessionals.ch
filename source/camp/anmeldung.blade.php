@@ -60,7 +60,7 @@
                     <div class="row">
                         <div class="col s12">
                             <input type="checkbox" id="hotel" name="hotel" />
-                            <label for="hotel">Bitte nehmt mit mir Kontakt auf betreffend einer Hotezimmer-Reservation.</label>
+                            <label for="hotel">Bitte nehmt mit mir Kontakt auf betreffend einer Hotelzimmer-Reservation.</label>
                         </div>
                     </div>
                     <div class="row">
