@@ -146,6 +146,7 @@
 
                 <h2>Termin Diplomprüfung:</h2>
                 <p>Samstag 23. September 2017, 09.00 Uhr in Sargans (ibW Bahnhofpark)</p>
+
             </section>
 
 
