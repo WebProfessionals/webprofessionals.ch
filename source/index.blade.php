@@ -41,7 +41,7 @@
                 'part2'    =>  ' Web Professionals'
             ])
             <nav class="webpro-nav-lvl2">
-                <a class="waves-effect waves-light btn webpro-green hide-on-small-only" href="/veranstaltungen/">Zu den Infoanlässen</a>
+                <a class="waves-effect waves-light btn webpro-green hide-on-small-only" href="/veranstaltungen/web-professionals/">Zu den Infoanlässen</a>
             </nav>
         </div>
         <div class="col l7 m6 s12 webpro-right">

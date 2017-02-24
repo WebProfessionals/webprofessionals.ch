@@ -19,7 +19,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Gestaltungsfreiheit</span><br>
             <span class="webpro-hero2">Web Designer</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung-web-designer-grabs/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -148,7 +148,7 @@
 
 
             <div id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung-web-designer-grabs/">Jetzt anmelden</a>
             </div>
 
 

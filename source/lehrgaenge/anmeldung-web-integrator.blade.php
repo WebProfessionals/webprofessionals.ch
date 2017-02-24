@@ -42,46 +42,44 @@
         </div>
         <div class="col l7 m6 webpro-right">
 
-            <h2>Ich möchte mich zu folgendem Lehrgang anmelden:</h2>
+            <h2>Bitte wähle den gewünschten Standort deines Web Integrator Lehrgangs aus:</h2>
             <div class="row">
                 <div class="col s12 m12">
-                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung-web-integrator/'>
+                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung-web-integrator-grabs/'>
                         <div class="card-content white-text">
-                            <span class="card-title">Web Integrator</span>
-                            <p>Start: April 2017, Standorte: Grabs, Chur, Rapperswil</p>
+                            <span class="card-title">Grabs SG</span>
+                            <p>Start: April 2017, Freitag 18:00 bis 21:15 Uhr, Samstag 09:00 bsi 12:00 Uhr</p>
                         </div>
                         <div class="card-action webpro-green">
-                            <a class="white-text" href="/lehrgaenge/anmeldung-web-integrator/">weiter zur Auswahl des Standorts ></a>
+                            <a class="white-text" href="/lehrgaenge/anmeldung-web-integrator-grabs/">Standort wählen ></a>
                         </div>
                     </div>
                 </div>
                 <div class="col s12 m12">
-                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung-web-developer/'>
+                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung-web-integrator-rapperswil/'>
                         <div class="card-content white-text">
-                            <span class="card-title">Web Developer</span>
-                            <p>Start: Herbst 2017, Standorte: Grabs, Rapperswil</p>
+                            <span class="card-title">Rapperswil SG</span>
+                            <p>Start: April 2017, Dienstag und Donnerstag Abend 18:00 bis 21:15 Uhr</p>
                         </div>
                         <div class="card-action webpro-green">
-                            <a class="white-text" href="/lehrgaenge/anmeldung-web-developer/">weiter zur Auswahl des Standorts ></a>
+                            <a class="white-text" href="/lehrgaenge/anmeldung-web-integrator-rapperswil/">Standort wählen ></a>
                         </div>
                     </div>
                 </div>
                 <div class="col s12 m12">
-                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung-web-designer-grabs/'>
+                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung-web-integrator-chur/'>
                         <div class="card-content white-text">
-                            <span class="card-title">Web Designer</span>
-                            <p>Start: Herbst 2017, Standort: Grabs</p>
+                            <span class="card-title">Chur GR</span>
+                            <p>Start: April 2017, Montag und Mittwoch Abend 18:00 bis 21:15 Uhr</p>
                         </div>
                         <div class="card-action webpro-green">
-                            <a class="white-text" href="/lehrgaenge/anmeldung-web-designer-grabs/">Jetzt anmelden ></a>
+                            <a class="white-text" href="/lehrgaenge/anmeldung-web-integrator-chur/">Standort wählen ></a>
                         </div>
                     </div>
                 </div>
-
-
             </div>
-
         </div>
+
 
     </div>
     <br><br><br><br><br><br><br><br><br>&nbsp;

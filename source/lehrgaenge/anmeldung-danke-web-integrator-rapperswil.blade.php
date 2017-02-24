@@ -53,16 +53,7 @@
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
-            <?php
-            $empfaenger = "rolf@web-professionals.ch";
-            $betreff = "Test Anmeldung PHP Mail";
-            $from = "From: Rolf Eggenberger <rolf@kunstwort.com>\n";
-            $from .= "Reply-To: rolf@web-professionals.ch\n";
-            $from .= "Content-Type: text/html\n";
-            $text = "Test-Anmeldung";
-            mail($empfaenger, $betreff, $text, $from);
-            ?>
-            
+
             <p>
                 <strong>Herzlichen Dank für deine Anmeldung!</strong><br>
                 Du erhälst in den nächsten 1-2 Tagen eine Anmeldebestätigung per E-Mail sowie im Laufe der folgenden Tage weitere Unterlagen per Post. Wir freuen uns, dich bei den Web Professionals begrüssen zu dürfen!
@@ -71,6 +62,27 @@
         </div>
 
     </div>
+
+    <!-- Google Code for Anmeldung Web Integrator Rapperswil Conversion Page -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 974413104;
+        var google_conversion_language = "en";
+        var google_conversion_format = "3";
+        var google_conversion_color = "ffffff";
+        var google_conversion_label = "qn6ECIGx4m4QsLrR0AM";
+        var google_remarketing_only = false;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/974413104/?label=qn6ECIGx4m4QsLrR0AM&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+
+
 @endsection
 
 @section('subnavmobile')
