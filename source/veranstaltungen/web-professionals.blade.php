@@ -65,7 +65,7 @@
             <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/974413104/?label=4eY6CKiGzW4QsLrR0AM&amp;guid=ON&amp;script=0"/>
         </div>
     </noscript>
-    
+
     <div class="row">
         <div class="col l5 m6 webpro-left">
             @include('_partials.header1', [
