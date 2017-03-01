@@ -92,7 +92,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col s12"><p class="sponsoren-titel">Getränke-Sponsoren:</p></div>
+                <div class="col s12"><p class="sponsoren-titel">Kaffee-Sponsoren:</p></div>
                 <div class="col s6 m4 l4">
                     <a href="http://www.ibw.ch/home/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/ibw_sponsoring.gif"></a>
                 </div>
