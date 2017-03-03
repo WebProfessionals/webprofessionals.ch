@@ -70,7 +70,7 @@
             <div class="responsive-video">
                 <iframe width="1280" height="720" src="https://www.youtube.com/embed/1pJ99cPI-6c" frameborder="0" allowfullscreen></iframe>
             </div>
-            @include('_partials.archiv-button')
+            @include('_partials.lehrgaenge-button')
         </section>
     </div>
     @endsection

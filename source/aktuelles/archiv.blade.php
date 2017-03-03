@@ -41,9 +41,29 @@
     </div>
     <div class="row">
 
+
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-08-24-lab-002-static-server-pages-nginx/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-12-01-melanie-bernhard/'>
+                <div class="card-image">
+                    <img src="/images/testimonials/melanie_bernhard.jpg" alt="Melanie Bernhard" title="Melanie Bernhard">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Alumni-Portrait: Melanie Bernhard</span>
+                    <p>Online Managerin Läderach chocolatier suisse</p>
+                    <p><em>"Dank des Praktikums habe ich heute meinen Traumjob, im Traumbereich :-)"</em></p>
+                    <p>1. Dezember 2016</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2016-12-01-melanie-bernhard/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l4 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-08-24-lab-002-static-server-pages-nginx/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2016-08-lab002.jpg" alt="Relaunch Web Professionals" title="Relaunch Web Professionals">
                 </div>
@@ -61,7 +81,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-04-06-tasks-aus-phpstorm-automatisch-starten/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-04-06-tasks-aus-phpstorm-automatisch-starten/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/phpstorm.jpg" alt="PHP Storm" title="PHP Storm">
                 </div>
@@ -79,7 +99,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-03-02-web-professionals-winter-camp-2016/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-03-02-web-professionals-winter-camp-2016/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/winter-camp-zukunft1.jpg">
                 </div>
@@ -97,7 +117,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2015-09-15-web-professionals-lehrgang-an-der-hochschule-fuer-technik-rapperswil/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2015-09-15-web-professionals-lehrgang-an-der-hochschule-fuer-technik-rapperswil/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/hochschule.jpg">
                 </div>
@@ -115,7 +135,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2015-04-28-web-professionals-spring-camp-2015/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2015-04-28-web-professionals-spring-camp-2015/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/camp_2015_spring.jpg">
                 </div>
@@ -133,7 +153,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2015-02-09-das-internet-der-dinge-mitgestalten-die-web-professionals-machen-es-vor/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2015-02-09-das-internet-der-dinge-mitgestalten-die-web-professionals-machen-es-vor/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2015-iot.jpg">
                 </div>
@@ -151,7 +171,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-12-13-javascript-auf-usb-stick-die-web-professionals-unterstuetzen-espruino-pico/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-12-13-javascript-auf-usb-stick-die-web-professionals-unterstuetzen-espruino-pico/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2014-espruino-1.jpg">
                 </div>
@@ -170,7 +190,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2015-10-10-lg-g-watch-r-im-einsatz/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2015-10-10-lg-g-watch-r-im-einsatz/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2014-lg-g-watch-r.jpg">
                 </div>
@@ -189,7 +209,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-11-04-4-gruende-weshalb-es-sich-immer-lohnt-wordpress-themes-selber-zu-entwickeln/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-11-04-4-gruende-weshalb-es-sich-immer-lohnt-wordpress-themes-selber-zu-entwickeln/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2014-wordpress.jpg">
                 </div>
@@ -207,7 +227,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-08-21-speaker-summer-camp-2014-frontify-roger-dudler/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-08-21-speaker-summer-camp-2014-frontify-roger-dudler/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2014-08-roger-dudler.jpg">
                 </div>
@@ -225,7 +245,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-01-07-erstes-web-professional-camp/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-01-07-erstes-web-professional-camp/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2014-wordpress.jpg">
                 </div>
@@ -242,7 +262,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-02-23-ostschweizer-webprofis-machen-mobil/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-02-23-ostschweizer-webprofis-machen-mobil/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2014-camp-mobile.jpg">
                 </div>
@@ -259,7 +279,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-02-13-du-machst-eine-bar-auf/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-02-13-du-machst-eine-bar-auf/'>
                 <div class="card-image">
                     <!-- <img src="/images/aktuelles/vaterland_20140204_7.jpg"> -->
                 </div>
@@ -276,7 +296,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-02-04-wissensaustausch-steht-im-vordergrund-artikel-ueber-das-camp-im-liechtensteiner-vaterland/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2014-02-04-wissensaustausch-steht-im-vordergrund-artikel-ueber-das-camp-im-liechtensteiner-vaterland/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/vaterland_20140204_7.jpg">
                 </div>
@@ -293,7 +313,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2013-09-04-ruckblick-auf-den-web-integrator-2013/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2013-09-04-ruckblick-auf-den-web-integrator-2013/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2013-rueckblick-integrator.jpg">
                 </div>
@@ -310,7 +330,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2013-07-02-vom-traum-zum-ziel/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2013-07-02-vom-traum-zum-ziel/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2013-traum-vom-ziel.jpg">
                 </div>
@@ -327,7 +347,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2013-03-21-die-techfabrik-bereitet-sich-auf-die-web-professionals-vor/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2013-03-21-die-techfabrik-bereitet-sich-auf-die-web-professionals-vor/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2013-techfabrik-bereitet-sich-vor.jpg">
                 </div>
@@ -344,7 +364,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2012-10-10-formel-web-oder-wie-unser-logo-entsteht/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2012-10-10-formel-web-oder-wie-unser-logo-entsteht/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2012-formel-web.jpg">
                 </div>
@@ -361,7 +381,7 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
-            <div class="card medium webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2012-10-10-techfabrik-die-modellagentur-der-web-professionals/'>
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2012-10-10-techfabrik-die-modellagentur-der-web-professionals/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2012-techfabrik.jpg">
                 </div>

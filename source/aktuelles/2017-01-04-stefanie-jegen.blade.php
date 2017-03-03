@@ -43,7 +43,7 @@
         <div class="col l4 m5">
             <p><img class="responsive-img" width="650" src="/images/testimonials/stefanie_jegen.jpg" alt="Stefanie Jegen" title="Stefanie Jegen"></p>
             <p>Absolventin Web Integrator, 2015/2016 Chur, Teilnehmerin aktueller Lehrgang Web Developer 2016/2017, Grabs<br>
-            <p><strong>Leiterin Kundenservice Web bei der Somedia Production AG</strong></p>
+            <p><strong>Leiterin Kundenservice Web bei Somedia Production AG</strong></p>
         </div>
         <section class="col l7 offset-l1 m6 offset-m1">
             <p>
@@ -61,7 +61,7 @@
             <p>
                 <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong> Es war resp. ist an der Zeit über den Tellerrand hinauszusehen. Ich behaupte in den nächsten 100 Jahren werden 80% der kaufmännischen Jobs automatisiert. Aufgrund dieser schlechten Jobaussichten wollte ich rechtzeitig vom sinkenden Schiff abspringen und einen Schritt in Richtung Zukunft wagen. Warum also nicht gleich diejenige sein, die ihren bisherigen Job „wegprogrammiert“? ;-)
             </p>
-            @include('_partials.archiv-button')
+            @include('_partials.lehrgaenge-button')
         </section>
     </div>
     @endsection

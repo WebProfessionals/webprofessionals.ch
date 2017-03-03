@@ -69,9 +69,28 @@
 
         <!-- Card Start -->
         <div class="col l7 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-03-03-hakan-arioglu/'>
+                <div class="card-image">
+                    <img src="/images/testimonials/hakan_arioglu.jpg" alt="Hakan Arioglu" title="Hakan Arioglu">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Portrait: Hakan Arioglu</span>
+                    <p>Frontend Developer bei Inware AG</p>
+                    <p><em>"Um all den neuen Web-Technologien gerecht zu werden, muss man früher oder später diverse Kurse besuchen."</em></p>
+                    <p>3. März 2017</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2017-03-03-hakan-arioglu/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l5 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-02-01-simon-walser/'>
                 <div class="card-image">
-                    <img src="/images/aktuelles/simon_walser_l7.jpg" alt="Simon Walser" title="Simon Walser">
+                    <img src="/images/testimonials/simon_walser.jpg" alt="Simon Walser" title="Simon Walser">
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">Alumni-Portrait: Simon Walser</span>
@@ -87,7 +106,7 @@
         <!-- Card End -->
 
         <!-- Card Start -->
-        <div class="col l5 m6">
+        <div class="col l6 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-01-04-stefanie-jegen/'>
                 <div class="card-image">
                     <img src="/images/testimonials/stefanie_jegen.jpg" alt="Stefanie Jegen" title="Stefanie Jegen">
@@ -95,7 +114,7 @@
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">Alumni-Portrait: Stefanie Jegen</span>
-                    <p>Leiterin Kundenservice Web bei der Somedia Production AG</p>
+                    <p>Leiterin Kundenservice Web bei Somedia Production AG</p>
                     <p><em>"Warum also nicht gleich diejenige sein, die ihren bisherigen Job wegprogrammiert?"</em></p>
                     <p>04. Januar 2017</p>
                 </div>
@@ -122,26 +141,6 @@
             </div>
         </div>
         <!-- Card End -->
-
-        <!-- Card Start -->
-        <div class="col l6 m6">
-            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-12-01-melanie-bernhard/'>
-                <div class="card-image">
-                    <img src="/images/aktuelles/melanie_bernhard_l6.jpg" alt="Melanie Bernhard" title="Melanie Bernhard">
-                </div>
-                <div class="card-content white-text">
-                    <span class="card-title">Alumni-Portrait: Melanie Bernhard</span>
-                    <p>Online Managerin Läderach chocolatier suisse</p>
-                    <p><em>"Dank des Praktikums habe ich heute meinen Traumjob, im Traumbereich :-)"</em></p>
-                    <p>1. Dezember 2016</p>
-                </div>
-                <div class="card-action">
-                    <a class="white-text" href="/aktuelles/2016-12-01-melanie-bernhard/">mehr</a>
-                </div>
-            </div>
-        </div>
-        <!-- Card End -->
-
 
     </div>
     <div class="row">

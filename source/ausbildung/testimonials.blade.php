@@ -56,6 +56,42 @@
 
             <div class="card">
                 <div class="card-image waves-effect waves-block waves-light">
+                    <img class="activator" src="/images/testimonials/hakan_arioglu.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title activator grey-text text-darken-4">Hakan Arioglu<i class="material-icons right">more_vert</i></span>
+                    <p>Teilnehmer Lehrgang Web Developer 2016/2017 (Rapperswil)</p>
+                </div>
+                <div class="card-reveal">
+                    <span class="card-title grey-text text-darken-4">Hakan Arioglu<i class="material-icons right">close</i></span>
+                    <p>
+                        <strong>bsiheriger Beruf:</strong> Mediamatiker EFZ
+                    </p>
+                    <p>
+                        <strong>aktueller Beruf:</strong> Frontend Developer bei Inware AG
+                    </p>
+                    <p>
+                        <strong>Was gefällt dir bei den Web Professionals besonders?</strong> Sehr gute Dozenten, jederzeit hilfsbereit, kollegialer Umgang, nicht nur für Einsteiger geeignet, sondern auch für eine Vertiefung im Webbereich.
+                    </p>
+                    <p>
+                        <strong>Wie haben dich die Web Professionals beruflich weitergebracht?</strong> Ich lerne die neuen Web-Technologien, welche ich versuche so gut wie möglich bei meinen Projekten einzusetzen. Mir fällt es immer leichter eine Webseite aufzusetzen und den Code sauber zu gestalten. Um noch professioneller zu werden, hat mir Web Professionals ermöglicht, dass ich zum CAS FEE Lehrgang an der HSR zugelassen wurde.
+                    </p>
+                    <p>
+                        <strong>Wieso würdest du die Web Professionals weiterempfehlen?</strong> Um all den neuen Web-Technologien gerecht zu werden, muss man früher oder später diverse Kurse besuchen. Web Professionals ermöglicht den ersten Start und auch die Vertiefung in den Web Bereich. Somit sind sowohl Einsteiger wie auch bereits Erfahrene bei diesem Lehrgang genau richtig. Des weiteren kann man sein Netzwerk erweitern, weil man von sehr erfahrenen Dozenten unterrichtet wird, die auch Einblicke in ihren Alltag gewähren. Mit den zusätzlichen Kursen kann man zudem auch noch weiteres Wissen aneignen, um noch sattelfester im Web-Bereich zu werden.
+                    </p>
+                    <p>
+                        <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong> Ich habe schnell gemerkt, dass ich in meiner Lehrzeit als Mediamatiker in einer "nicht-web"-Bude vieles im Bereich Web verpasst habe. Somit habe ich eine Weiterbildung gesucht, die mich mit den neuen Sachen vertraut macht. Ich habe die richtige Entscheidung getroffen und habe eine enorme Leidenschaft zum Web gefunden. Weitere Aspekte sind die Jobauschreibungen von grossen Agenturen. Um diesen gerecht zu werden, wollte ich mein Wissen erweitern, in Form von Weiterbildungen und Selbststudium.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col l6 m6 s12">
+
+
+            <div class="card">
+                <div class="card-image waves-effect waves-block waves-light">
                     <img class="activator" src="/images/testimonials/simon_walser.jpg">
                 </div>
                 <div class="card-content">
