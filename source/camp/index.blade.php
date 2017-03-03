@@ -87,25 +87,32 @@
             <p>Wir bedanken uns bei unseren Sach- und Geldsponsoren, welche die Durchführung unseres Barcamps unterstützen:</p>
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">Hauptsponsor:</p></div>
-                <div class="col s6 m4 l4">
+                <div class="col s6 m6 l4">
                     <a href="http://www.somedia-production.ch/home/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/logo_somedia_production_cmyk.png"></a>
                 </div>
             </div>
             <div class="row">
+                <div class="col s12"><p class="sponsoren-titel">Getränke-Sponsor:</p></div>
+                <div class="col s6 m6 l4">
+                    <a href="https://www.hsr.ch/Weiterbildung-an-der-HSR.2369.0.html" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/hsr.png"></a>
+                </div>
+            </div>
+            <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">Kaffee-Sponsoren:</p></div>
-                <div class="col s6 m4 l4">
+                <div class="col s6 m6 l4">
                     <a href="http://www.ibw.ch/home/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/ibw_sponsoring.gif"></a>
                 </div>
-                <div class="col s6 m4 l4">
+                <div class="col s6 m6 l4">
                     <a href="https://tomschaepper.net/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/tomschaepper.png"></a>
                 </div>
             </div>
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">Sach-Sponsor:</p></div>
-                <div class="col s6 m4 l4">
+                <div class="col s6 m6 l4">
                     <a href="http://www.laederach.com/ch-de/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/laederach.png"></a>
                 </div>
             </div>
+            
         </div>
     </div>
     <div class="row">
