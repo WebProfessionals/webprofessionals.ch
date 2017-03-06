@@ -112,7 +112,7 @@
                     <a href="http://www.laederach.com/ch-de/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/laederach.png"></a>
                 </div>
             </div>
-            
+
         </div>
     </div>
     <div class="row">
