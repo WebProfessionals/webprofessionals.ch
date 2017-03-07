@@ -68,9 +68,9 @@
                 <p class="headline">Du bist fasziniert von der modernen Technik. Das nächste Facebook würdest du am liebsten selber programmieren. Du kannst es kaum erwarten, die Smartphones dieser Welt mit deinen Apps im Sturm zu erobern.</p>
                 <p>Dann ist der Web Developer dein Ding. Auch in diesem Lehrgang lernst du alles von Spezialisten aus der Praxis – damit du noch besser wirst:</p>
                 <ul class="webpro-list">
-                    <li>Einsatz moderner Workflow Tools zur Versionierung, Automatisierung, Dependency-Management wie z.B. Git, Gulp, npm etc.</li>
-                    <li>Konzeption und Durchführung von Internet-Projekten</li>
-                    <li>Umsetzung anspruchvoller Frontend-Lösungen (HTML/CSS/SASS/JavaScript etc.)</li>
+                    <li>Einsatz moderner Workflow Tools zur Versionierung, Automatisierung sowie zum Dependency-Management</li>
+                    <li>Konzeption und Durchführung von Web-Projekten</li>
+                    <li>Umsetzung anspruchsvoller Frontend-Lösungen</li>
                     <li>Programmierung komplexerer Internetlösungen mit Backend-Aufgaben</li>
                     <li>Umsetzung von Webprojekten basierend auf Frameworks oder Content Management Systemen wie z.B. WordPress oder Drupal.</li>
                     <li>Paketierung für mobile Apps</li>
