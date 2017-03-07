@@ -68,11 +68,14 @@
                 <p class="headline">Du bist fasziniert von der modernen Technik. Das nächste Facebook würdest du am liebsten selber programmieren. Du kannst es kaum erwarten, die Smartphones dieser Welt mit deinen Apps im Sturm zu erobern.</p>
                 <p>Dann ist der Web Developer dein Ding. Auch in diesem Lehrgang lernst du alles von Spezialisten aus der Praxis – damit du noch besser wirst:</p>
                 <ul class="webpro-list">
-                    <li>Programmierung komplexer Internetlösungen.</li>
-                    <li>Umsetzung von Webprojekten basierend auf PHP Frameworks oder Content Management Systemen wie z.B. WordPress oder Drupal.</li>
-                    <li>Entwicklung mobiler Lösungen sowie Apps für Social-Media-Portale, so zum Beispiel Facebook.</li>
+                    <li>Einsatz moderner Workflow Tools zur Versionierung, Automatisierung, Dependency-Management wie z.B. Git, Gulp, npm etc.</li>
+                    <li>Konzeption und Durchführung von Internet-Projekten</li>
+                    <li>Umsetzung anspruchvoller Frontend-Lösungen (HTML/CSS/SASS/JavaScript etc.)</li>
+                    <li>Programmierung komplexerer Internetlösungen mit Backend-Aufgaben</li>
+                    <li>Umsetzung von Webprojekten basierend auf Frameworks oder Content Management Systemen wie z.B. WordPress oder Drupal.</li>
+                    <li>Paketierung für mobile Apps</li>
                 </ul>
-                <p>Nach der Ausbildung zum Web Integrator sind dir im Lehrgang zum Web Developer keine Grenzen mehr gesetzt. Du lernst hier alle wichtigen Fähigkeiten, die du brauchst, um professionell Apps oder Websites zu entwickeln. Der Lehrgang ist neu in die zwei Spezialisierungen „Web Application Developer“ sowie „Web Frontend Developer“ unterteilt. Ersterer vertieft sich in der Programmierung von komplexeren Systemen, der zweite setzt den Fokus mehr auf die Umsetzung innovativer und moderner Webseiten.</p>
+                <p>Nach der Ausbildung zum Web Integrator sind dir im Lehrgang zum Web Developer keine Grenzen mehr gesetzt. Du lernst hier alle wichtigen Fähigkeiten, die du brauchst, um professionell Apps oder Websites zu entwickeln. Der Lehrgang ist neu in die zwei Spezialisierungen „Web Application Developer“ sowie „Web Frontend Developer“ unterteilt (je nach Teilnehmerzahl). Ersterer vertieft sich in der Programmierung von komplexeren Systemen, der zweite setzt den Fokus auf die Umsetzung innovativer und moderner Webseiten.</p>
                 <p>Diesen Lehrgang absolvierst du idealerweise nach der Ausbildung zum Web Integrator oder nach bestandener Abschlussprüfung „Web Integrator“.</p>
             </div>
 
