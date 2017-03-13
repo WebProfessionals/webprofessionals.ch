@@ -63,7 +63,7 @@
                         <label>Ich möchte mich zu folgendem Lehrgang anmelden:</label>
                         <!-- <p>Hinweis: Aufgrund der minimalen Teilnehmerzahl werden dieses Semester die Integrator-Lehrgänge zusammengefasst. Der Lehrgang findet jeweils Fr (18:15-21:30) und Sa (09:00-12:15) an der ibW Höheren Fachschule Südostschweiz am Bahnhofpark in Sargans statt.</p> -->
                         <input type="checkbox" id="agb" name="agb" required />
-                        <label for="agb">Ich bestätige, dass ich die <a href="#">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
+                        <label for="agb">Ich bestätige, dass ich die <a href="/agb/">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
                     </div>
                 </div>
                 <br>

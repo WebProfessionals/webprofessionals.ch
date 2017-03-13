@@ -2,7 +2,7 @@
 <div class="row">
     <div class="col s12">
         <input type="checkbox" id="agb" name="agb" required />
-        <label for="agb">Ich bestätige, dass ich die <a href="#">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
+        <label for="agb">Ich bestätige, dass ich die <a href="/agb/" target="_blank">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
     </div>
     <div class="input-field col s6">
         <input name="vorname" id="vorname" type="text" class="validate">
