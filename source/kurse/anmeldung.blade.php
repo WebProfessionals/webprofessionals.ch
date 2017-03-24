@@ -53,10 +53,10 @@
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Kurs auswählen</option>
+                            <option value="WordPress Themes programmieren, Start 31.05.17, Grabs SG">WordPress Themes programmieren, 31.05.17, Grabs SG</option>
                             <option value="HTML/CSS Auffrischung, Grabs SG">HTML/CSS Auffrischung, Mittwochs, 01.03.17-05.04.17, Grabs SG</option>
                             <option value="Hands on workshop Polymer, 8./15. März 2017, Grabs SG">Hands on workshop Polymer, 8./15. März 2017, Grabs SG</option>
                             <option value="Einführung in Laravel, 14.3.17, Grabs SG">Einführung in Laravel, 14.3.17, Grabs SG</option>
-                            <option value="WordPress Themes programmieren, 16.3.17, Grabs SG">WordPress Themes programmieren, 16.3.17, Grabs SG</option>
                             <option value="eigene Stock Fotos erstellen, 16.3.17, Grabs SG">eigene Stock Fotos erstellen, 16.3.17, Grabs SG</option>
                         </select>
                         <label>Ich möchte mich zu folgendem Kurs anmelden:</label>
