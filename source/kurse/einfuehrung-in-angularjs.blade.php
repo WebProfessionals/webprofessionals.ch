@@ -41,9 +41,9 @@
                     'part2'    =>  'AngularJS'
                 ])
                 <nav class="webpro-nav-lvl2">
+                    <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
                     <a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>
                     <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
-                    <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
                     <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
                     <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
                     <a href="/kurse/anmeldung/">Anmeldung</a>
@@ -88,7 +88,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten:</h2>
-                <p>8 Kursabende à 4 Lektionen (Total 32 Lektionen). Jeweils Dienstags von 18.30 Uhr bis 21.30 Uhr. Beginn: 8. November 2016.</p>
+                <p>8 Kursabende à 4 Lektionen (Total 32 Lektionen). Jeweils Dienstags von 18.30 Uhr bis 21.30 Uhr. Beginn: Datum des nächsten Kurses wird demnächst bekannt gegeben.</p>
             </div>
 
             <div id="kosten" class="section scrollspy">
