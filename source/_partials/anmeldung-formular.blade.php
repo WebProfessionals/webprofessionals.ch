@@ -2,7 +2,7 @@
 <div class="row">
     <div class="col s12">
         <input type="checkbox" id="agb" name="agb" required />
-        <label for="agb">Ich bestätige, dass ich die <a href="/agb/" target="_blank">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
+        <label for="agb">Ich bestätige, dass ich die <a href="#modal1">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
     </div>
     <div class="input-field col s6">
         <input name="vorname" id="vorname" type="text" class="validate">
@@ -83,5 +83,17 @@
 <div class="row">
     <div class="input-field col s12">
         <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="absenden">
+    </div>
+</div>
+
+
+<!-- AGB Modal  -->
+<div id="modal1" class="modal">
+    <div class="modal-content">
+        <h4>Allgemeine Geschäftsbedingungen</h4>
+        <p>A bunch of text</p>
+    </div>
+    <div class="modal-footer">
+        <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
     </div>
 </div>
