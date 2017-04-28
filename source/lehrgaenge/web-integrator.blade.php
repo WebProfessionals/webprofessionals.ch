@@ -105,14 +105,14 @@
                 <p>
                     <strong>Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
                     <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
-                    Durchführung definitiv, noch <strong>2 freie Plätze</strong><br>
+                    Durchführung definitiv, noch <strong>1 freier Platz</strong><br>
                     <a href="/lehrgaenge/anmeldung-web-integrator-grabs/">Jetzt anmelden ></a>
                 </p>
 
                 <p>
                     <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
                     <strong>Unterrichtszeiten:</strong> Dienstag 18.00 bis 21.15 Uhr, Donnerstag 18.00 bis 21.15 Uhr<br>
-                    Durchführung definitiv, noch <strong>1 freier Platz</strong><br>
+                    Durchführung definitiv, <strong>Lehrgang ausgebucht</strong><br>
                     <a href="/lehrgaenge/anmeldung-web-integrator-rapperswil/">Jetzt anmelden ></a>
                 </p>
                 <p>
