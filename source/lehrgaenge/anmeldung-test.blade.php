@@ -43,11 +43,11 @@
         <div class="col l7 m6 webpro-right">
             <h2>Anmeldung zum Lehrgang Web Integrator in Grabs SG</h2>
 
-            <form action="/lehrgaenge/anmeldung-test-danke/" method="POST">
+            <form action="/lehrgaenge/anmeldung-test-danke.php/" method="POST">
                 @include('_partials.anmeldung-formular')
                 <input type="hidden" name="lehrgang" value="Web Integrator Grabs" />
                 <input type="hidden" name="_subject" value="Anmeldung Web Integrator Grabs" />
-                <input type="hidden" name="_next" value="https://web-professionals.ch/lehrgaenge/anmeldung-danke-web-integrator-grabs/" />
+                <input type="hidden" name="_next" value="https://web-professionals.ch/lehrgaenge/anmeldung-danke/" />
             </form>
 
         </div>

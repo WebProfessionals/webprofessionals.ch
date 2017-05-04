@@ -21,8 +21,8 @@
 </div>
 <div class="hide">
     <div class="input-field col s12">
-        <input name="_gotcha" id="_gotcha" type="text" class="validate">
-        <label for="strasse">Strasse 2</label>
+        <input name="strasse2" id="strasse2" type="text" class="validate">
+        <label for="strasse2">Strasse 2</label>
     </div>
 </div>
 <div class="row">
