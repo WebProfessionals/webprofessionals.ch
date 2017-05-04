@@ -95,9 +95,9 @@
             </section>
 
             <section id="dauer" class="section scrollspy">
-                <h2>Dauer:</h2>
+                <h2>Dauer/Daten:</h2>
                 <p>1 Semester, 110 Lektionen, berufsbegleitend</p>
-                <p>29. April 2017 - 23. September 2017</p>
+                <p>4. November 2017 - 10. März 2018</p>
             </section>
 
             <section id="klassen" class="section scrollspy">
@@ -105,14 +105,12 @@
                 <p>
                     <strong>Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
                     <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
-                    Durchführung definitiv, noch <strong>1 freier Platz</strong><br>
                     <a href="/lehrgaenge/anmeldung-web-integrator-grabs/">Jetzt anmelden ></a>
                 </p>
 
                 <p>
                     <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
                     <strong>Unterrichtszeiten:</strong> Dienstag 18.00 bis 21.15 Uhr, Donnerstag 18.00 bis 21.15 Uhr<br>
-                    Durchführung definitiv, <strong>Lehrgang ausgebucht</strong><br>
                     <a href="/lehrgaenge/anmeldung-web-integrator-rapperswil/">Jetzt anmelden ></a>
                 </p>
                 <p>
@@ -147,10 +145,10 @@
                 <p>30. September 2016</p>
                 -->
                 <h2>Termin Eröffnungsveranstaltung:</h2>
-                <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Grabs, Chur, Rapperswil) am Samstag, 29. April 2017 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt</p>
+                <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Grabs, Chur, Rapperswil) am Samstag, 4. November 2017 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt.</p>
 
                 <h2>Termin Diplomprüfung:</h2>
-                <p>Samstag 23. September 2017, 09.00 Uhr in Sargans (ibW Bahnhofpark)</p>
+                <p>Samstag 10. März 2018, 10.00 Uhr in Sargans (ibW Bahnhofpark)</p>
 
             </section>
 

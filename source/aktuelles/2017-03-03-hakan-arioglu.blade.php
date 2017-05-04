@@ -63,6 +63,9 @@
             <p>
                 <strong>Was war deine Motivation zum Brancheneinstieg resp. zum Start der Ausbildung?</strong> Ich habe schnell gemerkt, dass ich in meiner Lehrzeit als Mediamatiker in einer "nicht-web"-Bude vieles im Bereich Web verpasst habe. Somit habe ich eine Weiterbildung gesucht, die mich mit den neuen Sachen vertraut macht. Ich habe die richtige Entscheidung getroffen und habe eine enorme Leidenschaft zum Web gefunden. Weitere Aspekte sind die Jobauschreibungen von grossen Agenturen. Um diesen gerecht zu werden, wollte ich mein Wissen erweitern, in Form von Weiterbildungen und Selbststudium.
             </p>
+            <p>
+                <em><strong>04.05.17: Nachtrag in eigener Sache:</strong> Wir freuen uns sehr, dass Hakan noch während seiner Ausbildung zum Web Developer eine Festanstellung bei seinem Wunsch-Arbeitgeber - der Firma Namics - erhalten hat.</em>
+            </p>
 
             @include('_partials.lehrgaenge-button')
         </section>

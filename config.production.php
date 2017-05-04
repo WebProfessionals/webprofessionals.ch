@@ -1,6 +1,8 @@
 <?php
-
+$date = new DateTime();
 return [
-    'production' => true,
+    'baseUrl' => '',
+    'production' => false,
+    'collections' => [],
     'analytics' => 'UA-35482061-1'
 ];
