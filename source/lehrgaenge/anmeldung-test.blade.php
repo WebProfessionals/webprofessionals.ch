@@ -43,7 +43,7 @@
         <div class="col l7 m6 webpro-right">
             <h2>Anmeldung zum Lehrgang Web Integrator in Grabs SG</h2>
 
-            <form action="https://formspree.io/info@web-professionals.ch" method="POST">
+            <form action="/lehrgaenge/anmeldung-test-danke/" method="POST">
                 @include('_partials.anmeldung-formular')
                 <input type="hidden" name="lehrgang" value="Web Integrator Grabs" />
                 <input type="hidden" name="_subject" value="Anmeldung Web Integrator Grabs" />
