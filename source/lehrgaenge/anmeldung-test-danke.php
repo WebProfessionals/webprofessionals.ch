@@ -19,8 +19,8 @@ $next                   = $_POST['_next'];
 // Mail senden
 
 // honeypot spam check
-if(empty($honeypot) && isset($_POST['Submit']))
-{
+//if(empty($honeypot) && isset($_POST['Submit']))
+//{
     $empfaenger = "info@web-professionals.ch";
     $betreff = "Anmeldung ".$lehrgang;
     $from = "From: Web Professionals Website <info@web-professionals.ch>\n";
@@ -30,8 +30,9 @@ if(empty($honeypot) && isset($_POST['Submit']))
     $text .=    "Lehrgang: ".$lehrgang;
 
     mail($empfaenger, $betreff, $text, $from);
-}
+//}
 
 include '/lehrgaenge/anmeldung-danke/index.html';
+
 ?>
 
