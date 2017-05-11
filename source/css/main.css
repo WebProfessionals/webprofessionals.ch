@@ -7095,4 +7095,13 @@ main {
   font-weight: bold;
 }
 
+/* ==========  Anmeldung Formular  ========== */
+input[type="checkbox"]:required:invalid + label {
+  color: #892425;
+}
+
+input[type="checkbox"]:required:valid + label {
+  color: #79980a;
+}
+
 /*# sourceMappingURL=main.css.map */

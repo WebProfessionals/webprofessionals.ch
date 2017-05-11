@@ -18,7 +18,7 @@
     <header class="webpro-hero-image">
         <picture>
             <source media="(max-width: 600px)" srcset="/images/background/web_professionals_001_phone.jpg">
-            <img src="/images/background/web_professionals_001.jpg" alt="Web Professionals" title="Web Professionals">>
+            <img src="/images/background/web_professionals_014.jpg" alt="Web Professionals" title="Web Professionals">>
         </picture>
     </header>
     <header class="webpro-hero">
@@ -56,7 +56,7 @@
 
             <p>
                 <strong>Herzlichen Dank für deine Anmeldung!</strong><br>
-                Du erhälst in den nächsten 1-2 Tagen eine Anmeldebestätigung per E-Mail sowie im Laufe der folgenden Tage weitere Unterlagen per Post. Wir freuen uns, dich bei den Web Professionals begrüssen zu dürfen!
+                Du erhälst gleich eine Anmeldebestätigung per E-Mail sowie im Laufe der folgenden Tage weitere Unterlagen per Post. Wir freuen uns, dich bei den Web Professionals begrüssen zu dürfen!
             </p>
 
         </div>

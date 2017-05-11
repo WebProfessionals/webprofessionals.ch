@@ -3,6 +3,13 @@
 {{-- Header --}}
 @section('header')
     <title>Anmeldung Lehrgänge | Web Professionals</title>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script>
+        function onSubmit(token) {
+            console.log('recaptcha');
+            document.getElementById("form-anmeldung").submit();
+        }
+    </script>
 
 @endsection
 
@@ -43,11 +50,14 @@
         <div class="col l7 m6 webpro-right">
             <h2>Anmeldung zum Lehrgang Web Integrator in Grabs SG</h2>
 
-            <form action="/lehrgaenge/anmeldung-test-danke.php" method="POST">
+            <form action="/anmeldung/danke.php" method="POST" id="form-anmeldung">
                 @include('_partials.anmeldung-formular')
                 <input type="hidden" name="lehrgang" value="Web Integrator Grabs" />
+                <input type="hidden" name="sku" value="INT_GRABS_17_18" />
+                <input type="hidden" name="typ" value="Lehrgang" />
+                <input type="hidden" name="gebuehr" value="3100" />
                 <input type="hidden" name="_subject" value="Anmeldung Web Integrator Grabs" />
-                <input type="hidden" name="_next" value="https://web-professionals.ch/lehrgaenge/anmeldung-danke/" />
+                <input type="hidden" name="_next" value="https://web-professionals.ch/lehrgaenge/anmeldung-danke-web-integrator-grabs/" />
             </form>
 
         </div>
@@ -57,12 +67,5 @@
 @endsection
 
 @section('subnavmobile')
-    <!--
-    <h2 class="hide-on-med-and-up">Lehrgänge:</h2>
-    <div class="collection webpro hide-on-med-and-up">
-        <a href="/lehrgaenge/web-integrator/" class="collection-item webpro-green white-text">Web Integrator</a>
-        <a href="/lehrgaenge/web-developer/" class="collection-item webpro-green white-text">Web Developer</a>
-        <a href="/lehrgaenge/web-designer/" class="collection-item webpro-green white-text">Web Designer</a>
-    </div>
-    -->
+
 @endsection

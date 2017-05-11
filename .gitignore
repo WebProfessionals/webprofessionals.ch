@@ -23,3 +23,5 @@ atlassian-ide-plugin.xml
 /vendor
 /source/_assets/vendor
 composer.lock
+
+/_tmp/

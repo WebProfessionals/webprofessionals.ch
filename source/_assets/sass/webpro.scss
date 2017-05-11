@@ -413,3 +413,11 @@ main {
 .sponsoren-titel {
   font-weight:bold;
 }
+
+/* ==========  Anmeldung Formular  ========== */
+input[type="checkbox"]:required:invalid + label {
+  color: color("webpro-red", "base");
+}
+input[type="checkbox"]:required:valid + label {
+  color: $link-color;
+}

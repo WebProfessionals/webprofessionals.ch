@@ -23,7 +23,7 @@ elixir(function(mix) {
       'main.scss'
     ], 'source/css/main.css')
     .scripts([
-      '../../_lib/materializecss/js/bin/materialize.min.js',
+      //'../../_lib/materializecss/js/bin/materialize.min.js',
       'webpro.js'
     ], 'source/js/main.js')
     .scripts([
