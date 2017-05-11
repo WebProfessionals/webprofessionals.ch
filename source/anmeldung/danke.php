@@ -51,8 +51,8 @@ if(empty($honeypot))
     $text .= "<br><br>Mit liebem Gruss";
     $text .= "<br><strong>Web Professionals</strong>";
     $text .= "<br>Rolf Eggenberger, Lehrgangsleiter";
-    echo $text;
-
+    //echo $text;
+    mail($empfaenger, $betreff, $text, $from);
 
     // Google E-Commerce
 
@@ -97,7 +97,7 @@ ga('ecommerce:addItem', {
 HTML;
     }
 
-    //mail($empfaenger, $betreff, $text, $from);
+
 
 }
 
