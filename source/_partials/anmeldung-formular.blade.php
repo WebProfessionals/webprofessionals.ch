@@ -89,7 +89,7 @@
 </div>
 <div class="row">
     <div class="input-field col s12">
-        <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="absenden ohne captcha">
+
 
         <button
                 class="waves-effect waves-light btn g-recaptcha"
