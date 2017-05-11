@@ -56,7 +56,7 @@
 
             <p>
                 <strong>Herzlichen Dank für deine Anmeldung!</strong><br>
-                Du erhälst gleich eine Anmeldebestätigung per E-Mail sowie im Laufe der folgenden Tage weitere Unterlagen per Post. Wir freuen uns, dich bei den Web Professionals begrüssen zu dürfen!
+                Du erhälst gleich eine Anmeldebestätigung per E-Mail sowie zu einem späteren Zeitpunkt weitere Unterlagen per Post zugestellt. Wir freuen uns, dich bei den Web Professionals begrüssen zu dürfen!
             </p>
 
         </div>
@@ -65,12 +65,4 @@
 @endsection
 
 @section('subnavmobile')
-    <!--
-    <h2 class="hide-on-med-and-up">Lehrgänge:</h2>
-    <div class="collection webpro hide-on-med-and-up">
-        <a href="/lehrgaenge/web-integrator/" class="collection-item webpro-green white-text">Web Integrator</a>
-        <a href="/lehrgaenge/web-developer/" class="collection-item webpro-green white-text">Web Developer</a>
-        <a href="/lehrgaenge/web-designer/" class="collection-item webpro-green white-text">Web Designer</a>
-    </div>
-    -->
 @endsection

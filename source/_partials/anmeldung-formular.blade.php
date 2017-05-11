@@ -90,13 +90,13 @@
 <div class="row">
     <div class="input-field col s12">
 
+        <div id='recaptcha' class="g-recaptcha"
+             data-sitekey="6LeDHyAUAAAAADePHhP0rZ7OsxCB_OKIRgyucP6g"
+             data-size="invisible"
+             data-callback="onSubmit">
+        </div>
 
-        <button
-                class="waves-effect waves-light btn g-recaptcha"
-                data-sitekey="6LeDHyAUAAAAADePHhP0rZ7OsxCB_OKIRgyucP6g"
-                data-callback="onSubmit">
-            anmelden
-        </button>
+        <button id='submitbutton' class="waves-effect waves-light btn">anmelden</button>
     </div>
 </div>
 

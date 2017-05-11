@@ -41,16 +41,34 @@
             ])
         </div>
         <div class="col l7 m6 webpro-right">
-            <h2>Anmeldung zum Lehrgang Web Integrator in Grabs SG</h2>
 
-            <form action="https://formspree.io/info@web-professionals.ch" method="POST">
-                @include('_partials.anmeldung-formular')
-                <input type="hidden" name="lehrgang" value="Web Integrator Grabs" />
-                <input type="hidden" name="_subject" value="Anmeldung Web Integrator Grabs" />
-                <input type="hidden" name="_next" value="https://web-professionals.ch/lehrgaenge/anmeldung-danke-web-integrator-grabs/" />
-            </form>
-
+            <h2>Bitte wähle den gewünschten Standort deines Web Developer Lehrgangs aus:</h2>
+            <div class="row">
+                <div class="col s12 m12">
+                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/anmeldung/web-developer-grabs/'>
+                        <div class="card-content white-text">
+                            <span class="card-title">Grabs SG</span>
+                            <p>Start: Herbst 2017, Freitag 18:00 bis 21:15 Uhr, Samstag 09:00 bsi 12:00 Uhr</p>
+                        </div>
+                        <div class="card-action webpro-green">
+                            <a class="white-text" href="/anmeldung/web-developer-grabs/">Standort wählen ></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col s12 m12">
+                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/anmeldung/web-developer-rapperswil/'>
+                        <div class="card-content white-text">
+                            <span class="card-title">Rapperswil SG</span>
+                            <p>Start: Herbst 2017, Dienstag und Donnerstag Abend 18:00 bis 21:15 Uhr</p>
+                        </div>
+                        <div class="card-action webpro-green">
+                            <a class="white-text" href="/anmeldung/web-developer-rapperswil/">Standort wählen ></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
+
 
     </div>
     <br><br><br><br><br><br><br><br><br>&nbsp;

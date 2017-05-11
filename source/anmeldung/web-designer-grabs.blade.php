@@ -3,7 +3,6 @@
 {{-- Header --}}
 @section('header')
     <title>Anmeldung Lehrgänge | Web Professionals</title>
-
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -19,9 +18,13 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Leg' los!</span><br>
             <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
-            <!-- <a class="waves-effect waves-light btn webpro-red webpro-hero-button hide-on-small-only">Jetzt informieren</a> -->
+
         </div>
     </header>
+@endsection
+
+@section('scripts-header')
+    @include('_partials.js-anmeldung')
 @endsection
 
 {{-- Main Navigation --}}
@@ -41,13 +44,16 @@
             ])
         </div>
         <div class="col l7 m6 webpro-right">
-            <h2>Anmeldung zum Lehrgang Web Developer in Rapperswil SG</h2>
+            <h2>Anmeldung zum Lehrgang Web Designer in Grabs SG</h2>
+            <p>Lehrgangsbeginn: Herbst 2017</p>
 
-            <form action="https://formspree.io/info@web-professionals.ch" method="POST">
+
+            <form action="/anmeldung/danke.php" method="POST" id="form-anmeldung">
                 @include('_partials.anmeldung-formular')
-                <input type="hidden" name="lehrgang" value="Web Developer Rapperswil" />
-                <input type="hidden" name="_subject" value="Anmeldung Web Developer Rapperswil" />
-                <input type="hidden" name="_next" value="https://web-professionals.ch/lehrgaenge/anmeldung-danke-web-developer-rapperswil/" />
+                <input type="hidden" name="lehrgang" value="Web Designer Grabs SG" />
+                <input type="hidden" name="sku" value="DES_GRABS_17_18" />
+                <input type="hidden" name="typ" value="Lehrgang" />
+                <input type="hidden" name="gebuehr" value="5500" />
             </form>
 
         </div>
@@ -57,12 +63,9 @@
 @endsection
 
 @section('subnavmobile')
-    <!--
-    <h2 class="hide-on-med-and-up">Lehrgänge:</h2>
-    <div class="collection webpro hide-on-med-and-up">
-        <a href="/lehrgaenge/web-integrator/" class="collection-item webpro-green white-text">Web Integrator</a>
-        <a href="/lehrgaenge/web-developer/" class="collection-item webpro-green white-text">Web Developer</a>
-        <a href="/lehrgaenge/web-designer/" class="collection-item webpro-green white-text">Web Designer</a>
-    </div>
-    -->
+
+@endsection
+
+@section('scripts-footer')
+    <script>onload();</script>
 @endsection

@@ -55,44 +55,14 @@
         <div class="col l7 m6 webpro-right">
 
             <p>
-                <strong>Herzlichen Dank für deine Anmeldung!</strong><br>
-                Du erhälst in den nächsten 1-2 Tagen eine Anmeldebestätigung per E-Mail sowie im Laufe der folgenden Tage weitere Unterlagen per Post. Wir freuen uns, dich bei den Web Professionals begrüssen zu dürfen!
+                <strong>Deine Anmeldung wurde nicht entgegen genommen.</strong><br>
+                Das System hat dich als Spambot eingestuft und deine Anmeldung somit nicht abgespeichert. Falls du aus Versehen auf diese Seite geraten bist, nimm doch bitte mit uns Kontakt auf.
             </p>
 
         </div>
 
     </div>
-
-    <!-- Google Code for Anmeldung Web Integrator Chur Conversion Page -->
-    <script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 974413104;
-        var google_conversion_language = "en";
-        var google_conversion_format = "3";
-        var google_conversion_color = "ffffff";
-        var google_conversion_label = "C9wzCPGy4m4QsLrR0AM";
-        var google_remarketing_only = false;
-        /* ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-        <div style="display:inline;">
-            <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/974413104/?label=C9wzCPGy4m4QsLrR0AM&amp;guid=ON&amp;script=0"/>
-        </div>
-    </noscript>
-
-
-
 @endsection
 
 @section('subnavmobile')
-    <!--
-    <h2 class="hide-on-med-and-up">Lehrgänge:</h2>
-    <div class="collection webpro hide-on-med-and-up">
-        <a href="/lehrgaenge/web-integrator/" class="collection-item webpro-green white-text">Web Integrator</a>
-        <a href="/lehrgaenge/web-developer/" class="collection-item webpro-green white-text">Web Developer</a>
-        <a href="/lehrgaenge/web-designer/" class="collection-item webpro-green white-text">Web Designer</a>
-    </div>
-    -->
 @endsection

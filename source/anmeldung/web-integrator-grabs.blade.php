@@ -3,14 +3,6 @@
 {{-- Header --}}
 @section('header')
     <title>Anmeldung Lehrgänge | Web Professionals</title>
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-    <script>
-        function onSubmit(token) {
-            console.log('recaptcha');
-            document.getElementById("form-anmeldung").submit();
-        }
-    </script>
-
 @endsection
 
 {{-- Hero Unit on Top --}}
@@ -26,9 +18,13 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Leg' los!</span><br>
             <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
-            <!-- <a class="waves-effect waves-light btn webpro-red webpro-hero-button hide-on-small-only">Jetzt informieren</a> -->
+
         </div>
     </header>
+@endsection
+
+@section('scripts-header')
+    @include('_partials.js-anmeldung')
 @endsection
 
 {{-- Main Navigation --}}
@@ -49,15 +45,15 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <h2>Anmeldung zum Lehrgang Web Integrator in Grabs SG</h2>
+            <p>Lehrgangsbeginn: Herbst 2017</p>
+
 
             <form action="/anmeldung/danke.php" method="POST" id="form-anmeldung">
                 @include('_partials.anmeldung-formular')
-                <input type="hidden" name="lehrgang" value="Web Integrator Grabs" />
+                <input type="hidden" name="lehrgang" value="Web Integrator Grabs SG" />
                 <input type="hidden" name="sku" value="INT_GRABS_17_18" />
                 <input type="hidden" name="typ" value="Lehrgang" />
                 <input type="hidden" name="gebuehr" value="3100" />
-                <input type="hidden" name="_subject" value="Anmeldung Web Integrator Grabs" />
-                <input type="hidden" name="_next" value="https://web-professionals.ch/lehrgaenge/anmeldung-danke-web-integrator-grabs/" />
             </form>
 
         </div>
@@ -68,4 +64,8 @@
 
 @section('subnavmobile')
 
+@endsection
+
+@section('scripts-footer')
+    <script>onload();</script>
 @endsection

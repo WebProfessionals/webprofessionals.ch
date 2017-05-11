@@ -46,7 +46,7 @@
             ga('send', 'pageview');
 
         </script>
-
+        @yield('scripts-header')
     </head>
     @yield('pixel')
     <body>
@@ -113,7 +113,7 @@
                     <div class="col l4 offset-l2 s12">
                         <h5 class="white-text">Links</h5>
                         <ul>
-                            <li><a class="grey-text text-lighten-3" href="/lehrgaenge/anmeldung/">Anmeldung Lehrgänge</a></li>
+                            <li><a class="grey-text text-lighten-3" href="/anmeldung/">Anmeldung Lehrgänge</a></li>
                             <li><a class="grey-text text-lighten-3" href="/kurse/anmeldung/">Anmeldung Kurse</a></li>
                             <li><a class="grey-text text-lighten-3" href="/agb/">Allgemeine Geschäftsbedingungen</a></li>
                         </ul>
@@ -137,5 +137,6 @@
         <!-- <script defer src="//code.getmdl.io/1.1.3/material.min.js"></script> -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
         <script src="/js/main.js"></script>
+        @yield('scripts-footer')
     </body>
 </html>

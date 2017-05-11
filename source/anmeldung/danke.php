@@ -15,7 +15,6 @@ if (isset($_POST['informatikkenntnisse'])) { $informatikkenntnisse   = $_POST['i
 if (isset($_POST['referal'])) { $referal = $_POST['referal'];} else { $referal = ''; }
 if (isset($_POST['referal-more'])) { $referalMore = $_POST['referal-more'];} else { $referalMore = ''; }
 
-if (isset($_POST['_next'])) { $next = $_POST['_next'];} else { $next = ''; }
 if (isset($_POST['lehrgang'])) { $lehrgang = $_POST['lehrgang']; } else { $lehrgang = ''; }
 if (isset($_POST['sku'])) { $sku = $_POST['sku']; } else { $sku = ''; }
 if (isset($_POST['gebuehr'])) { $gebuehr = $_POST['gebuehr'];} else { $gebuehr = 0; }
@@ -24,7 +23,7 @@ if (isset($_POST['typ'])) { $typ = $_POST['typ'];} else { $typ = 0; }
 // Mail senden
 
 // honeypot spam check
-if(empty($honeypot))
+if(empty($honeypot) && !empty($vorname))
 {
     $empfaenger = "info@web-professionals.ch, ".$email;
     $betreff = "Anmeldung ".$lehrgang;
@@ -48,7 +47,7 @@ if(empty($honeypot))
     if (trim($referal!='')) { $text .= "<strong>Referal:</strong> $referal";}
     if (trim($referalMore!='')) { $text .= "<strong>Referal weitere Angaben:</strong> $referalMore";}
 
-    $text .= "<br><br>Im Laufe der nächsten Tage senden wir dir die schriftliche Anmeldebestätigung per Post zu.";
+    $text .= "<br><br>Sobald der Stundenplan definitiv feststeht, senden wir dir diesen gemeinsam mit der schriftlichen Anmeldebestätigung per Post zu.";
     $text .= "<br><br>Mit liebem Gruss";
     $text .= "<br><strong>Web Professionals</strong>";
     $text .= "<br>Rolf Eggenberger, Lehrgangsleiter";
@@ -98,11 +97,15 @@ ga('ecommerce:addItem', {
 HTML;
     }
 
+    include 'danke-content/index.html';
 
+} else {
+
+    include 'spambot-content/index.html';
 
 }
 
-include 'danke-content/index.html';
+
 ?>
 
 <!-- Begin HTML -->

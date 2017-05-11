@@ -19,7 +19,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Auf Eroberungskurs</span><br>
             <span class="webpro-hero2">Web Developer</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung-web-developer/">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red" href="/anmeldung/web-developer/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -53,7 +53,7 @@
                         <li><a href="#anmeldung">Anmeldung</a></li>
                     </ul>
                     <a href="/lehrgaenge/web-designer/">Web Designer</a><br><br>
-                    <a href="/lehrgaenge/anmeldung/">Anmeldung</a>
+                    <a href="/anmeldung/">Anmeldung</a>
                 </nav>
             </div>
             <div class="hide-on-med-and-up">
@@ -153,7 +153,7 @@
             </div>
 
             <div id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung-web-developer/">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/anmeldung/web-developer/">Jetzt anmelden</a>
             </div>
 
 
