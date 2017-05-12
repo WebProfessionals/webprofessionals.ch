@@ -48,7 +48,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/anmeldung/web-integrator-grabs/'>
                         <div class="card-content white-text">
                             <span class="card-title">Grabs SG</span>
-                            <p>Start: April 2017, Freitag 18:00 bis 21:15 Uhr, Samstag 09:00 bsi 12:00 Uhr</p>
+                            <p>Start: November 2017, Freitag 18:00 bis 21:15 Uhr, Samstag 09:00 bsi 12:00 Uhr</p>
                             <p>Durchführung definitiv, noch 1 freier Platz</p>
                         </div>
                         <div class="card-action webpro-green">
@@ -60,7 +60,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/anmeldung/web-integrator-rapperswil/'>
                         <div class="card-content white-text">
                             <span class="card-title">Rapperswil SG</span>
-                            <p>Start: April 2017, Dienstag und Donnerstag Abend 18:00 bis 21:15 Uhr</p>
+                            <p>Start: November 2017, Dienstag und Donnerstag Abend 18:00 bis 21:15 Uhr</p>
                             <p>Durchführung definitiv, Lehrgang ausgebucht</p>
                         </div>
                         <div class="card-action webpro-green">
@@ -72,7 +72,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/anmeldung/web-integrator-chur/'>
                         <div class="card-content white-text">
                             <span class="card-title">Chur GR</span>
-                            <p>Start: April 2017, Montag und Mittwoch Abend 18:00 bis 21:15 Uhr</p>
+                            <p>Start: November 2017, Montag und Mittwoch Abend 18:00 bis 21:15 Uhr</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/anmeldung/web-integrator-chur/">Standort wählen ></a>
