@@ -3,6 +3,11 @@
 {{-- Header --}}
 @section('header')
     <title>Anmeldung Lehrgänge | Web Professionals</title>
+    <style>
+        #webpro-landscape {
+            display:none!important;
+        }
+    </style>
 
 @endsection
 

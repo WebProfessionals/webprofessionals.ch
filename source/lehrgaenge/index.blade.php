@@ -3,7 +3,7 @@
 {{-- Header --}}
 @section('header')
     <title>Lehrgänge | Web Professionals</title>
-    <meta name="description" content="Die modular aufgebauten Lehrgänge starten mit dem Basislehrgang zum Web Integrator und geht weiter mit den Diplomlehrgängen Web Designer und Web Developer.">
+    <meta name="description" content="Die modular aufgebauten Lehrgänge starten mit dem Basislehrgang zum Web Integrator und gehen weiter mit den Diplomlehrgängen Web Designer und Web Developer.">
 @endsection
 
 
