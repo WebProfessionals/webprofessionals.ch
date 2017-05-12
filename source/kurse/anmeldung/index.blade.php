@@ -48,16 +48,16 @@
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
-            <form class="col s12" action="/lehrgaenge/anmeldung/kurse/danke.php" method="POST">
+            <form class="col s12" action="https://formspree.io/info@web-professionals.ch" method="POST">
                 <div class="row">
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Kurs auswählen</option>
                             <option value="WordPress Themes programmieren, Start 31.05.17, Grabs SG">WordPress Themes programmieren, 31.05.17, Grabs SG</option>
-                            <option value="HTML/CSS Auffrischung, Grabs SG">HTML/CSS Auffrischung, Mittwochs, 01.03.17-05.04.17, Grabs SG</option>
-                            <option value="Hands on workshop Polymer, 8./15. März 2017, Grabs SG">Hands on workshop Polymer, 8./15. März 2017, Grabs SG</option>
-                            <option value="Einführung in Laravel, 14.3.17, Grabs SG">Einführung in Laravel, 14.3.17, Grabs SG</option>
-                            <option value="eigene Stock Fotos erstellen, 16.3.17, Grabs SG">eigene Stock Fotos erstellen, 16.3.17, Grabs SG</option>
+                            <option value="HTML/CSS Auffrischung, Grabs SG">HTML/CSS Auffrischung, 21.08.17-25.09.17, Grabs SG</option>
+                            <option value="Hands on workshop Polymer, Sommer 2017, Grabs SG">Hands on workshop Polymer, Sommer 2017, Grabs SG</option>
+                            <option value="Einführung in Laravel, Sommer 2017, Grabs SG">Einführung in Laravel, Sommer 2017, Grabs SG</option>
+                            <option value="eigene Stock Fotos erstellen, Sommer 2017, Grabs SG">eigene Stock Fotos erstellen, Sommer 2017, Grabs SG</option>
                         </select>
                         <label>Ich möchte mich zu folgendem Kurs anmelden:</label>
                         <input type="checkbox" id="agb" name="agb" required />
@@ -144,5 +144,12 @@
 @endsection
 
 @section('subnavmobile')
-
+    <!--
+    <div class="collection webpro hide-on-med-and-up">
+        <a href="/kurse/einfuehrung-in-angularjs/" class="collection-item">Einführung in AngularJS</a>
+        <a href="/kurse/einfuehrung-in-laravel/" class="collection-item">Einführung in Laravel</a>
+        <a href="/kurse/wordpress-themes-selber-programmieren/" class="collection-item">WordPress Themes selber programmieren</a>
+        <a href="/kurse/eigene-stock-fotos-erstellen/" class="collection-item">eigene Stock Fotos erstellen</a>
+    </div>
+    -->
 @endsection
