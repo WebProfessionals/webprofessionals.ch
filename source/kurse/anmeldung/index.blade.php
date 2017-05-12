@@ -48,7 +48,7 @@
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
-            <form class="col s12" action="/anmeldung/kurse/danke.php" method="POST">
+            <form class="col s12" action="/lehrgaenge/anmeldung/kurse/danke.php" method="POST">
                 <div class="row">
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>

@@ -1,31 +1,31 @@
 @extends('_layouts.master')
 
+
 {{-- Header --}}
 @section('header')
     <title>Barcamp | Web Professionals</title>
-    <meta property="og:url" content="https://web-professionals.ch/camp/" />
+    <meta property="og:url" content="https://web-professionals.ch/barcamp/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="#5 Web Professionals Barcamp" />
-    <meta property="og:description" content="5. Barcamp der Web Professionals. Thema: 'CSS is awesome'. Datum: 11./12.März 2017. Location: Techfabrik Grabs SG" />
-    <meta property="og:image" content="https://web-professionals.ch/images/og/camp5-preview.jpg" />
+    <meta property="og:title" content="#6 Web Professionals Barcamp" />
+    <meta property="og:description" content="6. Barcamp der Web Professionals. Thema: 'API'. Datum: 28./29. Oktober 2017. Location: Techfabrik Grabs SG" />
+    <meta property="og:image" content="https://web-professionals.ch/images/og/camp6-preview.jpg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 @endsection
-
 
 {{-- Hero Unit on Top --}}
 @section('hero')
     <header class="webpro-hero-image">
         <picture>
-            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_101_phone.jpg">
-            <img src="/images/background/web_professionals_101.jpg" alt="Web Professionals" title="Web Professionals">
+            <source media="(max-width: 600px)" srcset="/images/background/web_professionals_camp01_phone.jpg">
+            <img src="/images/background/web_professionals_camp02.jpg" alt="Web Professionals Barcamp" title="Web Professionals Barcamp">
         </picture>
     </header>
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Mehr als Schule</span><br>
-            <span class="webpro-hero2">Praxiswissen mit Barcamps</span><br><br>
+            <span class="webpro-hero2">Praxiswissen und Vernetzung durch Barcamps</span><br><br>
             <!-- <a class="waves-effect waves-light btn webpro-red">Jetzt informieren</a> -->
         </div>
     </header>
@@ -40,8 +40,7 @@
 
 @section('subnavmobile')
     <div class="collection webpro hide-on-med-and-up">
-        <!-- <a href="/camp/anmeldung/" class="collection-item">Anmeldung</a> -->
-        <a href="/camp/sponsoring/" class="collection-item">Sponsoring</a>
+        <a href="/barcamp/sponsoring/" class="collection-item">Sponsoring</a>
     </div>
 @endsection
 
@@ -54,25 +53,27 @@
                 'part2'    =>  'Barcamp'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
-                <a href="/camp/anmeldung/">Anmeldung</a><br>
-                <a href="/camp/sponsoring/">Sponsoring</a><br>
+                <a href="/barcamp/anmeldung/">Anmeldung</a><br>
+                <a href="/barcamp/sponsoring/">Sponsoring</a><br>
             </nav>
             <span class="show-on-medium-and-up">
-                <br><br><img class="responsive-img" src="/images/camp/logo-camp-5.png">
+                <!--<br><br><img class="responsive-img" src="/images/barcamp/logo-camp-5.png">-->
             </span>
 
         </div>
         <div class="col l7 m6 webpro-right">
             <p>Das <strong>Web Professionals Barcamp</strong> findet halbjährlich statt und wurde schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
                 Mittlerweile reisen die Teilnehmer nicht nur aus allen Ecken der Schweiz, sondern sogar extra aus London an um an einem unserer Camps teilnehmen zu können.</p>
+            <p><strong>Was ist ein Barcamp?</strong> Eine Un-Konferenz, bei welcher das Thema vorgegeben ist, nicht jedoch die Inhalte der einzelnen Sessions. Diese werden ad-hoc durch die Teilnehmer selber festgelegt, geplant und durchgeführt.</p>
             <br>
-            <h2 class="webpro">#5 Web Professionals Barcamp 2017</h2>
-            <p>Nachdem wir das letzte Camp kurzfristig in den ersten Web Professionals Hackathon umgewandelt haben gibt es nun wieder ein 100-prozentiges, echtes Barcamp. Keine vordefinierten Speakers, keine vorgängige Session-Planung sondern eine reine Unkonferenz, Wissen aus eigenen Reihen, Zeit für Spass und Networking.</p>
-            <p>Das fünfte Web Professionals Barcamp findet am <strong>11. und 12. März 2017</strong> in der <strong>Techfabrik Grabs</strong> statt. Thema des Camps: <strong>"CSS is awesome"</strong>.</p>
+            <h2 class="webpro">#6 Web Professionals Barcamp 2017</h2>
+            <p>Das Web Professional Barcamp kommt auch dieses Mal wieder in seiner reinsten Form daher: ein 100-prozentiges Barcamp, keine vordefinierten Speakers, keine vorgängige Session-Planung sondern eine reine Unkonferenz, Wissen aus eigenen Reihen, Zeit für Spass und Networking.</p>
+            <p>Das sechste Web Professionals Barcamp findet am <strong>28. und 29. Oktober 2017</strong> in der <strong>Techfabrik Grabs</strong> statt. Thema des Camps: <strong>"API"</strong>.</p>
+
 
             <ul>
-                <li><strong>Start:</strong> 11. März 2017, 09:00 Uhr</li>
-                <li><strong>Ende:</strong> 12. März 2017, 12:00 Uhr</li>
+                <li><strong>Start:</strong> 28. Oktober 2017, 09:00 Uhr</li>
+                <li><strong>Ende:</strong> 29. Oktober 2017, 12:00 Uhr</li>
                 <li><strong>Ort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs</li>
                 <li><strong>Hashtag:</strong> <a href="https://twitter.com/search?q=%23webprocamp&src=typd" target="_blank">#webprocamp</a></li>
                 <li><br><strong>Teilnahmegebühr:</strong> CHF 50 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
@@ -80,38 +81,41 @@
             </ul>
 
             <section id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red" href="/camp/anmeldung/">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/barcamp/anmeldung/">Jetzt anmelden</a>
             </section>
             <br>
-            <h2 class="webpro">Sponsoren:</h2><br>
+            <h2 class="webpro">Sponsoren:</h2>
+            <p>Auch dieses Mal sind wir wieder auf die <a href="/barcamp/sponsoring/">Unterstützung durch Sponsoren</a> angewiesen und danken für Euren Beitrag!</p>
+            <!--
             <p>Wir bedanken uns bei unseren Sach- und Geldsponsoren, welche die Durchführung unseres Barcamps unterstützen:</p>
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">Hauptsponsor:</p></div>
                 <div class="col s6 m6 l4">
-                    <a href="http://www.somedia-production.ch/home/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/logo_somedia_production_cmyk.png"></a>
+                    <a href="http://www.somedia-production.ch/home/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/logo_somedia_production_cmyk.png"></a>
                 </div>
             </div>
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">Getränke-Sponsor:</p></div>
                 <div class="col s6 m6 l4">
-                    <a href="https://www.hsr.ch/Weiterbildung-an-der-HSR.2369.0.html" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/hsr.png"></a>
+                    <a href="https://www.hsr.ch/Weiterbildung-an-der-HSR.2369.0.html" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/hsr.png"></a>
                 </div>
             </div>
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">Kaffee-Sponsoren:</p></div>
                 <div class="col s6 m6 l4">
-                    <a href="http://www.ibw.ch/home/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/ibw_sponsoring.gif"></a>
+                    <a href="http://www.ibw.ch/home/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/ibw_sponsoring.gif"></a>
                 </div>
                 <div class="col s6 m6 l4">
-                    <a href="https://tomschaepper.net/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/tomschaepper.png"></a>
+                    <a href="https://tomschaepper.net/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/tomschaepper.png"></a>
                 </div>
             </div>
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">Sach-Sponsor:</p></div>
                 <div class="col s6 m6 l4">
-                    <a href="http://www.laederach.com/ch-de/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/laederach.png"></a>
+                    <a href="http://www.laederach.com/ch-de/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/laederach.png"></a>
                 </div>
             </div>
+            -->
 
         </div>
     </div>
@@ -120,7 +124,22 @@
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">
-                    <img src="/images/camp/winter_camp_2016.png">
+                    <img src="/images/barcamp/spring_camp_2017.jpg">
+
+                </div>
+                <div class="card-content">
+                    <span class="card-title">#5 Spring Camp 2017</span>
+                    <p>Thema: CSS is awesome!<br>Location: Techfabrik Grabs<br>Datum: 12./12. März 2016</p>
+                </div>
+                <div class="card-action">
+                    <a href="/aktuelles/2017-03-15-barcamp-css-is-awesome/">weitere Infos</a>
+                </div>
+            </div>
+        </div>
+        <div class="col l4 m6 s12">
+            <div class="card">
+                <div class="card-image">
+                    <img src="/images/barcamp/winter_camp_2016.png">
 
                 </div>
                 <div class="card-content">
@@ -135,7 +154,7 @@
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">
-                    <img src="/images/camp/spring_camp_2015.png">
+                    <img src="/images/barcamp/spring_camp_2015.png">
 
                 </div>
                 <div class="card-content">
@@ -150,7 +169,7 @@
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">
-                    <img src="/images/camp/summer_camp_2014.png">
+                    <img src="/images/barcamp/summer_camp_2014.png">
                 </div>
                 <div class="card-content">
                     <span class="card-title grey-text text-darken-4">#2 Summer Camp 2014</span>
@@ -164,7 +183,7 @@
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">
-                    <img src="/images/camp/winter_camp_2014.png">
+                    <img src="/images/barcamp/winter_camp_2014.png">
                 </div>
                 <div class="card-content">
                     <span class="card-title grey-text text-darken-4">#1 Winter Camp 2014</span>

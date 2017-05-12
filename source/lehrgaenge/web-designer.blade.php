@@ -19,7 +19,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Gestaltungsfreiheit</span><br>
             <span class="webpro-hero2">Web Designer</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/anmeldung/web-designer-grabs/">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/web-designer-grabs/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -54,13 +54,13 @@
                         <li><a href="#anmeldung">Anmeldung</a></li>
                     </ul>
                     <br>
-                    <a href="/anmeldung/">Anmeldung</a>
+                    <a href="/lehrgaenge/anmeldung/">Anmeldung</a>
                 </nav>
             </div>
             <div class="hide-on-med-and-up">
                 @include('_partials.header1', [
-                    'part1'    =>  'Basis Lehrgang',
-                    'part2'    =>  'Web Integrator'
+                    'part1'    =>  'Vertiefungslehrgang',
+                    'part2'    =>  'Web Designer'
                 ])
             </div>
         </div>
@@ -148,7 +148,7 @@
 
 
             <div id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red" href="/anmeldung/web-designer-grabs/">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/web-designer-grabs/">Jetzt anmelden</a>
             </div>
 
 
@@ -163,7 +163,7 @@
             <ul>
                 <li><a href="/kurse/">Workshops und Kurse: Vertiefung in diversen Spezialgebieten</a></li>
                 <li><a href="/veranstaltungen/">Web Professionals and Friends: Networking und Wissensaustausch</a></li>
-                <li><a href="/camp/">Web Professionals Camp: halbjährlich stattfindendes Barcamp</a></li>
+                <li><a href="/barcamp/">Web Professionals Camp: halbjährlich stattfindendes Barcamp</a></li>
                 <li>Web Professionals Lab: Praxisprojekte auf hohem Niveau</li>
                 <li>Web Professionals Trainee: Du suchst den Einstieg in die Branche?</li>
             </ul>

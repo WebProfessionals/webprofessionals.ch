@@ -1,3 +1,4 @@
 RewriteEngine On
 Redirect 301 /kontaktaufnahme/ /kontakt/
 Redirect 301 /2016/04/tasks-aus-phpstorm-automatisch-starten/ /aktuelles/2016-04-06-tasks-aus-phpstorm-automatisch-starten/
+Redirect 301 /camp/ /barcamp/

@@ -20,7 +20,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Leg' los!</span><br>
             <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
-            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/anmeldung/">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -58,7 +58,7 @@
 
             <h2>Web Professional Barcamps und Hackathons.</h2>
             <p>
-                Im halbjährlichen Abstand führen wir ein Barcamp oder einen Hackathon durch. Die <a href="/camp/">Barcamps</a> widmen sich jeweils einem aktuellen Thema welches in einer Un-Konferenz behandelt wird. Bisherige Themen waren: "alles mobil", "Tools und Workflows", "Internet der Dinge" sowie "Zukunft".
+                Im halbjährlichen Abstand führen wir ein Barcamp oder einen Hackathon durch. Die <a href="/barcamp/">Barcamps</a> widmen sich jeweils einem aktuellen Thema welches in einer Un-Konferenz behandelt wird. Bisherige Themen waren: "alles mobil", "Tools und Workflows", "Internet der Dinge" sowie "Zukunft".
             </p>
             <p>
                 Im Gegensatz zu den Barcamps wird bei einem Hackathon gemeinsam an einem vordefinierten Projekt gearbeitet. Beim ersten Hackathon haben wir ein Tamagotchi Spiel für Smartphones programmiert, beim zweiten Hackathon im Frühling 2017 werden wir eine Arcade Konsole bauen.

@@ -18,7 +18,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Leg' los!</span><br>
             <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
-            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/anmeldung/">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection

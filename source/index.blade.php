@@ -41,11 +41,11 @@
                 'part2'    =>  ' Web Professionals'
             ])
             <nav class="webpro-nav-lvl2">
-                <a class="waves-effect waves-light btn webpro-green hide-on-small-only" href="/veranstaltungen/web-professionals/">Zu den Infoanlässen</a>
+                <a class="waves-effect waves-light btn webpro-green hide-on-small-only" href="/veranstaltungen/web-professionals/">Termine</a>
             </nav>
         </div>
         <div class="col l7 m6 s12 webpro-right">
-            <p>Die <strong>Ausbildung für angehende Web Profis</strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong> (Bildungspartner), der <strong>Techfabrik Grabs</strong> sowie der <strong>Hochschule für Technik Rapperswil</strong> (Durchführungspartner).</p>
+            <p>Die <strong><a href="/lehrgaenge/">Ausbildung für angehende Web Profis</a></strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong> (Bildungspartner), der <strong>Techfabrik Grabs</strong> sowie der <strong>Hochschule für Technik Rapperswil</strong> (Durchführungspartner).</p>
             <p>
                 Nächster Lehrgangsstart: <strong>4. November 2017</strong>. Wir freuen uns auf Dich!
             </p>

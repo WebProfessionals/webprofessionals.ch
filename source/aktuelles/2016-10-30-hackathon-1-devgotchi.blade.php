@@ -18,7 +18,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Leg' los!</span><br>
             <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
-            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/anmeldung/">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -42,7 +42,7 @@
         </div>
         <div class="col l4 m5">
             <span class="show-on-medium-and-up">
-                <br><br><img class="responsive-img" src="/images/camp/logo-camp-2016-herbst.png">
+                <br><br><img class="responsive-img" src="/images/barcamp/logo-camp-2016-herbst.png">
                 <br><br><h2>Wir bedanken uns ganz herzlichen bei unseren Sponsoren:</h2>
                 <ul>
                     <li><a href="http://www.multidigital.ch/" target="_blank">multidigital</a></li>

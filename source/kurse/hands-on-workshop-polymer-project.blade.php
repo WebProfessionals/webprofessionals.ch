@@ -98,8 +98,8 @@
                 <p>
                     Datum des nächsten Kurses wird demnächst bekannt gegeben.
                 </p>
-                <p><strong>Hinweis:</strong> Auf Wunsch des Dozenten wird ein dritter, kostenloser Kursabend angehängt. Thema des Abends: "Apps bauen ohne zu programmieren mit flowbased-polymer".</p>
-                <p>Optionaler und kostenloser 3. Kursabend: <strong>Mittwoch, 22.03.2017, 18:15 Uhr - 21:30 Uhr</strong></p>
+                <!--<p><strong>Hinweis:</strong> Auf Wunsch des Dozenten wird ein dritter, kostenloser Kursabend angehängt. Thema des Abends: "Apps bauen ohne zu programmieren mit flowbased-polymer".</p>
+                <p>Optionaler und kostenloser 3. Kursabend: <strong>Mittwoch, 22.03.2017, 18:15 Uhr - 21:30 Uhr</strong></p>-->
             </div>
 
             <div id="kosten" class="section scrollspy">

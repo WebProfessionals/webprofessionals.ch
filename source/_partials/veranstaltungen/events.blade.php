@@ -203,7 +203,7 @@
                 @include('_partials.veranstaltungen.techfabrik')
             </div>
             <div class="card-action">
-                <a href="/camp/">zum Camp</a>
+                <a href="/barcamp/">zum Camp</a>
             </div>
         </div>
     </div>
@@ -246,7 +246,7 @@
                 @include('_partials.veranstaltungen.techfabrik')
             </div>
             <div class="card-action">
-                <a itemprop="url" href="/camp/">weitere Infos</a>
+                <a itemprop="url" href="/barcamp/">weitere Infos</a>
 
             </div>
         </div>

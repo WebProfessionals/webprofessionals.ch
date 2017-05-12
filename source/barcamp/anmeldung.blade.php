@@ -32,8 +32,8 @@
 
 @section('subnavmobile')
     <div class="collection webpro hide-on-med-and-up">
-        <a href="/camp/anmeldung/" class="collection-item">Anmeldung</a>
-        <a href="/camp/sponsoring/" class="collection-item">Sponsoring</a>
+        <a href="/barcamp/lehrgaenge/anmeldung/" class="collection-item">Anmeldung</a>
+        <a href="/barcamp/sponsoring/" class="collection-item">Sponsoring</a>
     </div>
 @endsection
 
@@ -46,15 +46,15 @@
                 'part2'    =>  'Barcamp'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
-                <a href="/camp/anmeldung/">Anmeldung</a><br>
-                <a href="/camp/sponsoring/">Sponsoring</a><br>
+                <a href="/barcamp/lehrgaenge/anmeldung/">Anmeldung</a><br>
+                <a href="/barcamp/sponsoring/">Sponsoring</a><br>
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
 
             <form class="col s12" action="https://formspree.io/info@web-professionals.ch" method="POST">
                     <div class="row">
-                        <div class="col s12">Ich möchte mich für das #5 Web Professionals Barcamp am 11. und 12. März anmelden.</div>
+                        <div class="col s12">Ich möchte mich für das #6 Web Professionals Barcamp vom 28. und 29. Oktober anmelden.</div>
                     </div>
 
                     <div class="row">
@@ -65,17 +65,17 @@
                     </div>
                     <div class="row">
                         <div class="input-field col s6">
-                            <input name="vorname" id="vorname" type="text" class="validate">
+                            <input name="vorname" id="vorname" type="text" class="validate" required>
                             <label for="vorname">Vorname</label>
                         </div>
                         <div class="input-field col s6">
-                            <input name="nachname" id="nachname" type="text" class="validate">
+                            <input name="nachname" id="nachname" type="text" class="validate" required>
                             <label for="nachname">Nachname</label>
                         </div>
                     </div>
                     <div class="row">
                         <div class="input-field col s12">
-                            <input name="strasse" id="strasse" type="text" class="validate">
+                            <input name="strasse" id="strasse" type="text" class="validate" required>
                             <label for="strasse">Strasse</label>
                         </div>
                     </div>
@@ -87,17 +87,17 @@
                     </div>
                     <div class="row">
                         <div class="input-field col s4">
-                            <input name="plz" id="plz" type="text" class="validate">
+                            <input name="plz" id="plz" type="text" class="validate" required>
                             <label for="plz">PLZ</label>
                         </div>
                         <div class="input-field col s8">
-                            <input name="ort" id="ort" type="text" class="validate">
+                            <input name="ort" id="ort" type="text" class="validate" required>
                             <label for="ort">Ort</label>
                         </div>
                     </div>
                     <div class="row">
                         <div class="input-field col s12">
-                            <input name="email" id="email" type="email" class="validate">
+                            <input name="email" id="email" type="email" class="validate" required>
                             <label for="email">Email</label>
                         </div>
                     </div>
@@ -127,7 +127,7 @@
                     </div>
                     <div class="row">
                         <div class="input-field col s12">
-                            <input type="hidden" name="_next" value="https://web-professionals.ch/camp/anmeldung-danke/" />
+                            <input type="hidden" name="_next" value="https://web-professionals.ch/barcamp/anmeldung-danke/" />
                             <input type="hidden" name="_subject" value="Anmeldung Barcamp" />
                             <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="verbindlich anmelden">
                         </div>

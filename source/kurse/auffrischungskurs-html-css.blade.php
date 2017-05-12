@@ -65,19 +65,17 @@
             <div id="inhalte" class="section scrollspy">
                 <h2>Inhalte:</h2>
                 <ul class="webpro-list">
-                    <li><strong>1. Abend/Nachmittag: Repetition</strong>
+                    <li><strong>1. Abend/Nachmittag: Grundlagen/Repetition</strong>
                         <ul>
                             <li>HTML Grundlagen: Tags, Divs, Spans, Bilder, Links etc.</li>
-                            <li>CSS Grundlagen: Selektoren, Spezifität, Box-Modell</li>
-                            <li>Schriften mit CSS</li>
-
+                            <li>CSS Grundlagen: Selektoren, Spezifität, Box-Modell, wichtigste Eigenschaften</li>
                         </ul>
                     </li>
                     <li><strong>2. Abend/Nachmittag: Layout</strong>
                         <ul>
                             <li>Vergleich der verschiedenen Ansätze</li>
                             <li>Floating</li>
-                            <li>Vorschau Flexbox</li>
+                            <li>Flexbox</li>
                             <li>Umsetzung Responsives Layout: mobile first</li>
                             <li>Media Queries</li>
                         </ul>
@@ -100,7 +98,7 @@
                             <li>Zurb Foundation</li>
                         </ul>
                     </li>
-                    <li><strong>6. Abend: Praxisübungen</strong>, je nach Zeit Flexbox</li>
+                    <li><strong>6. Abend: Praxisübungen</strong>, je nach Zeit</li>
 
                 </ul>
             </div>
@@ -120,7 +118,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten, Kursort:</h2>
-                <p>6 Mittwoch Abende à 4 Lektionen (Total 24 Lektionen), 18:15 - 21:30 Uhr, 01.03.17 - 05.04.17, Techfabrik Grabs</p>
+                <p>6 Montag Abende à 4 Lektionen (Total 24 Lektionen), 18:15 - 21:30 Uhr, 21.08.17 - 25.09.17, Techfabrik Grabs</p>
             </div>
 
             <div id="kosten" class="section scrollspy">
@@ -131,7 +129,7 @@
             <div id="klassen" class="section scrollspy">
                 <h2>Kursort:</h2>
                 <p>
-                     oder alternativ Techfabrik Grabs (je nach Teilnehmer)
+                     Techfabrik Grabs
                 </p>
             </div>
 
@@ -153,12 +151,6 @@
                 </p>
             </div>
 
-            <div id="klassen" class="section scrollspy">
-                <h2>Kursleiter:</h2>
-                <p>
-                    Florian Gächter ist Senior Frontend Developer bei der Namics AG. Nach einem angefangenen Biotechnologie-Studium ist er (Veith Zäch sei Dank) der Welt des Frontend Developments verfallen. Durch seine Leidenschaft für hübsche Frontends und Clean Code ist er für die Web Professionals Dozent erster Wahl für Programmier-Themen mit sichtbaren Resultaten.
-                </p>
-            </div>
 
         </div>
     </div>

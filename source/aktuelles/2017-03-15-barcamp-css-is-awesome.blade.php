@@ -18,7 +18,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Leg' los!</span><br>
             <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
-            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/anmeldung/">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -42,34 +42,34 @@
         </div>
         <div class="col l4 m5 hide-on-small-only">
 
-                <br><img class="responsive-img" src="/images/camp/logo-camp-5.png">
+                <br><img class="responsive-img" src="/images/barcamp/logo-camp-5.png">
 
                 <p>Wir bedanken uns bei unseren Sach- und Geldsponsoren, welche die Durchführung unseres Barcamps unterstützt und damit ermöglicht haben:</p>
                 <div class="row">
                     <div class="col s12"><p class="sponsoren-titel">Hauptsponsor:</p></div>
                     <div class="col s6 m6 l6">
-                        <a href="http://www.somedia-production.ch/home/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/logo_somedia_production_cmyk.png"></a>
+                        <a href="http://www.somedia-production.ch/home/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/logo_somedia_production_cmyk.png"></a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col s12"><p class="sponsoren-titel">Getränke-Sponsor:</p></div>
                     <div class="col s6 m6 l6">
-                        <a href="https://www.hsr.ch/Weiterbildung-an-der-HSR.2369.0.html" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/hsr.png"></a>
+                        <a href="https://www.hsr.ch/Weiterbildung-an-der-HSR.2369.0.html" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/hsr.png"></a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col s12"><p class="sponsoren-titel">Kaffee-Sponsoren:</p></div>
                     <div class="col s6 m6 l6">
-                        <a href="http://www.ibw.ch/home/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/ibw_sponsoring.gif"></a>
+                        <a href="http://www.ibw.ch/home/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/ibw_sponsoring.gif"></a>
                     </div>
                     <div class="col s6 m6 l6">
-                        <a href="https://tomschaepper.net/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/tomschaepper.png"></a>
+                        <a href="https://tomschaepper.net/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/tomschaepper.png"></a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col s12"><p class="sponsoren-titel">Sach-Sponsor:</p></div>
                     <div class="col s6 m6 l6">
-                        <a href="http://www.laederach.com/ch-de/" target="_blank"><img class="responsive-img" src="/images/camp/sponsoren/laederach.png"></a>
+                        <a href="http://www.laederach.com/ch-de/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/laederach.png"></a>
                     </div>
                 </div>
 

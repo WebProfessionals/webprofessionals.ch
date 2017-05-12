@@ -66,7 +66,7 @@
             <li class="tab col s3"><a href="/lehrgaenge/" target="_self" class="waves-effect waves-light ">Lehrgänge</a></li>
             <li class="tab col s3"><a href="/kurse/" target="_self" class="waves-effect waves-light ">Kurse</a></li>
             <li class="tab col s3"><a href="/veranstaltungen/" target="_self" class="waves-effect waves-light  active">Termine</a></li>
-            <li class="tab col s3"><a href="/camp/" target="_self" class="waves-effect waves-light ">Camp</a></li>
+            <li class="tab col s3"><a href="/barcamp/" target="_self" class="waves-effect waves-light ">Camp</a></li>
             <li class="tab col s3"><a href="/ausbildung/" target="_self" class="waves-effect waves-light ">Ausbildung</a></li>
             <li class="tab col s3"><a href="/kontakt/" target="_self" class="waves-effect waves-light ">Kontakt</a></li>
         </ul>

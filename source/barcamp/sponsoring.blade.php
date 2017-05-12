@@ -48,7 +48,7 @@
                 'part2'    =>  'Sponsoring'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
-                <a href="/camp/">Camp</a><br>
+                <a href="/barcamp/">Camp</a><br>
             </nav>
             <div class="hide-on-small-and-down">
                 <br><br><br>
@@ -56,37 +56,37 @@
                 <br><br>
                 <div class="row">
                     <div class="col s6">
-                        <img class="responsive-img" src="/images/camp/sponsoren/logo_somedia_production_cmyk.png">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/logo_somedia_production_cmyk.png">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col s6">
-                        <img class="responsive-img" src="/images/camp/sponsoren/namics.png">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/namics.png">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col s6">
-                        <img class="responsive-img" src="/images/camp/sponsoren/multidigital.png">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/multidigital.png">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col s6">
-                        <img class="responsive-img" src="/images/camp/sponsoren/b_medien_smart_4c.png">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/b_medien_smart_4c.png">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col s6">
-                        <img class="responsive-img" src="/images/camp/sponsoren/rii-seez-net.png">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/rii-seez-net.png">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col s6">
-                        <img class="responsive-img" src="/images/camp/sponsoren/exigo_claim.png">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/exigo_claim.png">
                     </div>
                 </div>
                 <div class="row">
                     <div class="col s6">
-                        <img class="responsive-img" src="/images/camp/sponsoren/dp-Druckpartner.png">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/dp-Druckpartner.png">
                     </div>
                 </div>
             </div>

@@ -2,7 +2,7 @@
 
 {{-- Header --}}
 @section('header')
-    <title>Anmeldung Lehrgänge | Web Professionals</title>
+    <title>Lehrgang Web Integrator Rapperswil | Web Professionals</title>
     <style>
         #webpro-landscape {
             display:none!important;
@@ -49,22 +49,22 @@
             ])
         </div>
         <div class="col l7 m6 webpro-right">
-            <h2>Anmeldung zum Lehrgang Web Developer in Grabs SG</h2>
+            <h2>Anmeldung zum Lehrgang Web Integrator in Rapperswil SG</h2>
             <p>Lehrgangsbeginn: Herbst 2017</p>
 
 
-            <form action="/anmeldung/danke.php" method="POST" id="form-anmeldung">
+            <form action="/lehrgaenge/anmeldung/danke.php" method="POST" id="form-anmeldung">
                 @include('_partials.anmeldung-formular')
-                <input type="hidden" name="lehrgang" value="Web Developer Grabs SG" />
-                <input type="hidden" name="sku" value="DEV_GRABS_17_18" />
+                <input type="hidden" name="lehrgang" value="Web Integrator Rapperswil SG" />
+                <input type="hidden" name="sku" value="INT_RAPPERSWIL_17_18" />
                 <input type="hidden" name="typ" value="Lehrgang" />
-                <input type="hidden" name="gebuehr" value="5500" />
+                <input type="hidden" name="gebuehr" value="3100" />
             </form>
 
         </div>
 
     </div>
-    <br><br><br><br><br><br><br><br><br>&nbsp;
+    <br><br><br><br><br><br>&nbsp;
 @endsection
 
 @section('subnavmobile')
