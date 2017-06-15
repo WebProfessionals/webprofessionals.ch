@@ -56,6 +56,17 @@
                 <a href="/barcamp/anmeldung/">Anmeldung</a><br>
                 <a href="/barcamp/sponsoring/">Sponsoring</a><br>
             </nav>
+            <br>
+            <p>Herzlichen Dank unseren <strong>Sponsoren</strong>, welche die Durchführung unseres Barcamps unterstützen!</p>
+            <p>Willst auch du unser <a href="/barcamp/sponsoring/">Barcamp und damit eine gute Sache unterstützen? Wir freuen uns auf deine Kontaktaufnahme!</a></p>
+
+            <div class="row">
+                <div class="col s12"><p class="sponsoren-titel">Hauptsponsor:</p></div>
+                <div class="col s8 m8 l8">
+                    <a href="http://www.viaduct.ch/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/viaduct.png"></a>
+                </div>
+            </div>
+
             <span class="show-on-medium-and-up">
                 <!--<br><br><img class="responsive-img" src="/images/barcamp/logo-camp-5.png">-->
             </span>
@@ -83,17 +94,8 @@
             <section id="anmeldung" class="section scrollspy">
                 <a class="waves-effect waves-light btn webpro-red" href="/barcamp/anmeldung/">Jetzt anmelden</a>
             </section>
-            <br>
-            <h2 class="webpro">Sponsoren:</h2>
-            <p>Auch dieses Mal sind wir wieder auf die <a href="/barcamp/sponsoring/">Unterstützung durch Sponsoren</a> angewiesen und danken für Euren Beitrag!</p>
+
             <!--
-            <p>Wir bedanken uns bei unseren Sach- und Geldsponsoren, welche die Durchführung unseres Barcamps unterstützen:</p>
-            <div class="row">
-                <div class="col s12"><p class="sponsoren-titel">Hauptsponsor:</p></div>
-                <div class="col s6 m6 l4">
-                    <a href="http://www.somedia-production.ch/home/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/logo_somedia_production_cmyk.png"></a>
-                </div>
-            </div>
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">Getränke-Sponsor:</p></div>
                 <div class="col s6 m6 l4">
