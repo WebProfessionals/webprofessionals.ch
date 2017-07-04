@@ -95,7 +95,7 @@
                 </div>
                 <div class="card-content">
                     <span class="card-title activator grey-text text-darken-4"><span itemprop="givenName">Veith</span> <span itemprop="familyName">Zäch</span><i class="material-icons right">more_vert</i></span>
-                    <p><span itemprop="jobTitle">Software Architekt, adcubum</span><br><br><img src="/images/webpro-icon-14.gif"> JavaScript, Ajax/jQuery, PHP, AngularJS</p>
+                    <p><span itemprop="jobTitle">Software Architekt, adcubum</span><br><br><img src="/images/webpro-icon-14.gif"> JavaScript, Ajax/jQuery, PHP, Polymer</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Veith Zäch<i class="material-icons right">close</i></span>
