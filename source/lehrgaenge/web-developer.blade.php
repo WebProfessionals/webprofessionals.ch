@@ -118,7 +118,7 @@
                 <p>
                     <strong>Klasse Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
                     <strong>Unterrichtszeiten:</strong> Dienstag 18.00 bis 21.15 Uhr, Donnerstag 18.00 bis 21.15 Uhr<br>
-                    <strong>Hinweis:</strong> einige der Lektionen finden Freitag/Samstag gemeinsam mit der Grabser Klasse statt.
+                    <strong>Hinweis:</strong> einige der Lektionen finden am Freitag/Samstag gemeinsam mit der Grabser Klasse in der Techfabrik Grabs statt.
                 </p>
             </div>
 
