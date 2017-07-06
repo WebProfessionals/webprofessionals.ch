@@ -49,7 +49,7 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <p>
-                <strong>09.09.2014:</strong> kein Thema <a href="https://www.facebook.com/events/1460239974263323/" target="_blank">[FB]</a><br>
+                <strong>09.09.2014:</strong> Einführung in flowbased Programming (Veith Zäch) <a href="https://www.facebook.com/events/1460239974263323/" target="_blank">[FB]</a><br>
                 <strong>15.01.2015:</strong> Einführung in Google Web Designer (Johanna Gächter), Motion Design im UI (Alexander Zyuzkevich) <a href="https://www.facebook.com/events/1509224882678468/" target="_blank">[FB]</a><br>
                 <strong>18.03.2015:</strong> Scrum (Christoph Hornfischer) <a href="https://www.facebook.com/events/651631281607708/" target="_blank">[FB]</a><br>
                 <strong>21.05.2015:</strong> digitale Trends - von Fintech bis Quantified-Self (Alexander Braun) <a href="https://www.facebook.com/events/359916977530791/" target="_blank">[FB]</a><br>
@@ -61,8 +61,6 @@
                 <strong>21.12.2016:</strong> Glühwein <a href="https://www.facebook.com/events/2009465619280240/" target="_blank">[FB]</a><br>
                 <strong>16.08.2017:</strong> Vue.js (Florian Gächter)<br>
             </p>
-
-
         </div>
 
     </div>

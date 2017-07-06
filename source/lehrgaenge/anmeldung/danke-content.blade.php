@@ -56,7 +56,7 @@
 
             <p>
                 <strong>Herzlichen Dank für deine Anmeldung!</strong><br>
-                Du erhälst gleich eine Anmeldebestätigung per E-Mail sowie zu einem späteren Zeitpunkt weitere Unterlagen per Post zugestellt. Wir freuen uns, dich bei den Web Professionals begrüssen zu dürfen!
+                Du erhälst gleich eine Anmeldebestätigung per E-Mail (bitte zur Sicherheit noch im Spam-Folder nachsehen) sowie kurz nach den Sommerferien weitere Unterlagen per Post zugestellt. Wir freuen uns, dich bei den Web Professionals begrüssen zu dürfen!
             </p>
 
         </div>
