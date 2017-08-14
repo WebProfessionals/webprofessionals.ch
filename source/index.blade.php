@@ -71,6 +71,24 @@
 
         <!-- Card Start -->
         <div class="col l7 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-08-16-webpro-and-friends-vue-js/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/2017-08-webpro-and-friends-vue-js-florian-gaechter.jpg" alt="Web Professionals and Friends: Vue.js (Florian Gächter)" title="Web Professionals and Friends: Vue.js (Florian Gächter)">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Web Professionals and Friends</span>
+                    <p>Kurz-Vorstellung Vue.js durch Florian Gächter (Frontify)</p>
+                    <p>16.08.2017</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2017-08-16-webpro-and-friends-vue-js/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l5 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-03-15-barcamp-css-is-awesome/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2017-css-awesome-camp5-02.jpg" alt="#5 Web Professionals Barcamp: CSS is awesome!" title="#5 Web Professionals Barcamp: CSS is awesome!">
@@ -89,14 +107,14 @@
         <!-- Card End -->
 
         <!-- Card Start -->
-        <div class="col l5 m6">
+        <div class="col l6 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-03-03-hakan-arioglu/'>
                 <div class="card-image">
                     <img src="/images/testimonials/hakan_arioglu.jpg" alt="Hakan Arioglu" title="Hakan Arioglu">
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">Portrait: Hakan Arioglu</span>
-                    <p>Frontend Developer bei Inware AG (neu: Namics AG)</p>
+                    <p>Frontend Developer bei Namics AG</p>
                     <p><em>"Um all den neuen Web-Technologien gerecht zu werden, muss man früher oder später diverse Kurse besuchen."</em></p>
                     <p>3. März 2017</p>
                 </div>
@@ -141,6 +159,23 @@
                 </div>
                 <div class="card-action">
                     <a class="white-text" href="/aktuelles/2017-01-04-stefanie-jegen/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l6 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2016-10-30-hackathon-1-devgotchi/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/camp_2016_autumn.jpg" alt="Web Professionals Barcamp 2016" title="Web Professionals Barcamp 2016">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">#1 Web Professionals Hackathon</span>
+                    <p>Die Devgotchis sind frei! Der erste Web Professionals Hackathon fand am 29./30.10.2016 statt!</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2016-10-30-hackathon-1-devgotchi/">mehr</a>
                 </div>
             </div>
         </div>
