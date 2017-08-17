@@ -104,6 +104,9 @@
                 <div class="col s6 m6 l4">
                     <a href="http://www.liip.ch" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/liip.png"></a>
                 </div>
+                <div class="col s6 m6 l4 offset-l2">
+                    <a href="https://www.hsr.ch/Weiterbildung-an-der-HSR.2369.0.html" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/hsr.png"></a>
+                </div>
             </div>
 
             <div class="row">
