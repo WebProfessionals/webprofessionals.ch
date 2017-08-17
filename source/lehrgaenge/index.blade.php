@@ -56,7 +56,8 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/web-integrator/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Integrator</span>
-                            <p>Das digitale Einmaleins: der Basislehrgang vermittelt das notwendige Grundlagenwissen. Beginn jeweils Frühling und Herbst</p>
+                            <p>Das digitale Einmaleins: der Basislehrgang vermittelt das notwendige Grundlagenwissen zur Erstellung eigener Webseiten.</p>
+                            <p><br>Beginn jeweils im Frühling und Herbst</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/web-integrator/">Erfahre mehr ></a>
@@ -67,7 +68,8 @@
                     <div class="card grey darken-2 small hoverable webpro-clickable-card" data-href='/lehrgaenge/web-developer/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Developer</span>
-                            <p>Auf Eroberungskurs: deine Welt ist das Web! Beginn jeweils im Herbst</p>
+                            <p>Auf Eroberungskurs: du willst mehr und kannst es kaum erwarten, das Internet mit deinen Webseiten und Applikationen zu erobern! <p>
+                            <p><br>Beginn jeweils im Herbst</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/web-developer/">Erfahre mehr ></a>
@@ -78,7 +80,8 @@
                     <div class="card grey darken-2 small hoverable webpro-clickable-card" data-href='/lehrgaenge/web-designer/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Designer</span>
-                            <p>Gestaltungsfreiheit: der Vertiefungslehrgang rund um die digitale Gestaltung. Beginn jeweils im Herbst</p>
+                            <p>Gestaltungsfreiheit: der Vertiefungslehrgang rund um ein erfolgreiches Screen-Design, UX und UI.</p>
+                            <p><br>Beginn jeweils im Herbst</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/web-designer/">Erfahre mehr ></a>
