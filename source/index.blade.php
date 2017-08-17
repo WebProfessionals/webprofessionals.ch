@@ -43,9 +43,9 @@
         </div>
         <div class="col l7 m6 s12 webpro-right">
             <p>Die <strong><a href="/lehrgaenge/">Ausbildung für angehende Web Profis</a></strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt. Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong>, der <strong>Techfabrik Grabs</strong> sowie der <strong>Hochschule für Technik Rapperswil</strong>.</p>
-            <p>Unsere Lehrgänge beginnen mit der Basis-Ausbildung zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a> und vertiefen sich danach in den beiden Diplom-Lehrgängen zum <a href="/lehrgaenge/web-developer/">Web Developer</a> und <a href="/lehrgaenge/web-designer/">Web Designer</a>.</p>
+            <p>Unsere Lehrgänge starten mit der Basis-Ausbildung zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a> und spezialisieren sich danach in den beiden Diplom-Lehrgängen zum <a href="/lehrgaenge/web-developer/">Web Developer</a> und <a href="/lehrgaenge/web-designer/">Web Designer</a>.</p>
             <p>
-                Nächster Lehrgangsstart: <strong>4. November 2017</strong>. Wir freuen uns auf Dich!
+                Nächster Lehrgangsstart: <strong>4. November 2017</strong> - bist du mit dabei? Wir freuen uns auf dich!
             </p>
 
         </div>
