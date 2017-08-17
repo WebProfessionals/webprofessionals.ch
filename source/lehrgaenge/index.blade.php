@@ -57,7 +57,7 @@
                         <div class="card-content white-text">
                             <span class="card-title">Web Integrator</span>
                             <p>Das digitale Einmaleins: der Basislehrgang vermittelt das notwendige Grundlagenwissen zur Erstellung eigener Webseiten.</p>
-                            <p><br>Beginn jeweils im Frühling und Herbst</p>
+                            <p><br>1 Semester, berufsbegleitend<br>Beginn jeweils im Frühling und Herbst</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/web-integrator/">Erfahre mehr ></a>
@@ -69,7 +69,7 @@
                         <div class="card-content white-text">
                             <span class="card-title">Web Developer</span>
                             <p>Auf Eroberungskurs: du willst mehr und kannst es kaum erwarten, das Internet mit deinen Webseiten und Applikationen zu erobern! <p>
-                            <p><br>Beginn jeweils im Herbst</p>
+                            <p><br>2 Semester, berufsbegleitend<br>Beginn jeweils im Herbst</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/web-developer/">Erfahre mehr ></a>
@@ -81,7 +81,7 @@
                         <div class="card-content white-text">
                             <span class="card-title">Web Designer</span>
                             <p>Gestaltungsfreiheit: der Vertiefungslehrgang rund um ein erfolgreiches Screen-Design, UX und UI.</p>
-                            <p><br>Beginn jeweils im Herbst</p>
+                            <p><br>2 Semester, berufsbegleitend<br>Beginn jeweils im Herbst</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/web-designer/">Erfahre mehr ></a>
