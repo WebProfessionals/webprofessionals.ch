@@ -1,5 +1,6 @@
 @extends('_layouts.master')
 
+
 {{-- Header --}}
 @section('header')
     <title>Web Professionals - Die Aus- und Weiterbildung für Web Profis</title>
@@ -46,6 +47,9 @@
             <p>Unsere Lehrgänge starten mit der Basis-Ausbildung zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a> und spezialisieren sich danach in den beiden Diplom-Lehrgängen zum <a href="/lehrgaenge/web-developer/">Web Developer</a> und <a href="/lehrgaenge/web-designer/">Web Designer</a>.</p>
             <p>
                 Nächster Lehrgangsstart: <strong>4. November 2017</strong> - bist du mit dabei? Wir freuen uns auf dich!
+            </p>
+            <p>
+                Nächster Infoanlass: <a href="https://www.facebook.com/events/110382742984937" target="_blank"><strong>Donnerstag, 24. August 2017 in Rapperswil</strong></a> (19 Uhr, Hochschule für Technik Rapperswil, Zimmer 1.201)
             </p>
 
         </div>
