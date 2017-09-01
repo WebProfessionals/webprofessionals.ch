@@ -75,42 +75,47 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col s6">
+                    <div class="col s5">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/hsr.png">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s5">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/ibw_sponsoring.gif">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col s6">
+                    <div class="col s5">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/multidigital.png">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col s6">
+                    <div class="col s5">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/b_medien_smart_4c.png">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col s6">
+                    <div class="col s5">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/laederach.png">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col s6">
+                    <div class="col s5">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/rii-seez-net.png">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col s6">
+                    <div class="col s5">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/tomschaepper.png">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col s6">
+                    <div class="col s5">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/exigo_claim.png">
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col s6">
+                    <div class="col s5">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/dp-Druckpartner.png">
                     </div>
                 </div>
