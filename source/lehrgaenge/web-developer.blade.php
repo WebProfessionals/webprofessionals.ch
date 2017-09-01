@@ -86,17 +86,14 @@
                     <li>CSS Vertiefung, CSS3, SASS</li>
                     <li>Grids & Viewports</li>
                     <li>UX/UI</li>
+                    <li>Javascript Vertiefung</li>
                     <li>Relationale Datenbanken und SQL</li>
                     <li>PHP und Datenbanken</li>
                     <li>Objektorientierte Webentwicklung mit PHP</li>
-                    <li>PHP Frameworks (Laravel)</li>
-                    <li>Javascript Vertiefung, jQuery</li>
                     <li>Projektmanagement</li>
                     <li>Website Konzeption und Usability</li>
                     <li>Suchmaschinenoptimierung</li>
-                    <li>Storytelling im Web</li>
                     <li>mobile Trends</li>
-                    <li>eCommerce</li>
                     <li>Scriptsicherheit</li>
                     <li>Workshop 1 und 2</li>
                     <li>Diplomarbeit</li>
@@ -111,14 +108,11 @@
             <div id="klassen" class="section scrollspy">
                 <h2>Klassen / Durchführungsorte:</h2>
                 <p>
-                    <strong>Klasse Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
-                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
+                    <strong>Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs, jeweils Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
                 </p>
 
                 <p>
-                    <strong>Klasse Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
-                    <strong>Unterrichtszeiten:</strong> Dienstag 18.00 bis 21.15 Uhr, Donnerstag 18.00 bis 21.15 Uhr<br>
-                    <strong>Hinweis:</strong> einige der Lektionen finden am Freitag/Samstag gemeinsam mit der Grabser Klasse in der Techfabrik Grabs statt.
+                    <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil, jeweils Dienstag 18.00 bis 21.15 Uhr, Donnerstag 18.00 bis 21.15 Uhr. <strong>Hinweis:</strong> einige der Lektionen finden am Freitag/Samstag gemeinsam mit der Grabser Klasse in der Techfabrik Grabs statt.
                 </p>
             </div>
 

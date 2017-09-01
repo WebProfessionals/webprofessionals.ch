@@ -46,6 +46,8 @@
                     <ul class="section no-pad table-of-contents">
                         <li><a href="#beschreibung">Beschreibung</a></li>
                         <li><a href="#inhalte">Inhalte / Fächer</a></li>
+                        <li><a href="#anforderungen">Anforderungen</a></li>
+                        <li><a href="#abschluss">Abschluss</a></li>
                         <li><a href="#dauer">Dauer</a></li>
                         <li><a href="#klassen">Klassen / Durchführungsorte</a></li>
                         <li><a href="#kosten">Kosten und Zahlungsfristen</a></li>
@@ -90,8 +92,18 @@
                     <li>Grundlagen Gestaltungslehre</li>
                     <li>Bildbearbeitung Grundlagen (Affinity Photo/Designer)</li>
                     <li>Workshop 1 (HTML)</li>
-                    <li>Workshop 2 (Projekt)</li>
+                    <li>Workshop 2 (Projekt Wordpress Theme)</li>
                 </ul>
+            </section>
+
+            <section id="anforderungen" class="section scrollspy">
+                <h2>Anforderungen:</h2>
+                <p>Lehrabschluss in einem Beruf mit mindestens dreijähriger Lehrzeit oder gleichwertiger Ausweis. Grundlegende Informatik-Anwenderkenntnisse sind zwingend erforderlich (sicherer Umgang mit dem Computer). Bei Unsicherheiten betreffend den Voraussetzungen stehen unsere Lehrgangsleiter gerne für ein Beurteilungsgespräch zur Verfügung.</p>
+            </section>
+
+            <section id="abschluss" class="section scrollspy">
+                <h2>Prüfung:</h2>
+                <p>Die Module HTML/CSS, JavaScript und PHP werden am Ende des Lehrgangs mit einer schriftlichen Schlussprüfung abgeschlossen. Wer alle Module mit je mindestens 2/3 der Punktezahl abschliesst erhält das Diplom "Web Professionals: Web Integrator" (Voraussetzung für die Diplomlehrgänge "Web Developer"). Wer das Modul "HTML/CSS" mit mind. 2/3 der Punktezahl und die Module JavaScript/PHP je mit mindestens der Hälfte der maximalen Punktezahl abschliesst erhält das Diplom "Web Professionals: Web Publisher" (Voraussetzung für den Diplomlehrgang "Web Designer").</p>
             </section>
 
             <section id="dauer" class="section scrollspy">

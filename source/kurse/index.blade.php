@@ -41,10 +41,10 @@
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
                 <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
-                <a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>
+                <!--<a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>-->
                 <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
-                <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
-                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
+                <!--<a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>-->
+                <!--<a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>-->
                 <a href="/kurse/anmeldung/">Anmeldung</a>
             </nav>
         </div>
@@ -65,32 +65,35 @@
 
                 <tr>
                     <td><a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a></td>
-                    <td>31.05.17</td>
+                    <td>08.11.17</td>
                     <td>Grabs</td>
                 </tr>
-
+<!--
                 <tr>
                     <td><a href="/kurse/auffrischungskurs-html-css/">Auffrischungskurs HTML5/CSS3</a></td>
                     <td>Datum folgt</td>
                     <td>Grabs</td>
                 </tr>
-
+-->
                 <tr>
                     <td><a href="/kurse/hands-on-workshop-polymer-project/">Hands on workshop Polymer</a></td>
-                    <td>Datum folgt</td>
+                    <td>08.11.17</td>
                     <td>Grabs</td>
                 </tr>
-
+<!--
                 <tr>
                     <td><a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a></td>
                     <td>Datum folgt</td>
                     <td>Grabs</td>
                 </tr>
+-->
+<!--
                 <tr>
                     <td><a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a></td>
                     <td>Datum folgt</td>
                     <td>Grabs</td>
                 </tr>
+-->
                 </tbody>
             </table>
         </div>

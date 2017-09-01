@@ -42,10 +42,10 @@
                 ])
                 <nav class="webpro-nav-lvl2">
                     <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
-                    <a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>
+                    <!--<a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>-->
                     <a class="webpro-subnav-active" href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
-                    <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
-                    <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
+                    <!--<a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>-->
+                    <!--<a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>-->
                     <a href="/kurse/anmeldung/">Anmeldung</a>
                 </nav>
                 <span class="show-on-medium-and-up">
@@ -96,7 +96,9 @@
                 <h2>Lektionen, Daten:</h2>
                 <p>2 Kursabende à 4 Lektionen (Total 8 Lektionen).</p>
                 <p>
-                    Datum des nächsten Kurses wird demnächst bekannt gegeben.
+                    1. Abend: 08. November 2017, 18:15 - 21:30 Uhr<br>
+                    2. Abend: 15. November 2017, 18:15 - 21:30 Uhr<br>
+
                 </p>
                 <!--<p><strong>Hinweis:</strong> Auf Wunsch des Dozenten wird ein dritter, kostenloser Kursabend angehängt. Thema des Abends: "Apps bauen ohne zu programmieren mit flowbased-polymer".</p>
                 <p>Optionaler und kostenloser 3. Kursabend: <strong>Mittwoch, 22.03.2017, 18:15 Uhr - 21:30 Uhr</strong></p>-->
@@ -134,7 +136,6 @@
                     Nebenbei braut er Bananenbier, lässt ab und an sein Haus explodieren und will Putzroboter mit Schwarmintelligenz bauen.
                 </p>
             </div>
-
         </div>
     </div>
 

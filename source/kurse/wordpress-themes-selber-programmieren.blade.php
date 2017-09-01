@@ -42,10 +42,10 @@
                 ])
                 <nav class="webpro-nav-lvl2">
                     <a class="webpro-subnav-active" href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
-                    <a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>
+                    <!--<a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>-->
                     <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
-                    <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
-                    <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
+                    <!--<a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>-->
+                    <!--<a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>-->
                     <a href="/kurse/anmeldung/">Anmeldung</a>
                 </nav>
             </div>
@@ -111,7 +111,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten:</h2>
-                <p>6 Kursabende à 4 Lektionen (Total 24 Lektionen). Jeweils Mittwochs von 18.15 Uhr bis 21.30 Uhr. Kursdaten: 31.05.2017 - 05.07.2017</p>
+                <p>6 Kursabende à 4 Lektionen (Total 24 Lektionen). Jeweils Mittwochs von 18.15 Uhr bis 21.30 Uhr. Kursdaten: 08.11.2017 - 13.12.2017</p>
             </div>
 
             <div id="kosten" class="section scrollspy">
