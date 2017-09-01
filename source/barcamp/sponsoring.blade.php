@@ -61,7 +61,22 @@
                 </div>
                 <div class="row">
                     <div class="col s6">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/viaduct.png">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s6">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/liip.png">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s6">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/namics.png">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s6">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/ibw_sponsoring.gif">
                     </div>
                 </div>
                 <div class="row">
@@ -76,7 +91,17 @@
                 </div>
                 <div class="row">
                     <div class="col s6">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/laederach.png">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s6">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/rii-seez-net.png">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s6">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/tomschaepper.png">
                     </div>
                 </div>
                 <div class="row">
