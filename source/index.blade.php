@@ -49,10 +49,7 @@
                 Nächster Lehrgangsstart: <strong>4. November 2017</strong> - bist du mit dabei? Wir freuen uns auf dich!
             </p>
             <p>
-                <strong>Letzte Infoanlässe vor Lehrgangsbeginn:</strong><br>
-                Mittwoch, 20. September 2017, 19 Uhr, <strong>ibW Chur</strong>, Zimmer 302<br>
-                Freitag, 22. September 2017, 19 Uhr, <strong>Techfabrik Grabs</strong><br>
-                Dienstag, 26. September 2017, 19 Uhr, <strong>HSR Rapperswil</strong>, Zimmer 1.201
+                Für Kurzentschlossene: der letzte Infoanlass vor Lehrgangsbeginn findet am <strong>Samstag, 14. Oktober 2017, 10 Uhr</strong>, in der <strong>Techfabrik Grabs</strong> (Mühlbachstrasse 11a) statt.
             </p>
         </div>
     </div>
