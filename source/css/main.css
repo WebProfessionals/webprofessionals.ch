@@ -7104,4 +7104,8 @@ input[type="checkbox"]:required:valid + label {
   color: #79980a;
 }
 
+.strikethrough {
+  text-decoration: line-through;
+}
+
 /*# sourceMappingURL=main.css.map */

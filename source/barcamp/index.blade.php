@@ -60,7 +60,7 @@
 
 
             <span class="show-on-medium-and-up">
-                <!--<br><br><img class="responsive-img" src="/images/barcamp/logo-camp-5.png">-->
+                <br><br><img class="responsive-img" src="/images/barcamp/logo-camp-6.png">
             </span>
 
         </div>
@@ -80,7 +80,7 @@
                 <li><strong>Ort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs</li>
                 <li><strong>Hashtag:</strong> <a href="https://twitter.com/search?q=%23webprocamp&src=typd" target="_blank">#webprocamp</a></li>
                 <li><br><strong>Teilnahmegebühr:</strong> CHF 50 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
-                <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer im Hotel Taucher Buchs, welches uns wieder mit einem Spezialpreis von CHF 50/Person unterstützt.</li>
+                <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer <span class="strikethrough">im Hotel Taucher Buchs, welches uns wieder mit einem Spezialpreis von CHF 50/Person unterstützt.</span> Aktueller Hinweis: leider sind für Camp-Wochenende bereits alle Zimmer im Hotel Taucher ausgebucht. Wir helfen dir aber gerne bei der Suche nach einem Zimmer in einem anderen Hotel.</li>
             </ul>
 
             <section id="anmeldung" class="section scrollspy">

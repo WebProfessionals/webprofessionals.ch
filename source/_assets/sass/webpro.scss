@@ -421,3 +421,6 @@ input[type="checkbox"]:required:invalid + label {
 input[type="checkbox"]:required:valid + label {
   color: $link-color;
 }
+.strikethrough {
+  text-decoration: line-through;
+}
