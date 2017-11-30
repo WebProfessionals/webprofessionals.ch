@@ -48,16 +48,6 @@
             <p>
                 Nächster Lehrgangsstart: <strong>28. April 2018</strong> - bist du mit dabei? Wir freuen uns auf dich!
             </p>
-            <p>
-                <strong>Aktueller Hinweis: </strong>folgende Lehrgänge werden definitiv durchgeführt - Anmeldungen sind nach wie vor möglich:
-                <ul>
-                <li>- <a href="/lehrgaenge/web-integrator/">Web Integrator Herbst/Winter Grabs</a></li>
-                <li><a href="/lehrgaenge/web-integrator/">- Web Integrator Herbst/Winter Rapperswil</a></li>
-                <li><a href="/lehrgaenge/web-developer/">- Web Developer Herbst/Winter Grabs</a></li>
-                <li><a href="/lehrgaenge/web-developer/">- Web Developer Herbst/Winter Rapperswil</a></li>
-                </ul>
-            Ebenfalls durchgeführt wird der Kurs <a href="/kurse/wordpress-themes-selber-programmieren/">"Wordpress Themes selber entwickeln"</a> mit Beginn 8.11.2017 - auch hier kann man sich nach wie vor anmelden.
-            </p>
         </div>
     </div>
     <div class="row webpro-partner">
