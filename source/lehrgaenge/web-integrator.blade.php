@@ -109,7 +109,7 @@
             <section id="dauer" class="section scrollspy">
                 <h2>Dauer/Daten:</h2>
                 <p>1 Semester, 110 Lektionen, berufsbegleitend</p>
-                <p>4. November 2017 - 10. März 2018</p>
+                <p>28. April 2018 - 29. September 2018</p>
             </section>
 
             <section id="klassen" class="section scrollspy">
@@ -157,10 +157,10 @@
                 <p>30. September 2016</p>
                 -->
                 <h2>Termin Eröffnungsveranstaltung:</h2>
-                <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Grabs, Chur, Rapperswil) am Samstag, 4. November 2017 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt.</p>
+                <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Grabs, Chur, Rapperswil) am Samstag, 28. April 2018 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt.</p>
 
                 <h2>Termin Diplomprüfung:</h2>
-                <p>Samstag 10. März 2018, 10.00 Uhr in Sargans (ibW Bahnhofpark)</p>
+                <p>Samstag 29. September 2018, 10.00 Uhr in Sargans (ibW Bahnhofpark)</p>
 
             </section>
 

@@ -48,7 +48,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Integrator</span>
-                            <p>Start: April 2017, Standorte: Grabs, Chur, Rapperswil</p>
+                            <p>Start: 28. April 2018, Standorte: Grabs, Chur, Rapperswil</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator/">weiter zur Auswahl des Standorts ></a>
@@ -59,7 +59,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-developer/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Developer</span>
-                            <p>Start: Herbst 2017, Standorte: Grabs, Rapperswil</p>
+                            <p>Start: 9. November 2018, Standorte: Grabs, Rapperswil</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/anmeldung/web-developer/">weiter zur Auswahl des Standorts ></a>
@@ -70,7 +70,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-designer-grabs/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Designer</span>
-                            <p>Start: Herbst 2017, Standort: Grabs</p>
+                            <p>Start: 9. November 2018, Standort: Grabs</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/anmeldung/web-designer-grabs/">Jetzt anmelden ></a>

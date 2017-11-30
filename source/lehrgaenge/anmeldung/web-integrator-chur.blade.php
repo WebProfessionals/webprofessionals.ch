@@ -50,13 +50,13 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <h2>Anmeldung zum Lehrgang Web Integrator in Chur GR</h2>
-            <p>Lehrgangsbeginn: Herbst 2017</p>
+            <p>Lehrgangsbeginn: 28. April 2018</p>
 
 
             <form action="/lehrgaenge/anmeldung/danke.php" method="POST" id="form-anmeldung">
                 @include('_partials.anmeldung-formular')
                 <input type="hidden" name="lehrgang" value="Web Integrator Chur GR" />
-                <input type="hidden" name="sku" value="INT_CHUR_17_18" />
+                <input type="hidden" name="sku" value="INT_CHUR_18_19" />
                 <input type="hidden" name="typ" value="Lehrgang" />
                 <input type="hidden" name="gebuehr" value="3100" />
             </form>

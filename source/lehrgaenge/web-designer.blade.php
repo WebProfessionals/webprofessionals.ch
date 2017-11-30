@@ -135,8 +135,8 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Beginn:</h2>
-                <p>3. November 2017</p>
-                <p>Die Eröffnungs-Keynote vom 3. November 2017 findet für alle Lehrgänge (Designer und Developer Grabs, Developer Rapperswil) in der Techfabrik Grabs statt.</p>
+                <p>9. November 2018</p>
+                <p>Die Eröffnungs-Keynote vom 9. November 2018 findet für alle Lehrgänge (Designer und Developer Grabs, Developer Rapperswil) in der Techfabrik Grabs statt.</p>
             </div>
 
 

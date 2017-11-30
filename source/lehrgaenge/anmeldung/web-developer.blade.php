@@ -53,7 +53,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-developer-grabs/'>
                         <div class="card-content white-text">
                             <span class="card-title">Grabs SG</span>
-                            <p>Start: Herbst 2017, Freitag 18:00 bis 21:15 Uhr, Samstag 09:00 bsi 12:00 Uhr</p>
+                            <p>Start: 9. November 2018, Freitag 18:00 bis 21:15 Uhr, Samstag 09:00 bsi 12:00 Uhr</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/anmeldung/web-developer-grabs/">Standort wählen ></a>
@@ -64,7 +64,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-developer-rapperswil/'>
                         <div class="card-content white-text">
                             <span class="card-title">Rapperswil SG</span>
-                            <p>Start: Herbst 2017, Dienstag und Donnerstag Abend 18:00 bis 21:15 Uhr</p>
+                            <p>Start: 9. November 2018, Dienstag und Donnerstag Abend 18:00 bis 21:15 Uhr</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/anmeldung/web-developer-rapperswil/">Standort wählen ></a>
