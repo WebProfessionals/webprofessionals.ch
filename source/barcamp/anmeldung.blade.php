@@ -140,7 +140,7 @@
                     <div class="row">
                         <div class="input-field col s12">
                             <input type="hidden" name="_next" value="https://web-professionals.ch/barcamp/anmeldung-danke/" />
-                            <input type="hidden" name="_subject" value="Anmeldung Barcamp" />
+                            <input type="hidden" name="_subject" value="Anmeldung Hackathon #2" />
                             <input type="submit" class="waves-effect waves-light btn" id="sendenKontakt" value="verbindlich anmelden">
                         </div>
                     </div>
