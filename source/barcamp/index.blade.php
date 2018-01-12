@@ -6,8 +6,8 @@
     <title>Barcamp | Web Professionals</title>
     <meta property="og:url" content="https://web-professionals.ch/barcamp/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="#6 Web Professionals Barcamp" />
-    <meta property="og:description" content="6. Barcamp der Web Professionals. Thema: 'API'. Datum: 28./29. Oktober 2017. Location: Techfabrik Grabs SG" />
+    <meta property="og:title" content="#2 webPro + friends Hackathon" />
+    <meta property="og:description" content="#2 webPro + friends Hackathon. Thema: 'Hack for good'. Datum: 17./18. März 2018. Location: Techfabrik Grabs SG" />
     <meta property="og:image" content="https://web-professionals.ch/images/og/camp6-preview.jpg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
