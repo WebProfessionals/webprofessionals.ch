@@ -64,7 +64,7 @@
 
         </div>
         <div class="col l7 m6 webpro-right">
-            <p>Das <strong>webPro + friends Barcamp</strong> findet halbjährlich statt und wurde schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
+            <p>Die <strong>webPro + friends Camps</strong> finden halbjährlich statt und wurden schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
                 Mittlerweile reisen die Teilnehmer nicht nur aus allen Ecken der Schweiz, sondern sogar extra aus London an um an einem unserer Camps teilnehmen zu können.</p>
 
             <p>Seit neustem alterniert das Barcamp in unergelmässiger Abfolge mit dem <strong>webPro + friends Hackathon</strong>. Diesen Frühling ist es wieder soweit und der #2 Hackathon findet in der Techfabrik Grabs statt.</p>
@@ -72,7 +72,6 @@
             <p><strong>Was ist ein Barcamp?</strong> Eine Un-Konferenz, bei welcher das Thema vorgegeben ist, nicht jedoch die Inhalte der einzelnen Sessions. Diese werden ad-hoc durch die Teilnehmer selber festgelegt, geplant und durchgeführt.</p>
 
             <p><strong>Was ist ein Hackathon?</strong> Eigentlich ziemlich ähnlich wie ein Barcamp - nur ohne (oder höchstens einzelnen) Sessions, dafür Hands-on Programmierung. Das Thema ist grob vorgegeben, welche Applikation die Teilnehmer an diesem Wochenende entwickeln wollen ist ihnen freigestellt.</p>
-
             <br>
             <h2 class="webpro">#2 webPro + friends Hackathon</h2>
             <p></p>
