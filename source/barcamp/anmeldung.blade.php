@@ -54,13 +54,25 @@
 
             <form class="col s12" action="https://formspree.io/info@web-professionals.ch" method="POST">
                     <div class="row">
-                        <div class="col s12">Ich möchte mich für das #6 Web Professionals Barcamp vom 28. und 29. Oktober anmelden.</div>
+                        <div class="col s12">Ich möchte mich für den 2. Hackathon vom 17. und 18. März 2018 anmelden.</div>
                     </div>
 
                     <div class="row">
                         <div class="col s12">
                             <input type="checkbox" id="hotel" name="hotel" />
                             <label for="hotel">Bitte nehmt mit mir Kontakt auf betreffend einer Hotelzimmer-Reservation.</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col s12">
+                            <input type="checkbox" id="camper" name="camper" />
+                            <label for="camper">Ich werde in der Techfabrik campieren.</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col s12">
+                            <input type="checkbox" id="samstag" name="samstag" />
+                            <label for="samstag">Ich kann nur am Samstag teilnehmen.</label>
                         </div>
                     </div>
                     <div class="row">

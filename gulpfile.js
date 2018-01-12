@@ -16,7 +16,7 @@ elixir.config.publicPath = 'source';
 
 elixir(function(mix) {
   var env = argv.e || argv.env || 'local';
-  var port = argv.p || argv.port || 8001;
+  var port = argv.p || argv.port || 8080;
 
   mix
     .sass([
