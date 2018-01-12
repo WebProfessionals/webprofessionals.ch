@@ -76,7 +76,7 @@
             <h2 class="webpro">#2 webPro + friends Hackathon</h2>
             <p></p>
             <p>Der zweite webPro + friends Hackathon findet am <strong>17. und 18. März 2018</strong> in der <strong>Techfabrik Grabs</strong> statt. Thema: <strong>"Hack for Good"</strong>.</p>
-            <p>"Making the world a better place" (Hooli) ist zwar ein pointinierter Leitspruch aus der HBO Serie <a href="https://www.hbo.com/silicon-valley">Silicon Valley</a>, trifft aber dennoch den Grundgedanken der Internet-Community - resp. derjenigen welche den Urgedanken der Internet-Begründer wie Jon Postel, Tim Berners-Lee etc. weitertragen. Auch Web Professionals mögen den Gedanken des Miteinanders, des Austauschs und wollen am 2. Hackathon Applikationen entwickeln, welche den Alltag und unsere Umgebung ein wenig schöner und besser machen können.</p>
+            <p>"Making the world a better place" (Hooli) ist zwar ein pointierter Leitspruch aus der HBO Serie <a href="https://www.hbo.com/silicon-valley">Silicon Valley</a>, trifft aber dennoch den Grundgedanken der Internet-Community - resp. derjenigen welche den Urgedanken der Internet-Begründer wie Jon Postel, Tim Berners-Lee etc. weitertragen. Auch Web Professionals mögen den Gedanken des Miteinanders, des Austauschs und wollen am 2. Hackathon Applikationen entwickeln, welche den Alltag und unsere Umgebung ein wenig schöner und besser machen können.</p>
 
             <ul>
                 <li><strong>Start:</strong> 17. März 2018, 09:00 Uhr</li>
