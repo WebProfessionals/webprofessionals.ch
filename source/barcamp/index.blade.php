@@ -8,7 +8,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="#2 webPro + friends Hackathon" />
     <meta property="og:description" content="#2 webPro + friends Hackathon. Thema: 'Hack for good'. Datum: 17./18. März 2018. Location: Techfabrik Grabs SG" />
-    <meta property="og:image" content="https://web-professionals.ch/images/og/camp6-preview.jpg" />
+    <meta property="og:image" content="https://web-professionals.ch/images/og/hackathon2-preview.jpg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
 @endsection
@@ -57,7 +57,6 @@
                 <a href="/barcamp/sponsoring/">Sponsoring</a><br>
             </nav>
             <br>
-
 
             <span class="show-on-medium-and-up">
                 <br><br><img class="responsive-img" src="/images/barcamp/logo-hackathon-2.png">
