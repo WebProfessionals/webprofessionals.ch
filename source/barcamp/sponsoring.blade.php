@@ -140,7 +140,7 @@
                 <li>Möglichkeit zur Platzierung von einem Rollout Display am Anlass</li>
                 <li>kostenlose Teilnahme von 1 Person am Camp</li>
             </ul>
-            <p><strong>Beitrag:</strong> CHF 400</p>
+            <p><strong>Beitrag:</strong> CHF 500</p>
             <br>
             <h2 class="webpro">Getränke-Sponsor</h2>
             <p><strong>Leistungen:</strong></p>
