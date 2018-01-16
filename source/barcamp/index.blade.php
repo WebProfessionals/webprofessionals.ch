@@ -105,49 +105,57 @@
 
             Zur Durchführung unserer Barcamps und Hackathons benötigt es nebst sehr viel Freiwilligen-Einsatz unserer Web Professionals and Friends natürlich auch finanzielle Unterstützung durch Sponsoren. Wir würden uns sehr freuen, wenn ihr den diesjährigen Hackathon <a href="/barcamp/sponsoring/">mit einem Sponsoring-Beitrag unterstützen würdet.</a>
 
-            <!--
-            <p>Herzlichen Dank unseren <strong>Sponsoren</strong>, welche die Durchführung unseres Barcamps unterstützen:</p>
 
-            <div class="row">
-                <div class="col s12"><p class="sponsoren-titel">Hauptsponsoren:</p></div>
-                <div class="col s12 m6 l5">
-                    <a href="http://www.viaduct.ch/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/viaduct.png"></a>
-                </div>
-                <div class="col s12 hide-on-med-and-up"><br></div>
-                <div class="col s12 m5 l4 offset-m1 offset-l1">
-                    <a href="http://www.liip.ch" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/liip.png"></a>
-                </div>
-            </div>
+            <p>Herzlichen Dank unseren <strong>Sponsoren</strong>, welche die Durchführung unseres Barcamps unterstützen:</p>
 
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">Essens-Sponsor:</p></div>
                 <div class="col s8 m6 l5 end">
-                    <a href="https://www.hsr.ch/Weiterbildung-an-der-HSR.2369.0.html" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/hsr.png"></a>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col s12"><p class="sponsoren-titel">Getränke-Sponsoren:</p></div>
-                <div class="col s6 m6 l4">
-                    <a href="http://www.multidigital.ch" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/multidigital.png"></a>
-                </div>
-                <div class="col s6 m6 l4 offset-l2">
                     <a href="http://www.ibw.ch" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/ibw_sponsoring.gif"></a>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col s12"><p class="sponsoren-titel">Kaffee-Sponsor:</p></div>
-                <div class="col s6 m6 l4">
-                    <a href="https://tomschaepper.net/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/tomschaepper.png"></a>
-                </div>
-            </div>
+            <!--
+                        <div class="row">
+                            <div class="col s12"><p class="sponsoren-titel">Hauptsponsoren:</p></div>
+                            <div class="col s12 m6 l5">
+                                <a href="http://www.viaduct.ch/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/viaduct.png"></a>
+                            </div>
+                            <div class="col s12 hide-on-med-and-up"><br></div>
+                            <div class="col s12 m5 l4 offset-m1 offset-l1">
+                                <a href="http://www.liip.ch" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/liip.png"></a>
+                            </div>
+                        </div>
 
-            <br>
-            <p>Willst auch du unser <a href="/barcamp/sponsoring/">Barcamp und damit eine gute Sache unterstützen? Wir freuen uns auf deine Kontaktaufnahme!</a></p>
-            <br><br>
+                        <div class="row">
+                            <div class="col s12"><p class="sponsoren-titel">Essens-Sponsor:</p></div>
+                            <div class="col s8 m6 l5 end">
+                                <a href="https://www.hsr.ch/Weiterbildung-an-der-HSR.2369.0.html" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/hsr.png"></a>
+                            </div>
+                        </div>
 
-            -->
+                        <div class="row">
+                            <div class="col s12"><p class="sponsoren-titel">Getränke-Sponsoren:</p></div>
+                            <div class="col s6 m6 l4">
+                                <a href="http://www.multidigital.ch" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/multidigital.png"></a>
+                            </div>
+                            <div class="col s6 m6 l4 offset-l2">
+                                <a href="http://www.ibw.ch" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/ibw_sponsoring.gif"></a>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col s12"><p class="sponsoren-titel">Kaffee-Sponsor:</p></div>
+                            <div class="col s6 m6 l4">
+                                <a href="https://tomschaepper.net/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/tomschaepper.png"></a>
+                            </div>
+                        </div>
+
+                        <br>
+                        <p>Willst auch du unser <a href="/barcamp/sponsoring/">Barcamp und damit eine gute Sache unterstützen? Wir freuen uns auf deine Kontaktaufnahme!</a></p>
+                        <br><br>
+
+                        -->
 
         </div>
     </div>
