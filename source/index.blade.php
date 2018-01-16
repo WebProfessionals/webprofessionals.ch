@@ -41,6 +41,11 @@
                 'part1'    =>  ' Willkommen bei den',
                 'part2'    =>  ' Web Professionals'
             ])
+            <!--
+            <nav class="webpro-nav-lvl2 hide-on-small-only">
+                <a href="/barcamp/">#2 Hackathon 2018</a><br>
+            </nav>
+            -->
         </div>
         <div class="col l7 m6 s12 webpro-right">
             <p>Die <strong><a href="/lehrgaenge/">Ausbildung für angehende Web Profis</a></strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt. Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong>, der <strong>Techfabrik Grabs</strong> sowie der <strong>Hochschule für Technik Rapperswil</strong>.</p>
@@ -48,6 +53,7 @@
             <p>
                 Nächster Lehrgangsstart: <strong>28. April 2018</strong> - bist du mit dabei? Wir freuen uns auf dich!
             </p>
+            <p>Aktuell: am 17. und 18. März 2018 findet in der Techfabrik der 2. Web Professionals Hackathon statt.</p>
         </div>
     </div>
     <div class="row webpro-partner">
@@ -66,8 +72,29 @@
         </div>
     </div>
     <div class="row aktuelles">
+
         <!-- Card Start -->
         <div class="col l7 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/barcamp/'>
+                <div class="card-image">
+                    <div class="video-container">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/gtB9BNsH3qE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">#2 WebPro + friends Hackathon 2018</span>
+                    <p>Thema: "Hack for Good". Ein ganzes Wochenende coden mit den Web Professionals - Anmeldungen per sofort möglich, Teilnehmerzahl beschränkt</p>
+                    <p>17./18. März 2018 @ Techfabrik Grabs</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/barcamp/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l5 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-08-16-webpro-and-friends-vue-js/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2017-08-webpro-and-friends-vue-js-florian-gaechter.jpg" alt="Web Professionals and Friends: Vue.js (Florian Gächter)" title="Web Professionals and Friends: Vue.js (Florian Gächter)">
@@ -85,7 +112,7 @@
         <!-- Card End -->
 
         <!-- Card Start -->
-        <div class="col l5 m6">
+        <div class="col l6 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-03-15-barcamp-css-is-awesome/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2017-css-awesome-camp5-02.jpg" alt="#5 Web Professionals Barcamp: CSS is awesome!" title="#5 Web Professionals Barcamp: CSS is awesome!">
