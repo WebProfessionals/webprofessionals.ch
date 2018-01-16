@@ -115,6 +115,13 @@
                 </div>
             </div>
 
+            <div class="row">
+                <div class="col s12"><p class="sponsoren-titel">Kaffee-Sponsor:</p></div>
+                <div class="col s6 m6 l4">
+                    <a href="https://tomschaepper.net/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/tomschaepper.png"></a>
+                </div>
+            </div>
+
             <!--
                         <div class="row">
                             <div class="col s12"><p class="sponsoren-titel">Hauptsponsoren:</p></div>
