@@ -43,6 +43,44 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/barcamp/'>
+                <div class="card-image">
+                    <div class="video-container">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/gtB9BNsH3qE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">#2 WebPro + friends Hackathon 2018</span>
+                    <p>"Hack for Good": ein ganzes Wochenende coden + fun mit den Web Professionals! Anmeldungen per sofort möglich, Teilnehmerzahl beschränkt.</p>
+                    <p>17./18. März 2018 @ Techfabrik Grabs</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/barcamp/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l4 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-08-16-webpro-and-friends-vue-js/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/2017-08-webpro-and-friends-vue-js-florian-gaechter.jpg" alt="Web Professionals and Friends: Vue.js (Florian Gächter)" title="Web Professionals and Friends: Vue.js (Florian Gächter)">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Web Professionals and Friends</span>
+                    <p>Kurz-Vorstellung Vue.js durch Florian Gächter (Frontify)</p>
+                    <p>16.08.2017</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2017-08-16-webpro-and-friends-vue-js/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l4 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-03-15-barcamp-css-is-awesome/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2017-css-awesome-camp5-02.jpg" alt="#5 Web Professionals Barcamp: CSS is awesome!" title="#5 Web Professionals Barcamp: CSS is awesome!">
