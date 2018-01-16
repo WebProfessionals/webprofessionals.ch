@@ -83,7 +83,7 @@
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">#2 WebPro + friends Hackathon 2018</span>
-                    <p>Thema: "Hack for Good". Ein ganzes Wochenende coden mit den Web Professionals - Anmeldungen per sofort möglich, Teilnehmerzahl beschränkt</p>
+                    <p>"Hack for Good": ein ganzes Wochenende coden + fun mit den Web Professionals! Anmeldungen per sofort möglich, Teilnehmerzahl beschränkt.</p>
                     <p>17./18. März 2018 @ Techfabrik Grabs</p>
                 </div>
                 <div class="card-action">

@@ -103,7 +103,7 @@
 
             <h2 class="webpro">Sponsoren</h2>
 
-            Zur Durchführung unserer Barcamps und Hackathons benötigt es nebst sehr viel Freiwilligen-Einsatz unserer Web Professionals and Friends natürlich auch finanzielle Unterstützung durch Sponsoren. Wir würden uns sehr freuen, wenn ihr den diesjährigen Hackathon <a href="/barcamp/sponsoring/">mit einem Sponsoring-Beitrag unterstützen würdet!</a>
+            Zur Durchführung unserer Barcamps und Hackathons benötigt es nebst sehr viel Freiwilligen-Einsatz unserer Web Professionals and Friends natürlich auch finanzielle Unterstützung durch Sponsoren. Wir würden uns sehr freuen, wenn ihr den diesjährigen Hackathon <a href="/barcamp/sponsoring/">mit einem Sponsoring-Beitrag unterstützen würdet.</a>
 
             <!--
             <p>Herzlichen Dank unseren <strong>Sponsoren</strong>, welche die Durchführung unseres Barcamps unterstützen:</p>
