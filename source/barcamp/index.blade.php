@@ -62,8 +62,10 @@
                 <br><br><img class="responsive-img" src="/images/barcamp/logo-hackathon-2.png">
             </span>
 
+
         </div>
         <div class="col l7 m6 webpro-right">
+
             <p>Die <strong>webPro + friends Camps</strong> finden halbjährlich statt und wurden schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
                 Mittlerweile reisen die Teilnehmer nicht nur aus allen Ecken der Schweiz, sondern sogar extra aus London an um an einem unserer Camps teilnehmen zu können.</p>
 
@@ -90,6 +92,12 @@
             <section id="anmeldung" class="section scrollspy">
                 <a class="waves-effect waves-light btn webpro-red" href="/barcamp/anmeldung/">Jetzt anmelden</a>
             </section>
+
+            <br>
+
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/gtB9BNsH3qE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
 
             <br><br>
 
