@@ -123,17 +123,19 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <p>Damit wir diesen Anlass durchführen können sind wir auf Unterstützung durch Sponsoring angewiesen. Wir würden uns sehr freuen, wenn Ihr Unternehmen das Camp unterstützen würde und danken Ihnen für Ihre Kontaktaufnahme sowie Ihr Engagement für ein zukunftsweisendes Ausbildungsangebot in der Region Ostschweiz.</p>
-            <h2 class="webpro">Haupt-Sponsor</h2>
+            <p><a href="/files/hackathon2_sponsoring.pdf" target="_blank">Sponsoring PDF</a></p>
+            <h2 class="webpro">"Heart for Good"</h2>
             <p><strong>Leistungen:</strong></p>
             <ul class="webpro-list">
                 <li>Prominente Platzierung des Logos auf der Webseite, den Drucksachen sowie am Anlass selbst</li>
-                <li>Erwähnung in öffentlichen Meldungen (Twitter, Facebook, Pressemeldungen), besondere Erwähnung am Anlass</li>
+                <li>Erwähnung in öffentlichen Meldungen (Twitter, Facebook, Pressemeldungen)</li>
+                <li>Logo auf den Welcome Slides, Erwähnung am Anlass, Logo oder Video in Animation auf Screens während dem gesamten Anlass, namentliche Verdankung vor den Teilnehmern bei Eröffnung</li>
                 <li>Möglichkeit zur Platzierung von bis zu zwei Rollout Display sowie weiterem Werbematerial am Anlass</li>
                 <li>kostenlose Teilnahme von 2 Personen am Camp</li>
             </ul>
             <p><strong>Beitrag:</strong> CHF 1'000</p>
             <br>
-            <h2 class="webpro">Essens-Sponsor</h2>
+            <h2 class="webpro">"Food for Good"</h2>
             <p><strong>Leistungen:</strong></p>
             <ul class="webpro-list">
                 <li>Platzierung des Logos auf der Webseite, den Drucksachen sowie am Anlass selbst</li>
@@ -142,13 +144,13 @@
             </ul>
             <p><strong>Beitrag:</strong> CHF 500</p>
             <br>
-            <h2 class="webpro">Getränke-Sponsor</h2>
+            <h2 class="webpro">"Drink for Good"</h2>
             <p><strong>Leistungen:</strong></p>
             <ul class="webpro-list">
                 <li>Platzierung des Logos auf der Webseite, den Drucksachen sowie am Anlass selbst</li>
             </ul>
             <p><strong>Beitrag:</strong> CHF 300</p>            <br>
-            <h2 class="webpro">Kaffee-Sponsor</h2>
+            <h2 class="webpro">"Coffee for Good"</h2>
             <p><strong>Leistungen:</strong></p>
             <ul class="webpro-list">
                 <li>Erwähnung auf der Webseite sowie am Anlass selbst</li>
