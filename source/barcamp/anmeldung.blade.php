@@ -54,13 +54,13 @@
 
             <form class="col s12" action="https://formspree.io/info@web-professionals.ch" method="POST">
                     <div class="row">
-                        <div class="col s12">Ich möchte mich für den 2. Hackathon vom 17. und 18. März 2018 anmelden.</div>
+                        <div class="col s12"><strong>Ja, ich lasse mir den 2. Hackathon vom 17. und 18. März 2018 natürlich nicht entgehen und melde mich hiermit an.</strong></div>
                     </div>
 
                     <div class="row">
                         <div class="col s12">
                             <input type="checkbox" id="hotel" name="hotel" />
-                            <label for="hotel">Bitte nehmt mit mir Kontakt auf betreffend einer Hotelzimmer-Reservation.</label>
+                            <label for="hotel">Ich habe die Liste der Hotels gesehen. Bitte helft mir dennoch beim Buchen eines Zimmers.</label>
                         </div>
                     </div>
                     <div class="row">
@@ -75,6 +75,29 @@
                             <label for="samstag">Ich kann nur am Samstag teilnehmen.</label>
                         </div>
                     </div>
+
+                    <div class="row">
+                        <div class="col s12">
+                            <input type="checkbox" id="tshirt" name="tshirt" />
+                            <label for="tshirt">Ich möchte eines der exklusiven Hackathon T-Shirts bestellen (CHF 28/Stück).</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col s12">
+                            <label for="tshirtsize">Grösse</label>
+                            <select id="tshirtsize" name="tshirtsize">
+                                <option value="keines">kein T-Shirt</option>
+                                <option value="XS">XS</option>
+                                <option value="S">S</option>
+                                <option value="M">M</option>
+                                <option value="L">L</option>
+                                <option value="XL">XL</option>
+                                <option value="XXL">XXL</option>
+                            </select>
+                            <label for="hotel">Grösse</label>
+                        </div>
+                    </div>
+
                     <div class="row">
                         <div class="input-field col s6">
                             <input name="vorname" id="vorname" type="text" class="validate" required>

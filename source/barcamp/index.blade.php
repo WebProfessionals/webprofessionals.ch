@@ -89,6 +89,13 @@
                 <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer in einem naheliegenden Hotel - bitte bei der Anmeldung bekannt geben. Es besteht auch die Möglichkeit, in der Techfabrik zu übernachten.</li>
             </ul>
 
+            <p>Hinweis: das Hotel Taucher, welches uns immer mit einem Preisnachlass unterstützt, ist an dem Wochenende leider bereits ausgebucht. Hier eine Liste von Hotels in der Nähe:</p>
+            <ul>
+                <li>Hotel Buchserhof, Buchs <a href="https://www.buchserhof.ch" target="_blank">www.buchserhof.ch</a></li>
+                <li>Hotel City, Buchs <a href="https://www.hotelcitybuchs.ch" target="_blank">www.hotelcitybuchs.ch</a></li>
+                <li>Hotel Landgasthof Werdenberg, <a href="https://www.landgasthofwerdenberg.ch" target="_blank">www.landgasthofwerdenberg.ch</a></li>
+            </ul>
+
             <section id="anmeldung" class="section scrollspy">
                 <a class="waves-effect waves-light btn webpro-red" href="/barcamp/anmeldung/">Jetzt anmelden</a>
             </section>
