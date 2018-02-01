@@ -60,7 +60,7 @@
         <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
                 <p class="headline">Die Grundlagen der Erstellung eines eigenen Wordpress Themes kennst du bereits und möchtest dich nun noch mehr mit Custom Post Types und Custom Fields befassen? Dann bist du bei diesem Kurs genau richtig.</p>
-                <p>Im Rahmen dieses Intensiv-Kurses lernen wir die Erstellung von sowie den Umgang mit Custom Post Types und Custom Fields. Mittels dieser Techniken sind wir in der Lage, Wordpress resp. seine Inhaltsobjekte und Felder nach unseren eigenen Wünschen zu erweitern.</p>
+                <p>Im Rahmen dieses Intensiv-Kurses erlernst du die Erstellung von Custom Post Types und Custom Fields sowie deren Einsatz im eigenen Tehme. Mittels dieser Techniken bist du in der Lage, Wordpress resp. seine Inhaltsobjekte und Felder nach eigenen Wünschen zu erweitern.</p>
             </div>
 
             <div id="inhalte" class="section scrollspy">

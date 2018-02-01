@@ -53,7 +53,7 @@
             <p>
                 Nächster Lehrgangsstart: <strong>28. April 2018</strong> - bist du mit dabei? Wir freuen uns auf dich!
             </p>
-            <p>Aktuell: am 17. und 18. März 2018 findet in der Techfabrik der 2. Web Professionals Hackathon statt.</p>
+            <p><strong>Aktuell: am 17. und 18. März 2018 findet in der Techfabrik der <a href="/barcamp/">2. Web Professionals Hackathon</a> statt.</strong></p>
         </div>
     </div>
     <div class="row webpro-partner">
