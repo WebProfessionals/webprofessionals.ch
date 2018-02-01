@@ -40,17 +40,13 @@
                 'part2'    =>  'Kurse'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
-                <a href="/kurse/einfuehrung-in-angularjs/">Einführung in AngularJS</a><br>
-                <a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>
-                <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
-                <a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>
-                <a href="/kurse/anmeldung/">Anmeldung</a>
+                <a href="/kurse/wordpress-themes-custom-post-types-custom-fields/">WordPress Custom Post Types und Fields</a><br>
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
             <p>
-                <strong>Herzlichen Dank für deine Anmeldung zum Web Professionals Barcamp!</strong><br>
-                Du erhälst von unserer Seite keine weitere Anmeldebestätigung mehr zugesendet, vor dem Camp senden wir dir jedoch noch Infos zum genauen Programm. Wir freuen uns, dich an unserem Barcamp begrüssen zu dürfen!
+                <strong>Herzlichen Dank für deine Anmeldung zum Web Professionals Hackathon!</strong><br>
+                Du erhältst von unserer Seite keine weitere Anmeldebestätigung mehr zugesendet, vor dem Hackathon senden wir dir jedoch noch Infos zum genauen Programm. Wir freuen uns, dich an unserem Hackathon begrüssen zu dürfen!
             </p>
         </div>
     </div>

@@ -40,9 +40,10 @@
                 'part2'    =>  'Kurse'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
-                <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
+                <!--<a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>-->
+                <a href="/kurse/wordpress-themes-custom-post-types-custom-fields/">WordPress Custom Post Types und Fields</a><br>
                 <!--<a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>-->
-                <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
+                <!-- <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br> -->
                 <!--<a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>-->
                 <!--<a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>-->
                 <a href="/kurse/anmeldung/">Anmeldung</a>
@@ -64,8 +65,18 @@
                 <tbody>
 
                 <tr>
-                    <td><a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a></td>
-                    <td>08.11.17</td>
+                    <td><a href="/kurse/wordpress-themes-custom-post-types-custom-fields/">WordPress Custom Post Types und Fields</a></td>
+                    <td>07.03.2018</td>
+                    <td>Grabs</td>
+                </tr>
+                <tr>
+                    <td>Hands on workshop Polymer</td>
+                    <td>in Planung 2018</td>
+                    <td>Grabs</td>
+                </tr>
+                <tr>
+                    <td>Hands on workshop Vue.JS</td>
+                    <td>in Planung 2018</td>
                     <td>Grabs</td>
                 </tr>
 <!--
@@ -74,13 +85,9 @@
                     <td>Datum folgt</td>
                     <td>Grabs</td>
                 </tr>
--->
-                <tr>
-                    <td><a href="/kurse/hands-on-workshop-polymer-project/">Hands on workshop Polymer</a></td>
-                    <td>08.11.17</td>
-                    <td>Grabs</td>
-                </tr>
-<!--
+
+
+
                 <tr>
                     <td><a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a></td>
                     <td>Datum folgt</td>
