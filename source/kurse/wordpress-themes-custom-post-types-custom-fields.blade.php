@@ -44,7 +44,7 @@
                     <!--<a class="webpro-subnav-active" href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>-->
                     <a class="webpro-subnav-active" href="/kurse/wordpress-themes-custom-post-types-custom-fields/">WordPress Custom Post Types und Fields</a><br>
                     <!--<a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>-->
-                    <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
+                    <!--<a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>-->
                     <!--<a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>-->
                     <!--<a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br><br>-->
                     <a href="/kurse/anmeldung/">Anmeldung</a>
@@ -60,7 +60,7 @@
         <div class="col l7 m6 webpro-right">
             <div id="beschreibung" class="section scrollspy">
                 <p class="headline">Die Grundlagen der Erstellung eines eigenen Wordpress Themes kennst du bereits und möchtest dich nun noch mehr mit Custom Post Types und Custom Fields befassen? Dann bist du bei diesem Kurs genau richtig.</p>
-                <p>Im Rahmen dieses Intensiv-Kurses erlernst du die Erstellung von Custom Post Types und Custom Fields sowie deren Einsatz im eigenen Tehme. Mittels dieser Techniken bist du in der Lage, Wordpress resp. seine Inhaltsobjekte und Felder nach eigenen Wünschen zu erweitern.</p>
+                <p>Im Rahmen dieses Intensiv-Kurses erlernst du die Erstellung von Custom Post Types und Custom Fields sowie deren Einsatz im eigenen Theme. Mittels dieser Techniken bist du in der Lage, Wordpress resp. seine Inhaltsobjekte und Felder nach eigenen Wünschen zu erweitern.</p>
             </div>
 
             <div id="inhalte" class="section scrollspy">
