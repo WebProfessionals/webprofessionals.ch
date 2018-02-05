@@ -101,7 +101,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Lektionen, Daten:</h2>
-                <p>6 Kursabende à 4 Lektionen (Total 24 Lektionen). Jeweils Mittwochs von 18.15 Uhr bis 21.30 Uhr. Kursdaten: 07.03.2018 - 28.03.2018</p>
+                <p>4 Kursabende à 4 Lektionen (Total 16 Lektionen). Jeweils Mittwochs von 18.15 Uhr bis 21.30 Uhr. Kursdaten: 07.03.2018 - 28.03.2018</p>
             </div>
 
             <div id="kosten" class="section scrollspy">
