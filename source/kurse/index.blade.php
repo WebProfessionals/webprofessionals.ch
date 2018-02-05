@@ -79,6 +79,11 @@
                     <td>in Planung 2018</td>
                     <td>Grabs</td>
                 </tr>
+                <tr>
+                    <td>Umsteigen auf ES6 (ECMAScript 2015)</td>
+                    <td>in Planung 2018</td>
+                    <td>Grabs</td>
+                </tr>
 <!--
                 <tr>
                     <td><a href="/kurse/auffrischungskurs-html-css/">Auffrischungskurs HTML5/CSS3</a></td>
