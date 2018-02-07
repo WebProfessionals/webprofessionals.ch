@@ -50,6 +50,7 @@
                         <li><a href="#klassen">Klassen / Durchführungsorte</a></li>
                         <li><a href="#kosten">Kosten / Zahlungsfristen</a></li>
                         <li><a href="#termine">Termine</a></li>
+                        <li><a href="#infoanlaesse">Informationsanlässe</a></li>
                         <li><a href="#anmeldung">Anmeldung</a></li>
                     </ul>
                     <a href="/lehrgaenge/web-designer/">Web Designer</a><br><br>
@@ -139,16 +140,18 @@
                 <h2>Beginn:</h2>
                 <p>9. November 2018</p>
                 <p>Die Eröffnungs-Keynote vom 9. November 2018 findet für alle Lehrgänge (Designer und Developer Grabs, Developer Rapperswil) in der Techfabrik Grabs statt.</p>
+            </div>
 
-                <h2>Informationsanlässe</h2>
-                <strong>Techfabrik (Mühlbachstrasse 11a, 9472 Grabs):</strong>
+            <section id="infoanlaesse" class="section scrollspy">
+                <h2>Informationsanlässe:</h2>
+                Techfabrik (Mühlbachstrasse 11a, 9472 Grabs):
                 <ul class="webpro-list">
                     <li>Samstag 17. Februar, 12:30 Uhr</li>
                     <li>Freitag 09. März, 19:00 Uhr</li>
                     <li>Donnerstag 05. April, 19:00 Uhr</li>
                 </ul>
-                <strong>Daten in Rapperswil werden noch bekannt gegeben.</strong>
-            </div>
+                Daten in Rapperswil werden noch bekannt gegeben.
+            </section>
 
             <div id="anmeldung" class="section scrollspy">
                 <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/web-developer/">Jetzt anmelden</a>
