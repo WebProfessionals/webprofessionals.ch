@@ -162,6 +162,15 @@
                 <h2>Termin Diplomprüfung:</h2>
                 <p>Samstag 29. September 2018, 10.00 Uhr in Sargans (ibW Bahnhofpark)</p>
 
+                <h2>Informationsanlässe</h2>
+                <strong>Techfabrik (Mühlbachstrasse 11a, 9472 Grabs):</strong>
+                <ul class="webpro-list">
+                    <li>Samstag 17. Februar, 12:30 Uhr</li>
+                    <li>Freitag 09. März, 19:00 Uhr</li>
+                    <li>Donnerstag 05. April, 19:00 Uhr</li>
+                </ul>
+                <strong>Daten in Rapperswil werden noch bekannt gegeben.</strong>
+
             </section>
 
 
