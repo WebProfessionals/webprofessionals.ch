@@ -48,7 +48,8 @@
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
-            <p>Das Ausbildungsprogramm zum Web Professional ist modular aufgebaut und startet mit dem Basislehrgang zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a>. Dieser bildet die Grundlage für die beiden folgenden Diplomlehrgänge zum <a href="/lehrgaenge/web-designer/">Web Designer</a> und <a href="/lehrgaenge/web-developer/">Web Developer</a>. Danach hast du weitere Möglichkeiten, dich zu spezialisieren: Zum Beispiel zum Drupal oder WordPress-Entwickler, Frontend Profi, mobile Developer oder Projektleiter. Gelernt wird Hand in Hand: Eine Crew von Spezialisten bringt dir alles bei, was du in der Praxis auch wirklich brauchst – und steht dir mit Rat und Tat bei deinen Web-Projekten zur Seite.</p>
+            <p>Das Ausbildungsprogramm zum Web Professional ist modular aufgebaut und startet mit dem Basislehrgang zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a>. Dieser bildet die Grundlage für die beiden folgenden Diplomlehrgänge zum <a href="/lehrgaenge/web-designer/">Web Designer</a> und <a href="/lehrgaenge/web-developer/">Web Developer</a>.</p>
+            <p>Danach hast du weitere Möglichkeiten, dich zu spezialisieren: Zum Beispiel zum Frontend-Profi, Vue.JS / Polymer Developer oder WordPress-Theme-Entwickler. Gelernt wird Hand in Hand: Eine Crew von Spezialisten bringt dir alles bei, was du in der Praxis auch wirklich brauchst – und steht dir mit Rat und Tat bei deinen Web-Projekten zur Seite.</p>
 
 
             <div class="row hide-on-small-and-down">
@@ -130,6 +131,9 @@
             </div>
 
             <p>Die Ausbildung wird ergänzt durch die halbjährlich stattfindenden <a href="/barcamp/">Web Professionals Camps</a>, die <a href="/veranstaltungen/">Web Professionals and Friends</a> Treffen (alle zwei Monate) sowie <a href="/kurse/">regelmässige Kurse und Workshops</a>.</p>
+
+            <p><strong>Du willst noch mehr?</strong> Die besten unserer Absolventen erhalten die Empfehlung, den Studiengang <a href="https://www.hsr.ch/de/weiterbildung/technik-und-it/cas/cas-front-end-engineering/" target="_blank">"CAS Front End Engineering" an der Hochschule Rapperswil</a> zu besuchen um ihre Skills dort noch mehr verteifen zu können. Die Aufnahme erfolgt bei Empfehlung "sur Dossier" - d.h. für die Zulassung ist keine Berufsmatura erforderlich.</p>
+
         </div>
 
     </div>

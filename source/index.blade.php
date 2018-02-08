@@ -4,7 +4,7 @@
 {{-- Header --}}
 @section('header')
     <title>Web Professionals - Die Aus- und Weiterbildung für Web Profis</title>
-    <meta name="description" content="Die Ausbildung für Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt! Initiiert und getragen durch führende Internet-Agenturen.">
+    <meta name="description" content="Die Ausbildung für Web Profis ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt. Initiiert und getragen durch führende Schweizer Internet-Agenturen.">
     <meta property="og:image" content="https://web-professionals.ch/images/sharing/web-professionals.jpg" />
 @endsection
 
@@ -49,10 +49,23 @@
         </div>
         <div class="col l7 m6 s12 webpro-right">
             <p>Die <strong><a href="/lehrgaenge/">Ausbildung für angehende Web Profis</a></strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt. Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong>, der <strong>Techfabrik Grabs</strong> sowie der <strong>Hochschule für Technik Rapperswil</strong>.</p>
-            <p>Unsere Lehrgänge beginnen mit der Basis-Ausbildung zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a> und spezialisieren sich danach in den beiden Diplom-Lehrgängen zum <a href="/lehrgaenge/web-developer/">Web Developer</a> und <a href="/lehrgaenge/web-designer/">Web Designer</a>.</p>
+
+            <p>Die Lehrgänge beginnen mit der Basis-Ausbildung zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a> und spezialisieren sich danach in den beiden Diplom-Lehrgängen zum <a href="/lehrgaenge/web-developer/">Web Developer</a> und <a href="/lehrgaenge/web-designer/">Web Designer</a>. Begleitend dazu bieten wir verschiedene Spezialisierungs-Kurse an welche dich für deine Aufgabe als Web Developer oder Designer optimal vorbereiten.</p>
+            <p><strong><a href="/lehrgaenge/">> mehr Infos zu den Lehrgängen</a></strong></p>
+
+            <h2 class="webpro">Termine und Infoanlässe</h2>
             <p>
-                Nächster Lehrgangsstart: <strong>28. April 2018</strong> - bist du mit dabei? Wir freuen uns auf dich!
+                Nächster Lehrgangsstart Web Integrator: <strong>28. April 2018</strong>. Gerne stellen wir dir unsere Ausbildung an einem unserer <a href="/veranstaltungen/web-professionals/">Informationsanlässe in Grabs und Rapperswil</a> vor - bist du mit dabei? Wir freuen uns auf dich!
             </p>
+            <ul class="webpro-list">
+                <li>Samstag 17. Februar: Techfabrik Grabs, 12:30 Uhr</li>
+                <li>Donnerstag, 1. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>
+                <li>Freitag 9. März: Techfabrik Grabs, 19:00 Uhr</li>
+                <li>Dienstag, 20. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>
+                <li>Donnerstag 5. April: Techfabrik Grabs, 19:00 Uhr</li>
+            </ul>
+            <p>Dauer: ca 1h</p>
+            <br>
             <p><strong>Aktuell: am 17. und 18. März 2018 findet in der Techfabrik der <a href="/barcamp/">2. Web Professionals Hackathon</a> statt.</strong></p>
         </div>
     </div>

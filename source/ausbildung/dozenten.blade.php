@@ -45,7 +45,9 @@
             </nav>
         </div>
         <div class="col l7 m6 s12 webpro-right">
-            <p>Das zentrale Element einer praxisorientierten Ausbildung sind selbstverständlich die Dozenten. Aus diesem Grund unterrichten bei den Web Professionals nur Dozenten, welche selber mitten in der Praxis stehen und dir mit Rat und Tat bei deinen Web-Projekten zur Seite stehen können.</p>
+            <p>Das zentrale Element einer praxisorientierten Ausbildung sind selbstverständlich die Dozenten.
+                Um die aktuellsten Technologien in einem praxisorientierten Kontext vermitteln zu können benötigt es die besten Spezialisten aus der Agentur- und Internetwelt.
+                Unsere Dozenten sind Seniors aus etablierten Agenturen welche selber mitten in der Praxis stehen und dir mit Rat und Tat bei deinen Web-Projekten zur Seite stehen können.</p>
         </div>
 
     </div>
@@ -112,11 +114,11 @@
                 </div>
                 <div class="card-content">
                     <span class="card-title activator grey-text text-darken-4"><span itemprop="givenName">Florian</span> <span itemprop="familyName">Gächter</span><i class="material-icons right">more_vert</i></span>
-                    <p><span itemprop="jobTitle">Senior Frontend Developer, Namics AG</span><br><br><img src="/images/webpro-icon-14.gif"> JavaScript, Ajax/jQuery, Laravel</p>
+                    <p><span itemprop="jobTitle">Frontend Developer, Frontify</span><br><br><img src="/images/webpro-icon-14.gif"> JavaScript, Ajax/jQuery, Laravel</p>
                 </div>
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Florian Gächter<i class="material-icons right">close</i></span>
-                    <p>Florian Gächter ist Senior Frontend Developer bei der Namics AG. Nach einem angefangenen Biotechnologie-Studium ist er (Veith Zäch sei Dank) der Welt des Frontend Developments verfallen. Durch seine Leidenschaft für hübsche Frontends und Clean Code ist er für die Web Professionals Dozent erster Wahl für Programmier-Themen mit sichtbaren Resultaten.</p>
+                    <p>Florian Gächter ist >Frontend Developer bei Frontify. Nach einem angefangenen Biotechnologie-Studium ist er (Veith Zäch sei Dank) der Welt des Frontend Developments verfallen. Durch seine Leidenschaft für hübsche Frontends und Clean Code ist er für die Web Professionals Dozent erster Wahl für Programmier-Themen mit sichtbaren Resultaten.</p>
                 </div>
             </div>
 
