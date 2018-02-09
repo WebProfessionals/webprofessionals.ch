@@ -123,6 +123,69 @@
             </div>
 
         </div>
+
+        <div class="col l4 m6 s12">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
+                <div class="card-image">
+                    <img src="/images/dozenten/kilian_schefer.gif">
+                </div>
+                <div class="card-content">
+                    <span class="card-title"><span itemprop="givenName">Kilian</span> <span itemprop="familyName">Schefer</span></span>
+                    <p>
+                        <span itemprop="jobTitle">Software Developer, Liip AG</span><br><br>
+                        <img src="/images/webpro-icon-14.gif"> HTML/CSS, Javascript
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l4 m6 s12">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
+                <div class="card-image">
+                    <img src="/images/dozenten/pascal_helfenstein.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title"><span itemprop="givenName">Pascal</span> <span itemprop="familyName">Helfenstein</span></span>
+                    <p>
+                        <span itemprop="jobTitle">Software Engineer, Liip AG</span><br><br>
+                        <img src="/images/webpro-icon-14.gif"> Javascript, PHP
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col l4 m6 s12">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
+                <div class="card-image">
+                    <img src="/images/dozenten/stefan-baur.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title"><span itemprop="givenName">Stefan</span> <span itemprop="familyName">Baur</span></span>
+                    <p>
+                        <span itemprop="jobTitle">Senior Software Engineer, Namics AG</span><br><br>
+                        <img src="/images/webpro-icon-14.gif"> PHP
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l4 m6 s12">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
+                <div class="card-image">
+                    <img src="/images/dozenten/dummy.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title"><span itemprop="givenName">Marielle</span> <span itemprop="familyName">Beusch</span></span>
+                    <p>
+                        <span itemprop="jobTitle">Büro für Gebrauchsgraphik</span><br><br>
+                        <img src="/images/webpro-icon-14.gif"> Screen Design
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
         <div class="col l4 m6 s12">
 
             <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
@@ -158,6 +221,22 @@
         <div class="col l4 m6 s12">
             <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
+                    <img src="/images/testimonials/flueck.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title"><span itemprop="givenName">Michi</span> <span itemprop="familyName">Flück</span></span>
+                    <p>
+                        <span itemprop="jobTitle">Somedia Press AG</span><br><br>
+                        <img src="/images/webpro-icon-14.gif"> Drupal
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!--
+        <div class="col l4 m6 s12">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
+                <div class="card-image">
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
@@ -169,7 +248,8 @@
                 </div>
             </div>
         </div>
-
+-->
+        <!--
         <div class="col l4 m6 s12">
             <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
@@ -184,7 +264,21 @@
                 </div>
             </div>
         </div>
-
+-->
+        <div class="col l4 m6 s12">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
+                <div class="card-image">
+                    <img src="/images/dozenten/alexander-zyuzkevich.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title"><span itemprop="givenName">Alexander</span> <span itemprop="familyName">Zyuzkevich</span></span>
+                    <p>
+                        <span itemprop="jobTitle">Senior Interaction Designer, Swisscom</span><br><br>
+                        <img src="/images/webpro-icon-14.gif"> 	UX/UI, Konzepte
+                    </p>
+                </div>
+            </div>
+        </div>
 
         <div class="col l4 m6 s12">
 
@@ -222,21 +316,6 @@
         <div class="col l4 m6 s12">
             <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
-                    <img src="/images/dozenten/stefan-baur.jpg">
-                </div>
-                <div class="card-content">
-                    <span class="card-title"><span itemprop="givenName">Stefan</span> <span itemprop="familyName">Baur</span></span>
-                    <p>
-                        <span itemprop="jobTitle">Senior Software Engineer, Namics AG</span><br><br>
-                        <img src="/images/webpro-icon-14.gif"> PHP
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col l4 m6 s12">
-            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
-                <div class="card-image">
                     <img src="/images/dozenten/marc-illien.jpg">
                 </div>
                 <div class="card-content">
@@ -248,7 +327,7 @@
                 </div>
             </div>
         </div>
-
+<!--
         <div class="col l4 m6 s12">
             <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
@@ -263,7 +342,7 @@
                 </div>
             </div>
         </div>
-
+-->
         <div class="col l4 m6 s12">
             <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
@@ -274,21 +353,6 @@
                     <p>
                         <span itemprop="jobTitle">Screendesignerin Kernbrand AG</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> 	Tools, Ressourcen
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col l4 m6 s12">
-            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
-                <div class="card-image">
-                    <img src="/images/dozenten/alexander-zyuzkevich.jpg">
-                </div>
-                <div class="card-content">
-                    <span class="card-title"><span itemprop="givenName">Alexander</span> <span itemprop="familyName">Zyuzkevich</span></span>
-                    <p>
-                        <span itemprop="jobTitle">Senior Interaction Designer, Swisscom</span><br><br>
-                        <img src="/images/webpro-icon-14.gif"> 	UX/UI, Konzepte
                     </p>
                 </div>
             </div>

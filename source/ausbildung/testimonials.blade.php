@@ -65,10 +65,10 @@
                 <div class="card-reveal">
                     <span class="card-title grey-text text-darken-4">Hakan Arioglu<i class="material-icons right">close</i></span>
                     <p>
-                        <strong>bsiheriger Beruf:</strong> Mediamatiker EFZ
+                        <strong>bisheriger Beruf:</strong> Mediamatiker EFZ, Frontend Developer bei Inware AG
                     </p>
                     <p>
-                        <strong>aktueller Beruf:</strong> Frontend Developer bei Inware AG
+                        <strong>aktueller Beruf:</strong> Frontend Developer bei Namics AG
                     </p>
                     <p>
                         <strong>Was gefällt dir bei den Web Professionals besonders?</strong> Sehr gute Dozenten, jederzeit hilfsbereit, kollegialer Umgang, nicht nur für Einsteiger geeignet, sondern auch für eine Vertiefung im Webbereich.
