@@ -173,7 +173,7 @@
         <div class="col l4 m6 s12">
             <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                 <div class="card-image">
-                    <img src="/images/dozenten/dummy.jpg">
+                    <img src="/images/dozenten/marielle_beusch.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title"><span itemprop="givenName">Marielle</span> <span itemprop="familyName">Beusch</span></span>
