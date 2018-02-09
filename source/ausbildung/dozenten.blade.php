@@ -240,22 +240,6 @@
                     <img src="/images/dozenten/dummy.jpg">
                 </div>
                 <div class="card-content">
-                    <span class="card-title"><span itemprop="givenName">Reto</span> <span itemprop="familyName">Zahner</span></span>
-                    <p>
-                        <span itemprop="jobTitle">technologischer Leiter, somedia production</span><br><br>
-                        <img src="/images/webpro-icon-14.gif"> Datenbanken
-                    </p>
-                </div>
-            </div>
-        </div>
--->
-        <!--
-        <div class="col l4 m6 s12">
-            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
-                <div class="card-image">
-                    <img src="/images/dozenten/dummy.jpg">
-                </div>
-                <div class="card-content">
                     <span class="card-title"><span itemprop="givenName">Julian</span> <span itemprop="familyName">Schattner</span></span>
                     <p>
                         <span itemprop="jobTitle">Product Owner, DACHCOM.CH AG</span><br><br>
