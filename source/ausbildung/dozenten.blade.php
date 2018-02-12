@@ -226,7 +226,7 @@
                 <div class="card-content">
                     <span class="card-title"><span itemprop="givenName">Michi</span> <span itemprop="familyName">Flück</span></span>
                     <p>
-                        <span itemprop="jobTitle">Somedia Press AG</span><br><br>
+                        <span itemprop="jobTitle">Web Developer, Somedia Press AG</span><br><br>
                         <img src="/images/webpro-icon-14.gif"> Drupal
                     </p>
                 </div>
@@ -283,6 +283,21 @@
         </div>
 
         <div class="col l4 m6 s12">
+            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
+                <div class="card-image">
+                    <img src="/images/dozenten/johanna-gaechter.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title"><span itemprop="givenName">Johanna</span> <span itemprop="familyName">Gächter</span></span>
+                    <p>
+                        <span itemprop="jobTitle">Screendesignerin Kernbrand AG</span><br><br>
+                        <img src="/images/webpro-icon-14.gif"> 	Tools, Ressourcen
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col l4 m6 s12">
             <div class="card medium">
                 <div class="card-image" itemprop="employee" itemscope itemtype="http://schema.org/Person">
                     <img src="/images/dozenten/dummy.jpg">
@@ -327,20 +342,6 @@
             </div>
         </div>
 -->
-        <div class="col l4 m6 s12">
-            <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
-                <div class="card-image">
-                    <img src="/images/dozenten/johanna-gaechter.jpg">
-                </div>
-                <div class="card-content">
-                    <span class="card-title"><span itemprop="givenName">Johanna</span> <span itemprop="familyName">Gächter</span></span>
-                    <p>
-                        <span itemprop="jobTitle">Screendesignerin Kernbrand AG</span><br><br>
-                        <img src="/images/webpro-icon-14.gif"> 	Tools, Ressourcen
-                    </p>
-                </div>
-            </div>
-        </div>
 
         <div class="col l4 m6 s12">
             <div class="card medium" itemprop="employee" itemscope itemtype="http://schema.org/Person">
