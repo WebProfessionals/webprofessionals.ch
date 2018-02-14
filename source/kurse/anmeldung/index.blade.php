@@ -54,7 +54,7 @@
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Kurs auswählen</option>
-                            <option value="WordPress Custom Post Types und Fields, 07.03.2018 - 28.03.2018, Grabs SG">WordPress Custom Post Types und Fields, 07.03.2018 - 28.03.2018, Grabs SG</option>
+                            <option value="WordPress Custom Post Types und Fields, 07.03.2018 - 28.03.2018">WordPress Custom Post Types und Fields, 07.03.2018 - 28.03.2018</option>
                         </select>
                         <label>Ich möchte mich zu folgendem Kurs anmelden:</label>
                         <input type="checkbox" id="agb" name="agb" required />
