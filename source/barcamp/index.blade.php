@@ -110,19 +110,52 @@
 
             <h2 class="webpro">Sponsoren</h2>
 
-            Zur Durchführung unserer Barcamps und Hackathons benötigt es nebst sehr viel Freiwilligen-Einsatz unserer Web Professionals and Friends natürlich auch finanzielle Unterstützung durch Sponsoren. Wir würden uns sehr freuen, wenn ihr den diesjährigen Hackathon <a href="/barcamp/sponsoring/">mit einem Sponsoring-Beitrag unterstützen würdet!</a>
+            <p>Zur Durchführung unserer Barcamps und Hackathons benötigt es nebst sehr viel Freiwilligen-Einsatz der webPro + friends natürlich auch finanzielle Unterstützung durch Sponsoren.</p>
+            <!-- Wir würden uns sehr freuen, wenn ihr den diesjährigen Hackathon <a href="/barcamp/sponsoring/">mit einem Sponsoring-Beitrag unterstützen würdet!</a> -->
+            <p>Wir freuen uns sehr, dass wir auch dieses Mal wieder Unterstützung durch starke Partner erhalten - herzlichen Dank, dass ihr das #2 webPro + friends Hackathon ermöglicht!
+            <!-- Herzlichen Dank unseren <strong>Sponsoren</strong>, welche die Durchführung unseres Barcamps ermöglichen: -->
 
-            <p>Herzlichen Dank unseren <strong>Sponsoren</strong>, welche die Durchführung unseres Barcamps unterstützen:</p>
+            <div class="row">
+                <div class="col s12"><p class="sponsoren-titel">"Heart for Good":</p></div>
+
+                <div class="col s12 m6 l5">
+                    <a href="https://www.namics.com" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/namics.png"></a>
+                </div>
+                <div class="col s12 m6 l5 offset-l2">
+                    <a href="http://www.hostpoint.ch" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/hostpoint.svg"></a>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col s12 m6 l5">
+                    <a href="https://www.liip.ch" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/liip.png"></a>
+                </div>
+                <div class="col s12 m6 l5 offset-l2">
+                    <a href="https://www.adcubum.com/home" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/adcubum.svg"></a>
+                </div>
+            </div>
 
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">"Food for Good":</p></div>
                 <div class="col s12 m6 l5">
                     <a href="http://www.ibw.ch" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/ibw_sponsoring.gif"></a>
                 </div>
+                <div class="col s12 m6 offset-l2 l5">
+                    <a href="https://www.hsr.ch/de/weiterbildung/technik-und-it/cas/cas-front-end-engineering/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/hsr.png"></a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col s12"><p class="sponsoren-titel">"Drinks for Good":</p></div>
+                <div class="col s12 m6 l5">
+                    <a href="https://www.multidigital.ch/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/multidigital.png"></a>
+                </div>
             </div>
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">"Coffee for Good":</p></div>
                 <div class="col s12 m6 l5">
+                    <a href="https://www.innovatis.net/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/innovatis.svg"></a>
+                </div>
+                <div class="col s12 m6 l5 offset-l2">
                     <a href="https://tomschaepper.net/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/tomschaepper.png"></a>
                 </div>
             </div>
