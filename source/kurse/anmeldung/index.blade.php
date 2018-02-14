@@ -40,8 +40,12 @@
                 'part2'    =>  'Kurse'
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
-                <a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>
-                <a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>
+                <!--<a href="/kurse/wordpress-themes-selber-programmieren/">WordPress Themes programmieren</a><br>-->
+                <a href="/kurse/wordpress-themes-custom-post-types-custom-fields/">WordPress Custom Post Types und Fields</a><br>
+                <!--<a href="/kurse/auffrischungskurs-html-css/">HTML/CSS Auffrischung und Vertiefung</a><br>-->
+                <!--<a href="/kurse/hands-on-workshop-polymer-project/">Hands-on Workshop Polymer</a><br>-->
+                <!--<a href="/kurse/einfuehrung-in-laravel/">Einführung in Laravel</a><br>-->
+                <!--<a href="/kurse/eigene-stock-fotos-erstellen/">eigene Stock Fotos erstellen</a><br>-->
             </nav>
         </div>
         <div class="col l7 m6 webpro-right">
@@ -50,8 +54,7 @@
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Kurs auswählen</option>
-                            <option value="WordPress Themes programmieren, Start 08.11.17, Grabs SG">WordPress Themes programmieren, 08.11.17, Grabs SG</option>
-                            <option value="Hands on workshop Polymer, Start 08.11.17, Grabs SG">Hands on workshop Polymer, 08.11.17, Grabs SG</option>
+                            <option value="WordPress Custom Post Types und Fields, 07.03.2018 - 28.03.2018, Grabs SG">WordPress Custom Post Types und Fields, 07.03.2018 - 28.03.2018, Grabs SG</option>
                         </select>
                         <label>Ich möchte mich zu folgendem Kurs anmelden:</label>
                         <input type="checkbox" id="agb" name="agb" required />
