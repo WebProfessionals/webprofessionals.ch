@@ -61,7 +61,7 @@
             </p>
             <ul class="webpro-list">
                 <li>Donnerstag, 1. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>
-                <li>Montag 05. März, 19:00 Uhr, ibW Chur, Zi 104</li>
+                <li>Montag 5. März, 19:00 Uhr, ibW Chur, Zi 104</li>
                 <li>Freitag 9. März: Techfabrik Grabs, 19:00 Uhr</li>
                 <li>Dienstag, 20. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>
                 <li>Freitag 23. März, 19:00 Uhr, ibW Sargans, Zi 404</li>

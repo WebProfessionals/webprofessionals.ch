@@ -149,6 +149,9 @@
                 <div class="col s12 m6 l5">
                     <a href="https://www.multidigital.ch/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/multidigital.png"></a>
                 </div>
+                <div class="col s12 m6 l5 offset-l2">
+                    <a href="https://www.finnova.com/de/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/finnova.png"></a>
+                </div>
             </div>
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">"Coffee for Good":</p></div>
