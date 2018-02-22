@@ -143,6 +143,9 @@
                 <div class="col s12 m6 offset-l2 l5">
                     <a href="https://www.hsr.ch/de/weiterbildung/technik-und-it/cas/cas-front-end-engineering/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/hsr.png"></a>
                 </div>
+                <div class="col s12 m6 l5">
+                    <a href="https://frontify.com/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/frontify.png"></a>
+                </div>
             </div>
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">"Drinks for Good":</p></div>
