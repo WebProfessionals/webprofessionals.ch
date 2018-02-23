@@ -165,6 +165,12 @@
                     <a href="https://tomschaepper.net/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/tomschaepper.png"></a>
                 </div>
             </div>
+            <div class="row">
+                <div class="col s12"><p class="sponsoren-titel">"Sweets for Good":</p></div>
+                <div class="col s12 m6 l5">
+                    <a href="https://www.innovatis.net/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/laederach.png"></a>
+                </div>
+            </div>
             <!--
 
 
