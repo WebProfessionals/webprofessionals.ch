@@ -54,7 +54,7 @@
                     <div class="input-field col s12">
                         <select name="lehrgang" multiple>
                             <option value="" disabled selected>Bitte Kurs auswählen</option>
-                            <option value="WordPress Custom Post Types und Fields, 07.03.2018 - 28.03.2018, Grabs SG">WordPress Custom Post Types und Fields, 07.03.2018 - 28.03.2018, Grabs SG</option>
+                            <option value="WordPress Custom Post Types und Fields, 23.04.2018 - 14.05.2018, Grabs SG">WordPress Custom Post Types und Fields, 23.04.2018 - 14.05.2018, Grabs SG</option>
                             <!--<option value="HTML/CSS Auffrischung, Grabs SG">HTML/CSS Auffrischung, 21.08.17-25.09.17, Grabs SG</option>-->
                             <!--<option value="Hands on workshop Polymer, Sommer 2017, Grabs SG">Hands on workshop Polymer, 08.11.17, Grabs SG</option>-->
                             <!--<option value="Einführung in Laravel, Sommer 2017, Grabs SG">Einführung in Laravel, Sommer 2017, Grabs SG</option>-->
