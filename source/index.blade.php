@@ -60,7 +60,7 @@
                 Nächster Lehrgangsstart Web Integrator: <strong>28. April 2018</strong>. Gerne stellen wir dir unsere Ausbildung an einem unserer <a href="/veranstaltungen/web-professionals/">Informationsanlässe in Grabs und Rapperswil</a> vor - bist du mit dabei? Wir freuen uns auf dich!
             </p>
             <ul class="webpro-list">
-                <li>Donnerstag, 1. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>
+                <!--<li>Donnerstag, 1. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>-->
                 <li>Montag 5. März, 19:00 Uhr, ibW Chur, Zi 104</li>
                 <li>Freitag 9. März: Techfabrik Grabs, 19:00 Uhr</li>
                 <li>Dienstag, 20. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>
