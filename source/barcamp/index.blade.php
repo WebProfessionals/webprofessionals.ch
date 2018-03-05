@@ -24,8 +24,8 @@
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">Mehr als Schule</span><br>
-            <span class="webpro-hero2">Praxiswissen und Vernetzung durch Barcamps</span><br><br>
+            <span class="webpro-hero1">Hack for Good</span><br>
+            <span class="webpro-hero2">digitale Lösungen für soziale Herausforderungen</span><br><br>
             <!-- <a class="waves-effect waves-light btn webpro-red">Jetzt informieren</a> -->
         </div>
     </header>
@@ -66,26 +66,26 @@
         </div>
         <div class="col l7 m6 webpro-right">
 
-            <p>Die <strong>webPro + friends Camps</strong> finden halbjährlich statt und wurden schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
+            <h2 class="webpro">#2 Web Professionals and Friends Hackathon</h2>
+            <p class="headline">Nach den letzten zwei Barcamps wird es wieder Zeit für ein langes Wochenende des Codens: der zweite Web Professionals and Friends Hackathon findet am <strong>17. und 18. März 2018</strong> in der <strong>Techfabrik Grabs</strong> statt. Thema: <strong>"Hack for Good"</strong>.</p>
+            <p>"Making the world a better place" (Hooli) ist zwar ein pointierter Leitspruch aus der HBO Serie <a href="https://www.hbo.com/silicon-valley">Silicon Valley</a>, trifft aber dennoch den Grundgedanken der Internet-Community - resp. derjenigen welche den Urgedanken der Internet-Begründer wie Jon Postel, Tim Berners-Lee etc. weitertragen. Auch Web Professionals mögen den Gedanken des Miteinanders, des Austauschs und wollen am 2. Hackathon Applikationen entwickeln, welche den Alltag und unsere Umgebung ein wenig schöner und besser machen können.</p>
+
+            <p>Die <strong>Web Professionals + Friends Barcamps und Hackathons</strong> finden halbjährlich statt und wurden schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
                 Mittlerweile reisen die Teilnehmer nicht nur aus allen Ecken der Schweiz, sondern sogar extra aus London an um an einem unserer Camps teilnehmen zu können.</p>
 
-            <p>Seit neustem alterniert das Barcamp in unergelmässiger Abfolge mit dem <strong>webPro + friends Hackathon</strong>. Diesen Frühling ist es wieder soweit und der #2 Hackathon findet in der Techfabrik Grabs statt.</p>
+            <p>Seit neustem alterniert das Barcamp in unregelmässiger Abfolge mit dem <strong>webPro + friends Hackathon</strong>. Bald ist es wieder soweit und der #2 Hackathon findet in der Techfabrik Grabs statt.</p>
 
             <p><strong>Was ist ein Barcamp?</strong> Eine Un-Konferenz, bei welcher das Thema vorgegeben ist, nicht jedoch die Inhalte der einzelnen Sessions. Diese werden ad-hoc durch die Teilnehmer selber festgelegt, geplant und durchgeführt.</p>
 
-            <p><strong>Was ist ein Hackathon?</strong> Eigentlich ziemlich ähnlich wie ein Barcamp - nur ohne (oder höchstens einzelnen) Sessions, dafür Hands-on Programmierung. Das Thema ist grob vorgegeben, welche Applikation die Teilnehmer an diesem Wochenende entwickeln wollen ist ihnen freigestellt.</p>
-            <br>
-            <h2 class="webpro">#2 webPro + friends Hackathon</h2>
-            <p></p>
-            <p>Der zweite webPro + friends Hackathon findet am <strong>17. und 18. März 2018</strong> in der <strong>Techfabrik Grabs</strong> statt. Thema: <strong>"Hack for Good"</strong>.</p>
-            <p>"Making the world a better place" (Hooli) ist zwar ein pointierter Leitspruch aus der HBO Serie <a href="https://www.hbo.com/silicon-valley">Silicon Valley</a>, trifft aber dennoch den Grundgedanken der Internet-Community - resp. derjenigen welche den Urgedanken der Internet-Begründer wie Jon Postel, Tim Berners-Lee etc. weitertragen. Auch Web Professionals mögen den Gedanken des Miteinanders, des Austauschs und wollen am 2. Hackathon Applikationen entwickeln, welche den Alltag und unsere Umgebung ein wenig schöner und besser machen können.</p>
+            <p><strong>Was ist ein Hackathon?</strong> Eigentlich ziemlich ähnlich wie ein Barcamp - nur ohne (oder höchstens einzelnen) Sessions, dafür umso mehr Hands-on Programmierung. Das Thema ist grob vorgegeben, welche Applikation die Teilnehmer an diesem Wochenende entwickeln wollen ist ihnen freigestellt.</p>
 
+            <h2 class="webpro">Infos</h2>
             <ul>
                 <li><strong>Start:</strong> 17. März 2018, 09:00 Uhr</li>
                 <li><strong>Ende:</strong> 18. März 2018, 12:00 Uhr</li>
                 <li><strong>Ort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs</li>
                 <li><strong>Hashtag:</strong> <a href="https://twitter.com/search?q=%23webprocamp&src=typd" target="_blank">#webprocamp</a></li>
-                <li><br><strong>Teilnahmegebühr:</strong> CHF 50 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
+                <li><br><strong>Teilnahmegebühr:</strong> CHF 30 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
                 <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer in einem naheliegenden Hotel - bitte bei der Anmeldung bekannt geben. Es besteht auch die Möglichkeit, in der Techfabrik zu übernachten.</li>
             </ul>
 
@@ -110,9 +110,9 @@
 
             <h2 class="webpro">Sponsoren</h2>
 
-            <p>Zur Durchführung unserer Barcamps und Hackathons benötigt es nebst sehr viel Freiwilligen-Einsatz der webPro + friends natürlich auch finanzielle Unterstützung durch Sponsoren.</p>
+            <p>Zur Durchführung unserer Barcamps und Hackathons benötigt es nebst sehr viel Freiwilligen-Einsatz der Web Professionals and Friends natürlich auch finanzielle Unterstützung durch Sponsoren.</p>
             <!-- Wir würden uns sehr freuen, wenn ihr den diesjährigen Hackathon <a href="/barcamp/sponsoring/">mit einem Sponsoring-Beitrag unterstützen würdet!</a> -->
-            <p>Wir freuen uns sehr, dass wir auch dieses Mal wieder Unterstützung durch starke Partner erhalten - herzlichen Dank, dass ihr das #2 webPro + friends Hackathon ermöglicht!
+            <p>Wir freuen uns sehr, dass wir auch dieses Mal wieder Unterstützung durch starke Partner erhalten - herzlichen Dank, dass ihr die Durchführung dieses Anlasses ermöglicht!
             <!-- Herzlichen Dank unseren <strong>Sponsoren</strong>, welche die Durchführung unseres Barcamps ermöglichen: -->
 
             <div class="row">
@@ -218,7 +218,7 @@
         </div>
     </div>
     <div class="row">
-        <div class="col s12"><h2 class="webpro">Bisherige Camps:</h2></div>
+        <div class="col s12"><h2 class="webpro">Bisherige Barcamps:</h2></div>
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">
@@ -305,6 +305,25 @@
                 <div class="card-action">
                     <a href="https://goo.gl/photos/YAeDwzZT8Zy5m6jg6" target="_blank">Fotos (Google)</a>
                 </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col s12"><h2 class="webpro">Bisherige Hackathons:</h2></div>
+        <div class="col l4 m6 s12">
+            <div class="card">
+                <div class="card-image">
+                    <img src="/images/barcamp/autumn_camp_2017.jpg">
+
+                </div>
+                <div class="card-content">
+                    <span class="card-title">#1 Hackathon 2015</span>
+                    <p>Thema: Devgotchi<br>Location: Techfabrik Grabs<br>Datum: 29./30. Oktober 2016</p>
+                </div>
+                <!--<div class="card-action">
+                    <a href="/aktuelles/2017-10-29-barcamp6-api/">weitere Infos</a>
+                </div>-->
             </div>
         </div>
     </div>
