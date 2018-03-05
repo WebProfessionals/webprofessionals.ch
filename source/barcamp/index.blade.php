@@ -314,11 +314,11 @@
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">
-                    <img src="/images/barcamp/autumn_camp_2017.jpg">
+                    <img src="/images/barcamp/hackathon1.jpg">
 
                 </div>
                 <div class="card-content">
-                    <span class="card-title">#1 Hackathon 2015</span>
+                    <span class="card-title">#1 Hackathon 2016</span>
                     <p>Thema: Devgotchi<br>Location: Techfabrik Grabs<br>Datum: 29./30. Oktober 2016</p>
                 </div>
                 <!--<div class="card-action">
