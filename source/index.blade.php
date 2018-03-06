@@ -67,7 +67,7 @@
                 <li>Freitag 23. März, 19:00 Uhr, ibW Sargans, Zi 404</li>
                 <li>Donnerstag 5. April: Techfabrik Grabs, 19:00 Uhr</li>
             </ul>
-            <p>Dauer: ca 1h</p>
+            <p>Dauer: ca 1h, Teilnahme kostenlos</p>
             <br>
             <p><strong>Aktuell: am 17. und 18. März 2018 findet in der Techfabrik der <a href="/barcamp/">2. Web Professionals Hackathon</a> statt.</strong></p>
         </div>
