@@ -74,20 +74,21 @@
             <h2 class="webpro">Bilder</h2>
 
             <ul>
-                <li><a href="/files/presse/hackathon2/hackathon_teilnehmer1.jpg" target="_blank">Teilnehmer Barcamp</a></li>
-                <li><a href="/files/presse/hackathon2/hackathon_teilnehmer2.jpg" target="_blank">Teilnehmer Barcamp</a></li>
-                <li><a href="/files/presse/hackathon2/hackathon_teilnehmer3.jpg" target="_blank">Teilnehmer Barcamp</a></li>
+                <li><a href="/files/presse/hackathon2/hackathon_teilnehmer1.jpg" target="_blank">Impressionen Teilnehmer Barcamp</a></li>
+                <li><a href="/files/presse/hackathon2/hackathon_teilnehmer2.jpg" target="_blank">Impressionen Teilnehmer Barcamp</a></li>
+                <li><a href="/files/presse/hackathon2/hackathon_teilnehmer3.jpg" target="_blank">Impressionen Teilnehmer Barcamp</a></li>
+            </ul>
+            <p><strong>Bildlegende zu den Impressionen:</strong> <em>Einblick in die von Web Professionals organisierten Hackathons und Barcamps: Die Events sind eine ideale Plattform für Wissen und Networking, Kollaboration und Spass.</em></p>
+
+            <ul>
                 <li><a href="/files/presse/hackathon2/hackathon_luca_schmid.jpg" target="_blank">Teilnehmer Luca Schmid präsentiert die Ergebnisse seiner Session</a></li>
                 <li><a href="/files/presse/hackathon2/hackathon_veith_zaech.jpg" target="_blank">Veith Zäch, Dozent (Mitte, schwarzes Shirt) mit Teilnehmern</a></li>
                 <li><a href="/files/presse/hackathon2/hackathon_rolf_eggenberger.jpg" target="_blank">Rolf Eggenberger (Lehrgangsleiter) während der Sessionplanung</a></li>
             </ul>
 
-            <p>Bildlegende zu den Impressionen (Teilnehmer): <em>Einblick in die von Web Professionals organisierten Hackathons und Barcamps: Die Events sind eine ideale Plattform für Wissen und Networking, Kollaboration und Spass.</em></p>
-
             <p>Weitere Bilder zur Verwendung in Pressemeldungen <a href="/barcamp/#archiv">sind im Archiv verfügbar.</a></p>
 
             <h2 class="webpro">Teaser Video</h2>
-
             <br>
 
             <div class="video-container">
