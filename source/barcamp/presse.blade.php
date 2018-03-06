@@ -67,7 +67,6 @@
             <h2 class="webpro">Pressemeldung Hackathon 2018</h2>
 
             <ul>
-                <li><a href="/files/presse/hackathon2/2018_03_07_WebProfessionals_HackForGood_Medienmitteilung.docx" target="_blank">Pressebericht als Word-Datei</a></li>
                 <li><a href="/files/presse/hackathon2/2018_03_07_WebProfessionals_HackForGood_Medienmitteilung.pdf" target="_blank">Pressebericht als PDF</a></li>
             </ul>
 
@@ -83,7 +82,7 @@
             <ul>
                 <li><a href="/files/presse/hackathon2/hackathon_luca_schmid.jpg" target="_blank">Teilnehmer Luca Schmid präsentiert die Ergebnisse seiner Session</a></li>
                 <li><a href="/files/presse/hackathon2/hackathon_veith_zaech.jpg" target="_blank">Veith Zäch, Dozent (Mitte, schwarzes Shirt) mit Teilnehmern</a></li>
-                <li><a href="/files/presse/hackathon2/hackathon_rolf_eggenberger.jpg" target="_blank">Rolf Eggenberger (Lehrgangsleiter) während der Sessionplanung</a></li>
+                <li><a href="/files/presse/hackathon2/hackathon_rolf_eggenberger.jpg" target="_blank">Rolf Eggenberger (Lehrgangsleiter Web Professionals) während der Sessionplanung</a></li>
             </ul>
 
             <p>Weitere Bilder zur Verwendung in Pressemeldungen <a href="/barcamp/#archiv">sind im Archiv verfügbar.</a></p>
