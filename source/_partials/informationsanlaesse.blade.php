@@ -10,10 +10,10 @@
         <!--<li>Donnerstag 01. März, 19:00 Uhr</li>-->
         <li>Dienstag 20. März, 19:00 Uhr</li>
     </ul>
-    Chur (ibW Höhere Fachschule Südostschweiz), Zimmer 104
+    <!--Chur (ibW Höhere Fachschule Südostschweiz), Zimmer 104
     <ul class="webpro-list">
         <li>Montag 05. März, 19:00 Uhr</li>
-    </ul>
+    </ul>-->
     Sargans (ibW Höhere Fachschule Südostschweiz), Zimmer 404
     <ul class="webpro-list">
         <li>Freitag 23. März, 19:00 Uhr</li>
