@@ -82,9 +82,9 @@
                 <li><a href="/files/presse/hackathon2/hackathon_rolf_eggenberger.jpg" target="_blank">Rolf Eggenberger (Lehrgangsleiter) während der Sessionplanung</a></li>
             </ul>
 
-            <p>Weitere Bilder zur
-                Verwendung in Pressemeldungen <a href="/barcamp/#archiv">sind im Archiv verfügbar.</a></p>
+            <p>Bildlegende zu den Impressionen (Teilnehmer): <em>Einblick in die von Web Professionals organisierten Hackathons und Barcamps: Die Events sind eine ideale Plattform für Wissen und Networking, Kollaboration und Spass.</em></p>
 
+            <p>Weitere Bilder zur Verwendung in Pressemeldungen <a href="/barcamp/#archiv">sind im Archiv verfügbar.</a></p>
 
             <h2 class="webpro">Teaser Video</h2>
 
