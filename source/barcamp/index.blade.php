@@ -54,7 +54,8 @@
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
                 <a href="/barcamp/anmeldung/">Anmeldung</a><br>
-                <a href="/barcamp/sponsoring/">Sponsoring</a><br>
+                <!-- <a href="/barcamp/sponsoring/">Sponsoring</a><br> -->
+                <a href="/barcamp/presse/">Pressematerial</a><br>
             </nav>
             <br>
 
@@ -89,7 +90,7 @@
                 <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer in einem naheliegenden Hotel - bitte bei der Anmeldung bekannt geben. Es besteht auch die Möglichkeit, in der Techfabrik zu übernachten.</li>
             </ul>
 
-            <p>Hinweis: das Hotel Taucher, welches uns immer mit einem Preisnachlass unterstützt, ist an dem Wochenende leider bereits ausgebucht. Hier eine Liste von Hotels in der Nähe:</p>
+            <p>Hinweis: das Hotel Taucher, welches uns jeweils mit einem Preisnachlass unterstützt, ist an dem Wochenende leider bereits ausgebucht. Hier eine Liste von Hotels in der Nähe:</p>
             <ul>
                 <li>Hotel Buchserhof, Buchs <a href="https://www.buchserhof.ch" target="_blank">www.buchserhof.ch</a></li>
                 <li>Hotel City, Buchs <a href="https://www.hotelcitybuchs.ch" target="_blank">www.hotelcitybuchs.ch</a></li>
@@ -217,8 +218,8 @@
 
         </div>
     </div>
-    <div class="row">
-        <div class="col s12"><h2 class="webpro">Bisherige Barcamps:</h2></div>
+    <div class="row" >
+        <div class="col s12"><h2 class="webpro" id="archiv" name="archiv">Bisherige Barcamps:</h2></div>
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">
