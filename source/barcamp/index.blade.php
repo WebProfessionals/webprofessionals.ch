@@ -80,6 +80,25 @@
 
             <p><strong>Was ist ein Hackathon?</strong> Eigentlich ziemlich ähnlich wie ein Barcamp - nur ohne (oder höchstens einzelnen) Sessions, dafür umso mehr Hands-on Programmierung. Das Thema ist grob vorgegeben, welche Applikation die Teilnehmer an diesem Wochenende entwickeln wollen ist ihnen freigestellt.</p>
 
+            <h2 class="webpro">Ablauf</h2>
+            <strong>Samstag, 17.3.2018:</strong>
+            <ul class="webpro-list">
+                <li>08 Uhr: Türöffnung, Kaffee, Gipfeli, gesunde Säfte</li>
+                <li>09 Uhr: Eröffnung des #2 Hackathons, Definition der Projekte</li>
+                <li>10 Uhr: offizieller Start des Hackathons</li>
+                <li>12 Uhr: Pasta Party mit <a href="http://pasta-peer.ch/" target="_blank">Pasta Peer</a></li>
+                <li>18 Uhr: Eintreffen des Streetfood Trucks von <a href="https://www.chelui.ch/" target="_blank">Che Lui</a></li>
+                <li>19 Uhr: Geek Olympiade (Achtung: ++geekLevel !)</li>
+                <li>20 Uhr bis Open End: Barbetrieb, Coding bis alle Unit Tests grün sind</li>
+                <li>ganzer Tag: VR Testing mit mello</li>
+            </ul>
+            <br>
+            <strong>Sonntag, 18.3.2018:</strong>
+            <ul class="webpro-list">
+                <li>10 Uhr: Frühstücks-/Brunchtisch mit letzten Commits</li>
+                <li>12 Uhr: Präsentation der Projekte, offizieller Abschluss</li>
+            </ul>
+
             <h2 class="webpro">Infos</h2>
             <ul>
                 <li><strong>Start:</strong> 17. März 2018, 09:00 Uhr</li>
