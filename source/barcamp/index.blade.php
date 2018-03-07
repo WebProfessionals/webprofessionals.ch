@@ -105,7 +105,7 @@
                 <li><strong>Ende:</strong> 18. März 2018, 12:00 Uhr</li>
                 <li><strong>Ort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs</li>
                 <li><strong>Hashtag:</strong> <a href="https://twitter.com/search?q=%23webprocamp&src=typd" target="_blank">#webprocamp</a></li>
-                <li><br><strong>Teilnahmegebühr:</strong> CHF 30 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
+                <li><strong>Teilnahmegebühr:</strong> CHF 30 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
                 <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer in einem naheliegenden Hotel - bitte bei der Anmeldung bekannt geben. Es besteht auch die Möglichkeit, in der Techfabrik zu übernachten.</li>
             </ul>
 
