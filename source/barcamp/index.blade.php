@@ -86,7 +86,7 @@
                 <li>08 Uhr: Türöffnung, Kaffee, Gipfeli, gesunde Säfte</li>
                 <li>09 Uhr: Eröffnung des #2 Hackathons, Definition der Projekte</li>
                 <li>10 Uhr: offizieller Start des Hackathons</li>
-                <li>12 Uhr: Pasta Party mit <a href="http://pasta-peer.ch/" target="_blank">Pasta Peer</a></li>
+                <li>12 Uhr: Mittagessen</li>
                 <li>18 Uhr: Eintreffen des Streetfood Trucks von <a href="https://www.chelui.ch/" target="_blank">Che Lui</a></li>
                 <li>19 Uhr: Geek Olympiade (Achtung: ++geekLevel !)</li>
                 <li>20 Uhr bis Open End: Barbetrieb, Coding bis alle Unit Tests grün sind</li>
