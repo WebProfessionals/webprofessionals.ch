@@ -143,6 +143,15 @@
             </ul>
 
             <br>
+            <h2 class="webpro">Teams / Projekte</h2>
+            <ul class="webpro-list">
+                <li>"Code4Kids"</li>
+                <li>"Blockshare"</li>
+                <li>"FriendCoins"</li>
+                <li>"Lorem Ipsum"</li>
+            </ul>
+
+            <br>
 
             <p><a href="https://photos.app.goo.gl/mhYO2xTKV1Mdk8a03" class="waves-effect waves-light btn webpro-green" target="_blank">Fotos vom Camp (Google)</a></p>
 
