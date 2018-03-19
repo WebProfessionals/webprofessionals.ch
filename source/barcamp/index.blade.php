@@ -6,8 +6,8 @@
     <title>Barcamp | Web Professionals</title>
     <meta property="og:url" content="https://web-professionals.ch/barcamp/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="#2 webPro + friends Hackathon" />
-    <meta property="og:description" content="#2 webPro + friends Hackathon. Thema: 'Hack for good'. Datum: 17./18. März 2018. Location: Techfabrik Grabs SG" />
+    <meta property="og:title" content="Web Professionals and Friends Barcamps und Hackathons" />
+    <meta property="og:description" content="Die Web Professionals and Friends Barcamps und Hackathons finden zweimal jährlich in der Techfabrik Grabs statt" />
     <meta property="og:image" content="https://web-professionals.ch/images/og/hackathon2-preview.jpg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -24,8 +24,8 @@
     <header class="webpro-hero">
         @include('_partials.herotop')
         <div class="webpro-hero-claim">
-            <span class="webpro-hero1">Hack for Good</span><br>
-            <span class="webpro-hero2">digitale Lösungen für soziale Herausforderungen</span><br><br>
+            <span class="webpro-hero1">Lebenslanges Lernen</span><br>
+            <span class="webpro-hero2">Barcamps und Hackathons</span><br><br>
             <!-- <a class="waves-effect waves-light btn webpro-red">Jetzt informieren</a> -->
         </div>
     </header>
@@ -54,51 +54,31 @@
             ])
             <nav class="webpro-nav-lvl2 hide-on-small-only">
                 <a href="/barcamp/anmeldung/">Anmeldung</a><br>
-                <!-- <a href="/barcamp/sponsoring/">Sponsoring</a><br> -->
+                <a href="/barcamp/sponsoring/">Sponsoring</a><br>
                 <a href="/barcamp/presse/">Pressematerial</a><br>
             </nav>
             <br>
-
+<!--
             <span class="show-on-medium-and-up">
                 <br><br><img class="responsive-img" src="/images/barcamp/logo-hackathon-2.png">
             </span>
-
+-->
 
         </div>
         <div class="col l7 m6 webpro-right">
 
-            <h2 class="webpro">#2 Web Professionals and Friends Hackathon</h2>
-            <p class="headline">Nach den letzten zwei Barcamps wird es wieder Zeit für ein langes Wochenende des Codens: der zweite Web Professionals and Friends Hackathon findet am <strong>17. und 18. März 2018</strong> in der <strong>Techfabrik Grabs</strong> statt. Thema: <strong>"Hack for Good"</strong>.</p>
-            <p>"Making the world a better place" (Hooli) ist zwar ein pointierter Leitspruch aus der HBO Serie <a href="https://www.hbo.com/silicon-valley">Silicon Valley</a>, trifft aber dennoch den Grundgedanken der Internet-Community - resp. derjenigen welche den Urgedanken der Internet-Begründer wie Jon Postel, Tim Berners-Lee etc. weitertragen. Auch Web Professionals mögen den Gedanken des Miteinanders, des Austauschs und wollen am 2. Hackathon Applikationen entwickeln, welche den Alltag und unsere Umgebung ein wenig schöner und besser machen können.</p>
+            <h2 class="webpro">Web Professionals and Friends</h2>
 
-            <p>Die <strong>Web Professionals + Friends Barcamps und Hackathons</strong> finden halbjährlich statt und wurden schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung.
+            <p>Der Verein "Web Professionals and Friends" organisiert halbjährlich die <strong>Barcamps und Hackathons</strong> welche halbjährlich stattfinden und schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung wurden.
                 Mittlerweile reisen die Teilnehmer nicht nur aus allen Ecken der Schweiz, sondern sogar extra aus London an um an einem unserer Camps teilnehmen zu können.</p>
-
-            <p>Seit neustem alterniert das Barcamp in unregelmässiger Abfolge mit dem <strong>webPro + friends Hackathon</strong>. Bald ist es wieder soweit und der #2 Hackathon findet in der Techfabrik Grabs statt.</p>
 
             <p><strong>Was ist ein Barcamp?</strong> Eine Un-Konferenz, bei welcher das Thema vorgegeben ist, nicht jedoch die Inhalte der einzelnen Sessions. Diese werden ad-hoc durch die Teilnehmer selber festgelegt, geplant und durchgeführt.</p>
 
             <p><strong>Was ist ein Hackathon?</strong> Eigentlich ziemlich ähnlich wie ein Barcamp - nur ohne (oder höchstens einzelnen) Sessions, dafür umso mehr Hands-on Programmierung. Das Thema ist grob vorgegeben, welche Applikation die Teilnehmer an diesem Wochenende entwickeln wollen ist ihnen freigestellt.</p>
 
-            <h2 class="webpro">Ablauf</h2>
-            <strong>Samstag, 17.3.2018:</strong>
-            <ul class="webpro-list">
-                <li>08 Uhr: Türöffnung, Kaffee, Gipfeli, gesunde Säfte</li>
-                <li>09 Uhr: Eröffnung des #2 Hackathons, Definition der Projekte</li>
-                <li>10 Uhr: offizieller Start des Hackathons</li>
-                <li>12 Uhr: Mittagessen</li>
-                <li>18 Uhr: Eintreffen des Streetfood Trucks von <a href="https://www.chelui.ch/" target="_blank">Che Lui</a></li>
-                <li>19 Uhr: Geek Olympiade (Achtung: ++geekLevel !)</li>
-                <li>20 Uhr bis Open End: Barbetrieb, Coding bis alle Unit Tests grün sind</li>
-                <li>ganzer Tag: VR Testing mit mello</li>
-            </ul>
-            <br>
-            <strong>Sonntag, 18.3.2018:</strong>
-            <ul class="webpro-list">
-                <li>10 Uhr: Frühstücks-/Brunchtisch mit letzten Commits</li>
-                <li>12 Uhr: Präsentation der Projekte, offizieller Abschluss</li>
-            </ul>
+            <p><strong>Vorankündigung: das nächste Barcamp findet wieder im Herbst, voraussichtlich am 27./28.10.2018 statt. Weitere Infos folgen.</strong></p>
 
+<!--
             <h2 class="webpro">Infos</h2>
             <ul>
                 <li><strong>Start:</strong> 17. März 2018, 09:00 Uhr</li>
@@ -115,7 +95,8 @@
                 <li>Hotel City, Buchs <a href="https://www.hotelcitybuchs.ch" target="_blank">www.hotelcitybuchs.ch</a></li>
                 <li>Hotel Landgasthof Werdenberg, <a href="https://www.landgasthofwerdenberg.ch" target="_blank">www.landgasthofwerdenberg.ch</a></li>
             </ul>
-
+-->
+            <!--
             <section id="anmeldung" class="section scrollspy">
                 <a class="waves-effect waves-light btn webpro-red" href="/barcamp/anmeldung/">Jetzt anmelden</a>
             </section>
@@ -125,15 +106,15 @@
             <div class="video-container">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/gtB9BNsH3qE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
-
+-->
             <br><br>
 
             <h2 class="webpro">Sponsoren</h2>
 
             <p>Zur Durchführung unserer Barcamps und Hackathons benötigt es nebst sehr viel Freiwilligen-Einsatz der Web Professionals and Friends natürlich auch finanzielle Unterstützung durch Sponsoren.</p>
             <!-- Wir würden uns sehr freuen, wenn ihr den diesjährigen Hackathon <a href="/barcamp/sponsoring/">mit einem Sponsoring-Beitrag unterstützen würdet!</a> -->
-            <p>Wir freuen uns sehr, dass wir auch dieses Mal wieder Unterstützung durch starke Partner erhalten - herzlichen Dank, dass ihr die Durchführung dieses Anlasses ermöglicht!
-            <!-- Herzlichen Dank unseren <strong>Sponsoren</strong>, welche die Durchführung unseres Barcamps ermöglichen: -->
+            <!-- <p>Wir freuen uns sehr, dass wir auch dieses Mal wieder Unterstützung durch starke Partner erhalten - herzlichen Dank, dass ihr die Durchführung dieses Anlasses ermöglicht! -->
+            <p>Herzlichen Dank unseren <strong>Sponsoren</strong>, welche die Durchführung des letzten Hackathons ermöglicht haben:</p>
 
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">"Heart for Good":</p></div>
@@ -188,7 +169,7 @@
             <div class="row">
                 <div class="col s12"><p class="sponsoren-titel">"Sweets for Good":</p></div>
                 <div class="col s12 m6 l5">
-                    <a href="https://www.innovatis.net/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/laederach.png"></a>
+                    <a href="https://www.laederach.ch/" target="_blank"><img class="responsive-img" src="/images/barcamp/sponsoren/laederach.png"></a>
                 </div>
             </div>
             <!--
@@ -239,6 +220,20 @@
     </div>
     <div class="row" >
         <div class="col s12"><h2 class="webpro" id="archiv" name="archiv">Bisherige Barcamps:</h2></div>
+        <div class="col l4 m6 s12">
+            <div class="card">
+                <div class="card-image">
+                    <img src="/images/barcamp/hackathon2.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title">#2 Hackathon 2018</span>
+                    <p>Thema: "Hack for Good"<br>Location: Techfabrik Grabs<br>Datum: 17./18. März 2018</p>
+                </div>
+                <div class="card-action">
+                    <a href="/aktuelles/2018-03-19-hackathon2-hack-for-good/">weitere Infos</a>
+                </div>
+            </div>
+        </div>
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">

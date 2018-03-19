@@ -56,6 +56,21 @@
                 <br><br>
                 <div class="row">
                     <div class="col s6">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/hostpoint.svg">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s6">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/adcubum.svg">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s6">
+                        <img class="responsive-img" src="/images/barcamp/sponsoren/frontify.png">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col s6">
                         <img class="responsive-img" src="/images/barcamp/sponsoren/logo_somedia_production_cmyk.png">
                     </div>
                 </div>
