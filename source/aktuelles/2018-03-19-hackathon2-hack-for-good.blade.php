@@ -153,6 +153,11 @@
 
             <br>
 
+
+            <h2 class="webpro">Liip AG, Facebook (20.3.2018)</h2>
+            <p>"The #hackforgood at Web Professionals Ostschweiz this weekend was a big hit - a keyboard typing game, an app to pay cashless (with coins), a boardgame to learn programming and a webapp to make sharing and communication in apartment complexes easy - have been produced."</p>
+
+
             <p><a href="https://photos.app.goo.gl/mhYO2xTKV1Mdk8a03" class="waves-effect waves-light btn webpro-green" target="_blank">Fotos vom Camp (Google)</a></p>
 
             <br>

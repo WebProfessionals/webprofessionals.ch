@@ -62,14 +62,13 @@
             <ul class="webpro-list">
                 <!--<li>Donnerstag, 1. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>-->
                 <!--<li>Montag 5. März, 19:00 Uhr, ibW Chur, Zi 104</li>
-                <li>Freitag 9. März: Techfabrik Grabs, 19:00 Uhr</li>-->
-                <li>Dienstag, 20. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>
+                <li>Freitag 9. März: Techfabrik Grabs, 19:00 Uhr</li>
+                <li>Dienstag, 20. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>-->
                 <li>Freitag 23. März, 19:00 Uhr, ibW Sargans, Zi 404</li>
                 <li>Donnerstag 5. April: Techfabrik Grabs, 19:00 Uhr</li>
             </ul>
-            <p>Dauer: ca 1h, Teilnahme kostenlos</p>
+            <p>Dauer: ca 1h, Teilnahme kostenlos, keine Anmeldung notwendig</p>
             <br>
-            <p><strong>Aktuell: am 17. und 18. März 2018 findet in der Techfabrik der <a href="/barcamp/">2. Web Professionals Hackathon</a> statt.</strong></p>
         </div>
     </div>
     <div class="row webpro-partner">
@@ -91,6 +90,25 @@
 
         <!-- Card Start -->
         <div class="col l7 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2018-03-20-jana-heeb/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/jana01.jpg" alt="Jana Heeb" title="Jana Heeb">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Portrait: Jana Heeb</span>
+                    <p>Projektleiterin Web bei wecando</p>
+                    <p><em>"Ich bin glücklich, dass ich mein Ziel erreicht habe"</em></p>
+                    <p>20. März 2018</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2018-03-20-jana-heeb/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l5 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/barcamp/'>
                 <div class="card-image">
                     <div class="video-container">
@@ -99,18 +117,18 @@
                 </div>
                 <div class="card-content white-text">
                     <span class="card-title">#2 WebPro + friends Hackathon 2018</span>
-                    <p>"Hack for Good": ein ganzes Wochenende coden + fun mit den Web Professionals! Anmeldungen per sofort möglich, Teilnehmerzahl beschränkt.</p>
+                    <p>"Hack for Good": ein ganzes Wochenende coden + fun mit den Web Professionals!</p>
                     <p>17./18. März 2018 @ Techfabrik Grabs</p>
                 </div>
                 <div class="card-action">
-                    <a class="white-text" href="/barcamp/">mehr</a>
+                    <a class="white-text" href="/aktuelles/2018-03-19-hackathon2-hack-for-good/">mehr</a>
                 </div>
             </div>
         </div>
         <!-- Card End -->
 
         <!-- Card Start -->
-        <div class="col l5 m6">
+        <div class="col l6 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-08-16-webpro-and-friends-vue-js/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2017-08-webpro-and-friends-vue-js-florian-gaechter.jpg" alt="Web Professionals and Friends: Vue.js (Florian Gächter)" title="Web Professionals and Friends: Vue.js (Florian Gächter)">
@@ -185,24 +203,24 @@
         <!-- Card End -->
 
         <!-- Card Start -->
-        <div class="col l6 m6">
-            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-01-04-stefanie-jegen/'>
-                <div class="card-image">
-                    <img src="/images/testimonials/stefanie_jegen.jpg" alt="Stefanie Jegen" title="Stefanie Jegen">
+        <!--        <div class="col l6 m6">
+                    <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-01-04-stefanie-jegen/'>
+                        <div class="card-image">
+                            <img src="/images/testimonials/stefanie_jegen.jpg" alt="Stefanie Jegen" title="Stefanie Jegen">
 
-                </div>
-                <div class="card-content white-text">
-                    <span class="card-title">Alumni-Portrait: Stefanie Jegen</span>
-                    <p>Leiterin Kundenservice Web bei Somedia Production AG</p>
-                    <p><em>"Warum also nicht gleich diejenige sein, die ihren bisherigen Job wegprogrammiert?"</em></p>
-                    <p>04. Januar 2017</p>
-                </div>
-                <div class="card-action">
-                    <a class="white-text" href="/aktuelles/2017-01-04-stefanie-jegen/">mehr</a>
-                </div>
-            </div>
-        </div>
-        <!-- Card End -->
+                        </div>
+                        <div class="card-content white-text">
+                            <span class="card-title">Alumni-Portrait: Stefanie Jegen</span>
+                            <p>Leiterin Kundenservice Web bei Somedia Production AG</p>
+                            <p><em>"Warum also nicht gleich diejenige sein, die ihren bisherigen Job wegprogrammiert?"</em></p>
+                            <p>04. Januar 2017</p>
+                        </div>
+                        <div class="card-action">
+                            <a class="white-text" href="/aktuelles/2017-01-04-stefanie-jegen/">mehr</a>
+                        </div>
+                    </div>
+                </div> -->
+                <!-- Card End -->
 
 
     </div>
