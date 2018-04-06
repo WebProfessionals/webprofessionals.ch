@@ -53,21 +53,19 @@
             <p>Die Lehrgänge beginnen mit der Basis-Ausbildung zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a> und spezialisieren sich danach in den beiden Diplom-Lehrgängen zum <a href="/lehrgaenge/web-developer/">Web Developer</a> und <a href="/lehrgaenge/web-designer/">Web Designer</a>. Begleitend dazu bieten wir verschiedene Spezialisierungs-Kurse an welche dich für deine Aufgabe als Web Developer oder Designer optimal vorbereiten.</p>
             <p><strong><a href="/lehrgaenge/">> mehr Infos zu den Lehrgängen</a></strong></p>
 
-            <br>
-
-            <h2 class="webpro">Termine und Infoanlässe</h2>
+            <h2 class="webpro">Du willst ab Frühling noch mit dabei sein?</h2>
             <p>
-                Nächster Lehrgangsstart Web Integrator: <strong>28. April 2018</strong>. Gerne stellen wir dir unsere Ausbildung an einem unserer <a href="/veranstaltungen/web-professionals/">Informationsanlässe in Grabs und Rapperswil</a> vor - bist du mit dabei? Wir freuen uns auf dich!
+                Nächster Lehrgangsstart: <strong>28. April 2018</strong> - es hat noch freie Plätze! Da die Informationsanlässe bereits durch sind stehen wir gerne auch in der Techfabrik für individuelle Lehrgangsberatung zur Verfügung. Zur Terminvereinbarung bitte <a href="/kontakt/">via Kontaktforumlar</a> melden, da wir während den Frühlingsferien nicht immer erreichbar sind.
+
+                <!-- Gerne stellen wir dir unsere Ausbildung an einem unserer <a href="/veranstaltungen/web-professionals/">Informationsanlässe in Grabs und Rapperswil</a> vor - bist du mit dabei? Wir freuen uns auf dich! -->
             </p>
+            <!--
             <ul class="webpro-list">
-                <!--<li>Donnerstag, 1. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>-->
-                <!--<li>Montag 5. März, 19:00 Uhr, ibW Chur, Zi 104</li>
-                <li>Freitag 9. März: Techfabrik Grabs, 19:00 Uhr</li>
-                <li>Dienstag, 20. März: HSR Hochschule für Technik Rapperswil, 19:00 Uhr, Zi 5.207</li>-->
                 <li>Freitag 23. März, 19:00 Uhr, ibW Sargans, Zi 404</li>
                 <li>Donnerstag 5. April: Techfabrik Grabs, 19:00 Uhr</li>
             </ul>
             <p>Dauer: ca 1h, Teilnahme kostenlos, keine Anmeldung notwendig</p>
+            -->
             <br>
         </div>
     </div>
