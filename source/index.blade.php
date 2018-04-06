@@ -55,7 +55,7 @@
 
             <h2 class="webpro">Du willst ab Frühling noch mit dabei sein?</h2>
             <p>
-                Nächster Lehrgangsstart: <strong>28. April 2018</strong> - es hat noch freie Plätze! Da die Informationsanlässe bereits durch sind stehen wir gerne auch in der Techfabrik für individuelle Lehrgangsberatung zur Verfügung. Zur Terminvereinbarung bitte <a href="/kontakt/">via Kontaktforumlar</a> melden, da wir während den Frühlingsferien nicht immer erreichbar sind.
+                Nächster Lehrgangsstart: <strong>28. April 2018</strong> - es hat noch freie Plätze! Da die Informationsanlässe bereits durch sind stehen wir gerne auch in der Techfabrik für individuelle Lehrgangsberatung zur Verfügung. Zur Terminvereinbarung bitte <a href="/kontakt/">via Kontaktformular</a> melden, da wir während den Frühlingsferien nicht immer erreichbar sind.
 
                 <!-- Gerne stellen wir dir unsere Ausbildung an einem unserer <a href="/veranstaltungen/web-professionals/">Informationsanlässe in Grabs und Rapperswil</a> vor - bist du mit dabei? Wir freuen uns auf dich! -->
             </p>
