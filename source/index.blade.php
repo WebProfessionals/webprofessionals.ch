@@ -24,7 +24,7 @@
             <!--
             <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/">Jetzt informieren</a>
             -->
-            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/">Jetzt auch in St.Gallen!</a>
+            <a class="waves-effect waves-light btn webpro-red webpro-hero-button" href="/lehrgaenge/web-integrator/">Jetzt auch in St.Gallen!</a>
         </div>
     </header>
 @endsection
