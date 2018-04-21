@@ -7108,4 +7108,8 @@ input[type="checkbox"]:required:valid + label {
   text-decoration: line-through;
 }
 
+.sangalle--red {
+  color: #97be0d !important;
+}
+
 /*# sourceMappingURL=main.css.map */

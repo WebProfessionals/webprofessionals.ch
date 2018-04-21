@@ -49,6 +49,17 @@
             <h2>Bitte wähle den gewünschten Standort deines Web Integrator Lehrgangs aus:</h2>
             <div class="row">
                 <div class="col s12 m12">
+                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator-stgallen/'>
+                        <div class="card-content white-text">
+                            <span class="card-title">St.Gallen</span>
+                            <p>Start: 26. Mai 2018, Freitag 18:00 bis 21:15 Uhr, Samstag 09:00 bis 12:00 Uhr</p>
+                        </div>
+                        <div class="card-action webpro-green">
+                            <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator-stgallen/">Standort wählen ></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col s12 m12">
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator-grabs/'>
                         <div class="card-content white-text">
                             <span class="card-title">Grabs SG</span>

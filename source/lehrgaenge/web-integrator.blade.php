@@ -51,7 +51,7 @@
                         <li><a href="#dauer">Dauer</a></li>
                         <li><a href="#klassen">Klassen / Durchführungsorte</a></li>
                         <li><a href="#kosten">Kosten und Zahlungsfristen</a></li>
-                        <li><a href="#termine">Termine</a></li>
+                        <!--<li><a href="#termine">Termine</a></li>-->
                         <li><a href="#infoanlaesse">Informationsanlässe</a></li>
 
                         <li><a href="#anmeldung">Anmeldung</a></li>
@@ -108,29 +108,48 @@
             </section>
 
             <section id="dauer" class="section scrollspy">
-                <h2>Dauer/Daten:</h2>
+                <h2>Dauer:</h2>
                 <p>1 Semester, 110 Lektionen, berufsbegleitend</p>
-                <p>28. April 2018 - 29. September 2018</p>
             </section>
 
             <section id="klassen" class="section scrollspy">
                 <h2>Klassen / Durchführungsorte:</h2>
+
+                <p>
+                    <strong>St.Gallen:</strong> Liip AG, Neumarkt<br>
+                    <strong>Beginn / Ende:</strong> 26. Mai 2018 bis 29. September 2018<br>
+                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
+                    <a href="/lehrgaenge/anmeldung/web-integrator-grabs/">Jetzt anmelden ></a>
+                </p>
+
                 <p>
                     <strong>Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
+                    <strong>Beginn / Ende:</strong> 28. April 2018 - 29. September 2018<br>
                     <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
                     <a href="/lehrgaenge/anmeldung/web-integrator-grabs/">Jetzt anmelden ></a>
                 </p>
 
                 <p>
                     <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
+                    <strong>Beginn / Ende:</strong> 28. April 2018 - 29. September 2018<br>
                     <strong>Unterrichtszeiten:</strong> Dienstag 18.00 bis 21.15 Uhr, Donnerstag 18.00 bis 21.15 Uhr<br>
                     <a href="/lehrgaenge/anmeldung/web-integrator-rapperswil/">Jetzt anmelden ></a>
                 </p>
                 <p>
                     <strong>Graubünden / Chur:</strong> ibW Chur, Gürtelstrasse 48 Gleis d, 7001 Chur<br>
+                    <strong>Beginn / Ende:</strong> 28. April 2018 - 29. September 2018<br>
                     <strong>Unterrichtszeiten:</strong> Montag 18.00 bis 21.15 Uhr, Mittwoch 18.00 bis 21.15 Uhr<br>
                     <a href="/lehrgaenge/anmeldung/web-integrator-chur/">Jetzt anmelden ></a>
                 </p>
+
+                <h2>Termin Eröffnungsveranstaltung:</h2>
+                <p>Die Eröffnungsveranstaltung findet für die Lehrgänge Grabs, Chur, Rapperswil am Samstag, 28. April 2018 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt.</p>
+
+                <h2>Termine Diplomprüfung:</h2>
+                <p>Klassen Grabs / Rapperswil / Chur: Samstag 29. September 2018, 10.00 Uhr in Sargans (ibW Bahnhofpark)</p>
+                <p>Klasse St.Gallen: Samstag 27. Oktober 2018, 10.00 Uhr in St.Gallen</p>
+
+
                 <!-- <p>Hinweis: die definitiven Unterrichtszeiten können auf Wunsch und in Absprache mit der jeweiligen Klasse leicht angepasst werden.</p> -->
                 <!--    <p>Hinweis: Aufgrund der bisherigen Teilnehmerzahl werden dieses Semester die drei Klassen zusammen gelegt und am Freitag Abend / Samstag Vormittag in Sargans (ibW Höhere Fachschule Südostschweiz, Bahnhofpark) durchgeführt. </p> -->
             </section>
@@ -153,17 +172,17 @@
                 </p>
             </section>
 
+            <!--
+
             <section id="termine" class="section scrollspy">
-                <!-- <h2>Anmeldeschluss:</h2>
-                <p>30. September 2016</p>
-                -->
                 <h2>Termin Eröffnungsveranstaltung:</h2>
-                <p>Die Eröffnungsveranstaltung findet für alle Lehrgänge (Grabs, Chur, Rapperswil) am Samstag, 28. April 2018 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt.</p>
+                <p>Die Eröffnungsveranstaltung findet für die Lehrgänge Grabs, Chur, Rapperswil am Samstag, 28. April 2018 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt.</p>
 
                 <h2>Termin Diplomprüfung:</h2>
                 <p>Samstag 29. September 2018, 10.00 Uhr in Sargans (ibW Bahnhofpark)</p>
 
             </section>
+            -->
 
             @include('_partials.informationsanlaesse')
 

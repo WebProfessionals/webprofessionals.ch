@@ -424,3 +424,10 @@ input[type="checkbox"]:required:valid + label {
 .strikethrough {
   text-decoration: line-through;
 }
+
+
+.sangalle {
+  &--red {
+    color: color("webpro-green", "base")!important;
+  }
+}
