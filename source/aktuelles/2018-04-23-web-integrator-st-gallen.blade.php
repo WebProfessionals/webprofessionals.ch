@@ -38,7 +38,7 @@
                 'part1'    =>  'Web Integrator',
                 'part2'    =>  'St.Gallen'
             ])
-            20. März 2018
+            23. April 2018
         </div>
         <div class="col l4 m5">
             <p>
