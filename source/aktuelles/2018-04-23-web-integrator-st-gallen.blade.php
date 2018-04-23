@@ -62,7 +62,7 @@
                 Wer seine Zukunft in einer zunehmend digitalisierten Welt sichern will hat mit der Ausbildung zum Web Professional beste Chancen. Mit einem praxisorientierten Programm werden die angehenden Web Profis optimal auf den Berufseinstieg vorbereitet. Unterstützt werden sie dabei von Spezialisten aus der Praxis, sowohl im Unterricht als auch in begleitenden Angeboten wie z.B. Barcamps, Hackathons, Alumni Events und Praktikas.
             </p>
             <h3>Liip AG - unser Durchführungspartner in St.Gallen</h3>
-            <p>Liip ist eine der erfolgreichsten Webagenturen der Schweiz mit 156 Mitarbeitenden an 5 Standorten. Für die Durchführung des St.Galler Lehrgangs öffnen sie uns die Türen in ihre Welt und bieten damit ein optimales Umfeld um in das Web Development eintauchen zu können.</p>
+            <p>Liip ist eine der erfolgreichsten Webagenturen der Schweiz mit 156 Mitarbeitenden an 5 Standorten. Für die Durchführung des St.Galler Lehrgangs öffnen sie uns die Türen in ihre Welt und bieten damit ein optimales Umfeld um tief in das Web Development eintauchen zu können.</p>
             <p><br><a href="/lehrgaenge/web-integrator/" class="waves-effect waves-light btn webpro-green">weitere Infos und Anmeldung</a></p>
         </section>
     </div>
