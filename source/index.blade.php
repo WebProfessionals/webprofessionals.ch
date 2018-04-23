@@ -99,8 +99,8 @@
                     <img src="/images/aktuelles/2018-04-liip.jpg" alt="Web Integrator St.Gallen" title="Web Integrator St.Gallen">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Einmalig auch in St.Gallen!</span>
-                    <p>Auf mehrfachen Wunsch findet ab 26. Mai ein Web Integrator Lehrgang in St.Gallen statt. Nutze diese Gelegenheit uns sei bei dieser Klasse mit dabei!</p>
+                    <span class="card-title">Web Integrator: einmalig auch in St.Gallen!</span>
+                    <p>Auf mehrfachen Wunsch findet ab 26. Mai ein Web Integrator Lehrgang in St.Gallen statt. Nutze diese Gelegenheit uns sei mit dabei, wenn die erste Klasse durchstartet!</p>
                     <p>23. April 2018</p>
                 </div>
                 <div class="card-action">
