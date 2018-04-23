@@ -57,7 +57,7 @@
 
         </div>
         <section class="col l7 offset-l1 m6 offset-m1">
-            <h2 class="webpro sangalle--red">Code, ohne Senf, jetzt auch in San Gallä!</h2>
+            <h2 class="webpro sangalle--red">Code, ohne Senf, jetzt auch in St.Gallen!</h2>
             <p>
                 Am 26. Mai 2018 startet erstmals ein <strong>Web Integrator Basislehrgang in der Stadt St.Gallen</strong>. Lass dir diese Gelegenheit nicht entgehen und sei mit dabei in der "First Class"!
             </p>
