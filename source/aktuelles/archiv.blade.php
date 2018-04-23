@@ -43,6 +43,25 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2018-03-20-jana-heeb/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/jana01.jpg" alt="Jana Heeb" title="Jana Heeb">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Portrait: Jana Heeb</span>
+                    <p>Projektleiterin Web bei wecando</p>
+                    <p><em>"Ich bin glücklich, dass ich mein Ziel erreicht habe"</em></p>
+                    <p>20. März 2018</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2018-03-20-jana-heeb/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l4 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/barcamp/'>
                 <div class="card-image">
                     <div class="video-container">

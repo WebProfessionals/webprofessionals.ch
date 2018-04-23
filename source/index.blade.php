@@ -94,6 +94,24 @@
 
         <!-- Card Start -->
         <div class="col l7 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2018-04-23-web-integrator-st-gallen/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/2018-04-liip.jpg" alt="Web Integrator St.Gallen" title="Web Integrator St.Gallen">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Einmalig auch in St.Gallen!</span>
+                    <p>Auf mehrfachen Wunsch findet ab 26. Mai ein Web Integrator Lehrgang in St.Gallen statt. Nutze diese Gelegenheit uns sei bei dieser Klasse mit dabei!</p>
+                    <p>23. April 2018</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2018-04-23-web-integrator-st-gallen/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l5 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2018-03-20-jana-heeb/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/jana01.jpg" alt="Jana Heeb" title="Jana Heeb">
@@ -112,7 +130,7 @@
         <!-- Card End -->
 
         <!-- Card Start -->
-        <div class="col l5 m6">
+        <div class="col l6 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/barcamp/'>
                 <div class="card-image">
                     <div class="video-container">
@@ -187,44 +205,6 @@
         </div>
         <!-- Card End -->
 
-        <!-- Card Start -->
-        <div class="col l6 m6">
-            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-02-01-simon-walser/'>
-                <div class="card-image">
-                    <img src="/images/testimonials/simon_walser.jpg" alt="Simon Walser" title="Simon Walser">
-                </div>
-                <div class="card-content white-text">
-                    <span class="card-title">Alumni-Portrait: Simon Walser</span>
-                    <p>Graphic & Multimedia Design bei LGT Capital Partners</p>
-                    <p><em>"Es wird sehr individuell auf die Teilnehmer eingegangen."</em></p>
-                    <p>1. Februar 2017</p>
-                </div>
-                <div class="card-action">
-                    <a class="white-text" href="/aktuelles/2017-02-01-simon-walser/">mehr</a>
-                </div>
-            </div>
-        </div>
-        <!-- Card End -->
-
-        <!-- Card Start -->
-        <!--        <div class="col l6 m6">
-                    <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-01-04-stefanie-jegen/'>
-                        <div class="card-image">
-                            <img src="/images/testimonials/stefanie_jegen.jpg" alt="Stefanie Jegen" title="Stefanie Jegen">
-
-                        </div>
-                        <div class="card-content white-text">
-                            <span class="card-title">Alumni-Portrait: Stefanie Jegen</span>
-                            <p>Leiterin Kundenservice Web bei Somedia Production AG</p>
-                            <p><em>"Warum also nicht gleich diejenige sein, die ihren bisherigen Job wegprogrammiert?"</em></p>
-                            <p>04. Januar 2017</p>
-                        </div>
-                        <div class="card-action">
-                            <a class="white-text" href="/aktuelles/2017-01-04-stefanie-jegen/">mehr</a>
-                        </div>
-                    </div>
-                </div> -->
-                <!-- Card End -->
 
 
     </div>
