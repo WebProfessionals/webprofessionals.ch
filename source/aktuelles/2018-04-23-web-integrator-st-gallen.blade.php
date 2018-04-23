@@ -41,8 +41,20 @@
             20. März 2018
         </div>
         <div class="col l4 m5">
-            <p><img class="responsive-img" width="650" src="/images/aktuelles/2018-04-liip.jpg" alt="Liip AG" title="Liip AG"></p>
-            <p>Liip AG in St.Gallen - Raum für Web Professionals<br>
+            <p>
+                <img class="responsive-img" width="650" src="/images/aktuelles/2018-04-liip.jpg" alt="Liip AG" title="Liip AG">
+                Liip AG in St.Gallen - Raum für Web Professionals
+            </p>
+
+            <p class="hide-on-small-only">
+                <img class="responsive-img" width="650" src="/images/aktuelles/2018-04-sg-web-professionals.jpg" alt="Web Professionals" title="Web Professionals">
+                Praxisorientiertes Lernen für deinen Start in die Karriere als Web Profi
+            </p>
+            <p class="hide-on-small-only">
+                <img class="responsive-img" width="650" src="/images/aktuelles/2018-04-sg-hackathon.jpg" alt="Web Professionals" title="Web Professionals">
+                Mehr als Schule: Hackathon der Web Professionals
+            </p>
+
         </div>
         <section class="col l7 offset-l1 m6 offset-m1">
             <h2 class="webpro sangalle--red">Code, ohne Senf, jetzt auch in San Gallä!</h2>
@@ -55,7 +67,7 @@
             <h3>Informationsanlass</h3>
             <p>Am Samstag, den <strong>5. Mai findet um 10 Uhr</strong> ein kostenloser Informationsbrunch in der Arena der Liip AG statt. Dabei erfährst du alles Wichtige zu unseren Lehrgängen sowie unserem Ausbildungskonzept. Eine Anmeldung ist nicht notwendig - einfach vorbeischauen. Bei Kaffee und einem kleinen Frühstück zeigen wir dir die Welt der Web Professionals, der Ausbildung sowie deiner Möglichkeiten in der digitalen Arbeitswelt.</p>
             <h3>Daten und weitere Informationen</h3>
-            <p>Der Lehrgang startet am 26. Mai 2018 und dauert bis zum 29. September 2018. Der Unterricht findet jeweils Freitag Abend (18:00 - 21:15 Uhr) sowie Samstag Vormittag (09:00 - 12:15 Uhr) statt.</p>
+            <p>Der Lehrgang startet am <strong>26. Mai 2018</strong> und dauert bis zum <strong>29. September 2018</strong>. Der Unterricht findet jeweils <strong>Freitag Abend</strong> (18:00 - 21:15 Uhr) sowie <strong>Samstag Vormittag</strong> (09:00 - 12:15 Uhr) statt.</p>
 
             <h3>Web Professionals - die Ausbildung für angehende Web Profis</h3>
             <p>
