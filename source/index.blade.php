@@ -56,7 +56,7 @@
             <p>Die Lehrgänge beginnen mit der Basis-Ausbildung zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a> und spezialisieren sich danach in den beiden Diplom-Lehrgängen zum <a href="/lehrgaenge/web-developer/">Web Developer</a> und <a href="/lehrgaenge/web-designer/">Web Designer</a>. Begleitend dazu bieten wir verschiedene Spezialisierungs-Kurse an welche dich für deine Aufgabe als Web Developer oder Designer optimal vorbereiten.</p>
             <p><strong><a href="/lehrgaenge/">> mehr Infos zu den Lehrgängen</a></strong></p>
 
-            <h2 class="webpro sangalle--red">Code, ohne Senf, jetzt auch in San Gallä!</h2>
+            <h2 class="webpro sangalle--red">Code, ohne Senf, jetzt auch in St.Gallen!</h2>
             <p>Ab <strong>26. Mai startet in St.Gallen</strong> ein ausserordentlicher <a href="lehrgaenge/web-integrator/">Web Integrator Lehrgang</a>. Sei spontan und nutze die Chance! Am 5. Mai, 10 Uhr findet ein Informationsbrunch bei der Liip AG im Neumarkt St.Gallen statt. <a href="">Anmeldungen für den Lehrgang</a> sind per sofort möglich, für den Infobrunch ist keine Anmeldung notwendig.</p>
 
             <h2 class="webpro">Du willst ab Frühling schon mit dabei sein?</h2>
