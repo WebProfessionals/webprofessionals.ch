@@ -57,14 +57,15 @@
             <p><strong><a href="/lehrgaenge/">> mehr Infos zu den Lehrgängen</a></strong></p>
 
             <h2 class="webpro sangalle--red">Code, ohne Senf, jetzt auch in St.Gallen!</h2>
-            <p>Ab <strong>26. Mai startet in St.Gallen</strong> ein ausserordentlicher <a href="lehrgaenge/web-integrator/">Web Integrator Lehrgang</a>. Sei spontan und nutze die Chance! Am 5. Mai, 10 Uhr findet ein Informationsbrunch bei der Liip AG im Neumarkt St.Gallen statt. <a href="">Anmeldungen für den Lehrgang</a> sind per sofort möglich, für den Infobrunch ist keine Anmeldung notwendig.</p>
+            <p>Ab <strong>26. Mai startete in St.Gallen</strong> ein ausserordentlicher <a href="lehrgaenge/web-integrator/">Web Integrator Lehrgang</a>. Aufgrund der Nachfrage werden wir auf Herbst 2018 eine weitere Durchführung planen - mehr dazu folgt in Kürze.</p>
+            <!--
+                        <h2 class="webpro">Du willst ab Frühling schon mit dabei sein?</h2>
+                        <p>
+                            Nächster Lehrgangsstart in Rapperswil: <strong>28. April 2018</strong> - es hat noch freie Plätze! Da die Informationsanlässe bereits durch sind stehen wir gerne auch in der Techfabrik für individuelle Lehrgangsberatung zur Verfügung. Zur Terminvereinbarung bitte <a href="/kontakt/">via Kontaktformular</a> melden, da wir während den Frühlingsferien nicht immer erreichbar sind.
 
-            <h2 class="webpro">Du willst ab Frühling schon mit dabei sein?</h2>
-            <p>
-                Nächster Lehrgangsstart in Rapperswil: <strong>28. April 2018</strong> - es hat noch freie Plätze! Da die Informationsanlässe bereits durch sind stehen wir gerne auch in der Techfabrik für individuelle Lehrgangsberatung zur Verfügung. Zur Terminvereinbarung bitte <a href="/kontakt/">via Kontaktformular</a> melden, da wir während den Frühlingsferien nicht immer erreichbar sind.
-
-                <!-- Gerne stellen wir dir unsere Ausbildung an einem unserer <a href="/veranstaltungen/web-professionals/">Informationsanlässe in Grabs und Rapperswil</a> vor - bist du mit dabei? Wir freuen uns auf dich! -->
+                             Gerne stellen wir dir unsere Ausbildung an einem unserer <a href="/veranstaltungen/web-professionals/">Informationsanlässe in Grabs und Rapperswil</a> vor - bist du mit dabei? Wir freuen uns auf dich!
             </p>
+            -->
             <!--
             <ul class="webpro-list">
                 <li>Freitag 23. März, 19:00 Uhr, ibW Sargans, Zi 404</li>
