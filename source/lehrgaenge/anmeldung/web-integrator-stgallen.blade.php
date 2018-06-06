@@ -50,13 +50,13 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <h2>Anmeldung zum Lehrgang Web Integrator in St.Gallen </h2>
-            <p>Lehrgangsbeginn: 26. Mai 2018</p>
+            <p>Lehrgangsbeginn: Samstag, 10. November 2018</p>
 
 
             <form action="/lehrgaenge/anmeldung/danke.php" method="POST" id="form-anmeldung">
                 @include('_partials.anmeldung-formular')
                 <input type="hidden" name="lehrgang" value="Web Integrator St.Gallen SG" />
-                <input type="hidden" name="sku" value="INT_STGALLEN_18" />
+                <input type="hidden" name="sku" value="INT_STGALLEN_18_19" />
                 <input type="hidden" name="typ" value="Lehrgang" />
                 <input type="hidden" name="gebuehr" value="3100" />
             </form>

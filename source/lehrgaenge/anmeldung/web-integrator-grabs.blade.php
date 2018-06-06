@@ -50,7 +50,7 @@
         </div>
         <div class="col l7 m6 webpro-right">
             <h2>Anmeldung zum Lehrgang Web Integrator in Grabs SG</h2>
-            <p>Lehrgangsbeginn: 28. April 2018</p>
+            <p>Lehrgangsbeginn: Samstag, 10. November 2018</p>
 
 
             <form action="/lehrgaenge/anmeldung/danke.php" method="POST" id="form-anmeldung">

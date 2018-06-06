@@ -48,7 +48,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator/'>
                         <div class="card-content white-text">
                             <span class="card-title">Web Integrator</span>
-                            <p>Start: 28. April 2018, Standorte: Grabs, Chur, Rapperswil</p>
+                            <p>Start: Samstag, 10. November 2018, Standorte: Grabs, St.Gallen, Chur, Rapperswil</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator/">weiter zur Auswahl des Standorts ></a>

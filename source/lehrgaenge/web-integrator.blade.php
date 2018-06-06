@@ -110,6 +110,7 @@
             <section id="dauer" class="section scrollspy">
                 <h2>Dauer:</h2>
                 <p>1 Semester, 110 Lektionen, berufsbegleitend</p>
+                <p>nächster Durchführungstermin: 10. November 2018 bis 09. März 2019</p>
             </section>
 
             <section id="klassen" class="section scrollspy">
@@ -117,37 +118,32 @@
 
                 <p>
                     <strong>St.Gallen:</strong> Liip AG, Neumarkt<br>
-                    <strong>Beginn / Ende:</strong> 26. Mai 2018 bis 29. September 2018<br>
-                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
+                    <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.30 Uhr, Samstag 09.00 - 12.15 Uhr<br>
                     <a href="/lehrgaenge/anmeldung/web-integrator-grabs/">Jetzt anmelden ></a>
                 </p>
 
                 <p>
                     <strong>Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
-                    <strong>Beginn / Ende:</strong> 28. April 2018 - 29. September 2018<br>
-                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
+                    <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
                     <a href="/lehrgaenge/anmeldung/web-integrator-grabs/">Jetzt anmelden ></a>
                 </p>
 
                 <p>
                     <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
-                    <strong>Beginn / Ende:</strong> 28. April 2018 - 29. September 2018<br>
-                    <strong>Unterrichtszeiten:</strong> Dienstag 18.00 bis 21.15 Uhr, Donnerstag 18.00 bis 21.15 Uhr<br>
+                    <strong>Unterrichtszeiten:</strong> Dienstag 18.15 bis 21.30 Uhr, Donnerstag 18.15 bis 21.30 Uhr<br>
                     <a href="/lehrgaenge/anmeldung/web-integrator-rapperswil/">Jetzt anmelden ></a>
                 </p>
                 <p>
                     <strong>Graubünden / Chur:</strong> ibW Chur, Gürtelstrasse 48 Gleis d, 7001 Chur<br>
-                    <strong>Beginn / Ende:</strong> 28. April 2018 - 29. September 2018<br>
-                    <strong>Unterrichtszeiten:</strong> Montag 18.00 bis 21.15 Uhr, Mittwoch 18.00 bis 21.15 Uhr<br>
+                    <strong>Unterrichtszeiten:</strong> Montag 18.15 bis 21.30 Uhr, Mittwoch 18.15 bis 21.30 Uhr<br>
                     <a href="/lehrgaenge/anmeldung/web-integrator-chur/">Jetzt anmelden ></a>
                 </p>
 
                 <h2>Termin Eröffnungsveranstaltung:</h2>
-                <p>Die Eröffnungsveranstaltung findet für die Lehrgänge Grabs, Chur, Rapperswil am Samstag, 28. April 2018 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt.</p>
+                <p>Die Eröffnungsveranstaltung findet für die Lehrgänge Grabs, St.Gallen, Chur und Rapperswil am Samstag, 10. November 2018 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt.</p>
 
-                <h2>Termine Diplomprüfung:</h2>
-                <p>Klassen Grabs / Rapperswil / Chur: Samstag 29. September 2018, 10.00 Uhr in Sargans (ibW Bahnhofpark)</p>
-                <p>Klasse St.Gallen: Samstag 27. Oktober 2018, 10.00 Uhr in St.Gallen</p>
+                <h2>Termin Diplomprüfung:</h2>
+                <p>Samstag 09. März 2019, 10.00 Uhr</p>
 
 
                 <!-- <p>Hinweis: die definitiven Unterrichtszeiten können auf Wunsch und in Absprache mit der jeweiligen Klasse leicht angepasst werden.</p> -->

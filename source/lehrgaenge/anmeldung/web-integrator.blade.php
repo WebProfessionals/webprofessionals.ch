@@ -52,7 +52,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator-stgallen/'>
                         <div class="card-content white-text">
                             <span class="card-title">St.Gallen</span>
-                            <p>Start: 26. Mai 2018, Freitag 18:00 bis 21:15 Uhr, Samstag 09:00 bis 12:00 Uhr</p>
+                            <p>Start: Samstag, 10. November 2018, Freitag 18:15 bis 21:30 Uhr, Samstag 09:00 bis 12:00 Uhr</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator-stgallen/">Standort wählen ></a>
@@ -63,7 +63,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator-grabs/'>
                         <div class="card-content white-text">
                             <span class="card-title">Grabs SG</span>
-                            <p>Start: 28. April 2018, Freitag 18:00 bis 21:15 Uhr, Samstag 09:00 bis 12:00 Uhr</p>
+                            <p>Start: Samstag, 10. November 2018, Freitag 18:15 bis 21:30 Uhr, Samstag 09:00 bis 12:00 Uhr</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator-grabs/">Standort wählen ></a>
@@ -74,7 +74,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator-rapperswil/'>
                         <div class="card-content white-text">
                             <span class="card-title">Rapperswil SG</span>
-                            <p>Start: 28. April 2018, Dienstag und Donnerstag Abend 18:00 bis 21:15 Uhr</p>
+                            <p>Start: Samstag, 10. November 2018, Dienstag und Donnerstag Abend 18:15 bis 21:30 Uhr</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator-rapperswil/">Standort wählen ></a>
@@ -85,7 +85,7 @@
                     <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator-chur/'>
                         <div class="card-content white-text">
                             <span class="card-title">Chur GR</span>
-                            <p>Start: 28. April 2018, Montag und Mittwoch Abend 18:00 bis 21:15 Uhr</p>
+                            <p>Start: Samstag, 10. November 2018, Montag und Mittwoch Abend 18:15 bis 21:30 Uhr</p>
                         </div>
                         <div class="card-action webpro-green">
                             <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator-chur/">Standort wählen ></a>
