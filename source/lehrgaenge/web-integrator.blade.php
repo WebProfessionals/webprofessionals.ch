@@ -119,7 +119,7 @@
                 <p>
                     <strong>St.Gallen:</strong> Liip AG, Neumarkt<br>
                     <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.30 Uhr, Samstag 09.00 - 12.15 Uhr<br>
-                    <a href="/lehrgaenge/anmeldung/web-integrator-grabs/">Jetzt anmelden ></a>
+                    <a href="/lehrgaenge/anmeldung/web-integrator-stgallen/">Jetzt anmelden ></a>
                 </p>
 
                 <p>

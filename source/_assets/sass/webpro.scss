@@ -431,3 +431,9 @@ input[type="checkbox"]:required:valid + label {
     color: color("webpro-green", "base")!important;
   }
 }
+
+.hackathon__logo--front {
+  @media #{$large-and-up} {
+    padding-right:120px;
+  }
+}

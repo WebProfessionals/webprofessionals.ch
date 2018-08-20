@@ -58,14 +58,36 @@
                 <a href="/barcamp/presse/">Pressematerial</a><br>
             </nav>
             <br>
-<!--
+
             <span class="show-on-medium-and-up">
-                <br><br><img class="responsive-img" src="/images/barcamp/logo-hackathon-2.png">
+                <br><br><img class="responsive-img hackathon__logo--front" src="/images/barcamp/logo-hackathon-3.png">
             </span>
--->
+
 
         </div>
         <div class="col l7 m6 webpro-right">
+
+            <h2 class="webpro">Hackathon #3 - Game on!</h2>
+            <p>Es ist wieder soweit - der 3. Web Professionals and Friends Hackathon steht an! Unter dem Thema <strong>"Game On"</strong> stellen wir uns der Aufgabe, mittels Web-Technologien spannende, unterhaltsame und lehrreiche Games zu entwickeln. Auch dieses Mal werden die Teilnehmer des Hackathons durch erfahrene Senior Developers unterstützt. Und wer bereits bei einem oder mehreren unserer Barcamps und Hackathons mit dabei war weiss: verpassen geht auf keinen Fall!</p>
+            <ul>
+                <li><strong>Start:</strong> 27. Oktober 2018, 09:00 Uhr</li>
+                <li><strong>Ende:</strong> 28. Oktober 2018, 12:00 Uhr</li>
+                <li><strong>Ort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs</li>
+                <li><strong>Hashtag:</strong> <a href="https://twitter.com/search?q=%23webprocamp&src=typd" target="_blank">#webprocamp</a></li>
+                <li><strong>Teilnahmegebühr:</strong> CHF 30 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
+                <li><strong>Übernachtung:</strong> Untenstehend findest du eine Liste von Hotels in der Nähe. Es besteht jedoch auch die Möglichkeit, in der Techfabrik zu übernachten.</li>
+            </ul>
+
+            <ul>
+                <li>Hotel Taucher, Werdenberg <a href="http://www.hotel-taucher.ch/" target="_blank">www.hotel-taucher.ch</a></li>
+                <li>Hotel Buchserhof, Buchs <a href="https://www.buchserhof.ch" target="_blank">www.buchserhof.ch</a></li>
+                <li>Hotel City, Buchs <a href="https://www.hotelcitybuchs.ch" target="_blank">www.hotelcitybuchs.ch</a></li>
+                <li>Hotel Landgasthof Werdenberg, <a href="https://www.landgasthofwerdenberg.ch" target="_blank">www.landgasthofwerdenberg.ch</a></li>
+            </ul>
+
+            <section id="anmeldung" class="section scrollspy">
+                <a class="waves-effect waves-light btn webpro-red" href="/barcamp/anmeldung/">Jetzt anmelden</a>
+            </section>
 
             <h2 class="webpro">Web Professionals and Friends</h2>
 
@@ -76,37 +98,12 @@
 
             <p><strong>Was ist ein Hackathon?</strong> Eigentlich ziemlich ähnlich wie ein Barcamp - nur ohne (oder höchstens einzelnen) Sessions, dafür umso mehr Hands-on Programmierung. Das Thema ist grob vorgegeben, welche Applikation die Teilnehmer an diesem Wochenende entwickeln wollen ist ihnen freigestellt.</p>
 
-            <p><strong>Vorankündigung: das nächste Barcamp findet wieder im Herbst, voraussichtlich am 27./28.10.2018 statt. Weitere Infos folgen.</strong></p>
-
-<!--
-            <h2 class="webpro">Infos</h2>
-            <ul>
-                <li><strong>Start:</strong> 17. März 2018, 09:00 Uhr</li>
-                <li><strong>Ende:</strong> 18. März 2018, 12:00 Uhr</li>
-                <li><strong>Ort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs</li>
-                <li><strong>Hashtag:</strong> <a href="https://twitter.com/search?q=%23webprocamp&src=typd" target="_blank">#webprocamp</a></li>
-                <li><strong>Teilnahmegebühr:</strong> CHF 30 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
-                <li><strong>Übernachtung:</strong> auf Wunsch reservieren wir dir gerne ein Zimmer in einem naheliegenden Hotel - bitte bei der Anmeldung bekannt geben. Es besteht auch die Möglichkeit, in der Techfabrik zu übernachten.</li>
-            </ul>
-
-            <p>Hinweis: das Hotel Taucher, welches uns jeweils mit einem Preisnachlass unterstützt, ist an dem Wochenende leider bereits ausgebucht. Hier eine Liste von Hotels in der Nähe:</p>
-            <ul>
-                <li>Hotel Buchserhof, Buchs <a href="https://www.buchserhof.ch" target="_blank">www.buchserhof.ch</a></li>
-                <li>Hotel City, Buchs <a href="https://www.hotelcitybuchs.ch" target="_blank">www.hotelcitybuchs.ch</a></li>
-                <li>Hotel Landgasthof Werdenberg, <a href="https://www.landgasthofwerdenberg.ch" target="_blank">www.landgasthofwerdenberg.ch</a></li>
-            </ul>
--->
-            <!--
-            <section id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red" href="/barcamp/anmeldung/">Jetzt anmelden</a>
-            </section>
-
             <br>
 
             <div class="video-container">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/gtB9BNsH3qE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
--->
+
             <br><br>
 
             <h2 class="webpro">Sponsoren</h2>

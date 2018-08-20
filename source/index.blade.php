@@ -44,35 +44,21 @@
                 'part1'    =>  ' Willkommen bei den',
                 'part2'    =>  ' Web Professionals'
             ])
-            <!--
-            <nav class="webpro-nav-lvl2 hide-on-small-only">
-                <a href="/barcamp/">#2 Hackathon 2018</a><br>
-            </nav>
-            -->
+
         </div>
         <div class="col l7 m6 s12 webpro-right">
-            <p>Die <strong><a href="/lehrgaenge/">Ausbildung für angehende Web Profis</a></strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt. Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong>, der <strong>Techfabrik Grabs</strong> sowie der <strong>Hochschule für Technik Rapperswil</strong>.</p>
+            <p>Die <strong><a href="/lehrgaenge/">Ausbildung für angehende Web Profis</a></strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt. Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>Hochschule für Technik Rapperswil</strong>, bei <strong>Liip AG in St.Gallen</strong>, an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong> sowie der <strong>Techfabrik Grabs</strong>.</p>
 
             <p>Die Lehrgänge beginnen mit der Basis-Ausbildung zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a> und spezialisieren sich danach in den beiden Diplom-Lehrgängen zum <a href="/lehrgaenge/web-developer/">Web Developer</a> und <a href="/lehrgaenge/web-designer/">Web Designer</a>. Begleitend dazu bieten wir verschiedene Spezialisierungs-Kurse an welche dich für deine Aufgabe als Web Developer oder Designer optimal vorbereiten.</p>
-            <p><strong><a href="/lehrgaenge/">> mehr Infos zu den Lehrgängen</a></strong></p>
 
-            <h2 class="webpro sangalle--red">Code, ohne Senf, jetzt auch in St.Gallen!</h2>
-            <p>Ab <strong>26. Mai startete in St.Gallen</strong> ein ausserordentlicher <a href="lehrgaenge/web-integrator/">Web Integrator Lehrgang</a>. Aufgrund der Nachfrage werden wir auf Herbst 2018 eine weitere Durchführung planen - mehr dazu folgt in Kürze.</p>
-            <!--
-                        <h2 class="webpro">Du willst ab Frühling schon mit dabei sein?</h2>
-                        <p>
-                            Nächster Lehrgangsstart in Rapperswil: <strong>28. April 2018</strong> - es hat noch freie Plätze! Da die Informationsanlässe bereits durch sind stehen wir gerne auch in der Techfabrik für individuelle Lehrgangsberatung zur Verfügung. Zur Terminvereinbarung bitte <a href="/kontakt/">via Kontaktformular</a> melden, da wir während den Frühlingsferien nicht immer erreichbar sind.
-
-                             Gerne stellen wir dir unsere Ausbildung an einem unserer <a href="/veranstaltungen/web-professionals/">Informationsanlässe in Grabs und Rapperswil</a> vor - bist du mit dabei? Wir freuen uns auf dich!
-            </p>
-            -->
-            <!--
-            <ul class="webpro-list">
-                <li>Freitag 23. März, 19:00 Uhr, ibW Sargans, Zi 404</li>
-                <li>Donnerstag 5. April: Techfabrik Grabs, 19:00 Uhr</li>
+            <h2 class="webpro sangalle--red">Lehrgänge 2018/2019</h2>
+            <p>Anfang November starten bereits wieder die nächsten <a href="/lehrgaenge/">Lehrgänge</a> - melde dich jetzt noch an und sei mit dabei!</p>
+            <p><strong>Informationsanlässe</strong> finden an folgenden Daten statt:</p>
+            <ul class="webpro">
+                <li>21. August, 19 Uhr, Hochschule für Technik Rapperswil, Zimmer 1.223</li>
+                <li>24. August, 19 Uhr, Techfabrik Grabs</li>
+                <li>08. September, 13 Uhr, Liip AG St.Gallen</li>
             </ul>
-            <p>Dauer: ca 1h, Teilnahme kostenlos, keine Anmeldung notwendig</p>
-            -->
             <br>
         </div>
     </div>
@@ -100,8 +86,8 @@
                     <img src="/images/aktuelles/2018-04-liip.jpg" alt="Web Integrator St.Gallen" title="Web Integrator St.Gallen">
                 </div>
                 <div class="card-content white-text">
-                    <span class="card-title">Web Integrator: einmalig auch in St.Gallen!</span>
-                    <p>Auf mehrfachen Wunsch findet ab 26. Mai ein Web Integrator Lehrgang in St.Gallen statt. Nutze diese Gelegenheit uns sei mit dabei, wenn die erste Klasse durchstartet!</p>
+                    <span class="card-title">Web Integrator: neu auch in St.Gallen!</span>
+                    <p>Auf mehrfachen Wunsch fand im Frühling/Sommer 18 erstmalig ein Web Integrator Lehrgang in St.Gallen statt. Dieser wird nun ab Herbst erneut angeboten - mehr dazu findest du hier.</p>
                     <p>23. April 2018</p>
                 </div>
                 <div class="card-action">

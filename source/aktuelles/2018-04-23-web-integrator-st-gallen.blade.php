@@ -38,7 +38,7 @@
                 'part1'    =>  'Web Integrator',
                 'part2'    =>  'St.Gallen'
             ])
-            23. April 2018
+            20. August 2018
         </div>
         <div class="col l4 m5">
             <p>
@@ -59,7 +59,7 @@
         <section class="col l7 offset-l1 m6 offset-m1">
             <h2 class="webpro sangalle--red">Code, ohne Senf, jetzt auch in St.Gallen!</h2>
             <p>
-                Am 26. Mai 2018 startet erstmals ein <strong>Web Integrator Basislehrgang in der Stadt St.Gallen</strong>. Lass dir diese Gelegenheit nicht entgehen und sei mit dabei in der "First Class"!
+                Am 26. Mai 2018 startete erstmals ein <strong>Web Integrator Basislehrgang in der Stadt St.Gallen</strong> - dieser wird nun auch für das Herbst-/Winter-Semester 2018/2019 angeboten.
             </p>
             <p>
                 Aufgrund mehrfachem Wunsch haben wir uns entschieden, ab Ende Mai einen ausserordentlichen Lehrgang in St.Gallen durchzuführen. Unserem Motto "mehr als Schule" treu durften wir einen optimalen Partner finden: der praxisnahe Unterricht findet in den Räumen der Internet-Agentur Liip AG mitten in St.Gallen (Neumarkt 5, 3. Stock) statt. Nebst sämtlichen notwendigen Grundlagen um deine Karriere als Web Developer oder Web Designer starten zu können bekommst du damit auch gleich den Puls des Agenturumfelds mit.
@@ -69,7 +69,7 @@
             <p>Am Samstag, den <strong>5. Mai findet um 10 Uhr</strong> ein kostenloser Informationsbrunch in der Arena der Liip AG statt. Dabei erfährst du alles Wichtige zu unseren Lehrgängen sowie unserem Ausbildungskonzept. Eine Anmeldung ist nicht notwendig - einfach vorbeischauen. Bei Kaffee und einem kleinen Frühstück zeigen wir dir die Welt der Web Professionals, der Ausbildung sowie deiner Möglichkeiten in der digitalen Arbeitswelt.</p>
             -->
             <h3>Daten und weitere Informationen</h3>
-            <p>Der Lehrgang startet am <strong>26. Mai 2018</strong> und dauert bis zum <strong>29. September 2018</strong>. Der Unterricht findet jeweils <strong>Freitag Abend</strong> (18:00 - 21:15 Uhr) sowie <strong>Samstag Vormittag</strong> (09:00 - 12:15 Uhr) statt.</p>
+            <p>Der Lehrgang startet am <strong>10. November 2018</strong> und dauert bis zum <strong>9. März 2019</strong>. Der Unterricht findet jeweils <strong>Freitag Abend</strong> (18:15 - 21:30 Uhr) sowie <strong>Samstag Vormittag</strong> (09:00 - 12:15 Uhr) statt.</p>
             <p>Für Fragen zum Lehrgang oder einem persönlichen Gespräch stehen wir dir gerne zur Verfügung. Du kannst uns entweder via <a href="tel:+41774603885">077 460 38 85</a> erreichhen - oder noch besser via WhatsApp oder <a href="mailto:info@web-professionals.ch">info@web-professionals.ch</a>.</p>
             <h3>Web Professionals - die Ausbildung für angehende Web Profis</h3>
             <p>

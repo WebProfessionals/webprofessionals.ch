@@ -54,15 +54,10 @@
 
             <form class="col s12" action="https://formspree.io/info@web-professionals.ch" method="POST">
                     <div class="row">
-                        <div class="col s12"><strong>Ja, ich lasse mir den 2. Hackathon vom 17. und 18. März 2018 natürlich nicht entgehen und melde mich hiermit an.</strong></div>
+                        <div class="col s12"><strong>Ja, ich lasse mir den 3. Hackathon vom 27. und 28. Oktober 2018 natürlich nicht entgehen und melde mich hiermit an.</strong></div>
                     </div>
 
-                    <div class="row">
-                        <div class="col s12">
-                            <input type="checkbox" id="hotel" name="hotel" />
-                            <label for="hotel">Ich habe die Liste der Hotels gesehen. Bitte helft mir dennoch beim Buchen eines Zimmers.</label>
-                        </div>
-                    </div>
+
                     <div class="row">
                         <div class="col s12">
                             <input type="checkbox" id="camper" name="camper" />
@@ -173,12 +168,5 @@
 @endsection
 
 @section('subnavmobile')
-    <!--
-    <div class="collection webpro hide-on-med-and-up">
-        <a href="/kurse/einfuehrung-in-angularjs/" class="collection-item">Einführung in AngularJS</a>
-        <a href="/kurse/einfuehrung-in-laravel/" class="collection-item">Einführung in Laravel</a>
-        <a href="/kurse/wordpress-themes-selber-programmieren/" class="collection-item">WordPress Themes selber programmieren</a>
-        <a href="/kurse/eigene-stock-fotos-erstellen/" class="collection-item">eigene Stock Fotos erstellen</a>
-    </div>
-    -->
+
 @endsection
