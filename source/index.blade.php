@@ -53,11 +53,9 @@
 
             <h2 class="webpro sangalle--red">Lehrgänge 2018/2019</h2>
             <p>Anfang November starten bereits wieder die nächsten <a href="/lehrgaenge/">Lehrgänge</a> - melde dich jetzt noch an und sei mit dabei!</p>
-            <p><strong>Informationsanlässe</strong> finden an folgenden Daten statt:</p>
+            <p>Du hast noch Fragen, aber die <strong>Informationsanlässe</strong> verpasst? An folgenden Daten finden nochmals ausserterminliche Beratungsgespräche in der Techfabrik, Mühlbachstrasse 11a, 9472 Grabs:</p>
             <ul class="webpro">
-                <li>21. August, 19 Uhr, Hochschule für Technik Rapperswil, Zimmer 1.223</li>
-                <li>24. August, 19 Uhr, Techfabrik Grabs</li>
-                <li>08. September, 13 Uhr, Liip AG St.Gallen</li>
+                <li>- Dienstag, 25. September 2018, 18 Uhr</li>
             </ul>
             <br>
         </div>
