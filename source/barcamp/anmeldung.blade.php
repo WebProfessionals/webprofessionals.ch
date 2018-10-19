@@ -52,7 +52,7 @@
         </div>
         <div class="col l7 m6 webpro-right">
 
-            <form class="col s12" action="https://formspree.io/info@web-professionals.ch" method="POST">
+            <form class="col s12" action="https://formspree.io/rolf@web-professionals.ch" method="POST">
                     <div class="row">
                         <div class="col s12"><strong>Ja, ich lasse mir den 3. Hackathon vom 27. und 28. Oktober 2018 natürlich nicht entgehen und melde mich hiermit an.</strong></div>
                     </div>
