@@ -138,8 +138,7 @@
 
             <div id="termine" class="section scrollspy">
                 <h2>Beginn:</h2>
-                <p>9. November 2018</p>
-                <p>Die Eröffnungs-Keynote vom 9. November 2018 findet für alle Lehrgänge (Designer und Developer Grabs, Developer Rapperswil) in der Techfabrik Grabs statt.</p>
+                <p>Anfang November 2019</p>
             </div>
 
             @include('_partials.informationsanlaesse')

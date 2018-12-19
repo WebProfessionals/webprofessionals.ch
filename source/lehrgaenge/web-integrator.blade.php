@@ -89,7 +89,6 @@
                     <li>CSS / CSS3 Einführung</li>
                     <li>Grundlagen Programmierung für das Internet (PHP/JS)</li>
                     <li>CMS Grundlagen, Grundlagen Theme-Entwicklung für WordPress</li>
-                    <li>Drupal Einführung</li>
                     <li>Grundlagen Gestaltungslehre</li>
                     <li>Bildbearbeitung Grundlagen (Affinity Photo/Designer)</li>
                     <li>Workshop 1 (HTML)</li>
@@ -110,20 +109,20 @@
             <section id="dauer" class="section scrollspy">
                 <h2>Dauer:</h2>
                 <p>1 Semester, 110 Lektionen, berufsbegleitend</p>
-                <p>nächster Durchführungstermin: 10. November 2018 bis 09. März 2019</p>
+                <p>nächster Durchführungstermin: 4. Mai 2019 bis 28. September 2019</p>
             </section>
 
             <section id="klassen" class="section scrollspy">
                 <h2>Klassen / Durchführungsorte:</h2>
 
                 <p>
-                    <strong>St.Gallen:</strong> Liip AG, Neumarkt<br>
+                    <strong>St.Gallen:</strong> Startfeld, Lerchenfeldstrasse 3, 9014 St. Gallen<br>
                     <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.30 Uhr, Samstag 09.00 - 12.15 Uhr<br>
                     <a href="/lehrgaenge/anmeldung/web-integrator-stgallen/">Jetzt anmelden ></a>
                 </p>
 
                 <p>
-                    <strong>Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
+                    <strong>Ostschweiz / Grabs SG:</strong> Fabrikstrasse 24, 9472 Grabs<br>
                     <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
                     <a href="/lehrgaenge/anmeldung/web-integrator-grabs/">Jetzt anmelden ></a>
                 </p>
@@ -143,7 +142,7 @@
                 <p>Die Eröffnungsveranstaltung findet für die Lehrgänge Grabs, St.Gallen, Chur und Rapperswil am Samstag, 10. November 2018 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt.</p>
 
                 <h2>Termin Diplomprüfung:</h2>
-                <p>Samstag 09. März 2019, 10.00 Uhr</p>
+                <p>Samstag 28. September 2019, 10.00 Uhr</p>
 
 
                 <!-- <p>Hinweis: die definitiven Unterrichtszeiten können auf Wunsch und in Absprache mit der jeweiligen Klasse leicht angepasst werden.</p> -->

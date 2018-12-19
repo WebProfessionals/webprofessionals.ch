@@ -1,9 +1,9 @@
 <section id="infoanlaesse" class="section scrollspy">
     <h2>Informationsanlässe:</h2>
     <ul class="webpro">
-        <li>21. August, 19 Uhr, Hochschule für Technik Rapperswil, Zimmer 1.223</li>
-        <li>24. August, 19 Uhr, Techfabrik Grabs</li>
-        <li>08. September, 13 Uhr, Liip AG St.Gallen</li>
+        <li>- 18. Januar 2018, 19 Uhr, Startfeld, Lerchenfeldstrasse 3, 9014 St. Gallen</li>
     </ul>
+    <p>Eine Anmeldung für die Informationsanlässe ist nicht notwendig. wir freuen uns aber natürlich sehr über eine kurze Nachricht auf info@web-professionals.ch falls ihr vorbei schauen werdet. Dies hilft uns bei der Vorbereitung von genügend Sitzplätzen :-)</p>
+    <p>Weitere Termine (Grabs, Rapperswil, Chur) sind derzeit in Abklärung und werden demnächst hier publiziert.</p>
 
 </section>

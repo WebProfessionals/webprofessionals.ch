@@ -51,12 +51,10 @@
 
             <p>Die Lehrgänge beginnen mit der Basis-Ausbildung zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a> und spezialisieren sich danach in den beiden Diplom-Lehrgängen zum <a href="/lehrgaenge/web-developer/">Web Developer</a> und <a href="/lehrgaenge/web-designer/">Web Designer</a>. Begleitend dazu bieten wir verschiedene Spezialisierungs-Kurse an welche dich für deine Aufgabe als Web Developer oder Designer optimal vorbereiten.</p>
 
-            <h2 class="webpro sangalle--red">Lehrgänge 2018/2019</h2>
-            <p>Anfang November starten bereits wieder die nächsten <a href="/lehrgaenge/">Lehrgänge</a> - melde dich jetzt noch an und sei mit dabei!</p>
-            <p>Du hast noch Fragen, aber die <strong>Informationsanlässe</strong> verpasst? An folgenden Daten finden nochmals ausserterminliche Beratungsgespräche in der Techfabrik, Mühlbachstrasse 11a, 9472 Grabs:</p>
-            <ul class="webpro">
-                <li>- Dienstag, 25. September 2018, 18 Uhr</li>
-            </ul>
+            <h2 class="webpro sangalle--red">Lehrgänge 2019</h2>
+            <p>Anfang Mai starten bereits wieder die nächsten <a href="/lehrgaenge/">Lehrgänge</a> - melde dich jetzt noch an und sei mit dabei!</p>
+            <p>Aktuell sind folgende vier Standorte geplant: Grabs SG, St.Gallen, Chur und Rapperswil</p>
+            <p>Nächster Infoanlass: Freitag, 18. Januar 2018, 19 Uhr, Startfeld, Lerchenfeldstrasse 3, 9014 St. Gallen</p>
             <br>
         </div>
     </div>
