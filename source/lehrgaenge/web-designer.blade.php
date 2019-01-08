@@ -119,7 +119,7 @@
             <section id="kosten" class="section scrollspy">
                 <h2>Kosten:</h2>
                 <p>
-                    Lehrgangsgebühr: CHF 5'500 <br>
+                    Lehrgangsgebühr: CHF 5'800 <br>
                     Prüfungsgebühr Abschlussdiplom: CHF 500
                 </p>
             </section>

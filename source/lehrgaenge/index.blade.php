@@ -28,7 +28,13 @@
 {{-- Main Navigation --}}
 @section('navigation')
     @include('_partials.navigation', [
-        'nav2status'    =>  ' active'
+        'nav2status'    =>  ' active',
+        'nav1status'    =>  ' inactive',
+        'nav3status'    =>  ' inactive',
+        'nav4status'    =>  ' inactive',
+        'nav5status'    =>  ' inactive',
+        'nav6status'    =>  ' inactive',
+        'nav7status'    =>  ' inactive'
     ])
 @endsection
 
@@ -130,9 +136,11 @@
                 </div>
             </div>
 
-            <p>Die Ausbildung wird ergänzt durch die halbjährlich stattfindenden <a href="/barcamp/">Web Professionals Camps</a>, die <a href="/veranstaltungen/">Web Professionals and Friends</a> Treffen (alle zwei Monate) sowie <a href="/kurse/">regelmässige Kurse und Workshops</a>.</p>
+            <p>Die Ausbildung wird ergänzt durch die halbjährlich stattfindenden <a href="/barcamp/">Web Professionals Camps und Hackathons</a>, die <a href="/veranstaltungen/">Web Professionals and Friends</a> Treffen sowie <a href="/kurse/">regelmässige Kurse und Workshops</a>.</p>
 
-            <p><strong>Du willst noch mehr?</strong> Die besten unserer Absolventen erhalten die Empfehlung, den Studiengang <a href="https://www.hsr.ch/de/weiterbildung/technik-und-it/cas/cas-front-end-engineering/" target="_blank">"CAS Front End Engineering" an der Hochschule Rapperswil</a> zu besuchen um ihre Skills dort noch mehr vertiefen zu können. Die Aufnahme erfolgt bei Empfehlung "sur Dossier" - d.h. für die Zulassung ist keine Berufsmatura erforderlich.</p>
+            <p><strong>Du willst noch mehr?</strong>
+                Die besten unserer Absolventen erhalten die Möglichkeit zur Teilnahme an unserer <strong>Master-Class</strong>, welche deine Fullstack Development-Skills auf ein höchstes Level bringt.
+                Und falls du noch ein CAS Diplom anstreben möchstest: unsere Top-Absolventen erhalten zudem die Empfehlung, den Studiengang <a href="https://www.hsr.ch/de/weiterbildung/technik-und-it/cas/cas-front-end-engineering/" target="_blank">"CAS Front End Engineering" an der Hochschule Rapperswil</a> zu besuchen um ihre Skills dort noch mehr vertiefen zu können. Die Aufnahme erfolgt bei Empfehlung "sur Dossier" - d.h. für die Zulassung ist keine Berufsmatura erforderlich.</p>
 
         </div>
 

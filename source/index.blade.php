@@ -47,13 +47,12 @@
 
         </div>
         <div class="col l7 m6 s12 webpro-right">
-            <p>Die <strong><a href="/lehrgaenge/">Ausbildung für angehende Web Profis</a></strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt. Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt an der <strong>Hochschule für Technik Rapperswil</strong>, bei <strong>Liip AG in St.Gallen</strong>, an der <strong>ibW Höheren Fachschule Südostschweiz Chur</strong> sowie der <strong>Techfabrik Grabs</strong>.</p>
+            <p>Die <strong><a href="/lehrgaenge/">Ausbildung für angehende Web Profis</a></strong> ermöglicht Dir einen erfolgreichen Berufsstart in die Online-Welt. Initiiert und getragen durch führende Internet-Agenturen der Ostschweiz, durchgeführt <strong>St.Gallen</strong>, <strong>Grabs</strong>, <strong>Rapperswil SG</strong> sowie <strong>Chur</strong>.</p>
 
             <p>Die Lehrgänge beginnen mit der Basis-Ausbildung zum <a href="/lehrgaenge/web-integrator/">Web Integrator</a> und spezialisieren sich danach in den beiden Diplom-Lehrgängen zum <a href="/lehrgaenge/web-developer/">Web Developer</a> und <a href="/lehrgaenge/web-designer/">Web Designer</a>. Begleitend dazu bieten wir verschiedene Spezialisierungs-Kurse an welche dich für deine Aufgabe als Web Developer oder Designer optimal vorbereiten.</p>
 
             <h2 class="webpro sangalle--red">Lehrgänge 2019</h2>
             <p>Anfang Mai starten bereits wieder die nächsten <a href="/lehrgaenge/">Lehrgänge</a> - melde dich jetzt noch an und sei mit dabei!</p>
-            <p>Aktuell sind folgende vier Standorte geplant: Grabs SG, St.Gallen, Chur und Rapperswil</p>
             <p>Nächster Infoanlass: Freitag, 18. Januar 2018, 19 Uhr, Startfeld, Lerchenfeldstrasse 3, 9014 St. Gallen</p>
             <br>
         </div>

@@ -98,7 +98,7 @@
 
             <section id="anforderungen" class="section scrollspy">
                 <h2>Anforderungen:</h2>
-                <p>Lehrabschluss in einem Beruf mit mindestens dreijähriger Lehrzeit oder gleichwertiger Ausweis. Grundlegende Informatik-Anwenderkenntnisse sind zwingend erforderlich (sicherer Umgang mit dem Computer). Bei Unsicherheiten betreffend den Voraussetzungen stehen unsere Lehrgangsleiter gerne für ein Beurteilungsgespräch zur Verfügung.</p>
+                <p><!--Lehrabschluss in einem Beruf mit mindestens dreijähriger Lehrzeit oder gleichwertiger Ausweis.-->Grundlegende Informatik-Anwenderkenntnisse sind zwingend erforderlich (sicherer Umgang mit dem Computer). Bei Unsicherheiten betreffend den Voraussetzungen stehen unsere Lehrgangsleiter gerne für ein Beurteilungsgespräch zur Verfügung.</p>
             </section>
 
             <section id="abschluss" class="section scrollspy">
@@ -128,14 +128,15 @@
                 </p>
 
                 <p>
-                    <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
-                    <strong>Unterrichtszeiten:</strong> Dienstag 18.15 bis 21.30 Uhr, Donnerstag 18.15 bis 21.30 Uhr<br>
-                    <a href="/lehrgaenge/anmeldung/web-integrator-rapperswil/">Jetzt anmelden ></a>
-                </p>
-                <p>
                     <strong>Graubünden / Chur:</strong> ibW Chur, Gürtelstrasse 48 Gleis d, 7001 Chur<br>
                     <strong>Unterrichtszeiten:</strong> Montag 18.15 bis 21.30 Uhr, Mittwoch 18.15 bis 21.30 Uhr<br>
                     <a href="/lehrgaenge/anmeldung/web-integrator-chur/">Jetzt anmelden ></a>
+                </p>
+
+                <p>
+                    <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
+                    <strong>Unterrichtszeiten:</strong> Dienstag 18.15 bis 21.30 Uhr, Donnerstag 18.15 bis 21.30 Uhr<br>
+                    <a href="/lehrgaenge/anmeldung/web-integrator-rapperswil/">Jetzt anmelden ></a>
                 </p>
 
                 <h2>Termin Eröffnungsveranstaltung:</h2>
@@ -145,14 +146,12 @@
                 <p>Samstag 28. September 2019, 10.00 Uhr</p>
 
 
-                <!-- <p>Hinweis: die definitiven Unterrichtszeiten können auf Wunsch und in Absprache mit der jeweiligen Klasse leicht angepasst werden.</p> -->
-                <!--    <p>Hinweis: Aufgrund der bisherigen Teilnehmerzahl werden dieses Semester die drei Klassen zusammen gelegt und am Freitag Abend / Samstag Vormittag in Sargans (ibW Höhere Fachschule Südostschweiz, Bahnhofpark) durchgeführt. </p> -->
             </section>
 
             <section id="kosten" class="section scrollspy">
                 <h2>Kosten:</h2>
                 <p>
-                    Lehrgangsgebühr: CHF 3'100 <br>
+                    Lehrgangsgebühr: CHF 3'300 <br>
                     Prüfungsgebühr Abschlussdiplom: CHF 300
                 </p>
             </section>
