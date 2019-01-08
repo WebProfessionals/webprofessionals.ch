@@ -70,7 +70,7 @@
                 <p class="headline">Du gehörst zu den besten der Besten deiner Abschlussklasse und willst deine Fullstack Development Skills auf ein höchstes Level bringen? </p>
                 <p>
                     Mit der Einladung zur Teilnahme an der Master Class steht deiner Karriere als Top-EntwicklerIn nichts mehr im Weg.
-                    Du erlernst dabei die notwendigen Fähigkeiten um webbasierte Applikationen gemäss modernster Architekturen zu planen und umzusetzen.
+                    Du erlernst dabei die notwendigen Fähigkeiten um webbasierte Applikationen basierend auf modernsten Architekturen zu planen und umzusetzen.
                 </p>
                 <p>Zur Teilnahme an diesem Lehrgang der Lehrgang "Web Developer" mit einer Abschlussnote von mindestens 5.0 absolviert sein oder eine persönliche Empfehlung von mindestens zwei Dozenten vorliegen.</p>
             </div>
@@ -83,7 +83,7 @@
                     <li>REST Repetition und Routine: Konzeption und Umsetzung von REST API's (16 Lektionen)</li>
                 </ul>
                 <br>
-                <strong>Level 2: Master Class (160 Lektionen)</strong>
+                <strong>Level 2: Master Class (140 Lektionen)</strong>
                 <ul class="webpro-list">
                     <li>Konzeption: Aufbau moderner Web-Architekturen</li>
                     <li>Backend: Einsatz von Go in der Backend-Umgebung</li>
@@ -96,7 +96,7 @@
 
             <div id="dauer" class="section scrollspy">
                 <h2>Dauer:</h2>
-                <p>3 Semester, alle 2 Wochen Unterricht, 220 Lektionen, berufsbegleitend</p>
+                <p>2 Semester, alle 2 Wochen Unterricht, 180 Lektionen, berufsbegleitend</p>
             </div>
 
             <div id="klassen" class="section scrollspy">
