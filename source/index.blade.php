@@ -53,7 +53,7 @@
 
             <h2 class="webpro sangalle--red">Lehrgänge 2019</h2>
             <p>Anfang Mai starten bereits wieder die nächsten <a href="/lehrgaenge/">Lehrgänge</a> - melde dich jetzt noch an und sei mit dabei!</p>
-            <p>Nächster Infoanlass: Freitag, 18. Januar 2018, 19 Uhr, Startfeld, Lerchenfeldstrasse 3, 9014 St. Gallen</p>
+            @include('_partials.informationsanlaesse')
             <br>
         </div>
     </div>

@@ -5,6 +5,6 @@
         <li>- 02. März 2019, 13:30 Uhr, Gewerbepark "Schuhfabrik", Fabrikstrasse 24, 9472 Grabs</li>
     </ul>
     <p>Eine Anmeldung für die Informationsanlässe ist nicht notwendig. wir freuen uns aber natürlich sehr über eine kurze Nachricht auf info@web-professionals.ch falls ihr vorbei schauen werdet. Dies hilft uns bei der Vorbereitung von genügend Sitzplätzen :-)</p>
-    <p>Weitere Termine (Grabs, Rapperswil, Chur) sind derzeit in Abklärung und werden demnächst hier publiziert.</p>
+    <p>Weitere Termine (Grabs, Sargans, Chur) sind derzeit in Abklärung und werden demnächst hier publiziert.</p>
 
 </section>
