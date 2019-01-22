@@ -97,7 +97,7 @@
 
             <div id="dauer" class="section scrollspy">
                 <h2>Dauer:</h2>
-                <p>2 Semester, alle 2 Wochen Unterricht, 180 Lektionen, berufsbegleitend</p>
+                <p>2 Semester, alle 1-2 Wochen Unterricht, 180 Lektionen, berufsbegleitend</p>
             </div>
 
             <div id="klassen" class="section scrollspy">
