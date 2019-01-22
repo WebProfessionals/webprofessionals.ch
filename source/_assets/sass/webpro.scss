@@ -264,6 +264,9 @@ h1, h2,h3 {
 .webpro-clickable-card {
   cursor: pointer;
 }
+.webpro-clickable-card-no-redirect {
+  cursor: pointer;
+}
 .webpro-right {
   @media #{$large-and-up} {
     margin-top:10px;

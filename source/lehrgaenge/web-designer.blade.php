@@ -54,6 +54,7 @@
                         <li><a href="#infoanlaesse">Informationsanlässe</a></li>
                         <li><a href="#anmeldung">Anmeldung</a></li>
                     </ul>
+                    <a href="/lehrgaenge/master-class/">Master Class</a><br><br>
                     <br>
                     <a href="/lehrgaenge/anmeldung/">Anmeldung</a>
                 </nav>
@@ -111,8 +112,14 @@
             <div id="klassen" class="section scrollspy">
                 <h2>Klassen / Durchführungsorte:</h2>
                 <p>
-                    <strong>Klasse Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs<br>
-                    <strong>Unterrichtszeiten:</strong> Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
+                    <strong>Ostschweiz / Grabs SG:</strong> Gewerbepark, Fabrikstrasse 24, 9472 Grabs<br>
+                    <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
+                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
+                </p>
+                <p>
+                    <strong>St.Gallen:</strong> Startfeld, Lerchenfeldstrasse 3, 9014 St. Gallen<br>
+                    <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.30 Uhr, Samstag 09.00 - 12.15 Uhr<br>
+                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
                 </p>
             </div>
 
@@ -142,7 +149,7 @@
 
 
             <div id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/web-designer-grabs/">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
             </div>
 
 

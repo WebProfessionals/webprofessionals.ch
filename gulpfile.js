@@ -29,6 +29,9 @@ elixir(function(mix) {
     .scripts([
         'events.js'
       ], 'source/js/events.js')
+    .scripts([
+      'anmeldung.js'
+    ], 'source/js/anmeldung.js')
     .exec(bin.path() + ' build ' + env, ['./source/*', './source/**/*', '!./source/_assets/**/*'])
     .browserSync({
       port: port,

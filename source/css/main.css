@@ -6855,6 +6855,10 @@ h1, h2, h3 {
   cursor: pointer;
 }
 
+.webpro-clickable-card-no-redirect {
+  cursor: pointer;
+}
+
 @media only screen and (min-width: 993px) {
   .webpro-right {
     margin-top: 10px;

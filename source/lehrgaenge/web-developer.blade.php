@@ -19,7 +19,7 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Auf Eroberungskurs</span><br>
             <span class="webpro-hero2">Web Developer</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/web-developer/">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -54,6 +54,7 @@
                         <li><a href="#anmeldung">Anmeldung</a></li>
                     </ul>
                     <a href="/lehrgaenge/web-designer/">Web Designer</a><br><br>
+                    <a href="/lehrgaenge/master-class/">Master Class</a><br><br>
                     <a href="/lehrgaenge/anmeldung/">Anmeldung</a>
                 </nav>
             </div>
@@ -109,11 +110,19 @@
             <div id="klassen" class="section scrollspy">
                 <h2>Klassen / Durchführungsorte:</h2>
                 <p>
-                    <strong>Ostschweiz / Grabs SG:</strong> Techfabrik Grabs, Mühlbachstrasse 11a, 9472 Grabs, jeweils Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
+                    <strong>St.Gallen:</strong> Startfeld, Lerchenfeldstrasse 3, 9014 St. Gallen<br>
+                    <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.30 Uhr, Samstag 09.00 - 12.15 Uhr<br>
+                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
                 </p>
-
                 <p>
-                    <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil, jeweils Dienstag 18.00 bis 21.15 Uhr, Donnerstag 18.00 bis 21.15 Uhr. <strong>Hinweis:</strong> einige der Lektionen finden am Freitag/Samstag gemeinsam mit der Grabser Klasse in der Techfabrik Grabs statt.
+                    <strong>Ostschweiz / Grabs SG:</strong> Gewerbepark, Fabrikstrasse 24, 9472 Grabs<br>
+                    <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
+                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
+                </p>
+                <p>
+                    <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
+                    <strong>Unterrichtszeiten:</strong> Dienstag 18.15 bis 21.30 Uhr, Donnerstag 18.15 bis 21.30 Uhr<br>
+                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
                 </p>
             </div>
 
@@ -144,7 +153,7 @@
             @include('_partials.informationsanlaesse')
 
             <div id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/web-developer/">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
             </div>
 
 

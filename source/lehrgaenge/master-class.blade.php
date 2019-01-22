@@ -77,13 +77,14 @@
 
             <div id="inhalte" class="section scrollspy">
                 <h2>Inhalte / Fächer:</h2>
-                <strong>Level 1: Vorbereitungslehrgang (40 Lektionen)</strong>
+                <strong>Level 1: Vorbereitungslehrgang (52 Lektionen)</strong>
                 <ul class="webpro-list">
                     <li>Code like a pro: sicherer Umgang mit JavaScript ES6 (24 Lektionen)</li>
+                    <li>Frontend aus dem Handgelenk: CSS3 und HTML5 in Perfektion beherrschen (12 Lektionen)</li>
                     <li>REST Repetition und Routine: Konzeption und Umsetzung von REST API's (16 Lektionen)</li>
                 </ul>
                 <br>
-                <strong>Level 2: Master Class (140 Lektionen)</strong>
+                <strong>Level 2: Master Class (128 Lektionen)</strong>
                 <ul class="webpro-list">
                     <li>Konzeption: Aufbau moderner Web-Architekturen</li>
                     <li>Backend: Einsatz von Go in der Backend-Umgebung</li>
@@ -102,7 +103,8 @@
             <div id="klassen" class="section scrollspy">
                 <h2>Klassen / Durchführungsorte:</h2>
                 <p>
-                    <strong>Ostschweiz / Grabs SG:</strong> Gewerbepark Grabs, 9472 Grabs, jeweils Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
+                    <strong>Grabs SG:</strong> Gewerbepark Grabs, 9472 Grabs, jeweils Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
+                    <br>Je nach Anmeldungen kann der Lehrgang alternativ auch in St.Gallen stattfinden.
                 </p>
             </div>
 
@@ -110,7 +112,7 @@
             <section id="kosten" class="section scrollspy">
                 <h2>Kosten:</h2>
                 <p>
-                    Lehrgangsgebühr: CHF 5'000 <br>
+                    Lehrgangsgebühr: CHF 5'500 <br>
                     Prüfungsgebühr Abschlussdiplom: CHF 500
                 </p>
             </section>
@@ -131,7 +133,7 @@
             </div>
 
             <div id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/master-class/">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
             </div>
 
 

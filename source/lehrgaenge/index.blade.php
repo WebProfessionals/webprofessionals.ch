@@ -50,7 +50,7 @@
                 <a href="/lehrgaenge/web-integrator/">Web Integrator</a><br>
                 <a href="/lehrgaenge/web-developer/">Web Developer</a><br>
                 <a href="/lehrgaenge/web-designer/">Web Designer</a><br><br>
-                <!--<a href="/lehrgaenge/master-class/">Master Class</a><br><br>-->
+                <a href="/lehrgaenge/master-class/">Master Class</a><br><br>
                 <a href="/lehrgaenge/anmeldung/">Anmeldung</a>
             </nav>
         </div>

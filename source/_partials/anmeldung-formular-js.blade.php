@@ -1,10 +1,25 @@
-<br>
 <div class="row">
     <div class="col s12">
-        <input type="checkbox" id="agb" name="agb" required />
-        <label for="agb">Ich bestätige, dass ich die <a href="#modal1">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
-        <br>&nbsp;
+        <p id="js-anmeldung-step3-grabs">
+            <input type="checkbox" id="sg" name="grabs" value="Grabs" />
+            <label for="sg">Grabs (Freitag Abend / Samstag Vormittag)</label>
+        </p>
+        <p id="js-anmeldung-step3-stgallen">
+            <input type="checkbox" id="grabs" name="sg" value="St.Gallen" />
+            <label for="grabs">St.Gallen (Freitag Abend / Samstag Vormittag)</label>
+        </p>
+        <p id="js-anmeldung-step3-chur">
+            <input type="checkbox" id="chur" name="chur" value="Chur" />
+            <label for="chur">Chur (Montag Abend / Mittwoch Abend)</label>
+        </p>
+        <p id="js-anmeldung-step3-rapperswil">
+            <input type="checkbox" id="rapperswil" name="rapperswil" value="Rapperswil" />
+            <label for="rapperswil">Rapperswil (Dienstag Abend / Donnerstag Abend)</label>
+        </p>
     </div>
+</div>
+
+<div class="row">
     <div class="input-field col s6">
         <input name="vorname" id="vorname" type="text" class="validate" required>
         <label for="vorname">Vorname *</label>
@@ -62,7 +77,7 @@
 </div>
 <div class="row">
     <div class="input-field col s12">
-        <textarea name="informatikkenntnisse" id="v" class="materialize-textarea"></textarea>
+        <textarea name="informatikkenntnisse" id="informatikkenntnisse" class="materialize-textarea"></textarea>
         <label for="textarea1">Informatikkenntnisse</label>
     </div>
 </div>
@@ -87,16 +102,21 @@
         <label for="referal-more">Wenn "Empfehlung": über wen? Wenn "anderes": wie?</label>
     </div>
 </div>
+
 <div class="row">
-    <div class="input-field col s12">
+    <div class="col s12">
+        <input type="checkbox" id="agb" name="agb" required />
+        <label for="agb">Ich bestätige, dass ich die <a href="#modal1">Allgemeinen Geschäftsbedingungen akzeptiere.</a> *</label>
+        <br>&nbsp;
+    </div>
+</div>
 
-        <div id='recaptcha' class="g-recaptcha"
-             data-sitekey="6LeDHyAUAAAAADePHhP0rZ7OsxCB_OKIRgyucP6g"
-             data-size="invisible"
-             data-callback="onSubmit">
-        </div>
+<div class="row">
+    <div class="col s12">
+        <input type="hidden" id="lehrgang" name="lehrgang">
+        <input type="hidden" id="standort" name="standort">
+        <input type="submit" class="waves-effect waves-light btn" value="Anmelden">
 
-        <button id='submitbutton' class="waves-effect waves-light btn">anmelden</button>
     </div>
 </div>
 

@@ -20,7 +20,7 @@
             <span class="webpro-hero1">Das digitale Einmaleins</span>
             <br>
             <span class="webpro-hero2">Web Integrator</span><br><br>
-            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/web-integrator/">Jetzt anmelden</a>
+            <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
         </div>
     </header>
 @endsection
@@ -58,6 +58,7 @@
                     </ul>
                     <a href="/lehrgaenge/web-developer/">Web Developer</a><br>
                     <a href="/lehrgaenge/web-designer/">Web Designer</a><br><br>
+                    <a href="/lehrgaenge/master-class/">Master Class</a><br><br>
                     <a href="/lehrgaenge/anmeldung/">Anmeldung</a>
                 </nav>
             </div>
@@ -118,25 +119,25 @@
                 <p>
                     <strong>St.Gallen:</strong> Startfeld, Lerchenfeldstrasse 3, 9014 St. Gallen<br>
                     <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.30 Uhr, Samstag 09.00 - 12.15 Uhr<br>
-                    <a href="/lehrgaenge/anmeldung/web-integrator-stgallen/">Jetzt anmelden ></a>
+                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
                 </p>
 
                 <p>
-                    <strong>Ostschweiz / Grabs SG:</strong> Fabrikstrasse 24, 9472 Grabs<br>
+                    <strong>Ostschweiz / Grabs SG:</strong> Gewerbepark, Fabrikstrasse 24, 9472 Grabs<br>
                     <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
-                    <a href="/lehrgaenge/anmeldung/web-integrator-grabs/">Jetzt anmelden ></a>
+                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
                 </p>
 
                 <p>
                     <strong>Graubünden / Chur:</strong> ibW Chur, Gürtelstrasse 48 Gleis d, 7001 Chur<br>
                     <strong>Unterrichtszeiten:</strong> Montag 18.15 bis 21.30 Uhr, Mittwoch 18.15 bis 21.30 Uhr<br>
-                    <a href="/lehrgaenge/anmeldung/web-integrator-chur/">Jetzt anmelden ></a>
+                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
                 </p>
 
                 <p>
                     <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
                     <strong>Unterrichtszeiten:</strong> Dienstag 18.15 bis 21.30 Uhr, Donnerstag 18.15 bis 21.30 Uhr<br>
-                    <a href="/lehrgaenge/anmeldung/web-integrator-rapperswil/">Jetzt anmelden ></a>
+                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
                 </p>
 
                 <h2>Termin Eröffnungsveranstaltung:</h2>
@@ -181,7 +182,7 @@
             @include('_partials.informationsanlaesse')
 
             <section id="anmeldung" class="section scrollspy">
-                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/web-integrator/">Jetzt anmelden</a>
+                <a class="waves-effect waves-light btn webpro-red" href="/lehrgaenge/anmeldung/">Jetzt anmelden</a>
             </section>
 
 

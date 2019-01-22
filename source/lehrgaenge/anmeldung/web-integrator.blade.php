@@ -1,8 +1,18 @@
 @extends('_layouts.master')
 
+{{-- Scripts Header --}}
+@section('scripts-header')
+    <script type="text/javascript" src="https://cdn.emailjs.com/sdk/2.3.2/email.min.js"></script>
+    <script type="text/javascript">
+      (function(){
+        emailjs.init("user_oWoIOHJSeCN5VY2mEDlJo");
+      })();
+    </script>
+@endsection
+
 {{-- Header --}}
 @section('header')
-    <title>Anmeldung Lehrgänge Web Integrator | Web Professionals</title>
+    <title>Anmeldung Lehrgang Web Integrator | Web Professionals</title>
     <style>
         #webpro-landscape {
             display:none!important;
@@ -23,9 +33,13 @@
         <div class="webpro-hero-claim">
             <span class="webpro-hero1">Leg' los!</span><br>
             <span class="webpro-hero2">Step by step zum Web-Profi</span><br>
-            <!-- <a class="waves-effect waves-light btn webpro-red webpro-hero-button hide-on-small-only">Jetzt informieren</a> -->
+
         </div>
     </header>
+@endsection
+
+@section('scripts-header')
+    @include('_partials.js-anmeldung')
 @endsection
 
 {{-- Main Navigation --}}
@@ -45,68 +59,21 @@
             ])
         </div>
         <div class="col l7 m6 webpro-right">
-
-            <h2>Bitte wähle den gewünschten Standort deines Web Integrator Lehrgangs aus:</h2>
-            <div class="row">
-                <div class="col s12 m12">
-                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator-stgallen/'>
-                        <div class="card-content white-text">
-                            <span class="card-title">St.Gallen</span>
-                            <p>Start: Samstag, 10. November 2018, Freitag 18:15 bis 21:30 Uhr, Samstag 09:00 bis 12:00 Uhr</p>
-                        </div>
-                        <div class="card-action webpro-green">
-                            <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator-stgallen/">Standort wählen ></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col s12 m12">
-                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator-grabs/'>
-                        <div class="card-content white-text">
-                            <span class="card-title">Grabs SG</span>
-                            <p>Start: Samstag, 10. November 2018, Freitag 18:15 bis 21:30 Uhr, Samstag 09:00 bis 12:00 Uhr</p>
-                        </div>
-                        <div class="card-action webpro-green">
-                            <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator-grabs/">Standort wählen ></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col s12 m12">
-                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator-rapperswil/'>
-                        <div class="card-content white-text">
-                            <span class="card-title">Rapperswil SG</span>
-                            <p>Start: Samstag, 10. November 2018, Dienstag und Donnerstag Abend 18:15 bis 21:30 Uhr</p>
-                        </div>
-                        <div class="card-action webpro-green">
-                            <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator-rapperswil/">Standort wählen ></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col s12 m12">
-                    <div class="card grey darken-3 hoverable webpro-clickable-card z-depth-1" data-href='/lehrgaenge/anmeldung/web-integrator-chur/'>
-                        <div class="card-content white-text">
-                            <span class="card-title">Chur GR</span>
-                            <p>Start: Samstag, 10. November 2018, Montag und Mittwoch Abend 18:15 bis 21:30 Uhr</p>
-                        </div>
-                        <div class="card-action webpro-green">
-                            <a class="white-text" href="/lehrgaenge/anmeldung/web-integrator-chur/">Standort wählen ></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <h2>Anmeldung zum Lehrgang Web Integrator Herbst/Winter 2019/2020</h2>
+            <form id="anmeldung-form">
+                @include('_partials.anmeldung-formular-js')
+                <input type="hidden" name="lehrgang" id="lehrgang" value="Web Integrator" />
+            </form>
         </div>
 
-
     </div>
-
+    <br><br><br><br><br><br>&nbsp;
 @endsection
 
 @section('subnavmobile')
-    <!--
-    <h2 class="hide-on-med-and-up">Lehrgänge:</h2>
-    <div class="collection webpro hide-on-med-and-up">
-        <a href="/lehrgaenge/web-integrator/" class="collection-item webpro-green white-text">Web Integrator</a>
-        <a href="/lehrgaenge/web-developer/" class="collection-item webpro-green white-text">Web Developer</a>
-        <a href="/lehrgaenge/web-designer/" class="collection-item webpro-green white-text">Web Designer</a>
-    </div>
-    -->
+
+@endsection
+
+@section('scripts-footer')
+
 @endsection
