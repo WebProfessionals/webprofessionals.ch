@@ -103,7 +103,7 @@
             <div id="klassen" class="section scrollspy">
                 <h2>Klassen / Durchführungsorte:</h2>
                 <p>
-                    <strong>Grabs SG:</strong> Gewerbepark Grabs, 9472 Grabs, jeweils Freitag 18.00 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr
+                    <strong>Grabs SG:</strong> Gewerbepark Grabs, 9472 Grabs, jeweils Freitag 18.15 bis 21.30 Uhr, Samstag 09.00 - 12.15 Uhr
                     <br>Je nach Anmeldungen kann der Lehrgang alternativ auch in St.Gallen stattfinden.
                 </p>
             </div>
