@@ -65,22 +65,22 @@
                 <tbody>
                 <tr>
                     <td>WordPress Custom Post Types und Gutenberg-Editor</td>
-                    <td>in Planung 2018</td>
+                    <td>in Planung 2019</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
                     <td>Hands on workshop Polymer</td>
-                    <td>in Planung 2018</td>
+                    <td>in Planung 2019</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
                     <td>Hands on workshop Vue.JS</td>
-                    <td>in Planung 2018</td>
+                    <td>in Planung 2019</td>
                     <td>Grabs</td>
                 </tr>
                 <tr>
                     <td>Umsteigen auf ES6 (ECMAScript 2015)</td>
-                    <td>in Planung 2018</td>
+                    <td>in Planung 2019</td>
                     <td>Grabs</td>
                 </tr>
 <!--

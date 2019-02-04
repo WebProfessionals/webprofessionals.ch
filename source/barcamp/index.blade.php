@@ -58,15 +58,15 @@
                 <a href="/barcamp/presse/">Pressematerial</a><br>
             </nav>
             <br>
-
+<!--
             <span class="show-on-medium-and-up">
                 <br><br><img class="responsive-img hackathon__logo--front" src="/images/barcamp/logo-hackathon-3.png">
             </span>
-
+-->
 
         </div>
         <div class="col l7 m6 webpro-right">
-
+<!--
             <h2 class="webpro">Hackathon #3 - Game on!</h2>
             <p>Es ist wieder soweit - der 3. Web Professionals and Friends Hackathon steht an! Unter dem Thema <strong>"Game On"</strong> stellen wir uns der Aufgabe, mittels Web-Technologien spannende, unterhaltsame und lehrreiche Games zu entwickeln. Auch dieses Mal werden die Teilnehmer des Hackathons durch erfahrene Senior Developers unterstützt. Und wer bereits bei einem oder mehreren unserer Barcamps und Hackathons mit dabei war weiss: verpassen geht auf keinen Fall!</p>
             <ul>
@@ -88,7 +88,7 @@
             <section id="anmeldung" class="section scrollspy">
                 <a class="waves-effect waves-light btn webpro-red" href="/barcamp/anmeldung/">Jetzt anmelden</a>
             </section>
-
+-->
             <h2 class="webpro">Web Professionals and Friends</h2>
 
             <p>Der Verein "Web Professionals and Friends" organisiert halbjährlich die <strong>Barcamps und Hackathons</strong> welche halbjährlich stattfinden und schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung wurden.
@@ -217,6 +217,20 @@
     </div>
     <div class="row" >
         <div class="col s12"><h2 class="webpro" id="archiv" name="archiv">Bisherige Barcamps:</h2></div>
+        <div class="col l4 m6 s12">
+            <div class="card">
+                <div class="card-image">
+                    <img src="/images/barcamp/hackathon2.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title">#3 Hackathon 2018</span>
+                    <p>Thema: "Game on!"<br>Location: Techfabrik Grabs<br>Datum: 27./28. Oktober 2018</p>
+                </div>
+                <div class="card-action">
+                    <a href="https://photos.app.goo.gl/No23q9drLnYm4FDP8" target="_blank">Fotos</a>
+                </div>
+            </div>
+        </div>
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">
