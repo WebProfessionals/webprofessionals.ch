@@ -74,9 +74,10 @@
                 <p class="headline">Deine Welt ist das Web – dich trifft man meist online. Doch nur User sein reicht dir nicht mehr. Du willst es jetzt selbst wissen, willst das Internet selber gestalten. Dich auch beruflich im virtuellen Raum bewegen. Eigene Websites gestalten – statt sie nur zu nutzen.</p>
                 <p>Dann leg los. Belege den Basiskurs zum Web Integrator. Fernab von grauer Theorie bringen dir Experten aus der Praxis alles bei, was du wissen musst:</p>
                 <ul class="webpro-list">
-                    <li>Grundlagen des Internets und der Web-Programmierung.</li>
-                    <li>Pflege von Websites mit Content-Management-Systemen.</li>
+                    <li>Entwicklung und Funktionsweise des Internets.</li>
                     <li>Grundlagen der Gestaltung und des Umgangs mit Bildbearbeitungsprogrammen.</li>
+                    <li>Grundlagen der modernen Web-Programmierung.</li>
+                    <li>Erstellung und Pflege von Websites mit Content-Management-Systemen.</li>
                 </ul>
                 <p>Step by step lernst du mit kursbegleitenden Arbeiten alles, worauf es in der Praxis ankommt. So schaffst du die ideale Ausgangslage für einen erfolgreichen Berufsstart in der Online-Welt. Egal, ob du später in einer Internet-Agentur arbeiten oder Websites betreuen möchtest.</p>
             </section>
@@ -109,7 +110,7 @@
 
             <section id="dauer" class="section scrollspy">
                 <h2>Dauer:</h2>
-                <p>1 Semester, 110 Lektionen, berufsbegleitend</p>
+                <p>1 Semester, 108 Lektionen, berufsbegleitend</p>
                 <p>nächster Durchführungstermin: 4. Mai 2019 bis 28. September 2019</p>
             </section>
 
@@ -119,33 +120,33 @@
                 <p>
                     <strong>St.Gallen:</strong> Startfeld, Lerchenfeldstrasse 3, 9014 St. Gallen<br>
                     <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.30 Uhr, Samstag 09.00 - 12.15 Uhr<br>
-                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
+                    <a href="/files/lehrgaenge/stundenplaene/webpro_integrator_19_stgallen.pdf">Stundenplan St.Gallen, Frühling / Sommer 2019 (prov., in Arbeit)</a>
                 </p>
 
                 <p>
                     <strong>Ostschweiz / Grabs SG:</strong> Gewerbepark, Fabrikstrasse 24, 9472 Grabs<br>
                     <strong>Unterrichtszeiten:</strong> Freitag 18.15 bis 21.15 Uhr, Samstag 09.00 - 12.15 Uhr<br>
-                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
+                    <a href="/files/lehrgaenge/stundenplaene/webpro_integrator_19_grabs.pdf">Stundenplan St.Gallen, Frühling / Sommer 2019 (prov., in Arbeit)</a>
                 </p>
 
                 <p>
                     <strong>Graubünden / Chur:</strong> ibW Chur, Gürtelstrasse 48 Gleis d, 7001 Chur<br>
                     <strong>Unterrichtszeiten:</strong> Montag 18.15 bis 21.30 Uhr, Mittwoch 18.15 bis 21.30 Uhr<br>
-                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
+                    <a href="/files/lehrgaenge/stundenplaene/webpro_integrator_19_chur.pdf">Stundenplan St.Gallen, Frühling / Sommer 2019 (prov., in Arbeit)</a>
                 </p>
 
                 <p>
                     <strong>Zürich / Rapperswil SG:</strong> Hochschule für Technik, 8640 Rapperswil<br>
                     <strong>Unterrichtszeiten:</strong> Dienstag 18.15 bis 21.30 Uhr, Donnerstag 18.15 bis 21.30 Uhr<br>
-                    <a href="/lehrgaenge/anmeldung/">Jetzt anmelden ></a>
+                    <a href="/files/lehrgaenge/stundenplaene/webpro_integrator_19_rapperswil.pdf">Stundenplan St.Gallen, Frühling / Sommer 2019 (prov., in Arbeit)</a>
                 </p>
-
+<!--
                 <h2>Termin Eröffnungsveranstaltung:</h2>
                 <p>Die Eröffnungsveranstaltung findet für die Lehrgänge Grabs, St.Gallen, Chur und Rapperswil am Samstag, 10. November 2018 von 08.15 – 13.00 Uhr in Sargans (ibW Bahnhofpark) statt.</p>
 
                 <h2>Termin Diplomprüfung:</h2>
                 <p>Samstag 28. September 2019, 10.00 Uhr</p>
-
+-->
 
             </section>
 
