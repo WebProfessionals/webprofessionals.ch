@@ -220,7 +220,7 @@
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">
-                    <img src="/images/barcamp/hackathon3.jpg">
+                    <img src="/images/barcamp/hackathon3b.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title">#3 Hackathon 2018</span>
