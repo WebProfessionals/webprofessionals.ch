@@ -91,7 +91,7 @@
 -->
             <h2 class="webpro">Web Professionals and Friends</h2>
 
-            <p>Der Verein "Web Professionals and Friends" organisiert halbjährlich die <strong>Barcamps und Hackathons</strong> welche halbjährlich stattfinden und schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung wurden.
+            <p>Der Verein "Web Professionals and Friends" organisiert die <strong>Barcamps und Hackathons</strong> welche halbjährlich stattfinden und schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung wurden.
                 Mittlerweile reisen die Teilnehmer nicht nur aus allen Ecken der Schweiz, sondern sogar extra aus London an um an einem unserer Camps teilnehmen zu können.</p>
 
             <p><strong>Was ist ein Barcamp?</strong> Eine Un-Konferenz, bei welcher das Thema vorgegeben ist, nicht jedoch die Inhalte der einzelnen Sessions. Diese werden ad-hoc durch die Teilnehmer selber festgelegt, geplant und durchgeführt.</p>
