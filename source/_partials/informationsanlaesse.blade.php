@@ -1,7 +1,7 @@
 <section id="infoanlaesse" class="section scrollspy">
     <h2>Nächste Informationsanlässe:</h2>
     <ul class="webpro-list">
-        <li>02. März 2019, 13:30 Uhr, Gewerbepark "Schuhfabrik", Fabrikstrasse 24, 9472 Grabs</li>
+        <li>02. März 2019, 13:30 Uhr, Gewerbepark "Schuhfabrik", Fabrikstrasse 24, 9472 Grabs <a href="https://goo.gl/maps/prTrCyyjt5B2" target="_blank">(Google Maps)</a></li>
         <li>04. März 2019, 19:00 Uhr, ibW Höhere Fachschule Südostschweiz, Bahnhofpark 2a, 7320 Sargans</li>
         <li>...drei weitere Termine (März/April) in Grabs, Chur sowie St.Gallen folgen noch.</li>
     </ul>
