@@ -39,7 +39,7 @@
 <h2>Adresse</h2>
 <p>
     Web Professionals<br>
-    Mühlbachstrasse 11a<br>
+    Fabrikstrasse 24<br>
     9472 Grabs
 </p>
 

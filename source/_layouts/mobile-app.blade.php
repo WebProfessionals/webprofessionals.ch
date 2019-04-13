@@ -50,7 +50,7 @@
                 <div class="row">
                     <div class="col l6 s12">
                         <h5 class="white-text">Web Professionals</h5>
-                        <p class="grey-text text-lighten-4">Techfabrik<br>Mühlbachstrasse 11a<br>CH-9472 Grabs<br><br>
+                        <p class="grey-text text-lighten-4">Techfabrik<br>Fabrikstrasse 24<br>CH-9472 Grabs<br><br>
                             <i class="material-icons tiny">email</i>&nbsp;info[at]web-professionals.ch<br>
                             <i class="material-icons tiny">phone</i>&nbsp;077 460 38 85</p>
                     </div>
