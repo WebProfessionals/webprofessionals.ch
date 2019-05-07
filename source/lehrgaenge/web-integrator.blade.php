@@ -111,7 +111,7 @@
             <section id="dauer" class="section scrollspy">
                 <h2>Dauer:</h2>
                 <p>1 Semester, 108 Lektionen, berufsbegleitend</p>
-                <p>nächster Durchführungstermin: 4. Mai 2019 bis 28. September 2019</p>
+                <p>nächster Durchführungstermin: Anfang November 2019 bis Ende März 2020</p>
             </section>
 
             <section id="klassen" class="section scrollspy">

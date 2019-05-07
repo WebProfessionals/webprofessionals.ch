@@ -59,7 +59,7 @@
                             <div class="card-content white-text">
                                 <span class="card-title">Web Integrator (Basislehrgang)</span>
                                 <p>Standorte: Grabs, St.Gallen, Chur, Rapperswil</p>
-                                <p>Nächste Durchführung: Mai - September 2019</p>
+                                <p>Nächste Durchführung: November 2019 - März 2020</p>
                             </div>
                             <div class="card-action webpro-green">
                                 <span class="white-text">weiter zur Auswahl des Standorts ></span>
@@ -95,7 +95,7 @@
                             <div class="card-content white-text">
                                 <span class="card-title">Master Class (Vertiefungslehrgang)</span>
                                 <p>Standort: Grabs oder St.Gallen</p>
-                                <p>Nächste Durchführung: Frühling 2019 - Frühling 2020</p>
+                                <p>Nächste Durchführung: Herbst 2019 - Herbst 2020</p>
                             </div>
                             <div class="card-action webpro-green">
                                 <span class="white-text">weiter zur Auswahl des Standorts ></span>
