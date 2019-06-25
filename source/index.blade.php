@@ -76,6 +76,25 @@
 
         <!-- Card Start -->
         <div class="col l7 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/barcamp/'>
+                <div class="card-image">
+                    <img src="/images/aktuelles/2017-css-awesome-camp5-02.jpg" alt="Web Integrator St.Gallen" title="Web Integrator St.Gallen">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">WebPro + Friends Hackathon 10.0 - Hack for Good: MINT!</span>
+                    <p>Die 10. Veranstaltung im Rahmen unserer Barcamps / Hackathons soll erneut etwas Besonderes werden. Aus diesem Grund haben wir für Euch die perfekte Location ausgesucht: den Krempel in Buchs. Krempel-Kenner wissen: nicht nur perfekt um ungestört zu coden, sondern auch um Abends gemeinsam die erstellten Applikationen zu feiern.</p>
+                    <p>Das Thema: MINT. Mathematik, Informatik, Naturwissenschaft und Technik bilden für jedeN HeranwachsendeN die Basis für eine aktive Mitgestaltung der Zukunft. Gemeinsam wollen wir Applikationen entwickeln, welche Kindern und Jugendlichen den Zugang zur Technologie und Naturwisssenschaft erleichtert. </p>
+                    <p>25. Juni 2019</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2018-04-23-web-integrator-st-gallen/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l5 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2018-04-23-web-integrator-st-gallen/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/2018-04-liip.jpg" alt="Web Integrator St.Gallen" title="Web Integrator St.Gallen">
@@ -93,7 +112,7 @@
         <!-- Card End -->
 
         <!-- Card Start -->
-        <div class="col l5 m6">
+        <div class="col l6 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2018-03-20-jana-heeb/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/jana01.jpg" alt="Jana Heeb" title="Jana Heeb">
@@ -168,24 +187,7 @@
         </div>
         <!-- Card End -->
 
-        <!-- Card Start -->
-        <div class="col l6 m6">
-            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-03-03-hakan-arioglu/'>
-                <div class="card-image">
-                    <img src="/images/testimonials/hakan_arioglu.jpg" alt="Hakan Arioglu" title="Hakan Arioglu">
-                </div>
-                <div class="card-content white-text">
-                    <span class="card-title">Portrait: Hakan Arioglu</span>
-                    <p>Frontend Developer bei Namics AG</p>
-                    <p><em>"Um all den neuen Web-Technologien gerecht zu werden, muss man früher oder später diverse Kurse besuchen."</em></p>
-                    <p>3. März 2017</p>
-                </div>
-                <div class="card-action">
-                    <a class="white-text" href="/aktuelles/2017-03-03-hakan-arioglu/">mehr</a>
-                </div>
-            </div>
-        </div>
-        <!-- Card End -->
+
 
 
 

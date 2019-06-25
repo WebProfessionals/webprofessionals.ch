@@ -54,14 +54,14 @@
 
             <form class="col s12" action="https://formspree.io/rolf@web-professionals.ch" method="POST">
                     <div class="row">
-                        <div class="col s12"><strong>Ja, ich lasse mir den 3. Hackathon vom 27. und 28. Oktober 2018 natürlich nicht entgehen und melde mich hiermit an.</strong></div>
+                        <div class="col s12"><strong>Ja, ich lasse mir den 4. Hackathon vom 3. August 2019 natürlich nicht entgehen und melde mich hiermit an.</strong></div>
                     </div>
-
+<!--
 
                     <div class="row">
                         <div class="col s12">
                             <input type="checkbox" id="camper" name="camper" />
-                            <label for="camper">Ich werde in der Techfabrik campieren.</label>
+                            <label for="camper">Ich werde im Krempel campieren.</label>
                         </div>
                     </div>
                     <div class="row">
@@ -91,7 +91,7 @@
                             </select>
                             <label for="hotel">Grösse</label>
                         </div>
-                    </div>
+                    </div>-->
 
                     <div class="row">
                         <div class="input-field col s6">

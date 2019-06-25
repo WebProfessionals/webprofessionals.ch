@@ -66,13 +66,15 @@
 
         </div>
         <div class="col l7 m6 webpro-right">
-<!--
-            <h2 class="webpro">Hackathon #3 - Game on!</h2>
-            <p>Es ist wieder soweit - der 3. Web Professionals and Friends Hackathon steht an! Unter dem Thema <strong>"Game On"</strong> stellen wir uns der Aufgabe, mittels Web-Technologien spannende, unterhaltsame und lehrreiche Games zu entwickeln. Auch dieses Mal werden die Teilnehmer des Hackathons durch erfahrene Senior Developers unterstützt. Und wer bereits bei einem oder mehreren unserer Barcamps und Hackathons mit dabei war weiss: verpassen geht auf keinen Fall!</p>
+
+            <h2 class="webpro">Hackathon #4 - Hack for Good - MINT!</h2>
+            <p>Die 10. Veranstaltung im Rahmen unserer Barcamps / Hackathons soll erneut etwas Besonderes werden. Aus diesem Grund haben wir für Euch die perfekte Location ausgesucht: den Krempel in Buchs. Krempel-Kenner wissen: nicht nur perfekt um ungestört zu coden, sondern auch um Abends gemeinsam die erstellten Applikationen zu feiern.</p>
+            <p>Das Thema: MINT. Mathematik, Informatik, Naturwissenschaft und Technik bilden für jedeN HeranwachsendeN die Basis für eine aktive Mitgestaltung der Zukunft. Gemeinsam wollen wir Applikationen entwickeln, welche Kindern und Jugendlichen den Zugang zur Technologie und Naturwisssenschaft erleichtert.</p>
+            <p>Auch dieses Mal werden die Teilnehmer des Hackathons durch erfahrene Senior Developers unterstützt. Und wer bereits bei einem oder mehreren unserer Barcamps und Hackathons mit dabei war weiss: verpassen geht auf keinen Fall!</p>
             <ul>
-                <li><strong>Start:</strong> 27. Oktober 2018, 09:00 Uhr</li>
-                <li><strong>Ende:</strong> 28. Oktober 2018, 12:00 Uhr</li>
-                <li><strong>Ort:</strong> Techfabrik, Mühlbachstrasse 11a, 9472 Grabs</li>
+                <li><strong>Start:</strong> 3. August 2019, 09:00 Uhr</li>
+                <li><strong>Ende:</strong> 3. August 2019, 23:59 Uhr</li>
+                <li><strong>Ort:</strong> Krempel, Wiedenstrasse 48, 9470 Buchs</li>
                 <li><strong>Hashtag:</strong> <a href="https://twitter.com/search?q=%23webprocamp&src=typd" target="_blank">#webprocamp</a></li>
                 <li><strong>Teilnahmegebühr:</strong> CHF 30 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
                 <li><strong>Übernachtung:</strong> Untenstehend findest du eine Liste von Hotels in der Nähe. Es besteht jedoch auch die Möglichkeit, in der Techfabrik zu übernachten.</li>
@@ -88,7 +90,7 @@
             <section id="anmeldung" class="section scrollspy">
                 <a class="waves-effect waves-light btn webpro-red" href="/barcamp/anmeldung/">Jetzt anmelden</a>
             </section>
--->
+
             <h2 class="webpro">Web Professionals and Friends</h2>
 
             <p>Der Verein "Web Professionals and Friends" organisiert die <strong>Barcamps und Hackathons</strong> welche halbjährlich stattfinden und schnell zu einem wichtigen Anlass inner- und ausserhalb der Web Professionals Ausbildung wurden.
@@ -220,34 +222,6 @@
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">
-                    <img src="/images/barcamp/hackathon3b.jpg">
-                </div>
-                <div class="card-content">
-                    <span class="card-title">#3 Hackathon 2018</span>
-                    <p>Thema: "Game on!"<br>Location: Techfabrik Grabs<br>Datum: 27./28. Oktober 2018</p>
-                </div>
-                <div class="card-action">
-                    <a href="https://photos.app.goo.gl/No23q9drLnYm4FDP8" target="_blank">Fotos</a>
-                </div>
-            </div>
-        </div>
-        <div class="col l4 m6 s12">
-            <div class="card">
-                <div class="card-image">
-                    <img src="/images/barcamp/hackathon2.jpg">
-                </div>
-                <div class="card-content">
-                    <span class="card-title">#2 Hackathon 2018</span>
-                    <p>Thema: "Hack for Good"<br>Location: Techfabrik Grabs<br>Datum: 17./18. März 2018</p>
-                </div>
-                <div class="card-action">
-                    <a href="/aktuelles/2018-03-19-hackathon2-hack-for-good/">weitere Infos</a>
-                </div>
-            </div>
-        </div>
-        <div class="col l4 m6 s12">
-            <div class="card">
-                <div class="card-image">
                     <img src="/images/barcamp/autumn_camp_2017.jpg">
 
                 </div>
@@ -337,6 +311,34 @@
 
     <div class="row">
         <div class="col s12"><h2 class="webpro">Bisherige Hackathons:</h2></div>
+        <div class="col l4 m6 s12">
+            <div class="card">
+                <div class="card-image">
+                    <img src="/images/barcamp/hackathon3b.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title">#3 Hackathon 2018</span>
+                    <p>Thema: "Game on!"<br>Location: Techfabrik Grabs<br>Datum: 27./28. Oktober 2018</p>
+                </div>
+                <div class="card-action">
+                    <a href="https://photos.app.goo.gl/No23q9drLnYm4FDP8" target="_blank">Fotos</a>
+                </div>
+            </div>
+        </div>
+        <div class="col l4 m6 s12">
+            <div class="card">
+                <div class="card-image">
+                    <img src="/images/barcamp/hackathon2.jpg">
+                </div>
+                <div class="card-content">
+                    <span class="card-title">#2 Hackathon 2018</span>
+                    <p>Thema: "Hack for Good"<br>Location: Techfabrik Grabs<br>Datum: 17./18. März 2018</p>
+                </div>
+                <div class="card-action">
+                    <a href="/aktuelles/2018-03-19-hackathon2-hack-for-good/">weitere Infos</a>
+                </div>
+            </div>
+        </div>
         <div class="col l4 m6 s12">
             <div class="card">
                 <div class="card-image">

@@ -43,6 +43,25 @@
 
         <!-- Card Start -->
         <div class="col l4 m6">
+            <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2017-03-03-hakan-arioglu/'>
+                <div class="card-image">
+                    <img src="/images/testimonials/hakan_arioglu.jpg" alt="Hakan Arioglu" title="Hakan Arioglu">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title">Portrait: Hakan Arioglu</span>
+                    <p>Frontend Developer bei Namics AG</p>
+                    <p><em>"Um all den neuen Web-Technologien gerecht zu werden, muss man früher oder später diverse Kurse besuchen."</em></p>
+                    <p>3. März 2017</p>
+                </div>
+                <div class="card-action">
+                    <a class="white-text" href="/aktuelles/2017-03-03-hakan-arioglu/">mehr</a>
+                </div>
+            </div>
+        </div>
+        <!-- Card End -->
+
+        <!-- Card Start -->
+        <div class="col l4 m6">
             <div class="card large webpro-green hoverable webpro-clickable-card" data-href='/aktuelles/2018-03-20-jana-heeb/'>
                 <div class="card-image">
                     <img src="/images/aktuelles/jana01.jpg" alt="Jana Heeb" title="Jana Heeb">
