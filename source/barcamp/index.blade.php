@@ -76,8 +76,8 @@
                 <li><strong>Ende:</strong> 3. August 2019, 23:59 Uhr</li>
                 <li><strong>Ort:</strong> Krempel, Wiedenstrasse 48, 9470 Buchs</li>
                 <li><strong>Hashtag:</strong> <a href="https://twitter.com/search?q=%23webprocamp&src=typd" target="_blank">#webprocamp</a></li>
-                <li><strong>Teilnahmegebühr:</strong> CHF 30 inkl. Getränke und Verpflegung, exkl. Übernachtung</li>
-                <li><strong>Übernachtung:</strong> Untenstehend findest du eine Liste von Hotels in der Nähe. Es besteht jedoch auch die Möglichkeit, in der Techfabrik zu übernachten.</li>
+                <li><strong>Teilnahmegebühr:</strong> kostenlos</li>
+                <li><strong>Übernachtung:</strong> Untenstehend findest du eine Liste von Hotels in der Nähe.</li>
             </ul>
 
             <ul>
